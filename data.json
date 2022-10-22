@@ -5,7 +5,7 @@
       "musique": [
         {
           "type": "Opening",
-          "numero": "1",
+          "numero": 1,
           "nom": "Nameless Story",
           "artiste": "Takuma Terashima"
         }

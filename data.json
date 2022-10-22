@@ -8,6 +8,12 @@
           "numero": 1,
           "nom": "Nameless Story",
           "artiste": "Takuma Terashima"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Meguru Mono",
+          "artiste": "Takuma Terashima"
         }
       ]
     },

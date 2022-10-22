@@ -13,7 +13,7 @@ function data(nom_fic)
                             items.push("<td>" + val[i].nom + "</td>");
                             items.push("<td>" + val[i].artiste + "</td>");
                         }
-                        else items.push("<td>" + val + "</td>");
+                        else if (key=="nom") items.push("<td>" + val + "</td>");
                     });
                     items.push("</tr>");
                 }

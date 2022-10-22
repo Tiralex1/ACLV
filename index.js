@@ -3,12 +3,9 @@ function data(nom_fic)
     $.getJSON(nom_fic, function (data) {
         var items = [];
         $.each(data, function (key, val) {
+            var i = 0;
             items.push("<tr id='" + key + "'>");
-            $.each(val, function (key, val2) {
-                $.each(val2, function (key, val3) {
-                    items.push("<td id='" + key + "'>" + val3 + "</td>");
-                });
-            });
+            while (val[i] != null) { items.push("<td>" + val[i].nom + "</td>"); i++; }
             items.push("</tr>");
         });
 

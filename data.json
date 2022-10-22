@@ -32,7 +32,7 @@
     },
     {
       "nom": "Tomodachi Game",
-      "nb_musique": 0,
+      "nb_musique": 1,
       "musique": [
         {
           "type": "Opening",

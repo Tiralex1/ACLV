@@ -1,7 +1,15 @@
 {
   "anime" : [
     {
-      "nom": "Tensei Shitara Slime Datta Ken"
+      "nom": "Tensei Shitara Slime Datta Ken",
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": "1",
+          "nom": "Nameless Story",
+          "artiste": "Takuma Terashima"
+        }
+      ]
     },
     {
       "nom": ""

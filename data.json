@@ -15,14 +15,36 @@
           "numero": 2,
           "nom": "Meguru Mono",
           "artiste": "Takuma Terashima"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Another colony",
+          "artiste": "TRUE"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Little Soldier",
+          "artiste": "Azusa Tadokoro"
         }
       ]
     },
     {
-      "nom": ""
+      "nom": "Tomodachi Game",
+      "nb_musique": 0,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Double Shuffle",
+          "artiste": "Nana Mizuki"
+        }
+      ]
     },
     {
-      "nom": ""
+      "nom": "",
+      "nb_musique": 0
     }
   ]
 }

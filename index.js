@@ -7,7 +7,7 @@ function data(nom_fic)
             while (val[i] != null) {
                 items.push("<tr id='" + i + "'>");
                 var j = 0;
-                while (val[i].musique[j] != null) { 
+                while ((val[i].musique)[j] != null) { 
                     items.push("<td id='nom_anime'>" + val[i].nom + "</td>");
                     items.push("<td id='type'>" + val[i].musique[j].type + "</td>");
                     items.push("<td id='numero'>" + val[i].musique[j].numero + "</td>");

@@ -3,11 +3,11 @@ function data(nom_fic)
     $.getJSON(nom_fic, function (data) {
         var items = [];
         $.each(data, function (key, val) {
-            items.push("<li id='" + key + "'>" + val + "</li>");
+            items.push("<tr id='" + key + "'>" + val + "</tr>");
         });
 
-        $("<ul/>", {
-            "class": "my-new-list",
+        $("<table/>", {
+            "class": "AnimeMusicList",
             html: items.join("")
         }).appendTo("body");
     });

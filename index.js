@@ -7,7 +7,9 @@ function data(nom_fic)
                 items.push("<tr id='" + key + "'>");
                 $.each(val, function (key, val) {
                     if (key == "musique") {
-                        items.push("<td>" + val[j].type + "</td>");
+                        $.each(val, function (key, val) {
+                            items.push("<td>" + val.type + "</td>");
+                        });
                     }
                     else items.push("<td>" + val + "</td>");
                 });

@@ -4,18 +4,23 @@ function data(nom_fic)
         var items = [];
         $.each(data, function (key, val) {
             $.each(val, function (key, val) {
-                items.push("<tr id='" + key + "'>");
-                $.each(val, function (key, val) {
-                    if (key == "musique") {
-                        $.each(val, function (key, val) {
-                            $.each(val, function (key, val) {
-                                items.push("<td id='>" + key + "'>" + val + "</td>");
-                            });
-                        });
-                    }
-                    else items.push("<td>" + val + "</td>");
-                });
-                items.push("</tr>");
+                var i = val.nb_musique;
+                while (i != -1) {
+                    items.push("<tr id='" + key + "'>");
+                    $.each(val, function (key, val) {
+                        if (key == "musique") {
+                            if (val[i] == null) i = -1;
+                            else {
+                                items.push("<td>" + val[i].type + "</td>");
+                                items.push("<td>" + val[i].numero + "</td>");
+                                items.push("<td>" + val[i].nom + "</td>");
+                                items.push("<td>" + val[i].artiste + "</td>");
+                            }
+                        }
+                        else items.push("<td>" + val + "</td>");
+                    });
+                    items.push("</tr>");
+                }
             });
         });
 

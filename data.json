@@ -2,6 +2,7 @@
   "anime" : [
     {
       "nom": "Tensei Shitara Slime Datta Ken",
+      "nb_musique" : 2,
       "musique": [
         {
           "type": "Opening",

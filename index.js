@@ -15,7 +15,6 @@ function data(nom_fic)
                     j++;
                 }
                 items.push("</tr>");
-                i++;
             });
         });
 

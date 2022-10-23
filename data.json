@@ -2,48 +2,56 @@
   "anime" : [
     {
       "nom": "Tensei Shitara Slime Datta Ken",
+      "id" : 0,
       "nb_musique" : 4,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
           "nom": "Nameless Story",
-          "artiste": "Takuma Terashima"
+          "artiste": "Takuma Terashima",
+          "lien": "https://nl.catbox.moe/4ma7hc.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "Meguru Mono",
-          "artiste": "Takuma Terashima"
+          "artiste": "Takuma Terashima",
+          "lien": "https://nl.catbox.moe/q34viu.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Another colony",
-          "artiste": "TRUE"
+          "artiste": "TRUE",
+          "lien": "https://nl.catbox.moe/rur45k.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Little Soldier",
-          "artiste": "Azusa Tadokoro"
+          "artiste": "Azusa Tadokoro",
+          "lien": "https://nl.catbox.moe/3wezd6.webm"
         }
       ]
     },
     {
       "nom": "Tomodachi Game",
+      "id" : 0,
       "nb_musique": 1,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
           "nom": "Double Shuffle",
-          "artiste": "Nana Mizuki"
+          "artiste": "Nana Mizuki",
+          "lien": ""
         }
       ]
     },
     {
       "nom": "",
+      "id": 0, 
       "nb_musique": 0
     }
   ]

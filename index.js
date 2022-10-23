@@ -12,6 +12,8 @@ function data(nom_fic)
                             items.push("<td>" + val[i].numero + "</td>");
                             items.push("<td>" + val[i].nom + "</td>");
                             items.push("<td>" + val[i].artiste + "</td>");
+                            if (val[i].lien != "") items.push("<td><a href='" + val[i].lien + "'>Lien</td>");
+                            else items.push("<td>Lien</td>");
                         }
                         else if (key=="nom") items.push("<td>" + val + "</td>");
                     });

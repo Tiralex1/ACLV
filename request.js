@@ -1,5 +1,6 @@
+import { writeFileSync } from 'fs';
+
 function ajout() {
-    const fs = require('fs');
     var anime = {
         "nom": "Tokyo Ghoul",
         "type": "OP",
@@ -7,5 +8,5 @@ function ajout() {
     }
 
     var donnees = JSON.stringify(anime);
-    fs.writeFileSync('data.json', donnees);
+    writeFileSync('data.json', donnees);
 }

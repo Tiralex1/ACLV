@@ -70,6 +70,10 @@ function affich() {
 data(nomfic);
 
 console.log(tab_anime);
+console.log(tab_anime.toString())
+$.each(tab_anime, function (index, value) {
+    console.log(value);
+});
 tab_anime.forEach(element => console.log(element));
 
 affich();

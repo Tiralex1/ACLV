@@ -4,7 +4,7 @@ function data(nom_fic)
         var items = [];
         $.each(data, function (key, val) {
             $.each(val, function (key, val) {
-                items.push("<tr><td>" + val.nom + "</td></tr>");
+                items.push("<tr><td colspan='6'>" + val.nom + "</td></tr>");
                 for (var i = 0; i < val.nb_musique; ++i) {
                     items.push("<tr id='" + key + "'>");
                     $.each(val, function (key, val) {

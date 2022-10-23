@@ -3,13 +3,13 @@ let nomfic = "data.json"
 let nb_anime = 2;
 let nb_musique = 6;
 
-let tab_anime = [];
 let tab_musique = [];
 
 function data(nom_fic)
 {
     var k = 0;
     var l = 0;
+    var tab_anime = [];
     $.getJSON(nom_fic, function (data) {
         $.each(data, function (key, val) {
             if (key == "anime") {
@@ -70,8 +70,5 @@ function affich() {
 
 data(nomfic);
 
-console.log(tab_anime);
-console.log(tab_anime[0][0]);
-
-affich();
+//affich();
 

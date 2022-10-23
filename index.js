@@ -18,6 +18,7 @@ function data(nom_fic)
                     tab_anime[j][3] = k;
                     j++;
                     k += val.nb_musique;
+                    console.log(tab_anime);
                     if (bg == "red") bg = "green";
                     else bg = "red";
                     items.push("<tr class='grey'><td colspan='6'>" + val.nom + "</td></tr>");

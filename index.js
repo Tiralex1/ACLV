@@ -19,7 +19,6 @@ function data(nom_fic)
                     tab_anim.push(val.id);
                     tab_anim.push(val.nb_musique);
                     tab_anim.push(k);
-                    console.log(tab_anim);
                     tab_anime.push(tab_anim);
                     console.log(tab_anime[0][0]);
                     k += val.nb_musique;
@@ -71,11 +70,6 @@ function affich() {
 data(nomfic);
 
 console.log(tab_anime);
-console.log(tab_anime.toString())
-$.each(tab_anime, function (index, value) {
-    console.log(index);
-    console.log(value);
-});
 
 affich();
 

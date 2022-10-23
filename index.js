@@ -4,6 +4,7 @@ function data(nom_fic)
 {
     var j = 0;
     var k = 0;
+    var tab_anime, tab_musique;
     $.getJSON(nom_fic, function (data) {
         var items = [];
         var bg = "red";
@@ -46,7 +47,13 @@ function data(nom_fic)
         }).appendTo("body");
     });
     console.log(tab_anime);
+    var tab = new Array(2);
+    tab[0] = tab_anime;
+    tab[1] = tab_musique;
+    return tab;
 }
 
-data("data.json");
-
+var tab = data("data.json");
+tab_anime = tab[0];
+tab_musique = tab[1];
+console.log(tab_anime);

@@ -11,7 +11,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         );
         $data->anime[]=$extra;
         echo "data exist";
-        return json_encode($array_data);    
+        return json_encode($data);    
     }
       
     if(file_put_contents("data.json", get_data())) {

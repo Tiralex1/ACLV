@@ -6,8 +6,8 @@ function data(nom_fic)
     $.getJSON(nom_fic, function (data) {
         var items = [];
         var bg = "red";
+        tab_anime = new Array(data.nb_anime);
         $.each(data, function (key, val) {
-            if (key == "nb_anime") tab_anime = new Array(val);
             if (key == "anime") {
                 $.each(val, function (key, val) {
                     tab_anime[j] = new Array(4);

@@ -11,14 +11,14 @@ table {
     border-collapse : collapse ;
 }
 
-.grey td{
+.grey>td{
     background-color : grey;
 }
 
-.red td{
+.red>td{
     background-color : red;
 }
 
-.green td{
+.green>td{
     background-color : green;
 }

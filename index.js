@@ -2,14 +2,14 @@ function data(nom_fic)
 {
     var j = 0;
     var k = 0;
-    let tab_anime, tab_musique;
-    $.getJSON(nom_fic, function (data) {
+    var tab_anime, tab_musique;
+    $.getJSON(nom_fic, tab_anime=function (data) {
         var items = [];
         var bg = "red";
         tab_anime = new Array(data.nb_anime);
         $.each(data, function (key, val) {
             if (key == "anime") {
-                $.each(val, function (key, val) {
+                $.each(val, tab_anime=function (key, val) {
                     tab_anime[j] = new Array(4);
                     tab_anime[j][0] = val.nom;
                     tab_anime[j][1] = val.id;

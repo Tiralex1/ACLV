@@ -76,5 +76,7 @@ function affich() {
 data(nomfic);
 affich();
 console.log(typeof (tab_anime[0][0]));
+console.log(typeof (tab_anime[0]));
+console.log(tab_anime[0]);
 console.log(tab_anime);
 console.log(tab_musique);

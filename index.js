@@ -1,6 +1,6 @@
 let nomfic = "data.json"
 
-let nb_anime = 3;
+let nb_anime = 2;
 let nb_musique = 6;
 
 let tab_anime = new Array(nb_anime);

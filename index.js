@@ -10,7 +10,8 @@ function data(nom_fic)
                     $.each(val, function (key, val) {
                         if (key == "musique") {
                             items.push("<td>" + val[i].type + "</td>");
-                            items.push("<td>" + val[i].numero + "</td>");
+                            if (val[i].numero != 0) items.push("<td>" + val[i].numero + "</td>");
+                            else items.push("<td></td>");
                             items.push("<td>" + val[i].nom + "</td>");
                             items.push("<td>" + val[i].artiste + "</td>");
                             if (val[i].lien != "") items.push("<td><a href='" + val[i].lien + "' target='_blank'>Lien</td>");

@@ -69,6 +69,7 @@ function affich() {
 
 data(nomfic);
 
+console.log(tab_anime);
 tab_anime.forEach(element => console.log(element));
 
 affich();

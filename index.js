@@ -19,7 +19,6 @@ function data(nom_fic)
                 }
             });
         });
-
         $("<table/>", {
             "class": "AnimeMusicList",
             html: items.join("")

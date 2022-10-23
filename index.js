@@ -58,7 +58,6 @@ function data(nom_fic)
                 });
             }
         });
-        items.push("<td>" + tab_anime + "</td>");
         $("<table/>", {
             "class": "AnimeMusicList",
             html: items.join("")
@@ -93,5 +92,9 @@ function affich() {
 }
 
 data(nomfic);
+
+var json = JSON.stringify(tab_anime);
+
 console.log(tab_anime);
 console.log(tab_musique);
+console.log(json);

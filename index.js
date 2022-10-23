@@ -1,5 +1,3 @@
-let tab_anime, tab_musique;
-
 function data(nom_fic)
 {
     var j = 0;
@@ -54,6 +52,4 @@ function data(nom_fic)
 }
 
 var tab = data("data.json");
-tab_anime = tab[0];
-tab_musique = tab[1];
-console.log(tab_anime);
+console.log(tab[0]);

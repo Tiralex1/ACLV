@@ -1,10 +1,7 @@
 let nomfic = "data.json"
 
 function nb_anime_search(nom_fic) {
-    var nb_anime = 0;
-    $.getJSON(nom_fic, function (key, val) {
-        if (key == "nb_anime") nb_anime = val;
-    });
+    var nb_anime = 3;
     return nb_anime;
 }
 

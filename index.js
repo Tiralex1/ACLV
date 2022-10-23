@@ -19,7 +19,9 @@ function data(nom_fic)
                     tab_anim.push(val.id);
                     tab_anim.push(val.nb_musique);
                     tab_anim.push(k);
+                    console.log(tab_anim);
                     tab_anime.push(tab_anim);
+                    console.log(tab_anime[0][0]);
                     k += val.nb_musique;
                     for (var i = 0; i < val.nb_musique; ++i) {
                         $.each(val, function (key, val) {

@@ -2,3 +2,7 @@ td {
     text-align : center;
     padding : 20px ;
 }
+
+table {
+    border : black solid 2px ;
+}

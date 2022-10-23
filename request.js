@@ -1,6 +1,5 @@
-const fs = require('fs');
-
 function ajout() {
+    const fs = require('fs');
     var anime = {
         "nom": "Tokyo Ghoul",
         "type": "OP",

@@ -1,23 +1,27 @@
+let nb_anime = 3;
+
+let tab_anime = new Array(nb_anime);
+for (var i = 0; i < tab_anime.length; ++i) {
+    tab_anime[i] = new Array(4);
+}
+let tab_musique;
+
 function data(nom_fic)
 {
     var j = 0;
     var k = 0;
-    var tab_anime, tab_musique;
-    $.getJSON(nom_fic, tab_anime=function (data) {
+    $.getJSON(nom_fic, function (data) {
         var items = [];
         var bg = "red";
-        tab_anime = new Array(data.nb_anime);
         $.each(data, function (key, val) {
             if (key == "anime") {
-                $.each(val, tab_anime=function (key, val) {
-                    tab_anime[j] = new Array(4);
+                $.each(val, function (key, val) {
                     tab_anime[j][0] = val.nom;
                     tab_anime[j][1] = val.id;
                     tab_anime[j][2] = val.nb_musique;
                     tab_anime[j][3] = k;
                     j++;
                     k += val.nb_musique;
-                    console.log(tab_anime);
                     if (bg == "red") bg = "green";
                     else bg = "red";
                     items.push("<tr class='grey'><td colspan='6'>" + val.nom + "</td></tr>");
@@ -37,10 +41,8 @@ function data(nom_fic)
                         });
                         items.push("</tr>");
                     }
-                    return tab_anime;
                 });
             }
-            return tab_anime;
         });
         $("<table/>", {
             "class": "AnimeMusicList",
@@ -48,11 +50,7 @@ function data(nom_fic)
         }).appendTo("body");
     });
     console.log(tab_anime);
-    var tab = new Array(2);
-    tab[0] = tab_anime;
-    tab[1] = tab_musique;
-    return tab;
 }
 
-var tab = data("data.json");
-console.log(tab[0]);
+data("data.json");
+console.log(tab_anime);

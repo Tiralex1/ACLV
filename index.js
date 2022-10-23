@@ -20,6 +20,7 @@ function data(nom_fic)
     var l = 0;
     $.getJSON(nom_fic, function (data) {
         var items = [];
+        tab_anime[0][0] = "tensura";
         var bg = "red";
         $.each(data, function (key, val) {
             if (key == "anime") {
@@ -63,6 +64,7 @@ function data(nom_fic)
             html: items.join("")
         }).appendTo("body");
     });
+    console.log(tab_anime[0][0]);
 }
 
 function affich() {

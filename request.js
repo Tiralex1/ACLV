@@ -1,4 +1,4 @@
-import { writeFileSync } from 'fs';
+import * as fs from 'fs';
 
 function ajout() {
     var anime = {
@@ -8,5 +8,5 @@ function ajout() {
     }
 
     var donnees = JSON.stringify(anime);
-    writeFileSync('data.json', donnees);
+    fs.writeFileSync('data.json', donnees);
 }

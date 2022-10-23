@@ -2,11 +2,14 @@ function data(nom_fic)
 {
     $.getJSON(nom_fic, function (data) {
         var items = [];
+        var bg = "red";
         $.each(data, function (key, val) {
             $.each(val, function (key, val) {
-                items.push("<tr><td colspan='6'>" + val.nom + "</td></tr>");
+                if (bg == "red") bg = "green";
+                else bg = "red";
+                items.push("<tr><td colspan='6' class='grey'>" + val.nom + "</td></tr>");
                 for (var i = 0; i < val.nb_musique; ++i) {
-                    items.push("<tr id='" + key + "'>");
+                    items.push("<tr class=" + bg + ">");
                     $.each(val, function (key, val) {
                         if (key == "musique") {
                             items.push("<td>" + val[i].type + "</td>");

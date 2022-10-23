@@ -1,9 +1,8 @@
-let tab_anime, tab_musique;
-
 function data(nom_fic)
 {
     var j = 0;
     var k = 0;
+    var tab_anime, tab_musique;
     $.getJSON(nom_fic, function (data) {
         var items = [];
         var bg = "red";
@@ -46,8 +45,8 @@ function data(nom_fic)
             html: items.join("")
         }).appendTo("body");
     });
+    console.log(tab_anime);
 }
 
 data("data.json");
 
-console.log(tab_anime);

@@ -8,7 +8,7 @@ for (var i = 0; i < tab_anime.length; ++i) {
     tab_anime[i] = new Array(4);
 }
 let tab_musique = new Array(nb_musique);
-for (var i = 0; i < tab_anime.length; ++i) {
+for (var i = 0; i < tab_musique.length; ++i) {
     tab_musique[i] = new Array(5);
 }
 

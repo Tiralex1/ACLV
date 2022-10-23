@@ -70,6 +70,7 @@ function affich() {
 data(nomfic);
 
 console.log(tab_anime);
+console.log(tab_anime[0][0]);
 
 affich();
 

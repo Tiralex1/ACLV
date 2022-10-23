@@ -68,11 +68,8 @@ function affich() {
 }
 
 data(nomfic);
-console.log(typeof(tab_anime));
-console.log(tab_anime);
-console.log(tab_musique);
-console.log(typeof (tab_anime[0]));
-console.log(tab_anime[0]);
-console.log(typeof (tab_anime[0][0]));
+
+tab_anime.forEach(element => console.log(element));
+
 affich();
 

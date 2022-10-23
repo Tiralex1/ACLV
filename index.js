@@ -7,7 +7,7 @@ function data(nom_fic)
             $.each(val, function (key, val) {
                 if (bg == "red") bg = "green";
                 else bg = "red";
-                items.push("<tr><td colspan='6' class='grey'>" + val.nom + "</td></tr>");
+                items.push("<tr class='grey'><td colspan='6'>" + val.nom + "</td></tr>");
                 for (var i = 0; i < val.nb_musique; ++i) {
                     items.push("<tr class=" + bg + ">");
                     $.each(val, function (key, val) {

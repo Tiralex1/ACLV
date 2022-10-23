@@ -19,6 +19,9 @@ function data(nom_fic)
     var j = 0;
     var k = 0;
     var l = 0;
+    $.ajaxSetup({
+        async: false
+    });
     $.getJSON(nom_fic, function (data) {
         var items = [];
         var bg = "red";

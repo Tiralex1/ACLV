@@ -46,7 +46,7 @@ function data(nom_fic)
     });
 }
 
-function affich() {
+function affich(tab_anime, tab_musique) {
     var items = [];
     var bg = "red";
     for (var i = 0; i < tab_anime.length; ++i) {
@@ -74,6 +74,6 @@ function affich() {
 }
 
 data(nomfic);
-affich();
+affich(tab_anime, tab_musique);
 console.log(tab_anime);
 console.log(tab_musique);

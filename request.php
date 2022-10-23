@@ -1,13 +1,13 @@
 <?php
        
-if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+if ($_SERVER['REQUEST_METHOD'] == 'GET') {
                    
     function get_data() {
         $current_data=file_get_contents("data.json");
         $data=json_decode($current_data, true);
                            
         $extra=array(
-            'nom' => $_POST['nom-anime'],
+            'nom' => $_GET['nom-anime'],
         );
         $data->anime[]=$extra;
         echo "data exist";

@@ -8,19 +8,18 @@ let tab_musique = [];
 
 function data(nom_fic)
 {
-    var j = 0;
     var k = 0;
     var l = 0;
     $.getJSON(nom_fic, function (data) {
         $.each(data, function (key, val) {
             if (key == "anime") {
                 $.each(val, function (key, val) {
-                    tab_anime.push([]);
-                    tab_anime[j].push(val.nom);
-                    tab_anime[j].push(val.id);
-                    tab_anime[j].push(val.nb_musique);
-                    tab_anime[j].push(k);
-                    j++;
+                    var tab_anim = [];
+                    tab_anim.push(val.nom);
+                    tab_anim.push(val.id);
+                    tab_anim.push(val.nb_musique);
+                    tab_anim.push(k);
+                    tab_anime.push(tab_anim);
                     k += val.nb_musique;
                     for (var i = 0; i < val.nb_musique; ++i) {
                         $.each(val, function (key, val) {

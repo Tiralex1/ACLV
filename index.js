@@ -11,9 +11,9 @@ function data(nom_fic)
     var l = 0;
     var tab_anime = [];
     $.getJSON(nom_fic, function (data) {
-        $.each(data, function (key, val) {
+        for (const [key, val] of data.entries()) {
             if (key == "anime") {
-                $.each(val, function (key, val) {
+                for (const [key, val] of val.entries()) {
                     var tab_anim = [];
                     tab_anim.push(val.nom);
                     tab_anim.push(val.id);

@@ -1,9 +1,10 @@
 {
-  "anime" : [
+  "nb_anime" : 3,
+  "anime": [
     {
       "nom": "Tensei Shitara Slime Datta Ken",
-      "id" : 0,
-      "nb_musique" : 5,
+      "id": 0,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -44,7 +45,7 @@
     },
     {
       "nom": "Tomodachi Game",
-      "id" : 0,
+      "id": 0,
       "nb_musique": 1,
       "musique": [
         {
@@ -58,7 +59,7 @@
     },
     {
       "nom": "",
-      "id": 0, 
+      "id": 0,
       "nb_musique": 0
     }
   ]

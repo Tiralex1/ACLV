@@ -17,6 +17,7 @@ function data(nom_fic)
 {
     var j = 0;
     var k = 0;
+    var l = 0;
     $.getJSON(nom_fic, function (data) {
         var items = [];
         var bg = "red";
@@ -36,6 +37,12 @@ function data(nom_fic)
                         items.push("<tr class=" + bg + ">");
                         $.each(val, function (key, val) {
                             if (key == "musique") {
+                                tab_musique[l][0] = val[i].type;
+                                tab_musique[l][1] = val[i].numero;
+                                tab_musique[l][2] = val[i].nom;
+                                tab_musique[l][3] = val[i].artiste;
+                                tab_musique[l][4] = val[i].lien;
+                                l++;
                                 items.push("<td>" + val[i].type + "</td>");
                                 if (val[i].numero != 0) items.push("<td>" + val[i].numero + "</td>");
                                 else items.push("<td></td>");
@@ -56,8 +63,8 @@ function data(nom_fic)
             html: items.join("")
         }).appendTo("body");
     });
-    console.log(tab_anime);
 }
 
 data(nomfic);
 console.log(tab_anime);
+console.log(tab_musique);

@@ -66,8 +66,10 @@ function data(nom_fic)
             "class": "AnimeMusicList",
             html: items.join("")
         }).appendTo("body");
+        console.log(tab[0][0][0]);
         return tab;
     });
+    console.log(tab[0][0][0]);
 }
 
 function affich() {

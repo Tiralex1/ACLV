@@ -3,8 +3,8 @@ let nomfic = "data.json"
 let nb_anime = 2;
 let nb_musique = 6;
 
-let tab_anime = [[]];
-let tab_musique = [[]];
+let tab_anime = [];
+let tab_musique = [];
 
 function data(nom_fic)
 {

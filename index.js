@@ -1,6 +1,14 @@
-let nb_anime = 3;
+let nomfic = "data.json"
 
-let tab_anime = new Array(nb_anime);
+function nb_anime_search(nom_fic) {
+    var nb_anime = 0;
+    $.getJSON(nom_fic, function (key, val) {
+        if (key == "nb_anime") nb_anime = val;
+    });
+    return nb_anime;
+}
+
+let tab_anime = new Array(nb_anime_search(nomfic));
 for (var i = 0; i < tab_anime.length; ++i) {
     tab_anime[i] = new Array(4);
 }
@@ -52,5 +60,5 @@ function data(nom_fic)
     console.log(tab_anime);
 }
 
-data("data.json");
+data(nomfic);
 console.log(tab_anime);

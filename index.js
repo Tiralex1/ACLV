@@ -8,11 +8,23 @@ function nb_anime_search(nom_fic) {
     return nb_anime;
 }
 
+function nb_musique_search(nom_fic) {
+    var nb_music = 0;
+    $.getJSON(nom_fic, function (key, val) {
+        if (key == "nb_musique") nb_music = val;
+    });
+    return nb_music;
+}
+
 let tab_anime = new Array(nb_anime_search(nomfic));
 for (var i = 0; i < tab_anime.length; ++i) {
     tab_anime[i] = new Array(4);
 }
-let tab_musique;
+let tab_musique = new Array(nb_musique_search(nomfic));
+for (var i = 0; i < tab_anime.length; ++i) {
+    tab_musique[i] = new Array(5);
+}
+
 
 function data(nom_fic)
 {

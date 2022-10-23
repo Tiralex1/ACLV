@@ -1,23 +1,13 @@
 let nomfic = "data.json"
 
-function nb_anime_search(nom_fic) {
-    var nb_anime = 3;
-    return nb_anime;
-}
+let nb_anime = 3;
+let nb_musique = 6;
 
-function nb_musique_search(nom_fic) {
-    var nb_music = 0;
-    $.getJSON(nom_fic, function (key, val) {
-        if (key == "nb_musique") nb_music = val;
-    });
-    return nb_music;
-}
-
-let tab_anime = new Array(nb_anime_search(nomfic));
+let tab_anime = new Array(nb_anime);
 for (var i = 0; i < tab_anime.length; ++i) {
     tab_anime[i] = new Array(4);
 }
-let tab_musique = new Array(nb_musique_search(nomfic));
+let tab_musique = new Array(nb_musique);
 for (var i = 0; i < tab_anime.length; ++i) {
     tab_musique[i] = new Array(5);
 }

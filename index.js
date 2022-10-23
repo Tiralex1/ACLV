@@ -66,6 +66,7 @@ function affich() {
             items.push("</tr>");
         }
     }
+    console.log(items);
     $("<table/>", {
         "class": "AnimeMusicList",
         html: items.join("")

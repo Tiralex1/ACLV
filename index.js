@@ -3,15 +3,8 @@ let nomfic = "data.json"
 let nb_anime = 2;
 let nb_musique = 6;
 
-let tab_anime = new Array(nb_anime);
-for (var i = 0; i < tab_anime.length; ++i) {
-    tab_anime[i] = new Array(4);
-}
-let tab_musique = new Array(nb_musique);
-for (var i = 0; i < tab_musique.length; ++i) {
-    tab_musique[i] = new Array(5);
-}
-
+let tab_anime = [];
+let tab_musique = [];
 
 function data(nom_fic)
 {
@@ -22,20 +15,22 @@ function data(nom_fic)
         $.each(data, function (key, val) {
             if (key == "anime") {
                 $.each(val, function (key, val) {
-                    tab_anime[j][0] = val.nom;
-                    tab_anime[j][1] = val.id;
-                    tab_anime[j][2] = val.nb_musique;
-                    tab_anime[j][3] = k;
+                    tab_anime.push([]);
+                    tab_anime[j].push(val.nom);
+                    tab_anime[j].push(val.id);
+                    tab_anime[j].push(val.nb_musique);
+                    tab_anime[j].push(k);
                     j++;
                     k += val.nb_musique;
                     for (var i = 0; i < val.nb_musique; ++i) {
                         $.each(val, function (key, val) {
                             if (key == "musique") {
-                                tab_musique[l][0] = val[i].type;
-                                tab_musique[l][1] = val[i].numero;
-                                tab_musique[l][2] = val[i].nom;
-                                tab_musique[l][3] = val[i].artiste;
-                                tab_musique[l][4] = val[i].lien;
+                                tab_musique.push([]);
+                                tab_musique[l].push(val[i].type);
+                                tab_musique[l].push(val[i].numero);
+                                tab_musique[l].push(val[i].nom);
+                                tab_musique[l].push(val[i].artiste);
+                                tab_musique[l].push(val[i].lien);
                                 l++;
                             }
                         });

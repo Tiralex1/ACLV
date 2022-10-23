@@ -64,7 +64,7 @@ function affich(tab_anime, tab_musique) {
         if (bg == "red") bg = "green";
         else bg = "red";
         items.push("<tr class='grey'><td colspan='6'>" + tab_anime[i][0] + "</td></tr>");
-        for (var j = tab_anime[i][3]; j < tab_anime[i][2]; ++j) {
+        for (var j = tab_anime[i][3]; j < tab_anime[i][2] + tab_anime[i][3]; ++j) {
             items.push("<tr class=" + bg + ">");
             items.push("<td>" + tab_anime[i][0] + "</td>");
             items.push("<td>" + tab_musique[j][0] + "</td>");

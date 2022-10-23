@@ -12,6 +12,7 @@ for (var i = 0; i < tab_musique.length; ++i) {
     tab_musique[i] = new Array(5);
 }
 
+let tab = [tab_anime, tab_musique];
 
 function data(nom_fic)
 {
@@ -24,10 +25,10 @@ function data(nom_fic)
         $.each(data, function (key, val) {
             if (key == "anime") {
                 $.each(val, function (key, val) {
-                    tab_anime[j][0] = val.nom;
-                    tab_anime[j][1] = val.id;
-                    tab_anime[j][2] = val.nb_musique;
-                    tab_anime[j][3] = k;
+                    tab[0][j][0] = val.nom;
+                    tab[0][j][1] = val.id;
+                    tab[0][j][2] = val.nb_musique;
+                    tab[0][j][3] = k;
                     j++;
                     k += val.nb_musique;
                     if (bg == "red") bg = "green";
@@ -37,11 +38,11 @@ function data(nom_fic)
                         items.push("<tr class=" + bg + ">");
                         $.each(val, function (key, val) {
                             if (key == "musique") {
-                                tab_musique[l][0] = val[i].type;
-                                tab_musique[l][1] = val[i].numero;
-                                tab_musique[l][2] = val[i].nom;
-                                tab_musique[l][3] = val[i].artiste;
-                                tab_musique[l][4] = val[i].lien;
+                                tab[1][l][0] = val[i].type;
+                                tab[1][l][1] = val[i].numero;
+                                tab[1][l][2] = val[i].nom;
+                                tab[1][l][3] = val[i].artiste;
+                                tab[1][l][4] = val[i].lien;
                                 l++;
                                 items.push("<td>" + val[i].type + "</td>");
                                 if (val[i].numero != 0) items.push("<td>" + val[i].numero + "</td>");
@@ -52,20 +53,20 @@ function data(nom_fic)
                                 else items.push("<td>Lien</td>");
                             }
                             else if (key == "nom") items.push("<td>" + val + "</td>");
-                            return tab_musique;
+                            return tab;
                         });
                         items.push("</tr>");
                     }
-                    return tab_anime;
+                    return tab;
                 });
-                console.log(tab_anime[0][0]);
             }
-            return tab_anime;
+            return tab;
         });
         $("<table/>", {
             "class": "AnimeMusicList",
             html: items.join("")
         }).appendTo("body");
+        return tab;
     });
 }
 
@@ -97,8 +98,5 @@ function affich() {
 
 data(nomfic);
 
-var json = JSON.stringify(tab_anime);
-
-console.log(tab_anime);
-console.log(tab_musique);
-console.log(json);
+console.log(tab);
+console.log(tab[0][0][0]);

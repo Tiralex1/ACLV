@@ -39,6 +39,7 @@ function data(nom_fic)
         });
     });
     console.log(tab_anime);
+    console.log(tab_anime.join(""));
 }
 
 function affich() {

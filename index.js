@@ -8,6 +8,9 @@ var tab_musique = [];
 
 let tab = [tab_anime, tab_musique];
 
+const Red = "red";
+const Green = "green";
+
 function data(nom_fic)
 {
     var j = 0;
@@ -55,10 +58,10 @@ function data(nom_fic)
 
 function affich(tab_anime, tab_musique) {
     var items = [];
-    var bg = "red";
+    var bg = Red;
     for (var i = 0; i < tab_anime.length; ++i) {
-        if (bg == "red") bg = "green";
-        else bg = "red";
+        if (bg == Red) bg = Green;
+        else bg = Red;
         items.push("<tr class='grey'><td colspan='6'>" + tab_anime[i][0] + "</td></tr>");
         for (var j = tab_anime[i][3]; j < tab_anime[i][2] + tab_anime[i][3]; ++j) {
             items.push("<tr class=" + bg + ">");

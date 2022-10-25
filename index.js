@@ -3,14 +3,8 @@ let nomfic = "data.json"
 let nb_anime = 2;
 let nb_musique = 6;
 
-var tab_anime = new Array(nb_anime);
-for (var i = 0; i < tab_anime.length; ++i) {
-    tab_anime[i] = new Array(4);
-}
-var tab_musique = new Array(nb_musique);
-for (var i = 0; i < tab_musique.length; ++i) {
-    tab_musique[i] = new Array(5);
-}
+var tab_anime = [];
+var tab_musique = [];
 
 let tab = [tab_anime, tab_musique];
 
@@ -26,20 +20,22 @@ function data(nom_fic)
         $.each(data, function (key, val) {
             if (key == "anime") {
                 $.each(val, function (key, val) {
-                    tab[0][j][0] = val.nom;
-                    tab[0][j][1] = val.id;
-                    tab[0][j][2] = val.nb_musique;
-                    tab[0][j][3] = k;
+                    tab[0].push([]);
+                    tab[0][j].push(val.nom);
+                    tab[0][j].push(val.id);
+                    tab[0][j].push(val.nb_musique);
+                    tab[0][j].push(k);
                     j++;
                     k += val.nb_musique;
                     for (var i = 0; i < val.nb_musique; ++i) {
                         $.each(val, function (key, val) {
                             if (key == "musique") {
-                                tab[1][l][0] = val[i].type;
-                                tab[1][l][1] = val[i].numero;
-                                tab[1][l][2] = val[i].nom;
-                                tab[1][l][3] = val[i].artiste;
-                                tab[1][l][4] = val[i].lien;
+                                tab[1].push([]);
+                                tab[1][l].push(val[i].type);
+                                tab[1][l].push(val[i].numero);
+                                tab[1][l].push(val[i].nom);
+                                tab[1][l].push(val[i].artiste);
+                                tab[1][l].push(val[i].lien);
                                 l++;
                             }
                             return tab;

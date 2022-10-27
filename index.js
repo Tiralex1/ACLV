@@ -63,12 +63,7 @@ function affich(tab_anime, tab_musique) {
         if (bg == Red) bg = Green;
         else bg = Red;
         var bg_us = 'no-watch';
-        items.push("<tr><td class='grey' colspan='2'>" + tab_anime[i][0] + "</td>");
-        items.push("<td class=" + bg_us + ">A</td>");
-        items.push("<td class=" + bg_us + ">C</td>");
-        items.push("<td class=" + bg_us + ">L</td>");
-        items.push("<td class=" + bg_us + ">V</td>");
-        items.push("</tr>");
+        items.push("<tr><td class='grey' colspan='6'><div class='tete'><div class='un'>" + tab_anime[i][0] + "</div><div class='deux'>A</div><div class='trois'>C</div><div class='quatre'>L</div><div class='cinq'>V</div></div></td></tr>");
         for (var j = tab_anime[i][3]; j < tab_anime[i][2] + tab_anime[i][3]; ++j) {
             items.push("<tr class=" + bg + ">");
             items.push("<td>" + tab_anime[i][0] + "</td>");

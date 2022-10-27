@@ -25,3 +25,34 @@ table {
 .green>td{
     background-color : lightgreen;
 }
+
+.tete {
+    display : grid;
+    grid-template-columns : 12fr 1fr 1fr 1fr 1fr;
+    grid-template-rows : 1fr;
+}
+
+.un {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.deux {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.trois {
+    grid-column: 3;
+    grid-row: 1;
+}
+
+.quatre {
+    grid-column: 4;
+    grid-row: 1;
+}
+
+.cinq {
+    grid-column: 5;
+    grid-row: 1;
+}

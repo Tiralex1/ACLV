@@ -36,6 +36,7 @@ table {
 .un {
     grid-column: 1;
     grid-row: 1;
+    padding: 10px;
 }
 
 .deux {
@@ -44,6 +45,7 @@ table {
     border-width: 1px;
     border-style: solid;
     border-color: black;
+    padding: 10px;
 }
 
 .trois {
@@ -52,6 +54,7 @@ table {
     border-width: 1px;
     border-style: solid;
     border-color: black;
+    padding: 10px;
 }
 
 .quatre {
@@ -60,6 +63,7 @@ table {
     border-width: 1px;
     border-style: solid;
     border-color: black;
+    padding: 10px;
 }
 
 .cinq {
@@ -68,4 +72,5 @@ table {
     border-width: 1px;
     border-style: solid;
     border-color: black;
+    padding: 10px;
 }

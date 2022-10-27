@@ -62,7 +62,13 @@ function affich(tab_anime, tab_musique) {
     for (var i = 0; i < tab_anime.length; ++i) {
         if (bg == Red) bg = Green;
         else bg = Red;
-        items.push("<tr class='grey'><td colspan='6'>" + tab_anime[i][0] + "</td></tr>");
+        var bg_us = 'no-watch';
+        items.push("<tr><td class='grey' colspan='5'>" + tab_anime[i][0] + "</td>");
+        items.push("<td class=" + bg_us + ">A</td>");
+        items.push("<td class=" + bg_us + ">C</td>");
+        items.push("<td class=" + bg_us + ">L</td>");
+        items.push("<td class=" + bg_us + ">V</td>");
+        items.push("</tr>");
         for (var j = tab_anime[i][3]; j < tab_anime[i][2] + tab_anime[i][3]; ++j) {
             items.push("<tr class=" + bg + ">");
             items.push("<td>" + tab_anime[i][0] + "</td>");
@@ -70,7 +76,7 @@ function affich(tab_anime, tab_musique) {
             if (tab_musique[j][1] != 0) items.push("<td>" + tab_musique[j][1] + "</td>");
             else items.push("<td></td>");
             items.push("<td>" + tab_musique[j][2] + "</td>");
-            items.push("<td>" + tab_musique[j][3] + "</td>");
+            items.push("<td colspan='3'>" + tab_musique[j][3] + "</td>");
             if (tab_musique[j][4] != "") items.push("<td><a href='" + tab_musique[j][4] + "' target='_blank'>Lien</td>");
             else items.push("<td>Lien</td>");
             items.push("</tr>");

@@ -76,7 +76,7 @@ function affich(tab_anime, tab_musique) {
             if (tab_musique[j][1] != 0) items.push("<td>" + tab_musique[j][1] + "</td>");
             else items.push("<td></td>");
             items.push("<td>" + tab_musique[j][2] + "</td>");
-            items.push("<td colspan='4'>" + tab_musique[j][3] + "</td>");
+            items.push("<td colspan='5'>" + tab_musique[j][3] + "</td>");
             if (tab_musique[j][4] != "") items.push("<td><a href='" + tab_musique[j][4] + "' target='_blank'>Lien</td>");
             else items.push("<td>Lien</td>");
             items.push("</tr>");

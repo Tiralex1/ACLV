@@ -1,6 +1,6 @@
 {
   "nb_anime": 392,
-  "nb_musique": 1943,
+  "nb_musique": 1944,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -28,6 +28,14 @@
           "artiste": "Liyuu",
           "lien": "https://files.catbox.moe/b0ma24.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -48,6 +56,14 @@
           "nom": "HiDE the BLUE",
           "artiste": "BiSH",
           "lien": "https://nl.catbox.moe/1lsxm8.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -76,6 +92,14 @@
           "nom": "Daiji na Koto",
           "artiste": "Quruli",
           "lien": "https://nl.catbox.moe/zu3yc9.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -111,6 +135,14 @@
           "nom": "2/2",
           "artiste": "Ayaka Imamura & Ayaka Suwa",
           "lien": "https://nl.catbox.moe/ge3bcx.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -167,6 +199,14 @@
           "nom": "Illumination",
           "artiste": "Shuka Saitou",
           "lien": "https://nl.catbox.moe/c0gr59.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -230,6 +270,14 @@
           "nom": "Hana -a last flower- Ver.X",
           "artiste": "ASA-CHANG & Junray",
           "lien": "https://nl.catbox.moe/esyd2h.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -301,6 +349,14 @@
           "artiste": "Girls Dead Monster (LiSA)",
           "lien": "https://nl.catbox.moe/gfogq8.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -350,6 +406,14 @@
           "artiste": "REMEDIOS",
           "lien": "https://nl.catbox.moe/p1dzt3.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -370,6 +434,14 @@
           "nom": "anamnesis",
           "artiste": "Annabel",
           "lien": "https://nl.catbox.moe/vhp6xd.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -420,6 +492,14 @@
           "artiste": "Yuuki Takada",
           "lien": "https://nl.catbox.moe/uv8vck.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -454,6 +534,14 @@
           "nom": "Hello, shooting-star",
           "artiste": "moumoon",
           "lien": "https://nl.catbox.moe/vqprdg.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -511,6 +599,14 @@
           "artiste": "3-nen E-gumi",
           "lien": "https://nl.catbox.moe/tkfi0f.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -538,6 +634,14 @@
           "nom": "I will",
           "artiste": "Chelsy",
           "lien": "https://nl.catbox.moe/bgewn9.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -602,6 +706,14 @@
           "artiste": "Mika Kobayashi",
           "lien": "https://nl.catbox.moe/5v4dse.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -622,6 +734,14 @@
           "nom": "Gedou Sanka",
           "artiste": "FantasticYouth",
           "lien": "https://nl.catbox.moe/dx12ay.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -679,6 +799,14 @@
           "artiste": "Yuuki Kawahara",
           "lien": "https://nl.catbox.moe/pvumnr.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -700,6 +828,14 @@
           "artiste": "Hina Kino, Rika Nagae, Konomi Kohara feat. Ikepy & KSKN",
           "lien": "https://nl.catbox.moe/wq9pc3.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -720,6 +856,14 @@
           "nom": "Ijin-tachi no Jikan",
           "artiste": "Tomori Kusunoki",
           "lien": "https://nl.catbox.moe/5dmda8.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -748,6 +892,14 @@
           "nom": "Hare Tokidoki Egao",
           "artiste": "Hitomi Harada, Kaori Mizuhashi, Emiri Katō, Tomomi Isomura",
           "lien": "https://nl.catbox.moe/04wdnz.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -783,6 +935,14 @@
           "nom": "Hi-Ho!!",
           "artiste": "milktub",
           "lien": "https://nl.catbox.moe/q0nozl.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -889,6 +1049,14 @@
           "artiste": "Luna Goami",
           "lien": "https://nl.catbox.moe/9yrgqe.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -945,6 +1113,14 @@
           "artiste": "Chica",
           "lien": "https://nl.catbox.moe/3whvav.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -980,6 +1156,14 @@
           "artiste": "Chica",
           "lien": "https://nl.catbox.moe/s3vygh.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -1000,6 +1184,14 @@
           "nom": "Koi Boudou",
           "artiste": "HAPPY BIRTHDAY",
           "lien": "https://openings.moe/video/BinbougamiGa!-ED01-NCBD.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -1028,6 +1220,14 @@
           "nom": "Welcoming Days",
           "artiste": "Bishōnen Tanteidan",
           "lien": "https://nl.catbox.moe/9f6rku.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -1232,6 +1432,14 @@
           "artiste": "Megumi Han",
           "lien": "https://nl.catbox.moe/zqve7u.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -1253,6 +1461,14 @@
           "artiste": "Shugo Nakamura",
           "lien": "https://files.catbox.moe/7qbtr8.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -1273,6 +1489,14 @@
           "nom": "Sore wa Chiisa na Hikari no Yō na",
           "artiste": "Sayuri",
           "lien": "https://nl.catbox.moe/8mw5en.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -1301,6 +1525,14 @@
           "nom": "HERO A",
           "artiste": "Yuly",
           "lien": "https://nl.catbox.moe/bd2g7q.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -1344,6 +1576,14 @@
           "artiste": "Steven McNair",
           "lien": "https://nl.catbox.moe/7x2ice.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -1378,6 +1618,14 @@
           "nom": "Long Hope Philia (TV Limited)",
           "artiste": "Masaki Suda",
           "lien": "https://nl.catbox.moe/r7srdy.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -1435,6 +1683,14 @@
           "artiste": "Makayla Phillips",
           "lien": "https://nl.catbox.moe/f527w3.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -1477,6 +1733,14 @@
           "artiste": "Jonathan Underdown",
           "lien": "https://nl.catbox.moe/r6uzxb.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -1497,6 +1761,14 @@
           "nom": "SKETCH",
           "artiste": "Kiro Akiyama",
           "lien": "https://files.catbox.moe/potzli.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -1729,6 +2001,14 @@
           "artiste": "yaiba",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -1764,6 +2044,14 @@
           "artiste": "Maria Naganawa",
           "lien": "https://nl.catbox.moe/yauhnm.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -1792,12 +2080,20 @@
           "artiste": "Riria.",
           "lien": "https://nl.catbox.moe/gwho2d.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
       "nom": "Chainsaw Man",
       "id": 0,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -1819,6 +2115,21 @@
           "nom": "Zanki",
           "artiste": "Zutto Mayonaka de Iinoni.",
           "lien": "https://files.catbox.moe/i6cp3m.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Hawatari 2-oku Centi",
+          "artiste": "Maximum the Hormone",
+          "lien": "https://nl.catbox.moe/grzmyt.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -1925,6 +2236,14 @@
           "artiste": "ZHIEND",
           "lien": "https://nl.catbox.moe/wwx5tf.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -1945,6 +2264,14 @@
           "nom": "Mainichi Kashimashi Pharmacy",
           "artiste": "Risae Matsuda & Akane Kumada with Jun Fukushima",
           "lien": "https://nl.catbox.moe/wzw5tl.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -1981,6 +2308,14 @@
           "artiste": "ZAQ",
           "lien": "https://nl.catbox.moe/60h29c.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2001,6 +2336,14 @@
           "nom": "Van!shment Th!s World",
           "artiste": "Black Raison d'être",
           "lien": "https://nl.catbox.moe/zq1ux6.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -2037,6 +2380,14 @@
           "artiste": "ZAQ",
           "lien": "https://nl.catbox.moe/y4hy7k.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2065,6 +2416,14 @@
           "artiste": "Nana Mizuki",
           "lien": "https://nl.catbox.moe/jad154.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2085,6 +2444,14 @@
           "nom": "dear my distance",
           "artiste": "Akari Kitō",
           "lien": "https://nl.catbox.moe/qgfpub.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -2107,6 +2474,14 @@
           "artiste": "Taeko Ohnuki",
           "lien": "https://nl.catbox.moe/gc5zh5.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2127,6 +2502,14 @@
           "nom": "Dear Teardrop",
           "artiste": "Mia REGINA",
           "lien": "https://nl.catbox.moe/jzhwpt.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -2183,6 +2566,14 @@
           "nom": "Over",
           "artiste": "riya",
           "lien": "https://nl.catbox.moe/a1rky8.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -2254,6 +2645,14 @@
           "artiste": "riya",
           "lien": "https://nl.catbox.moe/sqnm5c.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2289,6 +2688,14 @@
           "artiste": "Fukuchi Kousaka Koutou Gakkou Zaikousei",
           "lien": "https://nl.catbox.moe/4h91d8.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2309,6 +2716,14 @@
           "nom": "Anticlockwise",
           "artiste": "After the Rain",
           "lien": "https://nl.catbox.moe/9nio65.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -2394,6 +2809,14 @@
           "artiste": "Claudia Vazquez",
           "lien": "https://nl.catbox.moe/ayifl7.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2422,6 +2845,14 @@
           "artiste": "Maaya Uchida",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2435,6 +2866,14 @@
           "nom": "Kimi to Boku no 1-nichi",
           "artiste": "Inori Minase",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -2464,6 +2903,14 @@
           "artiste": "Haruka Chisuga",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2477,6 +2924,14 @@
           "nom": "ever free",
           "artiste": "hide with Spread Beaver",
           "lien": "https://nl.catbox.moe/mcmhag.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -2498,6 +2953,14 @@
           "nom": "Recall THE END",
           "artiste": "TRUSTRICK",
           "lien": "https://nl.catbox.moe/577rp9.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -2526,6 +2989,14 @@
           "nom": "Tsubasa o Kudasai",
           "artiste": "Megumi Toyoguchi",
           "lien": "https://nl.catbox.moe/yd9ls4.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -2575,6 +3046,14 @@
           "nom": "Negaigoto Ensemble",
           "artiste": "Makiko Ohmoto",
           "lien": "https://nl.catbox.moe/a4a20r.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -2639,6 +3118,14 @@
           "artiste": "Marina Inoue",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2695,6 +3182,14 @@
           "artiste": "Marina Inoue, Saeko Zōgō",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2730,6 +3225,14 @@
           "artiste": "Minori Chihara",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2751,6 +3254,14 @@
           "artiste": "sweet ARMS",
           "lien": "https://nl.catbox.moe/c7taak.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2771,6 +3282,14 @@
           "nom": "Suki no Skill",
           "artiste": "Wake Up, Girls!",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -2814,6 +3333,14 @@
           "artiste": "Aya Hirano",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2835,6 +3362,14 @@
           "artiste": "NoisyCell",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2855,6 +3390,14 @@
           "nom": "Make Eve Jikkyou Play",
           "artiste": "15-sai to Seiko Oomori",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -2926,6 +3469,14 @@
           "artiste": "Takayoshi Tanimoto",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -2960,6 +3511,14 @@
           "nom": "Sono Saki e",
           "artiste": "Ayumi Miyazaki",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -3002,6 +3561,14 @@
           "nom": "First Riders",
           "artiste": "Masukura Yoshimasa",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -3129,6 +3696,14 @@
           "artiste": "Kouji Wada, AiM, Michihiko Ohta",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -3220,6 +3795,14 @@
           "artiste": "Kouji Wada",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -3261,6 +3844,14 @@
           "nom": "WE ARE Xros Heart! Ver.X7",
           "artiste": "Kouji Wada & Takayoshi Tanimoto & Ayumi Miyazaki",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -3311,6 +3902,14 @@
           "artiste": "Maaya Uchida",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -3359,6 +3958,14 @@
           "nom": "Yeah,My Teams Amazing!!",
           "artiste": "Aztech, Paranom & Kasper from Hybrid Thoughts",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -3423,6 +4030,14 @@
           "artiste": "Aztech, Paranom & Kasper from Hybrid Thoughts",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -3465,6 +4080,14 @@
           "artiste": "Humbreaders",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -3485,6 +4108,14 @@
           "nom": "Shizuka na Kaze",
           "artiste": "Non Stop Rabbit",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -3521,6 +4152,14 @@
           "artiste": "Yusuke Saeki",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -3556,6 +4195,14 @@
           "artiste": "Sayuri",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -3590,6 +4237,14 @@
           "nom": "Nounai",
           "artiste": "Lenny code fiction",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -3632,6 +4287,14 @@
           "nom": "Inferno",
           "artiste": "Mrs. GREEN APPLE",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -3864,6 +4527,14 @@
           "artiste": "Ryōko Ono",
           "lien": "https://nl.catbox.moe/45pj1y.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -3983,6 +4654,14 @@
           "artiste": "SOLIDEMO",
           "lien": "https://nl.catbox.moe/qhooa6.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4053,6 +4732,14 @@
           "artiste": "FUNKIST",
           "lien": "https://nl.catbox.moe/j0afjq.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4074,6 +4761,14 @@
           "artiste": "Luce Twinkle Wink☆",
           "lien": "https://nl.catbox.moe/v4rlx4.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4094,6 +4789,14 @@
           "nom": "MEMORIA",
           "artiste": "Eir Aoi",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4129,6 +4832,14 @@
           "nom": "the sword of promised victory ~Fate/Zero ver.",
           "artiste": "Eri Itou",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4171,6 +4882,14 @@
           "nom": "Umareru Negai",
           "artiste": "Uta Arii",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4221,6 +4940,14 @@
           "artiste": "Uta Arii",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4255,6 +4982,14 @@
           "nom": "Umareru Negai",
           "artiste": "Uta Arii",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4333,6 +5068,14 @@
           "artiste": "in NO hurry to shout;",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4361,6 +5104,14 @@
           "artiste": "Saori Ōnishi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4381,6 +5132,14 @@
           "nom": "Bokura ga Oroka da Nante Dare ga Itta",
           "artiste": "DIALOGUE+",
           "lien": "https://nl.catbox.moe/bncc2g.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4431,6 +5190,14 @@
           "artiste": "Gakuen Seikatsu-bu",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4458,6 +5225,14 @@
           "nom": "Koi no prologue*",
           "artiste": "Luce Twinkle Wink☆",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4487,6 +5262,14 @@
           "artiste": "Haruko Momoi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4507,6 +5290,14 @@
           "nom": "Itsudatte Communication",
           "artiste": "Hisako Kanemoto, Risa Taneda, Nao Tōyama",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4536,6 +5327,14 @@
           "artiste": "Remi",
           "lien": "https://nl.catbox.moe/vq63lm.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4563,6 +5362,14 @@
           "nom": "Imperial Anthem",
           "artiste": "Dai Ni Rei San Koukuu Madou Dai-tai",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4592,6 +5399,14 @@
           "artiste": "Minori Chihara",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4620,6 +5435,14 @@
           "artiste": "Minori Chihara",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4640,6 +5463,14 @@
           "nom": "Uraomote Fortune",
           "artiste": "Ari Ozawa",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4683,6 +5514,14 @@
           "artiste": "Mariko Higashiuchi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4703,6 +5542,14 @@
           "nom": "LIGHTS",
           "artiste": "Aimi",
           "lien": "https://nl.catbox.moe/qd1q3n.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4746,6 +5593,14 @@
           "artiste": "Mili",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4759,6 +5614,14 @@
           "nom": "Static",
           "artiste": "Mili",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4780,6 +5643,14 @@
           "nom": "Sekai ga Café ni Nacchatta!",
           "artiste": "Petit Rabbit's with beans",
           "lien": "https://nl.catbox.moe/2692nw.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4816,6 +5687,14 @@
           "artiste": "Inori Minase, Sora Tokui, Rie Murakawa, Suginami Jidou Gasshou-dan",
           "lien": "https://nl.catbox.moe/qh7d0s.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4843,6 +5722,14 @@
           "nom": "Nichijou Decoration",
           "artiste": "Petit Rabbit's",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4872,6 +5759,14 @@
           "artiste": "Petit Rabbit's",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4900,6 +5795,14 @@
           "artiste": "Petit Rabbit's",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4927,6 +5830,14 @@
           "nom": "ALAPU UPALA",
           "artiste": "Annette Philip",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -4970,6 +5881,14 @@
           "artiste": "Yui Horie",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -4997,6 +5916,14 @@
           "nom": "Gobun no Ichi",
           "artiste": "Nakano-ke no Itsutsugo",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -5026,6 +5953,14 @@
           "artiste": "Nakano-ke no Itsutsugo",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5054,6 +5989,14 @@
           "artiste": "Yasuo Sasai",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5074,6 +6017,14 @@
           "nom": "Ao",
           "artiste": "adieu",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -5109,6 +6060,14 @@
           "nom": "Shoudou",
           "artiste": "Mashiro Ayano",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -5236,6 +6195,14 @@
           "artiste": "Mika Kobayashi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5257,6 +6224,14 @@
           "artiste": "AKINO arai×AKINO from bless4",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5277,6 +6252,14 @@
           "nom": "Ai no Sei de Nemurenai",
           "artiste": "Aki Misato",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -5383,6 +6366,14 @@
           "artiste": "(K)NoW_NAME:AIJ",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5403,6 +6394,14 @@
           "nom": "Anecdote",
           "artiste": "Momosumomosu",
           "lien": "https://nl.catbox.moe/7xne3x.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -5445,6 +6444,14 @@
           "nom": "MgRonald e Yōkoso",
           "artiste": "MgRonald Nippon Shibu",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -5551,6 +6558,14 @@
           "artiste": "LIP×LIP",
           "lien": "https://nl.catbox.moe/7pvakw.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5571,6 +6586,14 @@
           "nom": "Plastic Smile",
           "artiste": "Kaori Ishihara",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -5593,6 +6616,14 @@
           "artiste": "Rekka Katakiri",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5614,6 +6645,14 @@
           "artiste": "anNina",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5634,6 +6673,14 @@
           "nom": "Kami-kazari no Tenshi",
           "artiste": "Megumi Nakajima",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -5663,6 +6710,14 @@
           "artiste": "Shou Hayami",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5684,6 +6739,14 @@
           "artiste": "Maaya Sakamoto",
           "lien": "https://nl.catbox.moe/7xgi9l.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5704,6 +6767,14 @@
           "nom": "Yakusoku",
           "artiste": "Friends",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -5789,6 +6860,14 @@
           "artiste": "Kaya Okuno",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5852,6 +6931,14 @@
           "artiste": "Yuzu",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5872,6 +6959,14 @@
           "nom": "Sekaijuu ga Koi wo Suru Yoru",
           "artiste": "petit milady",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -5922,6 +7017,14 @@
           "artiste": "Hachidai Nakamura",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5950,6 +7053,14 @@
           "artiste": "Gin (BUSTED ROSE)",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -5970,6 +7081,14 @@
           "nom": "Reverb",
           "artiste": "Aya Uchida",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -5992,6 +7111,14 @@
           "artiste": "Rie Takahashi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -6012,6 +7139,14 @@
           "nom": "Saiaku no Hi demo Anata ga Suki.",
           "artiste": "Yuu Serizawa",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -6041,6 +7176,14 @@
           "artiste": "Yuu Serizawa, Azumi Waki, Miku Itō, Fumiko Uchimura",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -6068,6 +7211,14 @@
           "nom": "Hollow Veil",
           "artiste": "nonoc",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -6097,6 +7248,14 @@
           "artiste": "Riko Azuna",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -6117,6 +7276,14 @@
           "nom": "Chiisana Hitotsubu",
           "artiste": "Kiyono Yasuno",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -6174,6 +7341,14 @@
           "artiste": "Sumire Uesaka feat. Maaya Uchida, Yui Fukuo, Chinatsu Akasaki, Marika Kouno, Nanami Yamashita",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -6194,6 +7369,14 @@
           "nom": "Kanade",
           "artiste": "Sora Amamiya",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -6222,6 +7405,14 @@
           "nom": "Good Night",
           "artiste": "Rico Sasaki",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -6279,6 +7470,14 @@
           "artiste": "HoneyWorks feat. sana & CHiCO",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -6313,6 +7512,14 @@
           "nom": "Petals",
           "artiste": "Miho Okasaki",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -6363,6 +7570,14 @@
           "artiste": "Hisako Kanemoto",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -6390,6 +7605,14 @@
           "nom": "Ayafuwa Asterisk (for Hanabi Natsubayashi)",
           "artiste": "Ryouko Maekawa",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -6482,6 +7705,14 @@
           "artiste": "Chica",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -6509,6 +7740,14 @@
           "nom": "Chikatto Chika Chika♡",
           "artiste": "Konomi Kohara",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -6566,6 +7805,14 @@
           "artiste": "halca",
           "lien": "https://nl.catbox.moe/kkz7bi.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -6593,6 +7840,14 @@
           "nom": "Yasashisa no Kioku",
           "artiste": "maimie",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -6657,6 +7912,14 @@
           "artiste": "Magma",
           "lien": "https://nl.catbox.moe/789t86.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -6685,6 +7948,14 @@
           "artiste": "Saori Hayami & Yū Serizawa",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -6705,6 +7976,14 @@
           "nom": "Queens Bluff",
           "artiste": "i☆Ris",
           "lien": "https://nl.catbox.moe/oa3i7n.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -6740,6 +8019,14 @@
           "nom": "Two Pair no Otome",
           "artiste": "Saori Hayami & Yū Serizawa",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -6839,6 +8126,14 @@
           "artiste": "Nao Touyama",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -6860,6 +8155,14 @@
           "artiste": "MindaRyn",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -6880,6 +8183,14 @@
           "nom": "Pinky Hook",
           "artiste": "Momo Asakura",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -6915,6 +8226,14 @@
           "nom": "Kimi o Tooshite",
           "artiste": "Sora Amamiya",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -6957,6 +8276,14 @@
           "nom": "DATE",
           "artiste": "Sora Amamiya",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7027,6 +8354,14 @@
           "nom": "100% Kataomoi",
           "artiste": "Osaki-san to Tsutsumi-kun",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7104,6 +8439,14 @@
           "nom": "Kimi to Hikari",
           "artiste": "Yuiko Ohara",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7196,6 +8539,14 @@
           "artiste": "Yuiko Ohara",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7238,6 +8589,14 @@
           "artiste": "Yukinon's",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7258,6 +8617,14 @@
           "nom": "Route BLUE",
           "artiste": "Yuki Nakashima",
           "lien": "https://nl.catbox.moe/l5kvrd.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7280,6 +8647,14 @@
           "artiste": "Nanami Yoshi.",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7300,6 +8675,14 @@
           "nom": "Kimiyo Kedakakuare",
           "artiste": "Shiyui",
           "lien": "https://files.catbox.moe/2nwjpp.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7378,6 +8761,14 @@
           "artiste": "Benjamin Anderson & mpi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7420,6 +8811,14 @@
           "artiste": "Nami Nakagawa",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7441,6 +8840,14 @@
           "artiste": "Chara",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7461,6 +8868,14 @@
           "nom": "Kimi ni Todoke...",
           "artiste": "MAY'S",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7504,6 +8919,14 @@
           "artiste": "RADWIMPS",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7532,6 +8955,14 @@
           "artiste": "sumika",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7545,6 +8976,14 @@
           "nom": "Brand New Story",
           "artiste": "GENERATIONS from EXILE TRIBE",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7567,6 +9006,14 @@
           "artiste": "Ayaka Ohashi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7587,6 +9034,14 @@
           "nom": "Ishukan Communication",
           "artiste": "Choro-gonzu",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7630,6 +9085,14 @@
           "artiste": "fhána",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7650,6 +9113,14 @@
           "nom": "Koi wo Shita no wa",
           "artiste": "aiko",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7672,6 +9143,14 @@
           "artiste": "Roys",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7692,6 +9171,14 @@
           "nom": "Linaria",
           "artiste": "MaRuRi to Ryuga",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7756,6 +9243,14 @@
           "artiste": "Sayuri Horishita",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7776,6 +9271,14 @@
           "nom": "Everyday sunshine line!",
           "artiste": "Natsuko Aso",
           "lien": "https://nl.catbox.moe/u41ql5.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7805,6 +9308,14 @@
           "artiste": "Kitri",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7825,6 +9336,14 @@
           "nom": "Koshaberi Biyori",
           "artiste": "FantasticYouth",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7868,6 +9387,14 @@
           "artiste": "Ari Ozawa",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7889,6 +9416,14 @@
           "artiste": "Aguri Oonishi with Takuya Satou, Asuna Tomari",
           "lien": "https://nl.catbox.moe/z3b0fp.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7909,6 +9444,14 @@
           "nom": "Speechless",
           "artiste": "Yūma Uchida",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7938,6 +9481,14 @@
           "artiste": "Shōta Aoi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -7958,6 +9509,14 @@
           "nom": "Chiisana Bōkensha",
           "artiste": "Sora Amamiya & Rie Takahashi & Ai Kayano",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -7980,6 +9539,14 @@
           "artiste": "Ai Kayano, Rie Takahashi, Sora Amamiya",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8000,6 +9567,14 @@
           "nom": "1 Milli Symphony",
           "artiste": "Machico",
           "lien": "https://nl.catbox.moe/3wrt9h.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -8050,6 +9625,14 @@
           "artiste": "Yuuko Oono",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8070,6 +9653,14 @@
           "nom": "Seishun Satsubatsu-ron (8-bit Remix)",
           "artiste": "3-nen E-gumi Utatan",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -8099,6 +9690,14 @@
           "artiste": "kotringo",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8112,6 +9711,14 @@
           "nom": "Rain",
           "artiste": "Motohiro Hata",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -8140,6 +9747,14 @@
           "nom": "Ano ne. -loved ones ver-",
           "artiste": "Maki Kawase & Azumi Waki",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -8183,6 +9798,14 @@
           "artiste": "Aoi Yuuki",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8225,6 +9848,14 @@
           "artiste": "Chika Anzai & Nobunaga Shimazaki",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8260,6 +9891,14 @@
           "artiste": "Nana Mizuki",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8287,6 +9926,14 @@
           "nom": "Mother of Pearl",
           "artiste": "Yui Ninomiya",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -8323,6 +9970,14 @@
           "artiste": "Yurie Kokubu",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8357,6 +10012,14 @@
           "nom": "Toumei na Tsubasa",
           "artiste": "Yuiko Ohara",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -8400,6 +10063,14 @@
           "artiste": "Umibōzu BAND",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8442,6 +10113,14 @@
           "artiste": "Kevin Penkin ft. Takeshi Saito",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8470,6 +10149,14 @@
           "artiste": "Kevin Penkin ft. Takeshi Saito",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8491,6 +10178,14 @@
           "artiste": "MYTH & ROID",
           "lien": "https://nl.catbox.moe/k7pa3x.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8511,6 +10206,14 @@
           "nom": "Imprinting",
           "artiste": "▽▲TRiNITY▲▽",
           "lien": "https://nl.catbox.moe/lcyqlz.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -8567,6 +10270,14 @@
           "nom": "Sis puella magica!",
           "artiste": "Eri Itō & Yuriko Kaida",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -8638,6 +10349,14 @@
           "artiste": "Jennifer Skidmore",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8665,6 +10384,14 @@
           "nom": "Vibrant",
           "artiste": "Lotus Juice",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -8715,6 +10442,14 @@
           "artiste": "U×Mishi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8763,6 +10498,14 @@
           "nom": "Kimi no Koakuma Mokushiroku",
           "artiste": "Nao Tōyama & Ayumu Murase",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -8813,6 +10556,14 @@
           "artiste": "Tatsuhisa Suzuki",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8847,6 +10598,14 @@
           "nom": "Anos-sama Ouenka Gasshoukyoku Dai Yon-ban «Sekai ga Ai ni Michiru You ni»",
           "artiste": "Anos Fan Union",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -8897,6 +10656,14 @@
           "artiste": "Suzuko Mimori",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8917,6 +10684,14 @@
           "nom": "Chi",
           "artiste": "Iori Nomizu",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -8939,6 +10714,14 @@
           "artiste": "Haruka Tōjō",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -8959,6 +10742,14 @@
           "nom": "World Is Mine",
           "artiste": "Humbreaders",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -8994,6 +10785,14 @@
           "nom": "Refrain Boy -TEKINA remix-",
           "artiste": "ALL OFF",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -9037,6 +10836,14 @@
           "artiste": "sajou no hana",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -9064,6 +10871,14 @@
           "nom": "Eternal Explorer",
           "artiste": "Mia REGINA",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -9107,6 +10922,14 @@
           "artiste": "Megumi Nakajima",
           "lien": "https://nl.catbox.moe/7686da.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -9142,6 +10965,14 @@
           "artiste": "Fuyuka Oura",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -9170,6 +11001,14 @@
           "artiste": "Yuiko Ohara",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -9197,6 +11036,14 @@
           "nom": "Yako",
           "artiste": "Yorushika",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -9240,6 +11087,14 @@
           "artiste": "Mika Kobayashi & mpi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -9281,6 +11136,14 @@
           "nom": "Perfect Time",
           "artiste": "Mika Kobayashi & mpi",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -9324,6 +11187,14 @@
           "artiste": "Mika Kobayashi & mpi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -9366,6 +11237,14 @@
           "artiste": "Mika Kobayashi & mpi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -9387,6 +11266,14 @@
           "artiste": "Alisa Takigawa",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -9407,6 +11294,14 @@
           "nom": "Perfect Time",
           "artiste": "Mika Kobayashi & mpi",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -9624,6 +11519,14 @@
           "nom": "Natsuhiboshi",
           "artiste": "Rica Fukami",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -10059,6 +11962,14 @@
           "artiste": "Junko Takeuchi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -10079,6 +11990,14 @@
           "nom": "Natsu Yuuzora",
           "artiste": "Kousuke Atari",
           "lien": "https://nl.catbox.moe/2uw8ov.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -10101,6 +12020,14 @@
           "artiste": "Aimer",
           "lien": "https://nl.catbox.moe/o4jtl3.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -10121,6 +12048,14 @@
           "nom": "Kimi no Kakera",
           "artiste": "Kousuke Atari feat. Emiri Miyamoto",
           "lien": "https://nl.catbox.moe/gasmcp.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -10143,6 +12078,14 @@
           "artiste": "Marina Kawano",
           "lien": "https://nl.catbox.moe/6i5iww.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -10164,6 +12107,14 @@
           "artiste": "Kano",
           "lien": "https://nl.catbox.moe/t9ecog.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -10177,6 +12128,14 @@
           "nom": "MOIL",
           "artiste": "Keina Suda",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -10318,6 +12277,14 @@
           "artiste": "Miyuki Nakajima",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -10345,6 +12312,14 @@
           "nom": "Oración",
           "artiste": "Ai Kayano",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -10374,6 +12349,14 @@
           "artiste": "Nataliya Gudziy",
           "lien": "https://nl.catbox.moe/7yjk91.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -10394,6 +12377,14 @@
           "nom": "Heart Realize",
           "artiste": "Tia",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -10416,6 +12407,14 @@
           "artiste": "Tia",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -10436,6 +12435,14 @@
           "nom": "Genzai ↑ Banzai ↑",
           "artiste": "Azumi Waki",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -10478,6 +12485,14 @@
           "nom": "Namima ni KISS",
           "artiste": "Mystery Kiss",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -10878,6 +12893,14 @@
           "artiste": "Thriller Bark Zonbi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -10913,6 +12936,14 @@
           "artiste": "Mamoru Miyano",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -10933,6 +12964,14 @@
           "nom": "Chizu ga Nakutemo Modoru kara",
           "artiste": "Makoto Furukawa",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -10969,6 +13008,14 @@
           "artiste": "Suzuko Mimori",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -10996,6 +13043,14 @@
           "nom": "Searchlight to Tsukiakari",
           "artiste": "Inori Minase",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -11039,6 +13094,14 @@
           "artiste": "M・A・O",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -11060,6 +13123,14 @@
           "artiste": "Kobukuro",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -11080,6 +13151,14 @@
           "nom": "Nemophila",
           "artiste": "Coalamode.",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -11123,6 +13202,14 @@
           "artiste": "Kashitaro Ito",
           "lien": "https://nl.catbox.moe/g30lyr.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -11144,6 +13231,14 @@
           "artiste": "Riko Azuna",
           "lien": "https://nl.catbox.moe/ip12n5.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -11164,6 +13259,14 @@
           "nom": "Ōkami Heart",
           "artiste": "ORESAMA",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -11200,6 +13303,14 @@
           "artiste": "milet",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -11228,6 +13339,14 @@
           "artiste": "Chiyoko",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -11248,6 +13367,14 @@
           "nom": "L.L.L.",
           "artiste": "MYTH & ROID",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -11270,6 +13397,14 @@
           "artiste": "MYTH & ROID",
           "lien": "https://nl.catbox.moe/ri49y6.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -11290,6 +13425,14 @@
           "nom": "Silent Solitude",
           "artiste": "OxT",
           "lien": "https://nl.catbox.moe/5w6ygu.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -11312,6 +13455,14 @@
           "artiste": "Mayu Maeshima",
           "lien": "https://nl.catbox.moe/6ems1x.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -11326,6 +13477,14 @@
           "artiste": "MYTH & ROID",
           "lien": "https://nl.catbox.moe/b26irx.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -11339,6 +13498,14 @@
           "nom": "Laughter Slaughter",
           "artiste": "OxT",
           "lien": "https://nl.catbox.moe/6w3aq2.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -11361,6 +13528,14 @@
           "artiste": "SawanoHiroyuki[nZk]:Yosh",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -11381,6 +13556,14 @@
           "nom": "Yoru o Koeru Ashioto",
           "artiste": "Mitei no Hanashi",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -11423,6 +13606,14 @@
           "nom": "Deep Breath Deep Breath",
           "artiste": "Lotus Juice",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -11472,6 +13663,14 @@
           "nom": "Wild ni Eigyou Chuu♪",
           "artiste": "Emi Mochizuki & Yuzu Ohkawa & Karin Yasui",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -11669,6 +13868,14 @@
           "artiste": "Shihoko Hirata",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -11704,6 +13911,14 @@
           "artiste": "Sora Amamiya",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -11738,6 +13953,14 @@
           "nom": "Reason of Life",
           "artiste": "Rina Honnizumi, Ari Ozawa, Shizuka Itou",
           "lien": "https://nl.catbox.moe/bku4yi.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -11963,6 +14186,14 @@
           "artiste": "Rocket-dan",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -12124,6 +14355,14 @@
           "artiste": "Orikou Monkeys",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -12208,6 +14447,14 @@
           "artiste": "Kento Itou & Ryuichi Kijima",
           "lien": "https://nl.catbox.moe/xlv73h.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -12236,6 +14483,14 @@
           "artiste": "Yumi Uchiyama",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -12256,6 +14511,14 @@
           "nom": "Chittomo Shiranakatta",
           "artiste": "NakamuraEmi",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -12284,6 +14547,14 @@
           "nom": "Kakusei no Muishiki",
           "artiste": "Mikio Sakai",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -12348,6 +14619,14 @@
           "artiste": "Rie Takahashi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -12368,6 +14647,14 @@
           "nom": "Memento",
           "artiste": "nonoc",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -12425,6 +14712,14 @@
           "artiste": "MYTH & ROID",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -12438,6 +14733,14 @@
           "nom": "Yuki no Hate ni Kimi no Na o",
           "artiste": "nonoc",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -12459,6 +14762,14 @@
           "nom": "Memories",
           "artiste": "Riko Azuna",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -12565,6 +14876,14 @@
           "artiste": "PENGUIN RESEARCH",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -12585,6 +14904,14 @@
           "nom": "Precious You☆",
           "artiste": "Akane Fujita, Yume Miyamoto, Ari Ozawa",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -12641,6 +14968,14 @@
           "nom": "Uta yo",
           "artiste": "Kaho Nakamura",
           "lien": "https://nl.catbox.moe/vhk5ap.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -12726,6 +15061,14 @@
           "artiste": "MARLOE.",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -12767,6 +15110,14 @@
           "nom": "Yume no Hero",
           "artiste": "Norio Sakai",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -12816,6 +15167,14 @@
           "nom": "Sora-iro Days",
           "artiste": "Sayuri Yahagi",
           "lien": "https://nl.catbox.moe/ht8rp7.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -12873,6 +15232,14 @@
           "artiste": "Moso Calibration",
           "lien": "https://nl.catbox.moe/1uujfj.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -12908,6 +15275,14 @@
           "artiste": "Kiyono Yasuno",
           "lien": "https://nl.catbox.moe/v46par.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -12929,6 +15304,14 @@
           "artiste": "Nagi Yanagi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -12949,6 +15332,14 @@
           "nom": "Nakushita Hibi ni Sayonara",
           "artiste": "Suneohair",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13006,6 +15397,14 @@
           "artiste": "Suimei Koukou Seito Ichidou",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13034,6 +15433,14 @@
           "artiste": "Aira Yuuki",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13054,6 +15461,14 @@
           "nom": "Elder Flower",
           "artiste": "Aguri Oonishi",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13111,6 +15526,14 @@
           "artiste": "Juri Kimura",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13124,6 +15547,14 @@
           "nom": "Fukashigi no Karte movie ver.",
           "artiste": "Asami Seto, Nao Touyama, Atsumi Tanezaki, Maaya Uchida, Yurika Kubo, Inori Minase",
           "lien": "https://nl.catbox.moe/begtqe.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13188,6 +15619,14 @@
           "artiste": "Sweet Bullet",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13215,6 +15654,14 @@
           "nom": "realize -Yume no Matsu Basho- ~White Hope mix~",
           "artiste": "Cyua",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13244,6 +15691,14 @@
           "artiste": "SUIMI",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13257,6 +15712,14 @@
           "nom": "Itsumo Nando demo",
           "artiste": "Yumi Kimura",
           "lien": "https://nl.catbox.moe/5azbnv.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13278,6 +15741,14 @@
           "nom": "Niji ga Kakaru made no Hanashi",
           "artiste": "Yui Horie",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13405,6 +15876,14 @@
           "artiste": "Ludwig Van Beethoven",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13425,6 +15904,14 @@
           "nom": "reincarnation",
           "artiste": "ChouCho",
           "lien": "https://nl.catbox.moe/bbfqno.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13447,6 +15934,14 @@
           "artiste": "Yuki Nakashima",
           "lien": "https://nl.catbox.moe/j7ilip.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13467,6 +15962,14 @@
           "nom": "Minna Onaji",
           "artiste": "JYOCHO",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13495,6 +15998,14 @@
           "nom": "Saisho kara Zutto",
           "artiste": "Riko Azuna",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13573,6 +16084,14 @@
           "artiste": "Cyua",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13593,6 +16112,14 @@
           "nom": "Akuma no Ko",
           "artiste": "Ai Higuchi",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13643,6 +16170,14 @@
           "artiste": "Gemie",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13677,6 +16212,14 @@
           "nom": "Zero Eclipse",
           "artiste": "Laco",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13720,6 +16263,14 @@
           "artiste": "Eliana",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13747,6 +16298,14 @@
           "nom": "K21",
           "artiste": "David Whitaker",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13804,6 +16363,14 @@
           "artiste": "Natsuki Hanae",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13824,6 +16391,14 @@
           "nom": "Moonlight Walk",
           "artiste": "Poppin'Party",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13874,6 +16449,14 @@
           "artiste": "Dual Flare",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13895,6 +16478,14 @@
           "artiste": "Kaori Sadohara",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13915,6 +16506,14 @@
           "nom": "Tomoshibi Serenade",
           "artiste": "ChouCho",
           "lien": "https://nl.catbox.moe/r5kppo.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -13979,6 +16578,14 @@
           "artiste": "Tamaru Yamada",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -13999,6 +16606,14 @@
           "nom": "Fukahi",
           "artiste": "SymaG",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -14042,6 +16657,14 @@
           "artiste": "Sayaka Senbongi & Minami Tanaka",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -14084,6 +16707,14 @@
           "artiste": "Mitsume",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -14105,6 +16736,14 @@
           "artiste": "Akari Akase",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -14125,6 +16764,14 @@
           "nom": "50 Centi",
           "artiste": "Kanna Nakamura",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -14196,6 +16843,14 @@
           "artiste": "Hiro Shimono",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -14224,6 +16879,14 @@
           "artiste": "(K)NoW_NAME:Ayaka Tachibana",
           "lien": "https://nl.catbox.moe/bsrhtr.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -14244,6 +16907,14 @@
           "nom": "Shikisai",
           "artiste": "yama",
           "lien": "https://files.catbox.moe/apoyyo.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -14293,6 +16964,14 @@
           "nom": "Watashi☆LOVE na☆Otome!",
           "artiste": "Afilia Saga East",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -14371,6 +17050,14 @@
           "artiste": "Kanako Itō",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -14391,6 +17078,14 @@
           "nom": "Itsumo Kono Basho de",
           "artiste": "Ayane",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -14441,6 +17136,14 @@
           "artiste": "HoneyWorks meets Mafumafu",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -14468,6 +17171,14 @@
           "nom": "Sarari",
           "artiste": "Suneohair",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -14504,6 +17215,14 @@
           "artiste": "Riria.",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -14538,6 +17257,14 @@
           "nom": "Overfly",
           "artiste": "Luna Haruna",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -14587,6 +17314,14 @@
           "nom": "Shirushi",
           "artiste": "LiSA",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -14644,6 +17379,14 @@
           "artiste": "Rina Hidaka & Haruka Tomatsu",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -14700,6 +17443,14 @@
           "artiste": "ReoNa",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -14721,6 +17472,14 @@
           "artiste": "LiSA",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -14741,6 +17500,14 @@
           "nom": "I will...",
           "artiste": "Eir Aoi",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -14769,6 +17536,14 @@
           "nom": "Namida",
           "artiste": "Huwie Ishizaki",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -14811,6 +17586,14 @@
           "nom": "Sapphire☆Phantasm",
           "artiste": "Kanon Takao",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -14875,6 +17658,14 @@
           "artiste": "Amelia Jones",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -14903,6 +17694,14 @@
           "artiste": "Kevin Penkin (ft. Elspeth Bawden)",
           "lien": "https://nl.catbox.moe/c9agjl.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -14923,6 +17722,14 @@
           "nom": "I'mpossible?",
           "artiste": "Luce Twinkle Wink☆",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -14994,6 +17801,14 @@
           "artiste": "Tarantula",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15043,6 +17858,14 @@
           "artiste": "RADWIMPS feat. Tōko Miura",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15064,6 +17887,14 @@
           "artiste": "Yoshino Nanjou",
           "lien": "https://nl.catbox.moe/rfcbpt.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15084,6 +17915,14 @@
           "nom": "Gohan da yo! Dadadadan!!",
           "artiste": "Surachans△",
           "lien": "https://nl.catbox.moe/0871vc.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -15127,6 +17966,14 @@
           "artiste": "true",
           "lien": "https://nl.catbox.moe/3w8eat.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15162,6 +18009,14 @@
           "artiste": "Sachiko Watabe",
           "lien": "https://nl.catbox.moe/3ex23a.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15189,6 +18044,14 @@
           "nom": "Hiai",
           "artiste": "Sachiko Watabe",
           "lien": "https://nl.catbox.moe/irinx8.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -15231,6 +18094,14 @@
           "nom": "Yoihanabi",
           "artiste": "Miho Okasaki",
           "lien": "https://nl.catbox.moe/mi6wlh.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -15288,6 +18159,14 @@
           "artiste": "Sayuri Yahagi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15308,6 +18187,14 @@
           "nom": "Foul Play ni Kurari",
           "artiste": "Kanon Wakeshima",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -15330,6 +18217,14 @@
           "artiste": "Mami Kawada",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15350,6 +18245,14 @@
           "nom": "Seijatachi",
           "artiste": "People in the Box",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -15414,6 +18317,14 @@
           "artiste": "LUSCHKA",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15463,6 +18374,14 @@
           "artiste": "TK from Ling Tosite Sigure",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15505,6 +18424,14 @@
           "artiste": "SaKy",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15526,6 +18453,14 @@
           "artiste": "saji",
           "lien": "https://nl.catbox.moe/qy9lv2.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15546,6 +18481,14 @@
           "nom": "White Wishes",
           "artiste": "9nine",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -15574,6 +18517,14 @@
           "nom": "Miracle Shopping ~Don Quijote no Theme~",
           "artiste": "Maimi Tanaka",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -15624,6 +18575,14 @@
           "artiste": "Rie Kugimiya & Eri Kitamura",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15666,6 +18625,14 @@
           "artiste": "TWINKle MAGIC",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15700,6 +18667,14 @@
           "nom": "Ah Jinsei ni Namida Ari",
           "artiste": "Ayane Sakura & Akari Kitō",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -15764,6 +18739,14 @@
           "artiste": "Nao Tōyama",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15784,6 +18767,14 @@
           "nom": "Dear",
           "artiste": "Yui Ogura",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -15813,6 +18804,14 @@
           "artiste": "Suzu Hirose",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15833,6 +18832,14 @@
           "nom": "Kokoro Knock",
           "artiste": "YuNi",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -15869,6 +18876,14 @@
           "artiste": "Aira Yuuki",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -15882,6 +18897,14 @@
           "nom": "Amy",
           "artiste": "Minori Chihara",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -15910,6 +18933,14 @@
           "nom": "Ashita mo Mata",
           "artiste": "halca",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -15952,6 +18983,14 @@
           "nom": "Bitter Bitter Sweet",
           "artiste": "Saori Hayami & Nao Tōyama",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -16001,6 +19040,14 @@
           "nom": "Bitter Bitter Sweet",
           "artiste": "Saori Hayami & Nao Tōyama",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -16058,6 +19105,14 @@
           "artiste": "Nagi Yanagi",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -16078,6 +19133,14 @@
           "nom": "CANDY MAGIC",
           "artiste": "MimimemeMIMI",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -16114,6 +19177,14 @@
           "artiste": "Mako Niina",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -16135,6 +19206,14 @@
           "artiste": "Minami",
           "lien": "https://nl.catbox.moe/hckoiq.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -16155,6 +19234,14 @@
           "nom": "Hito Shibai",
           "artiste": "Mai Fuchigami",
           "lien": "https://nl.catbox.moe/wh6p3j.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -16184,6 +19271,14 @@
           "artiste": "Nao Touyama",
           "lien": "https://nl.catbox.moe/5jx6f2.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -16204,6 +19299,14 @@
           "nom": "Hajimari no Shirushi",
           "artiste": "Chima",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -16226,6 +19329,14 @@
           "artiste": "Rie Kugimiya",
           "lien": ""
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -16246,6 +19357,14 @@
           "nom": "Suki!?Kirai!?Suki!!!",
           "artiste": "Rie Kugimiya",
           "lien": "https://nl.catbox.moe/7byn80.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -16275,6 +19394,14 @@
           "artiste": "Mamiko Noto",
           "lien": "https://nl.catbox.moe/bferuh.webm"
         }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
       ]
     },
     {
@@ -16295,6 +19422,14 @@
           "nom": "Aishiteru",
           "artiste": "Callin",
           "lien": "https://nl.catbox.moe/j6y5n0.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -16344,6 +19479,14 @@
           "nom": "Nichiyōbi no Himitsu",
           "artiste": "HoneyWorks meets CHiCO & sana",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     }

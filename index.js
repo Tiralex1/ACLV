@@ -28,6 +28,10 @@ function data(nom_fic)
                     tab[0][j].push(val.id);
                     tab[0][j].push(val.nb_musique);
                     tab[0][j].push(k);
+                    tab[0][j].push(val.users[0].A);
+                    tab[0][j].push(val.users[0].C);
+                    tab[0][j].push(val.users[0].L);
+                    tab[0][j].push(val.users[0].V);
                     j++;
                     k += val.nb_musique;
                     for (var i = 0; i < val.nb_musique; ++i) {

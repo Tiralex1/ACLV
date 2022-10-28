@@ -71,13 +71,13 @@ function affich(tab_anime, tab_musique) {
         if (tab_anime[i][4]==0) items.push("no-watch");
         else items.push("watch");
         items.push("'>A</div><div class='trois ");
-        if (tab_anime[i][4] == 0) items.push("no-watch");
+        if (tab_anime[i][5] == 0) items.push("no-watch");
         else items.push("watch");
         items.push("'>C</div><div class='quatre ");
-        if (tab_anime[i][4] == 0) items.push("no-watch");
+        if (tab_anime[i][6] == 0) items.push("no-watch");
         else items.push("watch");
         items.push("'>L</div><div class='cinq ");
-        if (tab_anime[i][4] == 0) items.push("no-watch");
+        if (tab_anime[i][7] == 0) items.push("no-watch");
         else items.push("watch");
         items.push("'>V</div></div></td></tr>");
         for (var j = tab_anime[i][3]; j < tab_anime[i][2] + tab_anime[i][3]; ++j) {

@@ -103,4 +103,3 @@ data(nomfic);
 affich(tab[0],tab[1]);
 
 console.log(tab);
-console.log(tab[0][0][0]);

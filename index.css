@@ -18,6 +18,10 @@ table {
     background-color : red ;
 }
 
+.watch {
+    background-color : green;
+}
+
 .red>td{
     background-color : lightcoral;
 }

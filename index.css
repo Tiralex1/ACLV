@@ -11,8 +11,9 @@ table {
     width : 100%;
 }
 
-.grey {
+.grey > td {
     background-color: grey;
+    padding: 2px;
 }
 
 .no-watch {

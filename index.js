@@ -3,7 +3,7 @@ let nomfic = "data.json"
 let nb_anime = 0;
 let nb_musique = 0;
 
-let naf = document.getElementsByName("nom_anime");
+let naf = document.getElementById("name_anime");
 
 var tab_anime = [];
 var tab_musique = [];

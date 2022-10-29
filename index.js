@@ -103,11 +103,11 @@ function affich(tab_anime, tab_musique) {
     }).appendTo("body");
 }
 
-function filtre_naf(tab_anime) {
+function filtre_naf() {
     var tab_filtr = [];
     var val = naf.value;
-    for (var i = 0; i < tab_anime.length; ++i) {
-        if (tab_anime[i][0].includes(val)) tab_filtr.push(tab_anime[i]);
+    for (var i = 0; i < tab[0].length; ++i) {
+        if (tab[0][i][0].includes(val)) tab_filtr.push(tab[0][i]);
     }
     console.log(tab_filtr);
 }
@@ -115,6 +115,6 @@ function filtre_naf(tab_anime) {
 data(nomfic);
 affich(tab[0], tab[1]);
 
-naf.addEventListener("change", filtre_naf(tab[0]));
+naf.addEventListener("change", filtre_naf);
 
 console.log(tab);

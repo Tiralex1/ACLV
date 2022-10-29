@@ -103,7 +103,7 @@ function affich(tab_anime, tab_musique) {
     }).appendTo("body");
 }
 
-function filtre_naf() {
+function filtre(tab_anime,tab_musique) {
     var child = document.getElementById("AnimeMusicList");
     var tab_filtr = [];
     var val = naf.value;

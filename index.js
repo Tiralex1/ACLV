@@ -110,6 +110,7 @@ function filtre_naf() {
         if (tab_anime[i][0].startsWith(val)) tab_filtr.push(tab_anime[i]);
     }
     console.log(tab_filtr);
+    affich(tab_filtr, tab[1]);
 }
 
 data(nomfic);

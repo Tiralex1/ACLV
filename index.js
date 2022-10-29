@@ -117,6 +117,7 @@ function filtre_naf() {
 
 data(nomfic);
 affich(tab[0], tab[1]);
+naf.value = "";
 
 //naf.addEventListener("change", filtre_naf(tab[0]));
 

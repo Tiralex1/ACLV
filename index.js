@@ -107,12 +107,14 @@ function filtre(tab_anime,tab_musique) {
     var child = document.getElementById("AnimeMusicList");
     var tab_filtr = [];
     var val = naf.value;
-    for (var i = 0; i < tab_anime.length; ++i) {
-        if (tab_anime[i][0].toLowerCase().includes(val.toLowerCase())) tab_filtr.push(tab_anime[i]);
+    if (val != "") {
+        for (var i = 0; i < tab_anime.length; ++i) {
+            if (tab_anime[i][0].toLowerCase().includes(val.toLowerCase())) tab_filtr.push(tab_anime[i]);
+        }
     }
     console.log(tab_filtr);
     document.body.removeChild(child);
-    affich(tab_filtr, tab[1]);
+    affich(tab_filtr, tab_musique);
 }
 
 data(nomfic);

@@ -1,7 +1,9 @@
 let nomfic = "data.json"
 
-let nb_anime = 2;
-let nb_musique = 6;
+let nb_anime = 0;
+let nb_musique = 0;
+
+let naf = document.getElementById("name_anime");
 
 var tab_anime = [];
 var tab_musique = [];
@@ -20,6 +22,8 @@ function data(nom_fic)
         async: false
     });
     $.getJSON(nom_fic, function (data) {
+        nb_anime = data.nb_anime;
+        nb_musique = data.nb_musique;
         $.each(data, function (key, val) {
             if (key == "anime") {
                 $.each(val, function (key, val) {
@@ -99,7 +103,18 @@ function affich(tab_anime, tab_musique) {
     }).appendTo("body");
 }
 
+function filtre_naf(tab_anime) {
+    var tab_filtr = [];
+    var val = naf.value;
+    for (var i = 0; i < tab_anime.length; ++i) {
+        if (tab_anime[i][0].includes(val)) tab_filtr.push(tab_anime[i]);
+    }
+    console.log(tab_filtr);
+}
+
 data(nomfic);
-affich(tab[0],tab[1]);
+affich(tab[0], tab[1]);
+
+naf.addEventListener("change", filtre_naf(tab[0]));
 
 console.log(tab);

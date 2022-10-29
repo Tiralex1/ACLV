@@ -86,14 +86,14 @@ function affich(tab_anime, tab_musique) {
         items.push("'>V</div></div></td></tr>");
         for (var j = tab_anime[i][3]; j < tab_anime[i][2] + tab_anime[i][3]; ++j) {
             items.push("<tr class=" + bg + ">");
-            items.push("<td>" + tab_anime[i][0] + "</td>");
-            items.push("<td>" + tab_musique[j][0] + "</td>");
-            if (tab_musique[j][1] != 0) items.push("<td>" + tab_musique[j][1] + "</td>");
-            else items.push("<td></td>");
-            items.push("<td>" + tab_musique[j][2] + "</td>");
-            items.push("<td>" + tab_musique[j][3] + "</td>");
-            if (tab_musique[j][4] != "") items.push("<td><a href='" + tab_musique[j][4] + "' target='_blank'>Lien</td>");
-            else items.push("<td>Lien</td>");
+            items.push("<td class='noman'>" + tab_anime[i][0] + "</td>");
+            items.push("<td class='typm'>" + tab_musique[j][0] + "</td>");
+            if (tab_musique[j][1] != 0) items.push("<td class='num'>" + tab_musique[j][1] + "</td>");
+            else items.push("<td class='num'></td>");
+            items.push("<td class='nomm'>" + tab_musique[j][2] + "</td>");
+            items.push("<td class='nomart'>" + tab_musique[j][3] + "</td>");
+            if (tab_musique[j][4] != "") items.push("<td class='lien'><a href='" + tab_musique[j][4] + "' target='_blank'>Lien</td>");
+            else items.push("<td class='lien'>Lien</td>");
             items.push("</tr>");
         }
     }

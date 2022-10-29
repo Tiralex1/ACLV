@@ -106,8 +106,8 @@ function affich(tab_anime, tab_musique) {
 function filtre_naf() {
     var tab_filtr = [];
     var val = naf.value;
-    for (var i = 0; i < tab[0].length; ++i) {
-        if (tab[0][i][0].includes(val)) tab_filtr.push(tab[0][i]);
+    for (var i = 0; i < tab_anime.length; ++i) {
+        if (tab_anime[i][0].includes(val)) tab_filtr.push(tab_anime[i]);
     }
     console.log(tab_filtr);
 }
@@ -115,6 +115,6 @@ function filtre_naf() {
 data(nomfic);
 affich(tab[0], tab[1]);
 
-naf.addEventListener("change", filtre_naf);
+naf.addEventListener("change", filtre_naf(tab[0]));
 
 console.log(tab);

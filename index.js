@@ -118,6 +118,6 @@ function filtre_naf() {
 data(nomfic);
 affich(tab[0], tab[1]);
 
-naf.addEventListener("change", filtre_naf(tab[0]));
+//naf.addEventListener("change", filtre_naf(tab[0]));
 
 console.log(tab);

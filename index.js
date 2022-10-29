@@ -111,10 +111,11 @@ function filtre(tab_anime,tab_musique) {
         for (var i = 0; i < tab_anime.length; ++i) {
             if (tab_anime[i][0].toLowerCase().includes(val.toLowerCase())) tab_filtr.push(tab_anime[i]);
         }
+        tab_anime = tab_filtr;
     }
     console.log(tab_filtr);
     document.body.removeChild(child);
-    affich(tab_filtr, tab_musique);
+    affich(tab_anime, tab_musique);
 }
 
 data(nomfic);

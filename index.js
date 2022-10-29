@@ -108,7 +108,7 @@ function filtre_naf() {
     var tab_filtr = [];
     var val = naf.value;
     for (var i = 0; i < tab_anime.length; ++i) {
-        if (tab_anime[i][0].startsWith(val)) tab_filtr.push(tab_anime[i]);
+        if (tab_anime[i][0].toLowerCase().startsWith(val.toLowerCase())) tab_filtr.push(tab_anime[i]);
     }
     console.log(tab_filtr);
     document.body.removeChild(child);

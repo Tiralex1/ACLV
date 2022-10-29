@@ -98,13 +98,13 @@ function affich(tab_anime, tab_musique) {
         }
     }
     $("<table/>", {
-        "class": "AnimeMusicList",
+        "id": "AnimeMusicList",
         html: items.join("")
     }).appendTo("body");
 }
 
 function filtre_naf() {
-    var child = document.getElementsByClassName("AnimeMusicList");
+    var child = document.getElementsById("AnimeMusicList");
     var tab_filtr = [];
     var val = naf.value;
     for (var i = 0; i < tab_anime.length; ++i) {

@@ -113,7 +113,8 @@ function filtre(tab_anime,tab_musique) {
         }
         tab_anime = tab_filtr;
     }
-    console.log(tab_filtr);
+    console.log(tab_anime);
+    console.log(tab_musique);
     document.body.removeChild(child);
     affich(tab_anime, tab_musique);
 }

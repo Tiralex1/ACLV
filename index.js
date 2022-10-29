@@ -104,12 +104,15 @@ function affich(tab_anime, tab_musique) {
 }
 
 function filtre_naf() {
+    var child = document.getElementsByClassName("AnimeMusicList");
+    var body = document.body;
     var tab_filtr = [];
     var val = naf.value;
     for (var i = 0; i < tab_anime.length; ++i) {
         if (tab_anime[i][0].startsWith(val)) tab_filtr.push(tab_anime[i]);
     }
     console.log(tab_filtr);
+    body.removeChild(child);
     affich(tab_filtr, tab[1]);
 }
 

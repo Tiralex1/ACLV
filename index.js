@@ -106,12 +106,23 @@ function affich(tab_anime, tab_musique) {
 function filtre(tab_anime,tab_musique) {
     var child = document.getElementById("AnimeMusicList");
     var tab_filtr = [];
+    var tab_filtr2 = [];
     var val = naf.value;
     if (val != "") {
+        var j = 0;
         for (var i = 0; i < tab_anime.length; ++i) {
-            if (tab_anime[i][0].toLowerCase().includes(val.toLowerCase())) tab_filtr.push(tab_anime[i]);
+            if (tab_anime[i][0].toLowerCase().includes(val.toLowerCase())) {
+                tab_filtr.push(tab_anime[i]);
+                tab_filtr[tab_filtr.length - 1][2] = j;
+                j += tab_filtr[tab_filtr.length - 1][3];
+                for (var k = tab_anime[i][2]; k < tab_anime[i][3]; ++k)
+                {
+                    tab_filtr2.push(tab_musique[k]);
+                }
+            }
         }
         tab_anime = tab_filtr;
+        tab_musique = tab_filtr2;
     }
     console.log(tab_anime);
     console.log(tab_musique);

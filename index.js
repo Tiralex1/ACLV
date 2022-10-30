@@ -4,6 +4,13 @@ let nb_anime = 0;
 let nb_musique = 0;
 
 let naf = document.getElementById("name_anime");
+let typm = document.getElementById("type_music");
+let nam = document.getElementById("name_music");
+let naa = document.getElementById("name_artist");
+let a = document.getElementById("A");
+let c = document.getElementById("C");
+let l = document.getElementById("L");
+let v = document.getElementById("V");
 
 var tab_anime = [];
 var tab_musique = [];
@@ -123,6 +130,10 @@ function filtre(tab_anime,tab_musique) {
         }
         tab_anime = tab_filtr;
         tab_musique = tab_filtr2;
+    }
+    val = a.value;
+    if (val == "1") {
+        console.log("OK");
     }
     console.log(tab_anime);
     console.log(tab_musique);

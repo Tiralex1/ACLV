@@ -113,10 +113,10 @@ function filtre(tab_anime,tab_musique) {
         for (var i = 0; i < tab_anime.length; ++i) {
             if (tab_anime[i][0].toLowerCase().includes(val.toLowerCase())) {
                 tab_filtr.push(tab_anime[i]);
-                tab_filtr[tab_filtr.length - 1][2] = j;
-                console.log(tab_filtr[tab_filtr.length - 1][2]);
-                j += tab_filtr[tab_filtr.length - 1][3];
-                for (var k = tab_anime[i][2]; k < tab_anime[i][3]; ++k)
+                tab_filtr[tab_filtr.length - 1][3] = j;
+                console.log(tab_filtr[tab_filtr.length - 1][3]);
+                j += tab_filtr[tab_filtr.length - 1][2];
+                for (var k = tab_anime[i][3]; k < tab_anime[i][2]; ++k)
                 {
                     tab_filtr2.push(tab_musique[k]);
                 }

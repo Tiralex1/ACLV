@@ -232,5 +232,12 @@ function filtre() {
 data(nomfic);
 affich(tab[0], tab[1]);
 naf.value = "";
+nam.value = "";
+naa.value = "";
+typm.value = "";
+a.checked = true;
+c.checked = true;
+l.checked = true;
+v.checked = true;
 
 console.log(tab);

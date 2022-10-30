@@ -1,6 +1,6 @@
 {
   "nb_anime": 397,
-  "nb_musique": 1976,
+  "nb_musique": 1977,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -3915,7 +3915,7 @@
     {
       "nom": "Dr. STONE",
       "id": 0,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -3944,6 +3944,13 @@
           "nom": "Yume no You na",
           "artiste": "Yusuke Saeki",
           "lien": "https://nl.catbox.moe/572tdd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "I'm A Human",
+          "artiste": "Aztech from Hybrid Thoughts",
+          "lien": "https://nl.catbox.moe/vjz5fr.webm"
         },
         {
           "type": "Insert Song",

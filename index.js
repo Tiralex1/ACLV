@@ -161,6 +161,7 @@ function filtre(tab_anime,tab_musique) {
             for (var k = tab_anime[i][3]; k < tab_anime[i][2] + tab_anime[i][3]; ++k) {
                 if (tab_musique[k][2].toLowerCase().includes(val.toLowerCase())) tab_filtr2.push(tab_musique[k]);
             }
+            console.log(tab_anime[i][0] + " | " + tab_musique.length);
             if (tab_musique.length-j > 0) {
                 tab_filtr.push(tab_anime[i]);
                 tab_filtr[tab_filtr.length - 1][3] = j;

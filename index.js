@@ -110,7 +110,9 @@ function affich(tab_anime, tab_musique) {
     }).appendTo("body");
 }
 
-function filtre(tab_anime,tab_musique) {
+function filtre() {
+    var tab_anime = tab[0];
+    var tab_musique = tab[1];
     var child = document.getElementById("AnimeMusicList");
     var tab_filtr = [];
     var tab_filtr2 = [];

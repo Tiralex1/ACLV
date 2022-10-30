@@ -9,20 +9,20 @@
     <div class="header">
         <div class="title">AMQ - ACLV</div>
         <div class="filtre">Filtre :
-            Nom anime : <input type="text" value="" id="name_anime" name="nom_anime" onchange="filtre(tab[0],tab[1]);"/>
+            Nom anime : <input type="text" value="" id="name_anime" name="nom_anime" onchange="filtre();"/>
             Type musique :
-            <select id="type_music" onchange="filtre(tab[0],tab[1]);">
+            <select id="type_music" onchange="filtre();">
                 <option value="">-</option>
                 <option value="Opening">Opening</option>
                 <option value="Ending">Ending</option>
                 <option value="Insert Song">Insert Song</option>
             </select>
-            Nom musique : <input type="text" value="" id="name_music" onchange="filtre(tab[0],tab[1]);" />
-            Nom artiste : <input type="text" value="" id="name_artist" onchange="filtre(tab[0],tab[1]);" />
-            A <input value="1" type="checkbox" id="A" checked onchange="filtre(tab[0],tab[1]);" />
-            C <input value="1" type="checkbox" id="C" checked onchange="filtre(tab[0],tab[1]);" />
-            L <input value="1" type="checkbox" id="L" checked onchange="filtre(tab[0],tab[1]);" />
-            V <input value="1" type="checkbox" id="V" checked onchange="filtre(tab[0],tab[1]);" />
+            Nom musique : <input type="text" value="" id="name_music" onchange="filtre();" />
+            Nom artiste : <input type="text" value="" id="name_artist" onchange="filtre();" />
+            A <input value="1" type="checkbox" id="A" checked onchange="filtre();" />
+            C <input value="1" type="checkbox" id="C" checked onchange="filtre();" />
+            L <input value="1" type="checkbox" id="L" checked onchange="filtre();" />
+            V <input value="1" type="checkbox" id="V" checked onchange="filtre();" />
         </div>
         <br />
     </div>

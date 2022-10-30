@@ -132,6 +132,8 @@ function filtre(tab_anime,tab_musique) {
         tab_musique = tab_filtr2;
         console.log("OK");
     }
+    tab_filtr = [];
+    tab_filtr2 = [];
     val = a.checked;
     var val2 = c.checked;
     var val3 = l.checked;

@@ -116,7 +116,7 @@ function filtre(tab_anime,tab_musique) {
                 tab_filtr[tab_filtr.length - 1][3] = j;
                 j += tab_filtr[tab_filtr.length - 1][2];
                 console.log(tab_anime[i][3] + " | " + tab_anime[i][2]);
-                for (var k = tab_anime[i][3]; k < tab_anime[i][2]; ++k)
+                for (var k = tab_anime[i][3]; k < tab_anime[i][2] + tab_anime[i][3]; ++k)
                 {
                     tab_filtr2.push(tab_musique[k]);
                 }

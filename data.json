@@ -717,35 +717,6 @@
       ]
     },
     {
-      "nom": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
-      "id": 0,
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Daylight",
-          "artiste": "MindaRyn",
-          "lien": "https://nl.catbox.moe/6oghqb.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Gedou Sanka",
-          "artiste": "FantasticYouth",
-          "lien": "https://nl.catbox.moe/dx12ay.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 1,
-          "C": 0,
-          "L": 0,
-          "V": 0
-        }
-      ]
-    },
-    {
       "nom": "Arifureta Shokugyou de Sekai Saikyou",
       "id": 0,
       "nb_musique": 7,
@@ -798,6 +769,35 @@
           "nom": "Kin-iro ni Somaru Yoake",
           "artiste": "Yuuki Kawahara",
           "lien": "https://nl.catbox.moe/pvumnr.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Daylight",
+          "artiste": "MindaRyn",
+          "lien": "https://nl.catbox.moe/6oghqb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Gedou Sanka",
+          "artiste": "FantasticYouth",
+          "lien": "https://nl.catbox.moe/dx12ay.webm"
         }
       ],
       "users": [

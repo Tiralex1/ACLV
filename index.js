@@ -130,7 +130,6 @@ function filtre(tab_anime,tab_musique) {
         }
         tab_anime = tab_filtr;
         tab_musique = tab_filtr2;
-        console.log("OK");
     }
     tab_filtr = [];
     tab_filtr2 = [];
@@ -147,6 +146,25 @@ function filtre(tab_anime,tab_musique) {
                 }
                 tab_filtr.push(tab_anime[i]);
                 tab_filtr[tab_filtr.length - 1][3] = j;
+                j += tab_filtr[tab_filtr.length - 1][2];
+            }
+        }
+        tab_anime = tab_filtr;
+        tab_musique = tab_filtr2;
+    }
+    tab_filtr = [];
+    tab_filtr2 = [];
+    val = nam.value;
+    if (val != "") {
+        var j = 0;
+        for (var i = 0; i < tab_anime.length; ++i) {
+            for (var k = tab_anime[i][3]; k < tab_anime[i][2] + tab_anime[i][3]; ++k) {
+                if (tab_musique[k][2].toLowerCase().includes(val.toLowerCase())) tab_filtr2.push(tab_musique[k]);
+            }
+            if (tab_musique.length-j > 0) {
+                tab_filtr.push(tab_anime[i]);
+                tab_filtr[tab_filtr.length - 1][3] = j;
+                tab_filtr[tab_filtr.length - 1][2] = tab_musique.length - j;
                 j += tab_filtr[tab_filtr.length - 1][2];
             }
         }

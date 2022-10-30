@@ -424,7 +424,7 @@
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "Kyōmu Densen",
+          "nom": "Kyoumu Densen",
           "artiste": "ALI PROJECT",
           "lien": "https://nl.catbox.moe/92rrlo.webm"
         },
@@ -503,7 +503,7 @@
       ]
     },
     {
-      "nom": "Ansatsu Kyōshitsu",
+      "nom": "Ansatsu Kyoushitsu",
       "id": 0,
       "nb_musique": 4,
       "musique": [
@@ -546,7 +546,7 @@
       ]
     },
     {
-      "nom": "Ansatsu Kyōshitsu Season 2",
+      "nom": "Ansatsu Kyoushitsu Season 2",
       "id": 0,
       "nb_musique": 7,
       "musique": [
@@ -588,7 +588,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Sotsugyō Shōsho",
+          "nom": "Sotsugyou Shousho",
           "artiste": "Shion Miyawaki",
           "lien": "https://nl.catbox.moe/huz3rs.webm"
         },
@@ -717,7 +717,7 @@
       ]
     },
     {
-      "nom": "Arifureta Shokugyou de Sekai Saikyō 2nd Season",
+      "nom": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -746,7 +746,7 @@
       ]
     },
     {
-      "nom": "Arifureta Shokugyō de Sekai Saikyō",
+      "nom": "Arifureta Shokugyou de Sekai Saikyou",
       "id": 0,
       "nb_musique": 7,
       "musique": [
@@ -868,7 +868,7 @@
       ]
     },
     {
-      "nom": "Baka to Test to Shōkanjū",
+      "nom": "Baka to Test to Shoukanjū",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -890,7 +890,7 @@
           "type": "Ending",
           "numero": 2,
           "nom": "Hare Tokidoki Egao",
-          "artiste": "Hitomi Harada, Kaori Mizuhashi, Emiri Katō, Tomomi Isomura",
+          "artiste": "Hitomi Harada, Kaori Mizuhashi, Emiri Katou, Tomomi Isomura",
           "lien": "https://nl.catbox.moe/04wdnz.webm"
         }
       ],
@@ -904,7 +904,7 @@
       ]
     },
     {
-      "nom": "Baka to Test to Shōkanjū Ni!",
+      "nom": "Baka to Test to Shoukanjū Ni!",
       "id": 0,
       "nb_musique": 4,
       "musique": [
@@ -1167,7 +1167,7 @@
       ]
     },
     {
-      "nom": "Binbōgami ga!",
+      "nom": "Binbougami ga!",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -1196,7 +1196,7 @@
       ]
     },
     {
-      "nom": "Bishōnen Tanteidan",
+      "nom": "Bishounen Tanteidan",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -1211,14 +1211,14 @@
           "type": "Ending",
           "numero": 1,
           "nom": "Beautiful Reasoning",
-          "artiste": "Bishōnen Tanteidan",
+          "artiste": "Bishounen Tanteidan",
           "lien": "https://nl.catbox.moe/s0ox7y.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Welcoming Days",
-          "artiste": "Bishōnen Tanteidan",
+          "artiste": "Bishounen Tanteidan",
           "lien": "https://nl.catbox.moe/9f6rku.webm"
         }
       ],
@@ -1330,7 +1330,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Aoi Honō",
+          "nom": "Aoi Honou",
           "artiste": "Itowokashi",
           "lien": "https://nl.catbox.moe/as7tai.webm"
         },
@@ -1365,7 +1365,7 @@
         {
           "type": "Ending",
           "numero": 6,
-          "nom": "Tenjō Tenge",
+          "nom": "Tenjou Tenge",
           "artiste": "Miyuna",
           "lien": "https://nl.catbox.moe/xgrz97.webm"
         },
@@ -1486,7 +1486,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Sore wa Chiisa na Hikari no Yō na",
+          "nom": "Sore wa Chiisa na Hikari no You na",
           "artiste": "Sayuri",
           "lien": "https://nl.catbox.moe/8mw5en.webm"
         }
@@ -2247,7 +2247,7 @@
       ]
     },
     {
-      "nom": "Cheat Kusushi no Slow Life: Isekai ni Tsukurō Drugstore",
+      "nom": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -2391,7 +2391,7 @@
       ]
     },
     {
-      "nom": "Chō Gekijōban Keroro Gunsō Gekishin 4: Dragon Warriors de Arimasu!",
+      "nom": "Chou Gekijouban Keroro Gunsou Gekishin 4: Dragon Warriors de Arimasu!",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -2427,7 +2427,7 @@
       ]
     },
     {
-      "nom": "Chōjin Kōkōsei-tachi wa Isekai demo Yoyuu de Ikinuku Yōdesu!",
+      "nom": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku Youdesu!",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -2442,7 +2442,7 @@
           "type": "Ending",
           "numero": 1,
           "nom": "dear my distance",
-          "artiste": "Akari Kitō",
+          "artiste": "Akari Kitou",
           "lien": "https://nl.catbox.moe/qgfpub.webm"
         }
       ],
@@ -2456,14 +2456,14 @@
       ]
     },
     {
-      "nom": "Cider no Yō ni Kotoba ga Wakiagaru",
+      "nom": "Cider no You ni Kotoba ga Wakiagaru",
       "id": 0,
       "nb_musique": 2,
       "musique": [
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Cider no Yō ni Kotoba ga Wakiagaru",
+          "nom": "Cider no You ni Kotoba ga Wakiagaru",
           "artiste": "never young beach",
           "lien": "https://nl.catbox.moe/engcnf.webm"
         },
@@ -2556,7 +2556,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Kaze no Shōjo",
+          "nom": "Kaze no Shoujo",
           "artiste": "riya",
           "lien": "https://nl.catbox.moe/re9j10.webm"
         },
@@ -2641,7 +2641,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Shōjo no Gensō",
+          "nom": "Shoujo no Gensou",
           "artiste": "riya",
           "lien": "https://nl.catbox.moe/sqnm5c.webm"
         }
@@ -3001,7 +3001,7 @@
       ]
     },
     {
-      "nom": "Danganronpa Kibō no Gakuen to Zetsubō no Kōkōsei The Animation",
+      "nom": "Danganronpa Kibou no Gakuen to Zetsubou no Koukousei The Animation",
       "id": 0,
       "nb_musique": 6,
       "musique": [
@@ -3029,7 +3029,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Zetsubōsei: Hero Chiryōyaku",
+          "nom": "Zetsubousei: Hero Chiryouyaku",
           "artiste": "Suzumu feat. Soraru",
           "lien": "https://nl.catbox.moe/43g8cl.webm"
         },
@@ -3179,7 +3179,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Q&A",
-          "artiste": "Marina Inoue, Saeko Zōgō",
+          "artiste": "Marina Inoue, Saeko Zougou",
           "lien": ""
         }
       ],
@@ -3265,7 +3265,7 @@
       ]
     },
     {
-      "nom": "Death March kara Hajimaru Isekai Kyōsōkyoku",
+      "nom": "Death March kara Hajimaru Isekai Kyousoukyoku",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -3373,7 +3373,7 @@
       ]
     },
     {
-      "nom": "Deatte 5-byō de Battle",
+      "nom": "Deatte 5-byou de Battle",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -3381,7 +3381,7 @@
           "type": "Opening",
           "numero": 1,
           "nom": "No Continue",
-          "artiste": "Akari Kitō",
+          "artiste": "Akari Kitou",
           "lien": ""
         },
         {
@@ -3806,7 +3806,7 @@
       ]
     },
     {
-      "nom": "Digimon Xros Wars: Toki o Kakeru Shōnen Hunter-tachi",
+      "nom": "Digimon Xros Wars: Toki o Kakeru Shounen Hunter-tachi",
       "id": 0,
       "nb_musique": 5,
       "musique": [
@@ -3885,7 +3885,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Hakanai Kiss de Owarasete",
-          "artiste": "Yōko Hikasa",
+          "artiste": "Youko Hikasa",
           "lien": ""
         },
         {
@@ -4041,7 +4041,7 @@
       ]
     },
     {
-      "nom": "Dragon Quest: Dai no Daibōken",
+      "nom": "Dragon Quest: Dai no Daibouken",
       "id": 0,
       "nb_musique": 5,
       "musique": [
@@ -4099,7 +4099,7 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Role-Playing",
-          "artiste": "Masayoshi Ōishi",
+          "artiste": "Masayoshi ouishi",
           "lien": ""
         },
         {
@@ -4334,7 +4334,7 @@
         {
           "type": "Opening",
           "numero": 5,
-          "nom": "Egao no Mahō",
+          "nom": "Egao no Mahou",
           "artiste": "MAGIC PARTY",
           "lien": "https://nl.catbox.moe/7ien9n.webm"
         },
@@ -4524,7 +4524,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Tabidatsu Mono e",
-          "artiste": "Ryōko Ono",
+          "artiste": "Ryouko Ono",
           "lien": "https://nl.catbox.moe/45pj1y.webm"
         }
       ],
@@ -4972,8 +4972,8 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Aogeba Tōtoshi",
-          "artiste": "Kaibara Kōkō Sotsugyōsei",
+          "nom": "Aogeba Toutoshi",
+          "artiste": "Kaibara Koukou Sotsugyousei",
           "lien": ""
         },
         {
@@ -5087,21 +5087,21 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Gabriel Drop Kick",
-          "artiste": "Kana Hanazawa, Miyu Tomita, Naomi Ōzora, Saori Ōnishi",
+          "artiste": "Kana Hanazawa, Miyu Tomita, Naomi ouzora, Saori ounishi",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Hallelujah Essaim",
-          "artiste": "Kana Hanazawa, Miyu Tomita, Naomi Ōzora, Saori Ōnishi",
+          "artiste": "Kana Hanazawa, Miyu Tomita, Naomi ouzora, Saori ounishi",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Gabriel no Kazoeuta",
-          "artiste": "Saori Ōnishi",
+          "artiste": "Saori ounishi",
           "lien": ""
         }
       ],
@@ -5144,7 +5144,7 @@
       ]
     },
     {
-      "nom": "Gakkō Gurashi!",
+      "nom": "Gakkou Gurashi!",
       "id": 0,
       "nb_musique": 6,
       "musique": [
@@ -5244,15 +5244,15 @@
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "GATE ~Sore wa Akatsuki no Yō ni",
-          "artiste": "Kishida Kyōdan &THE Akeboshi Rockets",
+          "nom": "GATE ~Sore wa Akatsuki no You ni",
+          "artiste": "Kishida Kyoudan &THE Akeboshi Rockets",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Prism Communicate",
-          "artiste": "Nao Tōyama, Hisako Kanemoto, Risa Taneda",
+          "artiste": "Nao Touyama, Hisako Kanemoto, Risa Taneda",
           "lien": ""
         },
         {
@@ -5281,14 +5281,14 @@
           "type": "Opening",
           "numero": 1,
           "nom": "GATE II ~Sekai o Koete~",
-          "artiste": "Kishida Kyōdan &THE Akeboshi Rockets",
+          "artiste": "Kishida Kyoudan &THE Akeboshi Rockets",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Itsudatte Communication",
-          "artiste": "Hisako Kanemoto, Risa Taneda, Nao Tōyama",
+          "artiste": "Hisako Kanemoto, Risa Taneda, Nao Touyama",
           "lien": ""
         }
       ],
@@ -5374,7 +5374,7 @@
       ]
     },
     {
-      "nom": "Gekijōban Date A Live: Mayuri Judgement",
+      "nom": "Gekijouban Date A Live: Mayuri Judgement",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -5410,7 +5410,7 @@
       ]
     },
     {
-      "nom": "Gekijōban Violet Evergarden",
+      "nom": "Gekijouban Violet Evergarden",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -5446,7 +5446,7 @@
       ]
     },
     {
-      "nom": "Gekkan Shōjo Nozaki-kun",
+      "nom": "Gekkan Shoujo Nozaki-kun",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -5454,7 +5454,7 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Kimi Janakya Dame Mitai",
-          "artiste": "Masayoshi Ōishi",
+          "artiste": "Masayoshi ouishi",
           "lien": ""
         },
         {
@@ -5475,7 +5475,7 @@
       ]
     },
     {
-      "nom": "Genjitsu Shugi Yuusha no Ōkoku Saikenki",
+      "nom": "Genjitsu Shugi Yuusha no oukoku Saikenki",
       "id": 0,
       "nb_musique": 5,
       "musique": [
@@ -5525,7 +5525,7 @@
       ]
     },
     {
-      "nom": "Genjitsu Shugi Yuusha no Ōkoku Saikenki",
+      "nom": "Genjitsu Shugi Yuusha no oukoku Saikenki",
       "id": 1,
       "nb_musique": 2,
       "musique": [
@@ -5583,7 +5583,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Sansai Enjou no Dan",
-          "artiste": "Shō Hayami",
+          "artiste": "Shou Hayami",
           "lien": ""
         },
         {
@@ -5892,14 +5892,14 @@
       ]
     },
     {
-      "nom": "Gotōbun no Hanayome",
+      "nom": "Gotoubun no Hanayome",
       "id": 0,
       "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "Gotōbun no Kimochi",
+          "nom": "Gotoubun no Kimochi",
           "artiste": "Nakano-ke no Itsutsugo",
           "lien": ""
         },
@@ -5928,14 +5928,14 @@
       ]
     },
     {
-      "nom": "Gotōbun no Hanayome ∬",
+      "nom": "Gotoubun no Hanayome ∬",
       "id": 0,
       "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "Gotōbun no Katachi",
+          "nom": "Gotoubun no Katachi",
           "artiste": "Nakano-ke no Itsutsugo",
           "lien": ""
         },
@@ -5949,7 +5949,7 @@
         {
           "type": "Ending",
           "numero": 2,
-          "nom": "Gotōbun no Kimochi",
+          "nom": "Gotoubun no Kimochi",
           "artiste": "Nakano-ke no Itsutsugo",
           "lien": ""
         }
@@ -6206,7 +6206,7 @@
       ]
     },
     {
-      "nom": "Hachi-nan tte, Sore wa Nai Deshō!",
+      "nom": "Hachi-nan tte, Sore wa Nai Deshou!",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -6264,7 +6264,7 @@
       ]
     },
     {
-      "nom": "Hai to Gensō no Grimgar",
+      "nom": "Hai to Gensou no Grimgar",
       "id": 0,
       "nb_musique": 14,
       "musique": [
@@ -6406,7 +6406,7 @@
       ]
     },
     {
-      "nom": "Hataraku Maō-sama!",
+      "nom": "Hataraku Maou-sama!",
       "id": 0,
       "nb_musique": 5,
       "musique": [
@@ -6441,7 +6441,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "MgRonald e Yōkoso",
+          "nom": "MgRonald e Youkoso",
           "artiste": "MgRonald Nippon Shibu",
           "lien": ""
         }
@@ -6569,7 +6569,7 @@
       ]
     },
     {
-      "nom": "Hige o Soru. Soshite Joshikōsei o Hirou.",
+      "nom": "Hige o Soru. Soshite Joshikousei o Hirou.",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -6641,7 +6641,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Taishō a",
+          "nom": "Taishou a",
           "artiste": "anNina",
           "lien": ""
         }
@@ -6808,7 +6808,7 @@
           "type": "Ending",
           "numero": 3,
           "nom": "Hardy Buddy",
-          "artiste": "Yuka Ōtsubo & Wataru Hatano",
+          "artiste": "Yuka outsubo & Wataru Hatano",
           "lien": ""
         },
         {
@@ -6920,14 +6920,14 @@
         {
           "type": "Ending",
           "numero": 5,
-          "nom": "Hyōri Ittai",
+          "nom": "Hyouri Ittai",
           "artiste": "Yuzu",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 6,
-          "nom": "Hyōri Ittai -second version-",
+          "nom": "Hyouri Ittai -second version-",
           "artiste": "Yuzu",
           "lien": ""
         }
@@ -6971,7 +6971,7 @@
       ]
     },
     {
-      "nom": "Hyōka",
+      "nom": "Hyouka",
       "id": 0,
       "nb_musique": 6,
       "musique": [
@@ -7013,7 +7013,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Ue o Muite Arukō",
+          "nom": "Ue o Muite Arukou",
           "artiste": "Hachidai Nakamura",
           "lien": ""
         }
@@ -7151,7 +7151,7 @@
       ]
     },
     {
-      "nom": "Isekai Maō to Shōkan Shōjo no Dorei Majutsu",
+      "nom": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -7180,7 +7180,7 @@
       ]
     },
     {
-      "nom": "Isekai Maō to Shōkan Shōjo no Dorei Majutsu Ω",
+      "nom": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -7202,7 +7202,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Ganbatteiru Kimi Dakara",
-          "artiste": "Yuu Serizawa, Azumi Waki, Miku Itō, Fumiko Uchimura",
+          "artiste": "Yuu Serizawa, Azumi Waki, Miku Itou, Fumiko Uchimura",
           "lien": ""
         }
       ],
@@ -7325,48 +7325,48 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Another World",
-          "artiste": "AŌP",
+          "artiste": "AouP",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Junjō Emotional",
+          "nom": "Junjou Emotional",
           "artiste": "Maaya Uchida feat. Yui Fukuo, Chinatsu Akasaki, Marika Kouno, Nanami Yamashita, Sumire Uesaka",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 2,
-          "nom": "Junjō Emotional",
+          "nom": "Junjou Emotional",
           "artiste": "Yui Fukuo feat. Maaya Uchida, Chinatsu Akasaki, Marika Kouno, Nanami Yamashita, Sumire Uesaka",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 3,
-          "nom": "Junjō Emotional",
+          "nom": "Junjou Emotional",
           "artiste": "Chinatsu Akasaki feat. Maaya Uchida, Yui Fukuo, Marika Kouno, Nanami Yamashita, Sumire Uesaka",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 4,
-          "nom": "Junjō Emotional",
+          "nom": "Junjou Emotional",
           "artiste": "Marika Kouno feat. Maaya Uchida, Yui Fukuo, Chinatsu Akasaki, Nanami Yamashita, Sumire Uesaka",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 5,
-          "nom": "Junjō Emotional",
+          "nom": "Junjou Emotional",
           "artiste": "Nanami Yamashita feat. Maaya Uchida, Yui Fukuo, Chinatsu Akasaki, Marika Kouno, Sumire Uesaka",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 6,
-          "nom": "Junjō Emotional",
+          "nom": "Junjou Emotional",
           "artiste": "Sumire Uesaka feat. Maaya Uchida, Yui Fukuo, Chinatsu Akasaki, Marika Kouno, Nanami Yamashita",
           "lien": ""
         }
@@ -7410,7 +7410,7 @@
       ]
     },
     {
-      "nom": "Itai no wa Iya nano de Bōgyoryoku ni Kyokufuri Shitai to Omoimasu.",
+      "nom": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -7745,7 +7745,7 @@
       ]
     },
     {
-      "nom": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunōsen",
+      "nom": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -7845,7 +7845,7 @@
       ]
     },
     {
-      "nom": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunōsen",
+      "nom": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -8317,7 +8317,7 @@
       ]
     },
     {
-      "nom": "Karakai Jōzu no Takagi-san",
+      "nom": "Karakai Jouzu no Takagi-san",
       "id": 0,
       "nb_musique": 9,
       "musique": [
@@ -8395,7 +8395,7 @@
       ]
     },
     {
-      "nom": "Karakai Jōzu no Takagi-san 2",
+      "nom": "Karakai Jouzu no Takagi-san 2",
       "id": 0,
       "nb_musique": 10,
       "musique": [
@@ -8430,7 +8430,7 @@
         {
           "type": "Ending",
           "numero": 4,
-          "nom": "Arigatō",
+          "nom": "Arigatou",
           "artiste": "Rie Takahashi",
           "lien": ""
         },
@@ -8480,7 +8480,7 @@
       ]
     },
     {
-      "nom": "Karakai Jōzu no Takagi-san 3",
+      "nom": "Karakai Jouzu no Takagi-san 3",
       "id": 0,
       "nb_musique": 12,
       "musique": [
@@ -8614,7 +8614,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Yōkai Ningen Bem",
+          "nom": "Youkai Ningen Bem",
           "artiste": "Yukinon's",
           "lien": ""
         }
@@ -8672,7 +8672,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Attōteki Vivid Days",
+          "nom": "Attouteki Vivid Days",
           "artiste": "Nanami Yoshi.",
           "lien": ""
         }
@@ -8744,7 +8744,7 @@
         {
           "type": "Ending",
           "numero": 2,
-          "nom": "Shinsekai Kōkyōgaku",
+          "nom": "Shinsekai Koukyougaku",
           "artiste": "Sayonara Ponytail",
           "lien": ""
         },
@@ -8829,7 +8829,7 @@
         {
           "type": "Ending",
           "numero": 3,
-          "nom": "Kamado Tanjirō no Uta",
+          "nom": "Kamado Tanjirou no Uta",
           "artiste": "Go Shiina featuring Nami Nakagawa",
           "lien": ""
         },
@@ -8959,7 +8959,7 @@
       ]
     },
     {
-      "nom": "Kimi no Suizō o Tabetai",
+      "nom": "Kimi no Suizou o Tabetai",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -8973,7 +8973,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Shunkashūtō",
+          "nom": "Shunkashūtou",
           "artiste": "sumika",
           "lien": ""
         },
@@ -9370,7 +9370,7 @@
           "type": "Ending",
           "numero": 2,
           "nom": "Kokoro＊Palette (Gasshou ver.)",
-          "artiste": "Ari Ozawa, Sumire Uesaka, Nao Tōyama, Nana Mizuki",
+          "artiste": "Ari Ozawa, Sumire Uesaka, Nao Touyama, Nana Mizuki",
           "lien": ""
         },
         {
@@ -9435,7 +9435,7 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Tone",
-          "artiste": "Shōta Aoi",
+          "artiste": "Shouta Aoi",
           "lien": ""
         },
         {
@@ -9464,7 +9464,7 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Harmony",
-          "artiste": "Shōta Aoi",
+          "artiste": "Shouta Aoi",
           "lien": ""
         },
         {
@@ -9478,7 +9478,7 @@
           "type": "Ending",
           "numero": 2,
           "nom": "Tone",
-          "artiste": "Shōta Aoi",
+          "artiste": "Shouta Aoi",
           "lien": ""
         }
       ],
@@ -9506,7 +9506,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Chiisana Bōkensha",
+          "nom": "Chiisana Boukensha",
           "artiste": "Sora Amamiya & Rie Takahashi & Ai Kayano",
           "lien": ""
         }
@@ -9823,7 +9823,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Heikōsen",
+          "nom": "Heikousen",
           "artiste": "Sayuri",
           "lien": ""
         },
@@ -9859,7 +9859,7 @@
       ]
     },
     {
-      "nom": "Layton Kyōju to Eien no Utahime",
+      "nom": "Layton Kyouju to Eien no Utahime",
       "id": 0,
       "nb_musique": 4,
       "musique": [
@@ -9938,7 +9938,7 @@
       ]
     },
     {
-      "nom": "Legendz: Yomigaeru Ryūō Densetsu",
+      "nom": "Legendz: Yomigaeru Ryūou Densetsu",
       "id": 0,
       "nb_musique": 4,
       "musique": [
@@ -10060,7 +10060,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Shouganeeze",
-          "artiste": "Umibōzu BAND",
+          "artiste": "Umibouzu BAND",
           "lien": ""
         }
       ],
@@ -10218,7 +10218,7 @@
       ]
     },
     {
-      "nom": "Mahō Shōjo Madoka★Magica",
+      "nom": "Mahou Shoujo Madoka★Magica",
       "id": 0,
       "nb_musique": 7,
       "musique": [
@@ -10261,14 +10261,14 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Credens justitiam",
-          "artiste": "Eri Itō",
+          "artiste": "Eri Itou",
           "lien": ""
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Sis puella magica!",
-          "artiste": "Eri Itō & Yuriko Kaida",
+          "artiste": "Eri Itou & Yuriko Kaida",
           "lien": ""
         }
       ],
@@ -10282,7 +10282,7 @@
       ]
     },
     {
-      "nom": "Mahōka Kōkō no Rettōsei",
+      "nom": "Mahouka Koukou no Rettousei",
       "id": 0,
       "nb_musique": 9,
       "musique": [
@@ -10360,7 +10360,7 @@
       ]
     },
     {
-      "nom": "Mahōka Kōkō no Rettōsei: Raihōsha-hen",
+      "nom": "Mahouka Koukou no Rettousei: Raihousha-hen",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -10489,14 +10489,14 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Kimi no Koakuma Mokushiroku",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Kimi no Koakuma Mokushiroku",
-          "artiste": "Nao Tōyama & Ayumu Murase",
+          "artiste": "Nao Touyama & Ayumu Murase",
           "lien": ""
         }
       ],
@@ -10667,7 +10667,7 @@
       ]
     },
     {
-      "nom": "Masō Gakuen H×H",
+      "nom": "Masou Gakuen H×H",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -10696,7 +10696,7 @@
       ]
     },
     {
-      "nom": "Maō-sama, Retry!",
+      "nom": "Maou-sama, Retry!",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -10711,7 +10711,7 @@
           "type": "Ending",
           "numero": 1,
           "nom": "NEW",
-          "artiste": "Haruka Tōjō",
+          "artiste": "Haruka Toujou",
           "lien": ""
         }
       ],
@@ -10854,7 +10854,7 @@
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "Daisuki da yo Daisuki da yo Umarete Kite Arigatō",
+          "nom": "Daisuki da yo Daisuki da yo Umarete Kite Arigatou",
           "artiste": "Ai Kakuma & Nobuhiko Okamoto",
           "lien": ""
         },
@@ -11055,7 +11055,7 @@
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "Netsujō no Spectrum",
+          "nom": "Netsujou no Spectrum",
           "artiste": "Ikimono-gakari",
           "lien": ""
         },
@@ -11580,7 +11580,7 @@
         {
           "type": "Opening",
           "numero": 7,
-          "nom": "Tōmei Datta Sekai",
+          "nom": "Toumei Datta Sekai",
           "artiste": "Motohiro Hata",
           "lien": ""
         },
@@ -11797,7 +11797,7 @@
         {
           "type": "Ending",
           "numero": 18,
-          "nom": "Yokubō o Sakebe!!!!",
+          "nom": "Yokubou o Sakebe!!!!",
           "artiste": "OKAMOTO'S",
           "lien": ""
         },
@@ -12140,7 +12140,7 @@
       ]
     },
     {
-      "nom": "Nichijō",
+      "nom": "Nichijou",
       "id": 0,
       "nb_musique": 19,
       "musique": [
@@ -12154,7 +12154,7 @@
         {
           "type": "Opening",
           "numero": 2,
-          "nom": "Hyadain no Jōjō Yūjō",
+          "nom": "Hyadain no Joujou Yūjou",
           "artiste": "Hyadain",
           "lien": ""
         },
@@ -12396,7 +12396,7 @@
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "Kyōran Hey Kids!!",
+          "nom": "Kyouran Hey Kids!!",
           "artiste": "THE ORAL CIGARETTES",
           "lien": ""
         },
@@ -12749,7 +12749,7 @@
         {
           "type": "Ending",
           "numero": 13,
-          "nom": "Tsuki to Taiyō",
+          "nom": "Tsuki to Taiyou",
           "artiste": "shela",
           "lien": ""
         },
@@ -12833,7 +12833,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Nekomamushi no Danna ni Ai ni Yukō",
+          "nom": "Nekomamushi no Danna ni Ai ni Yukou",
           "artiste": "Choo",
           "lien": ""
         },
@@ -12848,7 +12848,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "NON SUGAR LIFE",
-          "artiste": "Haruhiko Jō",
+          "artiste": "Haruhiko Jou",
           "lien": ""
         },
         {
@@ -12868,15 +12868,15 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Soul Pocus ~Joō no Uta~",
-          "artiste": "Haruhiko Jō, Ayano Nonomura, Homies",
+          "nom": "Soul Pocus ~Joou no Uta~",
+          "artiste": "Haruhiko Jou, Ayano Nonomura, Homies",
           "lien": ""
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "SUGAR LIFE",
-          "artiste": "Haruhiko Jō",
+          "artiste": "Haruhiko Jou",
           "lien": ""
         },
         {
@@ -12911,7 +12911,7 @@
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "THE HERO !! ~Ikareru Ken ni Honō o Tsukeru~",
+          "nom": "THE HERO !! ~Ikareru Ken ni Honou o Tsukeru~",
           "artiste": "JAM Project",
           "lien": ""
         },
@@ -13134,7 +13134,7 @@
       ]
     },
     {
-      "nom": "Ore dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyō",
+      "nom": "Ore dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -13242,7 +13242,7 @@
       ]
     },
     {
-      "nom": "Oukami Shōjo to Kuro Ōji",
+      "nom": "Oukami Shoujo to Kuro ouji",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -13256,7 +13256,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Ōkami Heart",
+          "nom": "oukami Heart",
           "artiste": "ORESAMA",
           "lien": ""
         }
@@ -13328,7 +13328,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Watashi no Hōsekibako",
+          "nom": "Watashi no Housekibako",
           "artiste": "Mai Fuchigami",
           "lien": ""
         },
@@ -13473,7 +13473,7 @@
       ]
     },
     {
-      "nom": "Overlord: Fushisha no Ō",
+      "nom": "Overlord: Fushisha no ou",
       "id": 0,
       "nb_musique": 1,
       "musique": [
@@ -14289,7 +14289,7 @@
           "type": "Ending",
           "numero": 10,
           "nom": "POPPY PAPPY DAY",
-          "artiste": "Shōta Aoi",
+          "artiste": "Shouta Aoi",
           "lien": ""
         },
         {
@@ -14622,7 +14622,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Bōya no Yume yo",
+          "nom": "Bouya no Yume yo",
           "artiste": "Rie Takahashi",
           "lien": ""
         }
@@ -14730,7 +14730,7 @@
       ]
     },
     {
-      "nom": "Re:Zero kara Hajimeru Isekai Seikatsu: Hyōketsu no Kizuna",
+      "nom": "Re:Zero kara Hajimeru Isekai Seikatsu: Hyouketsu no Kizuna",
       "id": 0,
       "nb_musique": 1,
       "musique": [
@@ -14894,7 +14894,7 @@
       ]
     },
     {
-      "nom": "Rokudenashi Majutsu Kōshi to Akashic Records",
+      "nom": "Rokudenashi Majutsu Koushi to Akashic Records",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -15351,7 +15351,7 @@
       ]
     },
     {
-      "nom": "Sakura-sō no Pet na Kanojo",
+      "nom": "Sakura-sou no Pet na Kanojo",
       "id": 0,
       "nb_musique": 7,
       "musique": [
@@ -15387,7 +15387,7 @@
           "type": "Ending",
           "numero": 2,
           "nom": "Prime Number -Minna to Deaeru Hi-",
-          "artiste": "Asuka Ōkura",
+          "artiste": "Asuka oukura",
           "lien": ""
         },
         {
@@ -15566,7 +15566,7 @@
       ]
     },
     {
-      "nom": "Seishun Buta Yarō wa Bunny Girl-senpai no Yume o Minai",
+      "nom": "Seishun Buta Yarou wa Bunny Girl-senpai no Yume o Minai",
       "id": 0,
       "nb_musique": 8,
       "musique": [
@@ -15581,7 +15581,7 @@
           "type": "Ending",
           "numero": 1,
           "nom": "Fukashigi no Karte",
-          "artiste": "Asami Seto, Nao Tōyama, Atsumi Tanezaki, Maaya Uchida, Yurika Kubo, Inori Minase",
+          "artiste": "Asami Seto, Nao Touyama, Atsumi Tanezaki, Maaya Uchida, Yurika Kubo, Inori Minase",
           "lien": ""
         },
         {
@@ -15595,7 +15595,7 @@
           "type": "Ending",
           "numero": 3,
           "nom": "Fukashigi no Karte",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         },
         {
@@ -15981,7 +15981,7 @@
       ]
     },
     {
-      "nom": "Shinchō Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchō Sugiru",
+      "nom": "Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -16039,7 +16039,7 @@
           "type": "Ending",
           "numero": 1,
           "nom": "Utsukushiki Zankoku na Sekai",
-          "artiste": "Yōko Hikasa",
+          "artiste": "Youko Hikasa",
           "lien": ""
         },
         {
@@ -16138,7 +16138,7 @@
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "Shinzō wo Sasageyo!",
+          "nom": "Shinzou wo Sasageyo!",
           "artiste": "Linked Horizon",
           "lien": ""
         },
@@ -16467,7 +16467,7 @@
       ]
     },
     {
-      "nom": "Shinmai Maō no Testament",
+      "nom": "Shinmai Maou no Testament",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -16934,7 +16934,7 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Hacking to the Gate",
-          "artiste": "Kanako Itō",
+          "artiste": "Kanako Itou",
           "lien": ""
         },
         {
@@ -16948,14 +16948,14 @@
           "type": "Ending",
           "numero": 2,
           "nom": "Sky Clad no Kansokusha",
-          "artiste": "Kanako Itō",
+          "artiste": "Kanako Itou",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Another Heaven",
-          "artiste": "Kanako Itō",
+          "artiste": "Kanako Itou",
           "lien": ""
         },
         {
@@ -16991,14 +16991,14 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Fatima",
-          "artiste": "Kanako Itō",
+          "artiste": "Kanako Itou",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Amadeus",
-          "artiste": "Kanako Itō",
+          "artiste": "Kanako Itou",
           "lien": ""
         },
         {
@@ -17040,7 +17040,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Hacking to the Gate",
-          "artiste": "Kanako Itō",
+          "artiste": "Kanako Itou",
           "lien": ""
         },
         {
@@ -17054,7 +17054,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Sky Clad no Kansokusha",
-          "artiste": "Kanako Itō",
+          "artiste": "Kanako Itou",
           "lien": ""
         }
       ],
@@ -17097,7 +17097,7 @@
       ]
     },
     {
-      "nom": "Suki ni Naru Sono Shunkan o: Kokuhaku Jikkō Iinkai",
+      "nom": "Suki ni Naru Sono Shunkan o: Kokuhaku Jikkou Iinkai",
       "id": 0,
       "nb_musique": 6,
       "musique": [
@@ -17555,7 +17555,7 @@
       ]
     },
     {
-      "nom": "Tantei wa Mō, Shindeiru.",
+      "nom": "Tantei wa Mou, Shindeiru.",
       "id": 0,
       "nb_musique": 5,
       "musique": [
@@ -17569,7 +17569,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Kodō",
+          "nom": "Kodou",
           "artiste": "Kagura Nana",
           "lien": ""
         },
@@ -17826,7 +17826,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Daijōbu (Movie edit)",
+          "nom": "Daijoubu (Movie edit)",
           "artiste": "RADWIMPS",
           "lien": ""
         },
@@ -17848,7 +17848,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Grand Escape (Movie edit)",
-          "artiste": "RADWIMPS feat. Tōko Miura",
+          "artiste": "RADWIMPS feat. Touko Miura",
           "lien": ""
         },
         {
@@ -17862,7 +17862,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Shukusai (Movie edit)",
-          "artiste": "RADWIMPS feat. Tōko Miura",
+          "artiste": "RADWIMPS feat. Touko Miura",
           "lien": ""
         }
       ],
@@ -18141,7 +18141,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Bakunetsu Shōjo Magical Kyōko",
+          "nom": "Bakunetsu Shoujo Magical Kyouko",
           "artiste": "Chiemi Chiba",
           "lien": ""
         },
@@ -18271,7 +18271,7 @@
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "Munō",
+          "nom": "Munou",
           "artiste": "österreich",
           "lien": ""
         },
@@ -18508,7 +18508,7 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Koi no Uta (feat. Tsukasa Yuzaki)",
-          "artiste": "Yunomi feat. Akari Kitō",
+          "artiste": "Yunomi feat. Akari Kitou",
           "lien": ""
         },
         {
@@ -18643,7 +18643,7 @@
       ]
     },
     {
-      "nom": "Tsuki ga Michibiku Isekai Dōchuu",
+      "nom": "Tsuki ga Michibiku Isekai Douchuu",
       "id": 0,
       "nb_musique": 4,
       "musique": [
@@ -18672,7 +18672,7 @@
           "type": "Ending",
           "numero": 3,
           "nom": "Ah Jinsei ni Namida Ari",
-          "artiste": "Ayane Sakura & Akari Kitō",
+          "artiste": "Ayane Sakura & Akari Kitou",
           "lien": ""
         }
       ],
@@ -18694,56 +18694,56 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Ima Koko",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Tsuki ga Kirei",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Fragile",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Hatsukoi",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Mirai e",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Natsumatsuri",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Sangatsu Kokonoka",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Yasashii Kimochi",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         }
       ],
@@ -18967,28 +18967,28 @@
           "type": "Ending",
           "numero": 1,
           "nom": "Hello Alone",
-          "artiste": "Saori Hayami & Nao Tōyama",
+          "artiste": "Saori Hayami & Nao Touyama",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Hello Alone -Yui Ballade-",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Hello Alone -Band arrange-",
-          "artiste": "Saori Hayami & Nao Tōyama",
+          "artiste": "Saori Hayami & Nao Touyama",
           "lien": ""
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Bitter Bitter Sweet",
-          "artiste": "Saori Hayami & Nao Tōyama",
+          "artiste": "Saori Hayami & Nao Touyama",
           "lien": ""
         }
       ],
@@ -19017,14 +19017,14 @@
           "type": "Ending",
           "numero": 1,
           "nom": "Diamond no Jundo",
-          "artiste": "Saori Hayami & Nao Tōyama",
+          "artiste": "Saori Hayami & Nao Touyama",
           "lien": ""
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Diamond no Jundo ~Yui Ballade~",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         },
         {
@@ -19045,7 +19045,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Bitter Bitter Sweet",
-          "artiste": "Saori Hayami & Nao Tōyama",
+          "artiste": "Saori Hayami & Nao Touyama",
           "lien": ""
         }
       ],
@@ -19074,7 +19074,7 @@
           "type": "Ending",
           "numero": 1,
           "nom": "Everyday World",
-          "artiste": "Saori Hayami & Nao Tōyama",
+          "artiste": "Saori Hayami & Nao Touyama",
           "lien": ""
         },
         {
@@ -19088,21 +19088,21 @@
           "type": "Ending",
           "numero": 3,
           "nom": "Everyday World -Ballade Arrange- Yui Solo Ver.",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Bitter Bitter Sweet",
-          "artiste": "Saori Hayami & Nao Tōyama",
+          "artiste": "Saori Hayami & Nao Touyama",
           "lien": ""
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Hello Alone -Yui Ballade-",
-          "artiste": "Nao Tōyama",
+          "artiste": "Nao Touyama",
           "lien": ""
         },
         {
@@ -19289,7 +19289,7 @@
       ]
     },
     {
-      "nom": "Zero Kara Hajimeru Mahō no Sho",
+      "nom": "Zero Kara Hajimeru Mahou no Sho",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -19441,7 +19441,7 @@
       ]
     },
     {
-      "nom": "Zutto Mae kara Suki Deshita: Kokuhaku Jikkō Iinkai",
+      "nom": "Zutto Mae kara Suki Deshita: Kokuhaku Jikkou Iinkai",
       "id": 0,
       "nb_musique": 6,
       "musique": [
@@ -19455,7 +19455,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Ippun Ichibyō Kimi to Boku no",
+          "nom": "Ippun Ichibyou Kimi to Boku no",
           "artiste": "HoneyWorks meets Sphere",
           "lien": ""
         },
@@ -19483,7 +19483,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Nichiyōbi no Himitsu",
+          "nom": "Nichiyoubi no Himitsu",
           "artiste": "HoneyWorks meets CHiCO & sana",
           "lien": ""
         }

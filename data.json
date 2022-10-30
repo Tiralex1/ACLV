@@ -1,6 +1,6 @@
 {
-  "nb_anime": 392,
-  "nb_musique": 1945,
+  "nb_anime": 397,
+  "nb_musique": 1975,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -7745,6 +7745,49 @@
       ]
     },
     {
+      "nom": "Kage no Jitsuryokusha ni Naritakute!",
+      "id": 0,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "HIGHEST",
+          "artiste": "OxT",
+          "lien": "https://nl.catbox.moe/bkpsg1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Darling in the Night",
+          "artiste": "Asami Seto",
+          "lien": "https://nl.catbox.moe/070nwp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Darling in the Night",
+          "artiste": "Inori Minase",
+          "lien": "https://nl.catbox.moe/6n1q1s.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Darling in the Night",
+          "artiste": "Suzuko Mimori",
+          "lien": "https://nl.catbox.moe/rrzrba.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
       "nom": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
       "id": 0,
       "nb_musique": 3,
@@ -8658,6 +8701,56 @@
       ]
     },
     {
+      "nom": "Kenja no Deshi wo Nanoru Kenja",
+      "id": 0,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Ready Set Go!!",
+          "artiste": "Asaka",
+          "lien": "https://nl.catbox.moe/6zjw7k.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ambitious",
+          "artiste": "Erabareshi",
+          "lien": "https://nl.catbox.moe/py2mex.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ballad",
+          "artiste": "Asaka",
+          "lien": "https://nl.catbox.moe/khqhia.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Idomi Tsuzukeru Mono-tachi",
+          "artiste": "Mika Okamoto",
+          "lien": "https://nl.catbox.moe/3reptk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shinryoku no Melody",
+          "artiste": "Mika Okamoto",
+          "lien": "https://nl.catbox.moe/kxyq2a.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
       "nom": "Kenja no Mago",
       "id": 0,
       "nb_musique": 2,
@@ -9013,6 +9106,35 @@
           "C": 0,
           "L": 0,
           "V": 1
+        }
+      ]
+    },
+    {
+      "nom": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai o Tsukisusumu",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Abracada-Boo",
+          "artiste": "Kaori Ishihara",
+          "lien": "https://nl.catbox.moe/9f75jy.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Mortal With You",
+          "artiste": "Mili",
+          "lien": "https://nl.catbox.moe/9hdnne.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },
@@ -9797,6 +9919,42 @@
           "nom": "On My Own",
           "artiste": "Aoi Yuuki",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kuro no Shoukanshi",
+      "id": 0,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Atamannaka DEAD END",
+          "artiste": "RetBear",
+          "lien": "https://nl.catbox.moe/8qq43q.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Wherever",
+          "artiste": "Minori Suzuki",
+          "lien": "https://nl.catbox.moe/bcbftg.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Wherever remix",
+          "artiste": "Minori Suzuki",
+          "lien": "https://nl.catbox.moe/dauvxy.webm"
         }
       ],
       "users": [
@@ -13534,6 +13692,133 @@
           "nom": "scaPEGoat",
           "artiste": "SawanoHiroyuki[nZk]:Yosh",
           "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Paripi Koumei",
+      "id": 0,
+      "nb_musique": 16,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Chiki Chiki Ban Ban",
+          "artiste": "QUEENDOM",
+          "lien": "https://nl.catbox.moe/1lqk8b.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kibun Joujou↑↑",
+          "artiste": "96neko, Ryoutarou Okiayu",
+          "lien": "https://nl.catbox.moe/rojg5e.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Roppongi Udonya (Kari)",
+          "artiste": "96neko",
+          "lien": "https://nl.catbox.moe/9fu0l0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Kibun Joujou↑↑",
+          "artiste": "96neko, Ryoutarou Okiayu, Shouya Chiba",
+          "lien": "https://nl.catbox.moe/ege9yx.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Kibun Joujou↑↑",
+          "artiste": "96neko, Ryoutarou Okiayu, Shouya Chiba, Lezel",
+          "lien": "https://nl.catbox.moe/qc0pqz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Be Crazy for Me",
+          "artiste": "96neko",
+          "lien": "https://nl.catbox.moe/ia7935.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "ChocoPate",
+          "artiste": "Lezel",
+          "lien": "https://nl.catbox.moe/se9igl.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "DREAMER",
+          "artiste": "96neko",
+          "lien": "https://nl.catbox.moe/q2jt4r.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Find the way",
+          "artiste": "96neko",
+          "lien": "https://nl.catbox.moe/2vo1w5.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "I'm still alive today",
+          "artiste": "96neko",
+          "lien": "https://nl.catbox.moe/3my6ba.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "I'm still alive today acoustic ver.",
+          "artiste": "96neko",
+          "lien": "https://nl.catbox.moe/7obwd7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "I'm still alive today Nanami ver.",
+          "artiste": "Lezel",
+          "lien": "https://nl.catbox.moe/g1javs.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Make it real",
+          "artiste": "Yuu Kobayashi",
+          "lien": "https://nl.catbox.moe/t67ydb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shooting Star",
+          "artiste": "96neko",
+          "lien": "https://nl.catbox.moe/7mox9n.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "UNDERWORLD",
+          "artiste": "Lezel",
+          "lien": "https://nl.catbox.moe/lloozo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "UNDERWORLD EIKO ver.",
+          "artiste": "96neko",
+          "lien": "https://nl.catbox.moe/d37xum.webm"
         }
       ],
       "users": [

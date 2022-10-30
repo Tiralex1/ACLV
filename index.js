@@ -114,10 +114,16 @@ function filtre() {
     var tab_anime = [];
     var tab_musique = [];
     for (var i = 0; i < tab[0].length; ++i) {
-        tab_anime[i] = tab[0][i];
+        tab_anime.push([]);
+        for (var j = 0; j < 8; ++j) {
+            tab_anime[i][j] = tab[0][i][j];
+        }
     }
     for (var i = 0; i < tab[1].length; ++i) {
-        tab_musique[i] = tab[1][i];
+        tab_musique.push([]);
+        for (var j = 0; j < 5; ++j) {
+            tab_musique[i][j] = tab[1][i][j];
+        }
     }
     var child = document.getElementById("AnimeMusicList");
     var tab_filtr = [];

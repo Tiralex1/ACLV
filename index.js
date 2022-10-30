@@ -111,8 +111,14 @@ function affich(tab_anime, tab_musique) {
 }
 
 function filtre() {
-    var tab_anime = tab[0];
-    var tab_musique = tab[1];
+    var tab_anime = [];
+    var tab_musique = [];
+    for (var i = 0; i < tab[0].length; ++i) {
+        tab_anime[i] = tab[0][i];
+    }
+    for (var i = 0; i < tab[1].length; ++i) {
+        tab_musique[i] = tab[1][i];
+    }
     var child = document.getElementById("AnimeMusicList");
     var tab_filtr = [];
     var tab_filtr2 = [];

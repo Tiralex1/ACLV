@@ -130,6 +130,7 @@ function filtre(tab_anime,tab_musique) {
         }
         tab_anime = tab_filtr;
         tab_musique = tab_filtr2;
+        console.log("OK");
     }
     val = a.checked;
     var val2 = c.checked;

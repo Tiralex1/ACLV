@@ -1,6 +1,6 @@
 {
   "nb_anime": 397,
-  "nb_musique": 1975,
+  "nb_musique": 1976,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -5475,9 +5475,9 @@
       ]
     },
     {
-      "nom": "Genjitsu Shugi Yuusha no oukoku Saikenki",
+      "nom": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
       "id": 0,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -5513,6 +5513,13 @@
           "nom": "Gordoa no Tani o Koete",
           "artiste": "Mariko Higashiuchi",
           "lien": "https://nl.catbox.moe/tz1v0t.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Wataridori",
+          "artiste": "Reina Ueda",
+          "lien": "https://nl.catbox.moe/5est47.webm"
         }
       ],
       "users": [
@@ -5525,7 +5532,7 @@
       ]
     },
     {
-      "nom": "Genjitsu Shugi Yuusha no oukoku Saikenki",
+      "nom": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
       "id": 1,
       "nb_musique": 2,
       "musique": [

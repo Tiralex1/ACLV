@@ -1,6 +1,6 @@
 {
   "nb_anime": 397,
-  "nb_musique": 1977,
+  "nb_musique": 1976,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -6679,14 +6679,14 @@
           "numero": 1,
           "nom": "Masshiro",
           "artiste": "Sumire Morohoshi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/bm4i35.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Kami-kazari no Tenshi",
           "artiste": "Megumi Nakajima",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/tn5jrr.webm"
         }
       ],
       "users": [
@@ -6708,21 +6708,21 @@
           "numero": 1,
           "nom": "Tsumujikaze",
           "artiste": "Sumire Morohoshi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/wzyb1l.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Ephemera o Atsumete",
           "artiste": "Minori Suzuki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/dtgi9f.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Natsu no Midori",
           "artiste": "Shou Hayami",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/lpmst0.webm"
         }
       ],
       "users": [
@@ -6887,63 +6887,56 @@
     {
       "nom": "Hunter X Hunter",
       "id": 0,
-      "nb_musique": 8,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
           "nom": "departure!",
           "artiste": "Masatoshi Ono",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/gomkdc.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "departure! -second version-",
           "artiste": "Masatoshi Ono",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/a8ulv9.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Just Awake",
           "artiste": "Fear, and Loathing in Las Vegas",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/1c10sy.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "HUNTING FOR YOUR DREAM",
           "artiste": "GALNERYUS",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/pwlu1q.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "REASON",
           "artiste": "Yuzu",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/5qo4z0.webm"
         },
         {
           "type": "Ending",
           "numero": 4,
           "nom": "Nagareboshi☆KIRARI",
           "artiste": "Yuzu",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/0bp729.webm"
         },
         {
           "type": "Ending",
           "numero": 5,
           "nom": "Hyouri Ittai",
           "artiste": "Yuzu",
-          "lien": ""
-        },
-        {
-          "type": "Ending",
-          "numero": 6,
-          "nom": "Hyouri Ittai -second version-",
-          "artiste": "Yuzu",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ca208v.webm"
         }
       ],
       "users": [

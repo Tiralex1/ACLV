@@ -14831,21 +14831,21 @@
           "numero": 1,
           "nom": "Identity",
           "artiste": "Mikio Sakai",
-          "lien": ""
+          "lien": "https://openings.moe/video/RakudaiKishiNoEiyuutan-OP01a-NCBD.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Haramitsu Renge",
           "artiste": "ALI PROJECT",
-          "lien": ""
+          "lien": "https://openings.moe/video/RakudaiKishiNoEiyuutan-ED01-NCBD.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Kakusei no Muishiki",
           "artiste": "Mikio Sakai",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/oqlqqg.webm"
         }
       ],
       "users": [
@@ -17745,7 +17745,7 @@
       ],
       "users": [
         {
-          "A": 0,
+          "A": 1,
           "C": 0,
           "L": 0,
           "V": 1
@@ -17774,7 +17774,7 @@
       ],
       "users": [
         {
-          "A": 0,
+          "A": 1,
           "C": 0,
           "L": 0,
           "V": 1
@@ -17803,7 +17803,7 @@
       ],
       "users": [
         {
-          "A": 0,
+          "A": 1,
           "C": 0,
           "L": 0,
           "V": 1

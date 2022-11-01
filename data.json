@@ -1,6 +1,6 @@
 {
   "nb_anime": 397,
-  "nb_musique": 1976,
+  "nb_musique": 1981,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -1775,231 +1775,245 @@
     {
       "nom": "Boruto: Naruto Next Generations",
       "id": 0,
-      "nb_musique": 32,
+      "nb_musique": 34,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
           "nom": "Baton Road",
           "artiste": "KANA-BOON",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/zbbptu.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "OVER",
           "artiste": "Little Glee Monster",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/yder07.webm"
         },
         {
           "type": "Opening",
           "numero": 3,
           "nom": "It's all in the game",
           "artiste": "Qyoto",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/5t20eh.webm"
         },
         {
           "type": "Opening",
           "numero": 4,
           "nom": "Lonely Go!",
           "artiste": "Brian the Sun",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/04rmlm.webm"
         },
         {
           "type": "Opening",
           "numero": 5,
           "nom": "Golden Time",
           "artiste": "Fujifabric",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/yjtvj8.webm"
         },
         {
           "type": "Opening",
           "numero": 6,
           "nom": "Teenage Dream",
           "artiste": "miwa",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/l1gi5p.webm"
         },
         {
           "type": "Opening",
           "numero": 7,
           "nom": "Hajimatte Iku Takamatte Iku",
           "artiste": "Sambomaster",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/drjlsj.webm"
         },
         {
           "type": "Opening",
           "numero": 8,
           "nom": "BAKU",
           "artiste": "Ikimono-gakari",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/6v1vgg.webm"
         },
         {
           "type": "Opening",
           "numero": 9,
           "nom": "Gamushara",
           "artiste": "CHiCO with HoneyWorks",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/qymawu.webm"
         },
         {
           "type": "Opening",
           "numero": 10,
           "nom": "GOLD",
           "artiste": "FLOW",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/2ym4z3.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Dreamy Journey",
           "artiste": "the peggies",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/oh7o45.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Sayonara Moon Town",
           "artiste": "Scenarioart",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/koj673.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Boku wa Hashiri Tsuzukeru",
           "artiste": "MELOFLOAT",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/0re9hw.webm"
         },
         {
           "type": "Ending",
           "numero": 4,
           "nom": "Denshin Tamashii",
           "artiste": "Game Jikkyousha Wakuwaku Band",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ncf274.webm"
         },
         {
           "type": "Ending",
           "numero": 5,
           "nom": "Kachou Fuugetsu",
           "artiste": "Coalamode.",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ec4r93.webm"
         },
         {
           "type": "Ending",
           "numero": 6,
           "nom": "Laika",
           "artiste": "Bird Bear Hare and Fish",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/mdtim0.webm"
         },
         {
           "type": "Ending",
           "numero": 7,
           "nom": "Polaris",
           "artiste": "Hitorie",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/0i3w6y.webm"
         },
         {
           "type": "Ending",
           "numero": 8,
           "nom": "Tsuyogari LOSER",
           "artiste": "ЯeaL",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/4zw9dj.webm"
         },
         {
           "type": "Ending",
           "numero": 9,
           "nom": "Ride or Die",
           "artiste": "Sky Peace",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/vns177.webm"
         },
         {
           "type": "Ending",
           "numero": 10,
           "nom": "Mikansei na Hikari-tachi",
           "artiste": "Haruka Fukuhara",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/yvwb44.webm"
         },
         {
           "type": "Ending",
           "numero": 11,
           "nom": "Wish on",
           "artiste": "LONGMAN",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/901c1d.webm"
         },
         {
           "type": "Ending",
           "numero": 12,
           "nom": "Fireworks",
           "artiste": "FlowBack",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/vza0df.webm"
         },
         {
           "type": "Ending",
           "numero": 13,
           "nom": "Maybe I",
           "artiste": "Seven Billion Dots",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/oprado.webm"
         },
         {
           "type": "Ending",
           "numero": 14,
           "nom": "Central",
           "artiste": "Ami Sakaguchi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/o1b2ir.webm"
         },
         {
           "type": "Ending",
           "numero": 15,
           "nom": "Answers",
           "artiste": "mol-74",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/5hpzz2.webm"
         },
         {
           "type": "Ending",
           "numero": 16,
           "nom": "Kimi ga Ita Shirushi",
           "artiste": "halca",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/skp9oo.webm"
         },
         {
           "type": "Ending",
           "numero": 17,
           "nom": "Who are you?",
           "artiste": "PELICAN FANCLUB",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/1artrn.webm"
         },
         {
           "type": "Ending",
           "numero": 18,
           "nom": "Prologue",
           "artiste": "JO1",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/32kzat.webm"
         },
         {
           "type": "Ending",
           "numero": 19,
           "nom": "VOLTAGE",
           "artiste": "Anly",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/yib36b.webm"
         },
         {
           "type": "Ending",
           "numero": 20,
           "nom": "Twilight Fuzz",
           "artiste": "THIS IS JAPAN",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/uezoh3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 21,
+          "nom": "Bibouroku",
+          "artiste": "Lenny code fiction",
+          "lien": "https://nl.catbox.moe/fwmf6m.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 22,
+          "nom": "Ladder",
+          "artiste": "Anonymouz",
+          "lien": "https://nl.catbox.moe/wyjya4.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Become the Wind",
           "artiste": "yaiba",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/x36akp.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Kaze ni Nare",
           "artiste": "yaiba",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/pspbqy.webm"
         }
       ],
       "users": [
@@ -3074,49 +3088,49 @@
           "numero": 1,
           "nom": "Hatsukoi Winding Road",
           "artiste": "Kayoko Tsumita, Risako Murai Midori Tsukimiya",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/n0sarn.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "SAVE THE WORLD",
           "artiste": "Iori Nomizu",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/c31lnh.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "SAVE MY HEART",
           "artiste": "Iori Nomizu",
-          "lien": ""
+          "lien": "https://openings.moe/video/DateALive-ED03-NCBD.webm"
         },
         {
           "type": "Ending",
           "numero": 4,
           "nom": "Strawberry Rain",
           "artiste": "Iori Nomizu",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/b2yyhz.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "16bit Girl",
           "artiste": "Asami Sanada",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/zajqwg.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Koi no EveryDay☆HappyDay",
           "artiste": "Ayana Taketatsu",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/g9awgi.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Tsubomi ga Hiraku Toki",
           "artiste": "Marina Inoue",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/9vdcu7.webm"
         }
       ],
       "users": [
@@ -3152,35 +3166,35 @@
           "numero": 2,
           "nom": "My Treasure",
           "artiste": "Minori Chihara",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/y3mppi.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "calling",
           "artiste": "Nobunaga Shimazaki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/zfwyn9.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Mermaid Lovestory",
           "artiste": "Minori Chihara",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/e732io.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "monochrome",
           "artiste": "Minori Chihara",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ue4378.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Q&A",
           "artiste": "Marina Inoue, Saeko Zougou",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ulptmi.webm"
         }
       ],
       "users": [
@@ -3202,28 +3216,28 @@
           "numero": 1,
           "nom": "I swear",
           "artiste": "sweet ARMS",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/57oth8.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Last Promise",
           "artiste": "Erii Yamazaki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/3zrp5i.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "AHIH",
           "artiste": "Remi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/15jsk4.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nagisa no Perfume",
           "artiste": "Minori Chihara",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/h1ryez.webm"
         }
       ],
       "users": [
@@ -3353,7 +3367,7 @@
           "numero": 1,
           "nom": "Flyers",
           "artiste": "BRADIO",
-          "lien": ""
+          "lien": "https://openings.moe/video/DeathParade-OP01-NCBD.webm"
         },
         {
           "type": "Ending",
@@ -3411,63 +3425,63 @@
           "numero": 1,
           "nom": "Mikakunin Hikousen",
           "artiste": "Takayoshi Tanimoto",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/zpazb6.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Kuyashi-sa wa Tane",
           "artiste": "Chiai Fujikawa",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/odf07q.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Q?",
           "artiste": "Reol",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/i9rtyb.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Mind game",
           "artiste": "Maica_n",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/j3gg9o.webm"
         },
         {
           "type": "Ending",
           "numero": 4,
           "nom": "Overseas Highway",
           "artiste": "Wolpis Carter",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/h08gww.webm"
         },
         {
           "type": "Ending",
           "numero": 5,
           "nom": "Dreamers",
           "artiste": "ATEEZ",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/l654ua.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Be The Winners",
           "artiste": "Takayoshi Tanimoto",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/kx2zn0.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Break the chain",
           "artiste": "Takayoshi Tanimoto",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/r46tvn.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "X-treme Fight",
           "artiste": "Takayoshi Tanimoto",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/zp8cyf.webm"
         }
       ],
       "users": [
@@ -3489,28 +3503,28 @@
           "numero": 1,
           "nom": "Butter-Fly",
           "artiste": "Kouji Wada",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/iu4sx9.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Hanareteite mo",
           "artiste": "AiM",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/rkly2i.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "brave heart~LAST EVOLUTION Version~",
           "artiste": "Ayumi Miyazaki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/x0kx3a.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Sono Saki e",
           "artiste": "Ayumi Miyazaki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/1whm7w.webm"
         }
       ],
       "users": [
@@ -3525,42 +3539,56 @@
     {
       "nom": "Digimon Ghost Game",
       "id": 0,
-      "nb_musique": 5,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
           "nom": "FACTION",
           "artiste": "Wienners",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/m5d4ku.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Pedal",
           "artiste": "Aiiro Apollo",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/g1xgyb.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Datte Kyou made Koiwazurai",
           "artiste": "BMK",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/szu72c.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Hikari Au Mono-tachi",
           "artiste": "Bye-Bye-Hand no Houteishiki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/t2g2de.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Monster Disco",
+          "artiste": "Shikao Suga × Hyadain",
+          "lien": "https://nl.catbox.moe/d7bpcy.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "STRAWBERRY",
+          "artiste": "kobore",
+          "lien": "https://nl.catbox.moe/t33if1.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "First Riders",
           "artiste": "Masukura Yoshimasa",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/vats4i.webm"
         }
       ],
       "users": [
@@ -3582,14 +3610,14 @@
           "numero": 1,
           "nom": "The Biggest Dreamer",
           "artiste": "Kouji Wada",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/11r92o.webm"
         },
         {
           "type": "Opening",
           "numero": 1,
           "nom": "Digimon Tamers Theme",
           "artiste": "Paul Gordon",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ycjomp.webm"
         },
         {
           "type": "Ending",
@@ -3610,91 +3638,91 @@
           "numero": 0,
           "nom": "3 Primary Colors",
           "artiste": "Tamers",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/dokxaj.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Across the tears",
           "artiste": "Makoto Tsumura",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/60os8h.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Black intruder",
           "artiste": "Hiroki Takahashi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/uzjhwq.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Culu Culu Culumon",
           "artiste": "Tomoko Kaneda",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/evuc9v.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "EVO",
           "artiste": "WILD CHILD BOUND",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/sj50y7.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Fragile heart",
           "artiste": "AiM",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/d7tgxo.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Himawari",
           "artiste": "AiM",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/d34btz.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "KAZE",
           "artiste": "Kouji Wada",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/kpk7tl.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Maisange ~Sakuyamon no Uta~",
           "artiste": "Yuka Imai",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/m1udab.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "One Vision",
           "artiste": "Takayoshi Tanimoto",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/uvd8qk.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Otoko Shibuki",
           "artiste": "Yukiko Tamaki, Touko Aoyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/lxjniy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "SLASH!!",
           "artiste": "Michihiko Ohta",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/l0s4oq.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Starting Point",
           "artiste": "Kouji Wada, AiM, Michihiko Ohta",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/rvnzc2.webm"
         }
       ],
       "users": [
@@ -3716,84 +3744,84 @@
           "numero": 1,
           "nom": "Act as One!",
           "artiste": "Noam Kaniel/Frederic Jaffre",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/7b4zix.webm"
         },
         {
           "type": "Opening",
           "numero": 1,
           "nom": "Never Give Up!",
           "artiste": "Sonar Pocket",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/f7b3dy.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "New World",
           "artiste": "twill",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/x63ne7.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "BLAZING BLUE FLARE",
           "artiste": "Hideaki Takatori",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/inysr6.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "DARK KNIGHT~Fujimi no Ouja~",
           "artiste": "Takayoshi Tanimoto",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/gcfghg.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Evolution & DigiXros ver. KIRIHA",
           "artiste": "Takayoshi Tanimoto",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/zhtfwi.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Evolution & DigiXros ver. TAIKI",
           "artiste": "Kouji Wada",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/weknpe.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Evolution & DigiXros ver.TAIKI",
           "artiste": "Kouji Wada & Takayoshi Tanimoto",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/45pfzw.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Sora Mau Yūsha! X5",
           "artiste": "Kouji Wada",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/42092r.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "WE ARE Xros Heart! Ver.X7",
           "artiste": "Kouji Wada",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/a4z2fh.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "WE ARE Xros Heart! Ver.X7",
           "artiste": "Kouji Wada & Takayoshi Tanimoto & Ayumi Miyazaki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/czhgnf.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "X4B THE GUARDIAN",
           "artiste": "Kouji Wada",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/78t6rg.webm"
         }
       ],
       "users": [
@@ -3815,35 +3843,35 @@
           "numero": 1,
           "nom": "STAND UP",
           "artiste": "twill",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/8twmew.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Legend Xros Wars",
           "artiste": "YOFFY & Takafumi Iwasaki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/vemtnx.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Shining Dreamers",
           "artiste": "Takafumi Iwasaki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/u6r2g8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Tagiru Chikara!",
           "artiste": "Psychic Lover",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/b7yket.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "WE ARE Xros Heart! Ver.X7",
           "artiste": "Kouji Wada & Takayoshi Tanimoto & Ayumi Miyazaki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ag9qnx.webm"
         }
       ],
       "users": [
@@ -3865,42 +3893,42 @@
           "numero": 1,
           "nom": "Kawaki wo Ameku",
           "artiste": "Minami",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/txcl05.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Wagamama",
           "artiste": "Alisa Takigawa",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/njfnwz.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Always",
           "artiste": "Alisa Takigawa",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/dz0kfm.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Hakanai Kiss de Owarasete",
           "artiste": "Youko Hikasa",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/l9f9ts.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Lilac",
           "artiste": "Minami",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/y00j5j.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Monochrome",
           "artiste": "Maaya Uchida",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/wuae4l.webm"
         }
       ],
       "users": [
@@ -4050,42 +4078,49 @@
     {
       "nom": "Dragon Quest: Dai no Daibouken",
       "id": 0,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
           "nom": "Ikiru o Suru",
           "artiste": "Macaroni Enpitsu",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/4gq0ot.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "Bravest",
           "artiste": "Taichi Mukai",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/r3c6p4.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "mother",
           "artiste": "Macaroni Enpitsu",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/r1uop2.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Akashi",
           "artiste": "XIIX",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ncexaq.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Namae",
           "artiste": "Humbreaders",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/8dtcrq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Tobutori wa",
+          "artiste": "Mitei no Hanashi",
+          "lien": "https://nl.catbox.moe/7t73k0.webm"
         }
       ],
       "users": [
@@ -4136,28 +4171,28 @@
           "numero": 1,
           "nom": "Onegai Muscle",
           "artiste": "Ai Fairouz & Kaito Ishikawa",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/izj713.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Macho A Name?",
           "artiste": "Kaito Ishikawa",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/xrm5i6.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Snow Globe",
           "artiste": "Tea",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/q43ljd.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Ikusa",
           "artiste": "Yusuke Saeki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/igz924.webm"
         }
       ],
       "users": [
@@ -4222,28 +4257,28 @@
           "numero": 1,
           "nom": "Inferno",
           "artiste": "Mrs. GREEN APPLE",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/uazvg3.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "MAYDAY",
           "artiste": "coldrain feat.Ryo from CRYSTAL LAKE",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/x6qvkz.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "veil",
           "artiste": "Keina Suda",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ilq13x.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Nounai",
           "artiste": "Lenny code fiction",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/hkt7ei.webm"
         }
       ],
       "users": [
@@ -4265,35 +4300,35 @@
           "numero": 1,
           "nom": "SPARK-AGAIN",
           "artiste": "Aimer",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/qnmfeb.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "Torch of Liberty",
           "artiste": "KANA-BOON",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/2utlr0.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "ID",
           "artiste": "Cidergirl",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/viqr6s.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Desire",
           "artiste": "PELICAN FANCLUB",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/etqnzg.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Inferno",
           "artiste": "Mrs. GREEN APPLE",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/xsyalf.webm"
         }
       ],
       "users": [
@@ -4831,14 +4866,14 @@
           "numero": 2,
           "nom": "Manten",
           "artiste": "Kalafina",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/4oke3e.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "the sword of promised victory ~Fate/Zero ver.",
           "artiste": "Eri Itou",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/8sqmz3.webm"
         }
       ],
       "users": [
@@ -4860,35 +4895,35 @@
           "numero": 1,
           "nom": "Again",
           "artiste": "Beverly",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/8nn90a.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "Chime",
           "artiste": "Ai Otsuka",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/9gtg89.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Lucky Ending",
           "artiste": "Vickeblanka",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/r3j5b5.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "One Step Closer",
           "artiste": "INTERSECTION",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/fqsll2.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Umareru Negai",
           "artiste": "Uta Arii",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/0yavee.webm"
         }
       ],
       "users": [
@@ -4910,42 +4945,42 @@
           "numero": 1,
           "nom": "Prism",
           "artiste": "AmPm feat. Miyuna",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/e5f44h.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "HOME",
           "artiste": "Asako Toki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/jbgwfd.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "ad meliora",
           "artiste": "THE CHARM PARK",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/l89jkg.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Haseru Mirai",
           "artiste": "Uta Arii",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/4zotsm.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Eden",
           "artiste": "MONKEY MAJIK",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/f9y7t6.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Haseru Mirai",
           "artiste": "Uta Arii",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/z33u40.webm"
         }
       ],
       "users": [
@@ -4967,28 +5002,28 @@
           "numero": 1,
           "nom": "Pleasure",
           "artiste": "WARPs UP",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/lhi465.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Haru Urara",
           "artiste": "GENIC",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/3q9i1x.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Aogeba Toutoshi",
           "artiste": "Kaibara Koukou Sotsugyousei",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/bsz2kl.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Umareru Negai",
           "artiste": "Uta Arii",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/kwrrox.webm"
         }
       ],
       "users": [
@@ -5010,70 +5045,70 @@
           "numero": 1,
           "nom": "High School [ANIME SIDE] -Bootleg-",
           "artiste": "in NO hurry to shout;",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/c884n8.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "High School [ANIME SIDE] -Alternative-",
           "artiste": "in NO hurry to shout;",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/jinxk9.webm"
         },
         {
           "type": "Opening",
           "numero": 3,
           "nom": "Canary [ANIME SIDE]",
           "artiste": "in NO hurry to shout;",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/m4vbi7.webm"
         },
         {
           "type": "Opening",
           "numero": 4,
           "nom": "Noise",
           "artiste": "in NO hurry to shout;",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/etmrxr.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Allegro",
           "artiste": "in NO hurry to shout;",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ux4i05.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Noise",
           "artiste": "in NO hurry to shout;",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/etmrxr.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "FALLING SILENT",
           "artiste": "SILENT BLACK KITTY",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/tvyp7p.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Kirakira Boshi",
           "artiste": "Saori Hayami",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/h7mgg5.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Spiral",
           "artiste": "Saori Hayami",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/iuzqaz.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Wednesday Beauty",
           "artiste": "in NO hurry to shout;",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ws32jo.webm"
         }
       ],
       "users": [

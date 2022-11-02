@@ -1,6 +1,6 @@
 {
   "nb_anime": 404,
-  "nb_musique": 2007,
+  "nb_musique": 2006,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -5195,7 +5195,7 @@
     {
       "nom": "Gakkou Gurashi!",
       "id": 0,
-      "nb_musique": 6,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -5224,13 +5224,6 @@
           "nom": "Afterglow",
           "artiste": "Maon Kurosaki",
           "lien": "https://openings.moe/video/Gakkougurashi%21-ED03b-NCBD.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 4,
-          "nom": "F・rie・n・d・Shi・ta・i",
-          "artiste": "Gakuen Seikatsu-bu",
-          "lien": ""
         },
         {
           "type": "Insert Song",

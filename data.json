@@ -868,7 +868,7 @@
       ]
     },
     {
-      "nom": "Baka to Test to Shoukanjū",
+      "nom": "Baka to Test to Shoukanjuu",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -904,7 +904,7 @@
       ]
     },
     {
-      "nom": "Baka to Test to Shoukanjū Ni!",
+      "nom": "Baka to Test to Shoukanjuu Ni!",
       "id": 0,
       "nb_musique": 4,
       "musique": [
@@ -3805,7 +3805,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Sora Mau Yūsha! X5",
+          "nom": "Sora Mau Yuusha! X5",
           "artiste": "Kouji Wada",
           "lien": "https://nl.catbox.moe/42092r.webm"
         },
@@ -5461,21 +5461,21 @@
           "numero": 1,
           "nom": "WILL",
           "artiste": "true",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/fo3bpu.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Mirai no Hito e",
           "artiste": "true",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/036i8v.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Michishirube",
           "artiste": "Minori Chihara",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/jga6p5.webm"
         }
       ],
       "users": [
@@ -5504,7 +5504,7 @@
           "numero": 1,
           "nom": "Uraomote Fortune",
           "artiste": "Ari Ozawa",
-          "lien": ""
+          "lien": "https://openings.moe/video/GekkanShoujoNozaki-Kun-ED01-NCOLD.webm"
         }
       ],
       "users": [
@@ -5776,7 +5776,7 @@
       ]
     },
     {
-      "nom": "Gochūmon wa Usagi Desu ka?",
+      "nom": "Gochuumon wa Usagi Desu ka?",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -5812,14 +5812,14 @@
       ]
     },
     {
-      "nom": "Gochūmon wa Usagi Desu ka? Bloom",
+      "nom": "Gochuumon wa Usagi Desu ka? Bloom",
       "id": 0,
       "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "Tenkū Cafeteria",
+          "nom": "Tenkuu Cafeteria",
           "artiste": "Petit Rabbit's",
           "lien": ""
         },
@@ -5848,7 +5848,7 @@
       ]
     },
     {
-      "nom": "Gochūmon wa Usagi Desu ka??",
+      "nom": "Gochuumon wa Usagi Desu ka??",
       "id": 0,
       "nb_musique": 3,
       "musique": [
@@ -6313,7 +6313,7 @@
       ]
     },
     {
-      "nom": "Hagure Yūsha no Aesthetica",
+      "nom": "Hagure Yuusha no Aesthetica",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -7049,7 +7049,7 @@
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "Yasashisa no Riyū",
+          "nom": "Yasashisa no Riyuu",
           "artiste": "ChouCho",
           "lien": ""
         },
@@ -7452,7 +7452,7 @@
       ]
     },
     {
-      "nom": "Isshūkan Friends.",
+      "nom": "Isshuukan Friends.",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -7532,7 +7532,7 @@
           "type": "Ending",
           "numero": 1,
           "nom": "Tokyo Winter Session",
-          "artiste": "HoneyWorks feat. Hiroshi Kamiya, Haruka Tomatsu, Yūki Kaji, Kana Asumi, Kenichi Suzumura, Aki Toyosaki",
+          "artiste": "HoneyWorks feat. Hiroshi Kamiya, Haruka Tomatsu, Yuuki Kaji, Kana Asumi, Kenichi Suzumura, Aki Toyosaki",
           "lien": ""
         },
         {
@@ -8088,7 +8088,7 @@
           "type": "Ending",
           "numero": 2,
           "nom": "Koi no Russian Roulette",
-          "artiste": "Saori Hayami & Yū Serizawa",
+          "artiste": "Saori Hayami & Yuu Serizawa",
           "lien": "https://nl.catbox.moe/19ubdm.webm"
         }
       ],
@@ -8160,7 +8160,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Two Pair no Otome",
-          "artiste": "Saori Hayami & Yū Serizawa",
+          "artiste": "Saori Hayami & Yuu Serizawa",
           "lien": "https://nl.catbox.moe/w9bepc.webm"
         }
       ],
@@ -9137,7 +9137,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Shunkashūtou",
+          "nom": "Shunkashuutou",
           "artiste": "sumika",
           "lien": ""
         },
@@ -9635,7 +9635,7 @@
           "type": "Ending",
           "numero": 1,
           "nom": "Speechless",
-          "artiste": "Yūma Uchida",
+          "artiste": "Yuuma Uchida",
           "lien": ""
         }
       ],
@@ -10167,7 +10167,7 @@
       ]
     },
     {
-      "nom": "Legendz: Yomigaeru Ryūou Densetsu",
+      "nom": "Legendz: Yomigaeru Ryuuou Densetsu",
       "id": 0,
       "nb_musique": 4,
       "musique": [
@@ -10696,8 +10696,8 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Devi-kyū",
-          "artiste": "Yū Serizawa",
+          "nom": "Devi-kyuu",
+          "artiste": "Yuu Serizawa",
           "lien": "https://nl.catbox.moe/16pllq.webm"
         },
         {
@@ -11506,7 +11506,7 @@
       ]
     },
     {
-      "nom": "Nanatsu no Taizai: Tenkū no Torawarebito",
+      "nom": "Nanatsu no Taizai: Tenkuu no Torawarebito",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -11760,7 +11760,7 @@
       ]
     },
     {
-      "nom": "Naruto Shippūden",
+      "nom": "Naruto Shippuuden",
       "id": 0,
       "nb_musique": 61,
       "musique": [
@@ -11963,7 +11963,7 @@
         {
           "type": "Ending",
           "numero": 9,
-          "nom": "Shinkokyū",
+          "nom": "Shinkokyuu",
           "artiste": "SUPER BEAVER",
           "lien": ""
         },
@@ -12187,7 +12187,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Bijū Kazoe Uta",
+          "nom": "Bijuu Kazoe Uta",
           "artiste": "Junko Takeuchi",
           "lien": ""
         }
@@ -12383,7 +12383,7 @@
         {
           "type": "Opening",
           "numero": 2,
-          "nom": "Hyadain no Joujou Yūjou",
+          "nom": "Hyadain no Joujou Yuujou",
           "artiste": "Hyadain",
           "lien": ""
         },
@@ -12418,7 +12418,7 @@
         {
           "type": "Ending",
           "numero": 5,
-          "nom": "Kikyū ni Notte Doko made mo",
+          "nom": "Kikyuu ni Notte Doko made mo",
           "artiste": "Shizuka Furuya, Hiromi Konno, Minoru Shiraishi",
           "lien": ""
         },
@@ -12432,7 +12432,7 @@
         {
           "type": "Ending",
           "numero": 7,
-          "nom": "Kaijū no Ballad",
+          "nom": "Kaijuu no Ballad",
           "artiste": "Mariko Honda, Mai Aizawa, Misuzu Togashi",
           "lien": ""
         },
@@ -13371,7 +13371,7 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Hikari no Hahen",
-          "artiste": "Yū Takahashi",
+          "artiste": "Yuu Takahashi",
           "lien": ""
         },
         {
@@ -16665,7 +16665,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Yūgure no Tori",
+          "nom": "Yuugure no Tori",
           "artiste": "Shinsei Kamattechan",
           "lien": ""
         },
@@ -17074,7 +17074,7 @@
       ]
     },
     {
-      "nom": "Shūmatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?",
+      "nom": "Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?",
       "id": 0,
       "nb_musique": 8,
       "musique": [
@@ -17145,7 +17145,7 @@
       ]
     },
     {
-      "nom": "Shūmatsu no Walküre",
+      "nom": "Shuumatsu no Walküre",
       "id": 0,
       "nb_musique": 2,
       "musique": [
@@ -17182,7 +17182,7 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Gudafuwa Everyday",
-          "artiste": "Aoi Yūki",
+          "artiste": "Aoi Yuuki",
           "lien": ""
         },
         {

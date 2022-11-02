@@ -1,6 +1,6 @@
 {
-  "nb_anime": 403,
-  "nb_musique": 1995,
+  "nb_anime": 404,
+  "nb_musique": 2007,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -14625,6 +14625,105 @@
       "users": [
         {
           "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Pop Team Epic 2nd Series",
+      "id": 0,
+      "nb_musique": 12,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Endless Love",
+          "artiste": "Shouta Aoi",
+          "lien": "https://nl.catbox.moe/x32nej.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "PSYCHO:LOGY",
+          "artiste": "Shouta Aoi",
+          "lien": "https://nl.catbox.moe/bzq1wl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Nakayo Peas",
+          "artiste": "Manaka Iwami & Ikumi Hasegawa",
+          "lien": "https://nl.catbox.moe/i77zzo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Nakayo Peas",
+          "artiste": "Jun Oosuka & Hiroki Takahashi",
+          "lien": "https://nl.catbox.moe/e9ncwu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Nakayo Peas (Chou Yosan Yuusha★Great Bari Bari Team Epic MIX)",
+          "artiste": "Manaka Iwami & Ikumi Hasegawa",
+          "lien": "https://nl.catbox.moe/sx8k4b.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Nakayo Peas (Chou Yosan Yuusha★Great Bari Bari Team Epic MIX)",
+          "artiste": "Jun Oosuka & Hiroki Takahashi",
+          "lien": "https://nl.catbox.moe/skplel.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Nakayo Peas (B-side MIX)",
+          "artiste": "Manaka Iwami & Ikumi Hasegawa",
+          "lien": "https://nl.catbox.moe/h10siw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Nakayo Peas (B-side MIX)",
+          "artiste": "Jun Oosuka & Hiroki Takahashi",
+          "lien": "https://nl.catbox.moe/ga6jbb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Identity",
+          "artiste": "Aya Hirano & Minori Chihara",
+          "lien": "https://nl.catbox.moe/mqqqun.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Identity",
+          "artiste": "Kazuhiko Inoue & Ryo Horikawa",
+          "lien": "https://nl.catbox.moe/249whz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shining Shoulder",
+          "artiste": "Junko Minagawa & Yuki Kaida",
+          "lien": "https://nl.catbox.moe/t39hi3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shining Shoulder",
+          "artiste": "Shintarou Asanuma & Toshiyuki Toyonaga",
+          "lien": "https://nl.catbox.moe/r4dsxb.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
           "C": 0,
           "L": 0,
           "V": 0

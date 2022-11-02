@@ -1,6 +1,6 @@
 {
   "nb_anime": 397,
-  "nb_musique": 1981,
+  "nb_musique": 1982,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -2107,7 +2107,7 @@
     {
       "nom": "Chainsaw Man",
       "id": 0,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -2136,6 +2136,13 @@
           "nom": "Hawatari 2-oku Centi",
           "artiste": "Maximum the Hormone",
           "lien": "https://nl.catbox.moe/grzmyt.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Jouzai",
+          "artiste": "TOOBOE",
+          "lien": "https://nl.catbox.moe/zmuof3.webm"
         }
       ],
       "users": [

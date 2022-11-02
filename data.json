@@ -1,6 +1,6 @@
 {
-  "nb_anime": 397,
-  "nb_musique": 1982,
+  "nb_anime": 403,
+  "nb_musique": 1995,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -5603,6 +5603,35 @@
       "users": [
         {
           "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Gleipnir",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Altern-ate-",
+          "artiste": "H-el-ical//",
+          "lien": "https://nl.catbox.moe/cy3lm1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ame to Taieki to Nioi",
+          "artiste": "Mili",
+          "lien": "https://nl.catbox.moe/85wuh2.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
           "C": 0,
           "L": 0,
           "V": 0
@@ -12654,6 +12683,35 @@
       ]
     },
     {
+      "nom": "Noumin Kanren no Skill Bakka Agetetara Nazeka Tsuyoku Natta.",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Growing up",
+          "artiste": "7ORDER",
+          "lien": "https://nl.catbox.moe/7s5ges.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Rolling Soul Happy Days",
+          "artiste": "Pop Shinanaide",
+          "lien": "https://nl.catbox.moe/jm87d5.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
       "nom": "Odd Taxi",
       "id": 0,
       "nb_musique": 5,
@@ -14257,6 +14315,42 @@
         {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Platinum End",
+      "id": 0,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Sense",
+          "artiste": "BAND-MAID",
+          "lien": "https://nl.catbox.moe/u2qey0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Koufukuron",
+          "artiste": "Yuu Miyashita",
+          "lien": "https://nl.catbox.moe/zdnqv0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Last Straw",
+          "artiste": "Kuhaku Gokko",
+          "lien": "https://nl.catbox.moe/kz6wij.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
           "L": 0,
           "V": 0
         }
@@ -16830,6 +16924,35 @@
       ]
     },
     {
+      "nom": "Shinmai Renkinjutsushi no Tenpo Keiei",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hajimaru Welcome",
+          "artiste": "Aguri Oonishi",
+          "lien": "https://nl.catbox.moe/hbj3do.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Fine Days",
+          "artiste": "Nanaka Suwa",
+          "lien": "https://nl.catbox.moe/z6dl8n.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
       "nom": "Shokei Shoujo no Virgin Road",
       "id": 0,
       "nb_musique": 2,
@@ -18268,6 +18391,35 @@
       ]
     },
     {
+      "nom": "Tensei Shitara Ken Deshita",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Tensei Shitara Ken Deshita",
+          "artiste": "Kishida Kyoudan &THE Akeboshi Rockets",
+          "lien": "https://nl.catbox.moe/ubn03r.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "more<STRONGLY",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://nl.catbox.moe/d4x0sd.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
       "nom": "Tensei Shitara Slime Datta Ken",
       "id": 0,
       "nb_musique": 5,
@@ -19580,6 +19732,35 @@
       "users": [
         {
           "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Change The World",
+          "artiste": "MADKID",
+          "lien": "https://nl.catbox.moe/1h2va8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "LOVE＆MOON",
+          "artiste": "Marika Kohno",
+          "lien": "https://nl.catbox.moe/83bnvz.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
           "C": 0,
           "L": 0,
           "V": 0

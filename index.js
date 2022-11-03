@@ -134,7 +134,7 @@ function filtre() {
     var child = document.getElementById("AnimeMusicList");
     var tab_filtr = [];
     var tab_filtr2 = [];
-    var val = naf.value;
+    var val = correctString(naf.value);
     if (val != "") {
         var j = 0;
         for (var i = 0; i < tab_anime.length; ++i) {
@@ -174,7 +174,7 @@ function filtre() {
     }
     tab_filtr = [];
     tab_filtr2 = [];
-    val = nam.value;
+    val = correctString(nam.value);
     if (val != "") {
         var j = 0;
         for (var i = 0; i < tab_anime.length; ++i) {
@@ -193,7 +193,7 @@ function filtre() {
     }
     tab_filtr = [];
     tab_filtr2 = [];
-    val = naa.value;
+    val = correctString(naa.value);
     if (val != "") {
         var j = 0;
         for (var i = 0; i < tab_anime.length; ++i) {

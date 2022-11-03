@@ -21,23 +21,8 @@ const Red = "red";
 const Green = "green";
 
 function correctString(str) {
-    var string = str.split("<");
-    var string2 = [];
-    for (var i = 0; i < string.length-1; ++i) {
-        string2.push(string[i]);
-        string2.push("\\" + "<");
-        console.log(string2);
-    }
-    string2.push(string[string.length - 1]);
-    string = string2.join("");
-    string = string.split(">");
-    string2 = [];
-    for (var i = 0; i < string.length-1; ++i) {
-        string2.push(string[i]);
-        string2.push("\\" + ">");
-    }
-    string2.push(string[string.length - 1]);
-    string = string2.join("");
+    var string = str.replace("<", "\<");
+    string = string.replace(">", "\>");
     return string;
 }
 

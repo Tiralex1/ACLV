@@ -32,6 +32,7 @@ function correctString(str) {
         if (string[i] == ">") string[i] = "\>";
     }
     string = string.join();
+    if (string[0] == "more") console.log(string + " | " + typeof (string));
     return string;
 }
 

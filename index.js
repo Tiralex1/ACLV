@@ -35,7 +35,7 @@ function correctString(str) {
     for (var i = 0; i < string.length; ++i) {
         if (string[i] == ">") string[i] = "\>";
     }
-    string = string.join();
+    string = string.join("");
     if (test) console.log(string + " | " + typeof (string));
     return string;
 }

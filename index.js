@@ -21,6 +21,8 @@ const Red = "red";
 const Green = "green";
 
 function correctString(str) {
+    var s = '\\';
+    console.log(s);
     var string = str.replace("<", '\\' + '<');
     string = string.replace(">", '\\' + '>');
     return string;

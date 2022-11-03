@@ -28,7 +28,7 @@ function correctString(str) {
         string2.push("\<");
     }
     if (string.length - 1 > 0) string = string2.join();
-    string = string.split(">");
+    string = String(string).split(">");
     string2 = [];
     for (var i = 0; i < string.length-1; ++i) {
         string2.push(string[i]);

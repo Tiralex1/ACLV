@@ -22,23 +22,19 @@ const Green = "green";
 
 function correctString(str) {
     var string = str.split("<");
-    var test = false;
-    if (string[0] == "more") {
-        for (var i = 0; i < string.length; ++i) {
-            console.log(string[i] + " | " + typeof (string));
-        }
-        test = true;
+    var string2;
+    for (var i = 0; i < string.length-1; ++i) {
+        string2.push(string[i]);
+        string2.push("\<");
     }
+    string = string2.join();
+    string = string.split(">");
+    string2 = [];
     for (var i = 0; i < string.length; ++i) {
-        if (string[i] == "<") string[i] = "\<";
+        string2.push(string[i]);
+        string2.push("\>");
     }
-    string = string.join();
-    string = str.split(">");
-    for (var i = 0; i < string.length; ++i) {
-        if (string[i] == ">") string[i] = "\>";
-    }
-    string = string.join("");
-    if (test) console.log(string + " | " + typeof (string));
+    string = string2.join("");
     return string;
 }
 

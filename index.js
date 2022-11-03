@@ -24,7 +24,9 @@ function correctString(str) {
     var string = str.split("<");
     var test = false;
     if (string[0] == "more") {
-        console.log(string + " | " + typeof (string));
+        for (var i = 0; i < string.length; ++i) {
+            console.log(string[i] + " | " + typeof (string));
+        }
         test = true;
     }
     for (var i = 0; i < string.length; ++i) {

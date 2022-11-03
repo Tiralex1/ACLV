@@ -24,7 +24,7 @@ function correctString(str) {
     var s = '\\';
     s += '<';
     console.log(s);
-    var string = str.replace("<", '\\' + '<');
+    var string = str.replace("<", s);
     string = string.replace(">", '\\' + '>');
     return string;
 }

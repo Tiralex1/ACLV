@@ -20,6 +20,20 @@ let tab = [tab_anime, tab_musique];
 const Red = "red";
 const Green = "green";
 
+function correctString(str) {
+    var string = str.split("<");
+    for (var i = 0; i < string.length; ++i) {
+        if (string[i] == "<") string[i] = "\<";
+    }
+    string = string.join();
+    string = str.split(">");
+    for (var i = 0; i < string.length; ++i) {
+        if (string[i] == ">") string[i] = "\>";
+    }
+    string = string.join();
+    return string;
+}
+
 function data(nom_fic)
 {
     var j = 0;
@@ -35,7 +49,7 @@ function data(nom_fic)
             if (key == "anime") {
                 $.each(val, function (key, val) {
                     tab[0].push([]);
-                    tab[0][j].push(val.nom);
+                    tab[0][j].push(correctString(val.nom));
                     tab[0][j].push(val.id);
                     tab[0][j].push(val.nb_musique);
                     tab[0][j].push(k);
@@ -51,8 +65,8 @@ function data(nom_fic)
                                 tab[1].push([]);
                                 tab[1][l].push(val[i].type);
                                 tab[1][l].push(val[i].numero);
-                                tab[1][l].push(val[i].nom);
-                                tab[1][l].push(val[i].artiste);
+                                tab[1][l].push(correctString(val[i].nom));
+                                tab[1][l].push(correctString(val[i].artiste));
                                 tab[1][l].push(val[i].lien);
                                 l++;
                             }

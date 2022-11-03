@@ -16622,35 +16622,6 @@
       ]
     },
     {
-      "nom": "Shingeki no Kyojin : The Final Season",
-      "id": 0,
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "The Rumbling",
-          "artiste": "SiM",
-          "lien": ""
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Akuma no Ko",
-          "artiste": "Ai Higuchi",
-          "lien": ""
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 0,
-          "V": 1
-        }
-      ]
-    },
-    {
       "nom": "Shingeki no Kyojin Season 2",
       "id": 0,
       "nb_musique": 6,
@@ -16824,6 +16795,35 @@
           "numero": 0,
           "nom": "K21",
           "artiste": "David Whitaker",
+          "lien": ""
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 1
+        }
+      ]
+    },
+    {
+      "nom": "Shingeki no Kyojin: The Final Season",
+      "id": 1,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "The Rumbling",
+          "artiste": "SiM",
+          "lien": ""
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Akuma no Ko",
+          "artiste": "Ai Higuchi",
           "lien": ""
         }
       ],

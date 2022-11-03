@@ -27,15 +27,15 @@ function correctString(str) {
         string2.push(string[i]);
         string2.push("\<");
     }
-    string = string2.join();
+    if (string.length - 1 > 0) string = string2.join();
     string = string.split(">");
     string2 = [];
     for (var i = 0; i < string.length-1; ++i) {
         string2.push(string[i]);
         string2.push("\>");
     }
-    string = string2.join("");
-    return string;
+    if (string.length - 1 > 0) string = string2.join("");
+    return String(string);
 }
 
 function data(nom_fic)

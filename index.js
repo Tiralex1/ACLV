@@ -28,14 +28,16 @@ function correctString(str) {
         string2.push("\<");
     }
     if (string.length - 1 > 0) string = string2.join();
-    string = String(string).split(">");
+    else string = string[0];
+    string = string.split(">");
     string2 = [];
     for (var i = 0; i < string.length-1; ++i) {
         string2.push(string[i]);
         string2.push("\>");
     }
     if (string.length - 1 > 0) string = string2.join("");
-    return String(string);
+    else string = string[0];
+    return string;
 }
 
 function data(nom_fic)

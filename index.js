@@ -22,7 +22,11 @@ const Green = "green";
 
 function correctString(str) {
     var string = str.split("<");
-    if (string[0]=="more") console.log(string + " | " + typeof (string));
+    var test = false;
+    if (string[0] == "more") {
+        console.log(string + " | " + typeof (string));
+        test = true;
+    }
     for (var i = 0; i < string.length; ++i) {
         if (string[i] == "<") string[i] = "\<";
     }
@@ -32,7 +36,7 @@ function correctString(str) {
         if (string[i] == ">") string[i] = "\>";
     }
     string = string.join();
-    if (string[0] == "more") console.log(string + " | " + typeof (string));
+    if (test) console.log(string + " | " + typeof (string));
     return string;
 }
 

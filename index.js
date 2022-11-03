@@ -23,7 +23,7 @@ const Green = "green";
 function correctString(str) {
     var s = '\\';
     s += '<';
-    console.log(s);
+    console.log(String(s));
     var string = str.replace("<", s);
     string = string.replace(">", '\\' + '>');
     return string;

@@ -22,6 +22,7 @@ const Green = "green";
 
 function correctString(str) {
     var string = str.split("<");
+    console.log(string + " | " + typeof (string));
     for (var i = 0; i < string.length; ++i) {
         if (string[i] == "<") string[i] = "\<";
     }

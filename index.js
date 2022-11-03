@@ -27,7 +27,10 @@ function correctString(str) {
         string2.push(string[i]);
         string2.push("\<");
     }
-    if (string.length - 1 > 0) string = string2.join("");
+    if (string.length - 1 > 0) {
+        string2.push(string[string.length - 1]);
+        string = string2.join("");
+    }
     else string = string[0];
     string = string.split(">");
     string2 = [];
@@ -35,7 +38,10 @@ function correctString(str) {
         string2.push(string[i]);
         string2.push("\>");
     }
-    if (string.length - 1 > 0) string = string2.join("");
+    if (string.length - 1 > 0) {
+        string2.push(string[string.length - 1]);
+        string = string2.join("");
+    }
     else string = string[0];
     return string;
 }

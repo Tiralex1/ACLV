@@ -30,7 +30,7 @@ function correctString(str) {
     string = string2.join();
     string = string.split(">");
     string2 = [];
-    for (var i = 0; i < string.length; ++i) {
+    for (var i = 0; i < string.length-1; ++i) {
         string2.push(string[i]);
         string2.push("\>");
     }

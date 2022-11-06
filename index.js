@@ -24,7 +24,18 @@ const Red = "red";
 const Green = "green";
 
 if (localStorage.getItem("favori")) {
-    fav = localStorage.getItem("favori");
+    var favori = localStorage.getItem("favori");
+    favori = favori.split(",");
+    var j = 0;
+    if (favori.length > 0) fav.push([]);
+    for (var i = 0; i < favori.length; i++) {
+        if (j == 7) {
+            fav.push([]);
+            j = 0;
+        }
+        fav[fav.length - 1].push(favori[i]);
+        j++;
+    }
 }
 else {
     var favori = [];

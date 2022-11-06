@@ -56,7 +56,7 @@ function updatefavori() {
 function construit_fav() {
     var fav_bis = [];
     for (var i = 0; i < tab_anime.length; ++i) {
-        for (var j = tab_anime[i][2]; j < tab_anime[i][2] + tab_anime[i][3]; ++j) {
+        for (var j = tab_anime[i][3]; j < tab_anime[i][2] + tab_anime[i][3]; ++j) {
             if (tab_musique[j][5] == true) {
                 fav_bis.push([]);
                 fav_bis[fav_bis.length - 1].push(tab_anime[i][0]);

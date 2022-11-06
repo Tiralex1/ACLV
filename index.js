@@ -19,7 +19,6 @@ let tab_musique = [];
 let tab = [[],[]];
 
 let fav = [];
-updatefavori();
 
 const Red = "red";
 const Green = "green";
@@ -75,15 +74,12 @@ function construit_fav() {
 
 function ajout_fav(ind) {
     var child = document.getElementById("AnimeMusicList");
-    console.log(tab_musique[ind][5]);
     if (tab_musique[ind][5] == false) tab_musique[ind][5] = true;
     else tab_musique[ind][5] = false;
     fav = construit_fav();
-    console.log(fav);
     updatefavori();
     document.body.removeChild(child);
     affich(tab_anime, tab_musique);
-    console.log("fin");
 }
 
 function correctString(str) {

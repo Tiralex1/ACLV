@@ -135,7 +135,10 @@ function affich(tab_anime, tab_musique) {
         items.push("'>V</div></div></td></tr>");
         for (var j = tab_anime[i][3]; j < tab_anime[i][2] + tab_anime[i][3]; ++j) {
             items.push("<tr class=" + bg + ">");
-            if (affich_fav == true) items.push("<td class='favo'>&#10025;</td>")
+            if (affich_fav == true) {
+                if (tab_musique[j][5] == false) items.push("<td class='favo'>&#10025;</td>");
+                else items.push("<td class='favo'>&#9733;</td>");
+            }
             items.push("<td class='noman'>" + tab_anime[i][0] + "</td>");
             items.push("<td class='typm'>" + tab_musique[j][0] + "</td>");
             if (tab_musique[j][1] != 0) items.push("<td class='num'>" + tab_musique[j][1] + "</td>");

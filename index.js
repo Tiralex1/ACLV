@@ -35,7 +35,6 @@ if (localStorage.getItem("favori")) {
 else {
     var favori = [[]];
     localStorage.setItem("favori", favori);
-    fav = favori;
 }
 
 function est_present_fav(anime,music) {

@@ -2,6 +2,7 @@ let nomfic = "data.json"
 
 let nb_anime = 0;
 let nb_musique = 0;
+let affich_fav = true;
 
 let naf = document.getElementById("name_anime");
 let typm = document.getElementById("type_music");
@@ -21,6 +22,30 @@ let fav = [];
 
 const Red = "red";
 const Green = "green";
+
+if (localStorage.getItem("favori")) {
+    var favori = localStorage.getItem("favori");
+    for (var i = 0; i < favori.length; ++i) {
+        fav.push([])
+        for (var j = 0; j < favori[i].length; ++j) {
+            fav[i].push(favori[i][j]);
+        }
+    }
+}
+else {
+    var favori = [[]];
+    localStorage.setItem("favori", favori);
+    fav = favori;
+}
+
+function est_present_fav(anime,music) {
+    var i = 0;
+    var trouve = false;
+    while (i < fav.length && trouve == false) {
+        if (fav[i][0] == anime[0] && fav[i][1] == anime[1] && fav[i][2] == music[0] && fav[i][3] == music[2] && fav[i][4] == music[3]) trouve = true;
+    }
+    return trouve;
+}
 
 function updatefavori() {
     localStorage.removeItem("favori");
@@ -67,6 +92,8 @@ function data(nom_fic)
                                 tab[1][l].push(correctString(val[i].nom));
                                 tab[1][l].push(correctString(val[i].artiste));
                                 tab[1][l].push(val[i].lien);
+                                if (est_present_fav(tab[0][tab[0].length-1],tab[1][l])) tab[1][l].push(true);
+                                else tab[1][l].push(false);
                                 l++;
                             }
                             return tab;
@@ -84,7 +111,7 @@ function data(nom_fic)
     });
 }
 
-function affich(tab_anime, tab_musique, affich_fav) {
+function affich(tab_anime, tab_musique) {
     var items = [];
     var bg = Red;
     for (var i = 0; i < tab_anime.length; ++i) {
@@ -242,11 +269,11 @@ function filtre() {
     console.log(tab_anime);
     console.log(tab_musique);
     document.body.removeChild(child);
-    affich(tab_anime, tab_musique, true);
+    affich(tab_anime, tab_musique);
 }
 
 data(nomfic);
-affich(tab[0], tab[1], true);
+affich(tab[0], tab[1]);
 naf.value = "";
 nam.value = "";
 naa.value = "";
@@ -255,21 +282,6 @@ a.checked = true;
 c.checked = true;
 l.checked = true;
 v.checked = true;
-
-if (localStorage.getItem("favori")) {
-    var favori = localStorage.getItem("favori");
-    for (var i = 0; i < favori.length; ++i) {
-        fav.push([])
-        for (var j = 0; j < favori[i].length; ++j) {
-            fav[i].push(favori[i][j]);
-        }
-    }
-}
-else {
-    var favori = [[]];
-    localStorage.setItem("favori", favori);
-    fav = favori;
-}
 
 console.log(tab);
 console.log(fav);

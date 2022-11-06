@@ -159,13 +159,13 @@ function affich(tab_anime, tab_musique) {
 function filtre() {
     for (var i = 0; i < tab[0].length; ++i) {
         tab_anime.push([]);
-        for (var j = 0; j < 8; ++j) {
+        for (var j = 0; j < tab[0][i].length; ++j) {
             tab_anime[i][j] = tab[0][i][j];
         }
     }
     for (var i = 0; i < tab[1].length; ++i) {
         tab_musique.push([]);
-        for (var j = 0; j < 5; ++j) {
+        for (var j = 0; j < tab[1][i].length; ++j) {
             tab_musique[i][j] = tab[1][i][j];
         }
     }

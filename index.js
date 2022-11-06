@@ -13,10 +13,10 @@ let c = document.getElementById("C");
 let l = document.getElementById("L");
 let v = document.getElementById("V");
 
-var tab_anime = [];
-var tab_musique = [];
+let tab_anime = [];
+let tab_musique = [];
 
-let tab = [tab_anime, tab_musique];
+let tab = [[],[]];
 
 let fav = [];
 
@@ -157,8 +157,6 @@ function affich(tab_anime, tab_musique) {
 }
 
 function filtre() {
-    var tab_anime = [];
-    var tab_musique = [];
     for (var i = 0; i < tab[0].length; ++i) {
         tab_anime.push([]);
         for (var j = 0; j < 8; ++j) {

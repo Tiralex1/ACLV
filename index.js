@@ -17,8 +17,15 @@ var tab_musique = [];
 
 let tab = [tab_anime, tab_musique];
 
+let fav = [];
+
 const Red = "red";
 const Green = "green";
+
+function updatefavori() {
+    localStorage.removeItem("favori");
+    localStorage.setItem("favori", fav);
+}
 
 function correctString(str) {
     var string = str.replace("<", "&lt;");
@@ -77,7 +84,7 @@ function data(nom_fic)
     });
 }
 
-function affich(tab_anime, tab_musique) {
+function affich(tab_anime, tab_musique, affich_fav) {
     var items = [];
     var bg = Red;
     for (var i = 0; i < tab_anime.length; ++i) {
@@ -99,6 +106,7 @@ function affich(tab_anime, tab_musique) {
         items.push("'>V</div></div></td></tr>");
         for (var j = tab_anime[i][3]; j < tab_anime[i][2] + tab_anime[i][3]; ++j) {
             items.push("<tr class=" + bg + ">");
+            if (affich_fav == true) items.push("<td class='favo'>&#10025;</td>")
             items.push("<td class='noman'>" + tab_anime[i][0] + "</td>");
             items.push("<td class='typm'>" + tab_musique[j][0] + "</td>");
             if (tab_musique[j][1] != 0) items.push("<td class='num'>" + tab_musique[j][1] + "</td>");
@@ -232,11 +240,11 @@ function filtre() {
     console.log(tab_anime);
     console.log(tab_musique);
     document.body.removeChild(child);
-    affich(tab_anime, tab_musique);
+    affich(tab_anime, tab_musique, true);
 }
 
 data(nomfic);
-affich(tab[0], tab[1]);
+affich(tab[0], tab[1], true);
 naf.value = "";
 nam.value = "";
 naa.value = "";
@@ -246,4 +254,20 @@ c.checked = true;
 l.checked = true;
 v.checked = true;
 
+if (localStorage.getItem("favori")) {
+    var favori = localStorage.getItem("favori");
+    for (var i = 0; i < favori.length; ++i) {
+        fav.push([])
+        for (var j = 0; j < favori[i].length; ++j) {
+            fav[i].push(favori[i][j]);
+        }
+    }
+}
+else {
+    var favori = [[]];
+    localStorage.setItem("favori", favori);
+    fav = favori;
+}
+
 console.log(tab);
+console.log(fav);

@@ -59,17 +59,17 @@ function updatefavori() {
 
 function construit_fav() {
     var fav_bis = [];
-    for (var i = 0; i < tab_anime.length; ++i) {
-        for (var j = tab_anime[i][3]; j < tab_anime[i][2] + tab_anime[i][3]; ++j) {
+    for (var i = 0; i < tab[0].length; ++i) {
+        for (var j = tab[0][i][3]; j < tab[0][i][2] + tab[0][i][3]; ++j) {
             if (tab_musique[j][5] == true) {
                 fav_bis.push([]);
-                fav_bis[fav_bis.length - 1].push(tab_anime[i][0]);
-                fav_bis[fav_bis.length - 1].push(tab_anime[i][1]);
-                fav_bis[fav_bis.length - 1].push(tab_musique[j][0]);
-                fav_bis[fav_bis.length - 1].push(tab_musique[j][1]);
-                fav_bis[fav_bis.length - 1].push(tab_musique[j][2]);
-                fav_bis[fav_bis.length - 1].push(tab_musique[j][3]);
-                fav_bis[fav_bis.length - 1].push(tab_musique[j][4]);
+                fav_bis[fav_bis.length - 1].push(tab[0][i][0]);
+                fav_bis[fav_bis.length - 1].push(tab[0][i][1]);
+                fav_bis[fav_bis.length - 1].push(tab[1][j][0]);
+                fav_bis[fav_bis.length - 1].push(tab[1][j][1]);
+                fav_bis[fav_bis.length - 1].push(tab[1][j][2]);
+                fav_bis[fav_bis.length - 1].push(tab[1][j][3]);
+                fav_bis[fav_bis.length - 1].push(tab[1][j][4]);
             }
         }
     }

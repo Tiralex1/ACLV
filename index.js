@@ -189,6 +189,7 @@ function affich(tab_anime, tab_musique) {
 }
 
 function filtre() {
+    tab_anime = [];
     for (var i = 0; i < tab[0].length; ++i) {
         tab_anime.push([]);
         for (var j = 0; j < tab[0][i].length; ++j) {

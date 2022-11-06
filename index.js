@@ -61,7 +61,7 @@ function construit_fav() {
     var fav_bis = [];
     for (var i = 0; i < tab[0].length; ++i) {
         for (var j = tab[0][i][3]; j < tab[0][i][2] + tab[0][i][3]; ++j) {
-            if (tab_musique[j][5] == true) {
+            if (tab[1][j][5] == true) {
                 fav_bis.push([]);
                 fav_bis[fav_bis.length - 1].push(tab[0][i][0]);
                 fav_bis[fav_bis.length - 1].push(tab[0][i][1]);

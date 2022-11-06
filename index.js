@@ -77,6 +77,7 @@ function ajout_fav(ind) {
     fav = construit_fav();
     updatefavori();
     affich(tab_anime, tab_musique);
+    console.log("OK");
 }
 
 function correctString(str) {

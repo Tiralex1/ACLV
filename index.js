@@ -25,12 +25,7 @@ const Green = "green";
 
 if (localStorage.getItem("favori")) {
     var favori = localStorage.getItem("favori");
-    for (var i = 0; i < favori.length; ++i) {
-        fav.push([])
-        for (var j = 0; j < favori[i].length; ++j) {
-            fav[i].push(favori[i][j]);
-        }
-    }
+    fav = favori;
 }
 else {
     var favori = [];

@@ -74,7 +74,7 @@ function construit_fav() {
 function ajout_fav(ind) {
     console.log(tab_musique[ind][5]);
     if (tab_musique[ind][5] == false) tab_musique[ind][5] = true;
-    else tab_musique[ind][5] == false;
+    else tab_musique[ind][5] = false;
     fav = construit_fav();
     console.log(fav);
     updatefavori();

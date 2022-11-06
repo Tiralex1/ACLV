@@ -91,7 +91,9 @@ function affich(tab_anime, tab_musique, affich_fav) {
         if (bg == Red) bg = Green;
         else bg = Red;
         var bg_us = 'no-watch';
-        items.push("<tr class='grey'><td colspan='6'><div class='tete'><div class='un grey'>" + tab_anime[i][0] + "</div><div class='deux ");
+        var nb_col = 6;
+        if (affich_fav == true) nb_col = 7;
+        items.push("<tr class='grey'><td colspan='" + nb_col + "'><div class='tete'><div class='un grey'>" + tab_anime[i][0] + "</div><div class='deux ");
         if (tab_anime[i][4]==0) items.push("no-watch");
         else items.push("watch");
         items.push("'>A</div><div class='trois ");

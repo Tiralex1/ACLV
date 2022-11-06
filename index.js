@@ -152,21 +152,21 @@ function affich(tab_anime, tab_musique) {
     for (var i = 0; i < tab_anime.length; ++i) {
         if (bg == Red) bg = Green;
         else bg = Red;
-        var nb_col = 6;
-        if (affich_fav == true) nb_col = 7;
-        items.push("<tr class='grey'><td colspan='" + nb_col + "'><div class='tete'><div class='un grey'>" + tab_anime[i][0] + "</div><div class='deux ");
-        if (tab_anime[i][4]==0) items.push("no-watch");
-        else items.push("watch");
-        items.push("'>A</div><div class='trois ");
-        if (tab_anime[i][5] == 0) items.push("no-watch");
-        else items.push("watch");
-        items.push("'>C</div><div class='quatre ");
-        if (tab_anime[i][6] == 0) items.push("no-watch");
-        else items.push("watch");
-        items.push("'>L</div><div class='cinq ");
-        if (tab_anime[i][7] == 0) items.push("no-watch");
-        else items.push("watch");
-        items.push("'>V</div></div></td></tr>");
+        if (affich_fav == true) {
+            items.push("<tr class='grey'><td colspan='7'><div class='tete'><div class='un grey'>" + tab_anime[i][0] + "</div><div class='deux ");
+            if (tab_anime[i][4] == 0) items.push("no-watch");
+            else items.push("watch");
+            items.push("'>A</div><div class='trois ");
+            if (tab_anime[i][5] == 0) items.push("no-watch");
+            else items.push("watch");
+            items.push("'>C</div><div class='quatre ");
+            if (tab_anime[i][6] == 0) items.push("no-watch");
+            else items.push("watch");
+            items.push("'>L</div><div class='cinq ");
+            if (tab_anime[i][7] == 0) items.push("no-watch");
+            else items.push("watch");
+            items.push("'>V</div></div></td></tr>");
+        }
         for (var j = tab_anime[i][3]; j < tab_anime[i][2] + tab_anime[i][3]; ++j) {
             items.push("<tr class=" + bg + ">");
             if (affich_fav == true) {

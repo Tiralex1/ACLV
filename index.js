@@ -43,6 +43,7 @@ function est_present_fav(anime,music) {
     var trouve = false;
     while (i < fav.length && trouve == false) {
         if (fav[i][0] == anime[0] && fav[i][1] == anime[1] && fav[i][2] == music[0] && fav[i][3] == music[2] && fav[i][4] == music[3]) trouve = true;
+        ++i;
     }
     return trouve;
 }

@@ -65,6 +65,7 @@ function construit_fav() {
                 fav_bis[fav_bis.length - 1].push(tab_musique[j][2]);
                 fav_bis[fav_bis.length - 1].push(tab_musique[j][3]);
                 fav_bis[fav_bis.length - 1].push(tab_musique[j][4]);
+                console.log(fav_bis);
             }
         }
     }

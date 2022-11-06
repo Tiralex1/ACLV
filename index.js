@@ -25,7 +25,7 @@ const Green = "green";
 
 if (localStorage.getItem("favori")) {
     var favori = localStorage.getItem("favori");
-    favori = favori.split(",");
+    favori = favori.split("|");
     var j = 0;
     if (favori.length > 0) fav.push([]);
     for (var i = 0; i < favori.length; i++) {
@@ -54,7 +54,9 @@ function est_present_fav(anime,music) {
 
 function updatefavori() {
     localStorage.removeItem("favori");
-    localStorage.setItem("favori", fav);
+    var favori = fav.join("|");
+    console.log(favori);
+    localStorage.setItem("favori", favori);
 }
 
 function construit_fav() {

@@ -117,7 +117,6 @@ function affich(tab_anime, tab_musique) {
     for (var i = 0; i < tab_anime.length; ++i) {
         if (bg == Red) bg = Green;
         else bg = Red;
-        var bg_us = 'no-watch';
         var nb_col = 6;
         if (affich_fav == true) nb_col = 7;
         items.push("<tr class='grey'><td colspan='" + nb_col + "'><div class='tete'><div class='un grey'>" + tab_anime[i][0] + "</div><div class='deux ");

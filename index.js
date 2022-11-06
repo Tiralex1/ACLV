@@ -54,7 +54,7 @@ function est_present_fav(anime,music) {
 
 function updatefavori() {
     localStorage.removeItem("favori");
-    var favori = fav.join("|");
+    var favori = fav.join('|');
     console.log(favori);
     localStorage.setItem("favori", favori);
 }

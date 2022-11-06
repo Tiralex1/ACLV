@@ -33,7 +33,7 @@ if (localStorage.getItem("favori")) {
     }
 }
 else {
-    var favori = [[]];
+    var favori = [];
     localStorage.setItem("favori", favori);
 }
 

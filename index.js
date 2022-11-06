@@ -19,6 +19,7 @@ let tab_musique = [];
 let tab = [[],[]];
 
 let fav = [];
+updatefavori();
 
 const Red = "red";
 const Green = "green";

@@ -104,3 +104,7 @@ table {
 .lien {
     width : 5%;
 }
+
+.favo {
+    user-select: none;
+}

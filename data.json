@@ -1,6 +1,6 @@
 {
-  "nb_anime": 404,
-  "nb_musique": 2006,
+  "nb_anime": 405,
+  "nb_musique": 2009,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -17641,6 +17641,42 @@
           "A": 0,
           "C": 1,
           "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Strait Jacket",
+      "id": 0,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "The Last Hope",
+          "artiste": "Takeshi Yanagawa",
+          "lien": "https://nl.catbox.moe/5rkd74.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Le Chemin",
+          "artiste": "KYO",
+          "lien": "https://nl.catbox.moe/cxtc6g.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Je Cours",
+          "artiste": "KYO",
+          "lien": "https://nl.catbox.moe/bu6adj.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 1,
           "V": 0
         }
       ]

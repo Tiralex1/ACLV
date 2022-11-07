@@ -8,8 +8,9 @@
 <body>
     <div class="header">
         <div class="title">AMQ - ACLV</div>
-        <div class="filtre">Filtre :
-            Nom anime : <input type="text" value="" id="name_anime" name="nom_anime" onchange="filtre();"/>
+        <div class="filtre">
+            Filtre :
+            Nom anime : <input type="text" value="" id="name_anime" name="nom_anime" onchange="filtre();" />
             Type musique :
             <select id="type_music" onchange="filtre();">
                 <option value="">-</option>
@@ -23,6 +24,7 @@
             C <input value="1" type="checkbox" id="C" checked onchange="filtre();" />
             L <input value="1" type="checkbox" id="L" checked onchange="filtre();" />
             V <input value="1" type="checkbox" id="V" checked onchange="filtre();" />
+            <input type="button" onclick="affich_fav();"/>
         </div>
         <br />
     </div>

@@ -195,6 +195,30 @@ function affich(tab_anime, tab_musique) {
     }).appendTo("body");
 }
 
+function affich_fav() {
+    var child = document.getElementById("AnimeMusicList");
+    var tab_anim = [];
+    var tab_mus = [];
+    for (var i = 0; i < fav.length; ++i) {
+        if (i == 0 || !(fav[i][0] == fav[i - 1][0] && fav[i][1] == fav[i - 1][1])) {
+            tab_anim.push([]);
+            tab_anim[tab_anim.length - 1][0] = fav[i][0];
+            tab_anim[tab_anim.length - 1][1] = fav[i][1];
+            tab_anim[tab_anim.length - 1][2] = 1;
+            tab_anim[tab_anim.length - 1][3] = i;
+        }
+        else tab_anim[tab_anim.length - 1][2] += 1;
+        tab_mus.push([]);
+        tab_mus[i].push(fav[i][2]);
+        tab_mus[i].push(fav[i][3]);
+        tab_mus[i].push(fav[i][4]);
+        tab_mus[i].push(fav[i][5]);
+        tab_mus[i].push(fav[i][6]);
+    }
+    document.body.removeChild(child);
+    affich(tab_anim, tab_mus);
+}
+
 function filtre() {
     tab_anime = [];
     for (var i = 0; i < tab[0].length; ++i) {

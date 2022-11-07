@@ -216,6 +216,8 @@ function affiche_fav() {
             tab_mus[i].push(fav[i][5]);
             tab_mus[i].push(fav[i][6]);
         }
+        tab_anime = tab_anim;
+        tab_musique = tab_mus;
         document.body.removeChild(child);
         affich_fav = false;
         affich(tab_anim, tab_mus);

@@ -196,8 +196,8 @@ function affich(tab_anime, tab_musique) {
 }
 
 function affiche_fav() {
+    var child = document.getElementById("AnimeMusicList");
     if (affich_fav == true) {
-        var child = document.getElementById("AnimeMusicList");
         var tab_anim = [];
         var tab_mus = [];
         for (var i = 0; i < fav.length; ++i) {
@@ -221,6 +221,7 @@ function affiche_fav() {
         affich(tab_anim, tab_mus);
     }
     else {
+        document.body.removeChild(child);
         affich_fav = true;
         affich(tab[0], tab[1]);
     }

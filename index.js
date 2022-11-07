@@ -230,6 +230,7 @@ function affiche_fav() {
 }
 
 function filtre() {
+    affich_fav = true;
     tab_anime = [];
     for (var i = 0; i < tab[0].length; ++i) {
         tab_anime.push([]);

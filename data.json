@@ -1,6 +1,6 @@
 {
   "nb_anime": 405,
-  "nb_musique": 2009,
+  "nb_musique": 2010,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -2107,7 +2107,7 @@
     {
       "nom": "Chainsaw Man",
       "id": 0,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -2143,6 +2143,13 @@
           "nom": "Jouzai",
           "artiste": "TOOBOE",
           "lien": "https://nl.catbox.moe/zmuof3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "In The Back Room",
+          "artiste": "syudou",
+          "lien": "https://nl.catbox.moe/tfzxrj.webm"
         }
       ],
       "users": [

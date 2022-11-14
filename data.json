@@ -1,6 +1,6 @@
 {
-  "nb_anime": 405,
-  "nb_musique": 2010,
+  "nb_anime": 408,
+  "nb_musique": 2017,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -277,6 +277,35 @@
           "A": 0,
           "C": 0,
           "L": 1,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Akuyaku Reijou Nanode Last Boss o Katte Mimashita",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kyoukan Sarenakute mo Ii ja Nai",
+          "artiste": "Rie Takahashi",
+          "lien": "https://nl.catbox.moe/t7auc2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Nomic",
+          "artiste": "ACCAMER",
+          "lien": "https://nl.catbox.moe/01xdm9.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
           "V": 0
         }
       ]
@@ -9166,6 +9195,42 @@
       ]
     },
     {
+      "nom": "Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen",
+      "id": 0,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Against.",
+          "artiste": "Kaori Ishihara",
+          "lien": "https://nl.catbox.moe/jef7hp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Koori no Torikago",
+          "artiste": "Sora Amamiya",
+          "lien": "https://nl.catbox.moe/6n2yej.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Soukyou Etranger",
+          "artiste": "Sora Amamiya",
+          "lien": "https://nl.catbox.moe/op628n.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
       "nom": "Kimi to, Nami ni Noretara",
       "id": 0,
       "nb_musique": 1,
@@ -17045,6 +17110,35 @@
       "users": [
         {
           "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Shinobi no Ittoki",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hikari",
+          "artiste": "Humbreaders",
+          "lien": "https://nl.catbox.moe/613fjv.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Oboetate",
+          "artiste": "hockrockb",
+          "lien": "https://nl.catbox.moe/mo77a2.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
           "C": 0,
           "L": 0,
           "V": 0

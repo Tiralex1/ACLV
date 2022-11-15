@@ -1,6 +1,6 @@
 {
   "nb_anime": 408,
-  "nb_musique": 2017,
+  "nb_musique": 2018,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -1155,7 +1155,7 @@
     {
       "nom": "Beastars",
       "id": 1,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -1184,6 +1184,13 @@
           "nom": "Many Stories-epilogue-",
           "artiste": "Chica",
           "lien": "https://nl.catbox.moe/s3vygh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Between the Soil & Skyline",
+          "artiste": "Aztech",
+          "lien": "https://nl.catbox.moe/m8hhj1.webm"
         }
       ],
       "users": [

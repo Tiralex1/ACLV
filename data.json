@@ -1,6 +1,6 @@
 {
   "nb_anime": 409,
-  "nb_musique": 2022,
+  "nb_musique": 2024,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -14749,7 +14749,7 @@
     {
       "nom": "Pop Team Epic 2nd Series",
       "id": 0,
-      "nb_musique": 12,
+      "nb_musique": 14,
       "musique": [
         {
           "type": "Opening",
@@ -14806,6 +14806,20 @@
           "nom": "Nakayo Peas (B-side MIX)",
           "artiste": "Jun Oosuka & Hiroki Takahashi",
           "lien": "https://nl.catbox.moe/ga6jbb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Nakayo Peas (Katsushika Shusshin MIX)",
+          "artiste": "Manaka Iwami & Ikumi Hasegawa",
+          "lien": "https://nl.catbox.moe/8msktt.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 8,
+          "nom": "Nakayo Peas (Katsushika Shusshin MIX)",
+          "artiste": "Jun Oosuka & Hiroki Takahashi",
+          "lien": "https://nl.catbox.moe/r6y15u.webm"
         },
         {
           "type": "Insert Song",

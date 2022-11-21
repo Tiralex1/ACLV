@@ -1,6 +1,6 @@
 {
-  "nb_anime": 408,
-  "nb_musique": 2019,
+  "nb_anime": 409,
+  "nb_musique": 2022,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -10870,6 +10870,42 @@
           "nom": "Ronove no Musical",
           "artiste": "Tatsuhisa Suzuki",
           "lien": "https://nl.catbox.moe/d56r9g.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Mairimashita! Iruma-kun",
+      "id": 2,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Girigiri Ride it out",
+          "artiste": "FANTASTICS from EXILE TRIBE",
+          "lien": "https://nl.catbox.moe/lm6kdh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Nabe Bugyou",
+          "artiste": "Wednesday Campanella",
+          "lien": "https://nl.catbox.moe/vboz4k.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Omocha no Kuni no Venus",
+          "artiste": "Ayaka Asai",
+          "lien": "https://nl.catbox.moe/icw2j2.webm"
         }
       ],
       "users": [

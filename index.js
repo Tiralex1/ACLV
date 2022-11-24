@@ -1,4 +1,4 @@
-let nomfic = "data.json"
+let nomfic = "data.json";
 
 let nb_anime = 0;
 let nb_musique = 0;
@@ -38,7 +38,7 @@ if (localStorage.getItem("favori")) {
     }
 }
 else {
-    var favori = [];
+    var favori = "";
     localStorage.setItem("favori", favori);
 }
 

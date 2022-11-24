@@ -1,6 +1,6 @@
 {
   "nb_anime": 409,
-  "nb_musique": 2024,
+  "nb_musique": 2025,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -2143,7 +2143,7 @@
     {
       "nom": "Chainsaw Man",
       "id": 0,
-      "nb_musique": 7,
+      "nb_musique": 8,
       "musique": [
         {
           "type": "Opening",
@@ -2193,6 +2193,13 @@
           "nom": "Dainou-teki na Rendezvous",
           "artiste": "Kanaria",
           "lien": "https://nl.catbox.moe/kz4su6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Chu, Tayousei.",
+          "artiste": "ano",
+          "lien": "https://nl.catbox.moe/zbq67f.webm"
         }
       ],
       "users": [

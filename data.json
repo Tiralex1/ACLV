@@ -1,6 +1,6 @@
 {
   "nb_anime": 409,
-  "nb_musique": 2025,
+  "nb_musique": 2026,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -2143,7 +2143,7 @@
     {
       "nom": "Chainsaw Man",
       "id": 0,
-      "nb_musique": 8,
+      "nb_musique": 9,
       "musique": [
         {
           "type": "Opening",
@@ -2200,6 +2200,13 @@
           "nom": "Chu, Tayousei.",
           "artiste": "ano",
           "lien": "https://nl.catbox.moe/zbq67f.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 8,
+          "nom": "first death",
+          "artiste": "TK from Ling Tosite Sigure",
+          "lien": "https://nl.catbox.moe/2rkuwu.webm"
         }
       ],
       "users": [

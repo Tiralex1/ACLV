@@ -1,6 +1,6 @@
 {
   "nb_anime": 409,
-  "nb_musique": 2026,
+  "nb_musique": 2030,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -7882,7 +7882,7 @@
     {
       "nom": "Kage no Jitsuryokusha ni Naritakute!",
       "id": 0,
-      "nb_musique": 4,
+      "nb_musique": 8,
       "musique": [
         {
           "type": "Opening",
@@ -7911,6 +7911,34 @@
           "nom": "Darling in the Night",
           "artiste": "Suzuko Mimori",
           "lien": "https://nl.catbox.moe/rrzrba.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Darling in the Night",
+          "artiste": "Ai Fairouz",
+          "lien": "https://nl.catbox.moe/nbmynh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Darling in the Night",
+          "artiste": "Hisako Kanemoto",
+          "lien": "https://nl.catbox.moe/cwp764.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Darling in the Night",
+          "artiste": "Ayaka Asai",
+          "lien": "https://nl.catbox.moe/43krcd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Darling in the Night",
+          "artiste": "Reina Kondou",
+          "lien": "https://nl.catbox.moe/l9fdyi.webm"
         }
       ],
       "users": [

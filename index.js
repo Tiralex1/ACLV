@@ -128,6 +128,8 @@ function supp_fav(ind) {
     console.log(tab[1][n]);
     if (tab[1][n][5] == false) tab[1][n][5] = true;
     else tab[1][n][5] = false;
+    if (tab_musique[ind][5] == false) tab_musique[ind][5] = true;
+    else tab_musique[ind][5] = false;
     fav = construit_fav();
     updatefavori();
     var child = document.getElementById("AnimeMusicList");

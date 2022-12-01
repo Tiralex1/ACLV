@@ -83,11 +83,52 @@ function construit_fav() {
 }
 
 function ajout_fav(ind) {
-    var child = document.getElementById("AnimeMusicList");
-    if (tab_musique[ind][5] == false) tab_musique[ind][5] = true;
-    else tab_musique[ind][5] = false;
+    if (affich_fav == true) supp_fav(ind);
+    else {
+        if (tab_musique[ind][5] == false) tab_musique[ind][5] = true;
+        else tab_musique[ind][5] = false;
+        fav = construit_fav();
+        updatefavori();
+        var child = document.getElementById("AnimeMusicList");
+        document.body.removeChild(child);
+        affich(tab_anime, tab_musique);
+    }
+}
+
+function mus_egal(mus1, mus2) {
+    if (mus1[0] == mus2[0] && mus1[1] == mus2[1] && mus1[2] == mus2[2] && mus1[3] == mus2[3] && mus1[4] == mus2[4]) return true;
+    else return false;
+}
+
+function supp_fav(ind) {
+    var i = 0;
+    var j = tab[0].length;
+    var m = 0;
+    while (j - i > 0) {
+        m = int((j - i) / 2);
+        if (tab[0][m][0] == fav[ind][0]) {
+            if (tab[0][m][1] > fav[ind][1]) j = m;
+            else if (tab[0][m][1] < fav[ind[1]]) i = m;
+            else {
+                i = 0;
+                j = 0;
+            }
+        }
+        else if (tab[0][m][0] > fav[ind][0]) j = m;
+        else i = m;
+    }
+    var n = tab[0][m][3];
+    var stop = false;
+    var max_mus = tab[0][m][2] + tab[0][m][3];
+    while (max_mus > n && !stop) {
+        if (mus_egal(tab[1][n], fav[ind].slice(2))) stop = true;
+        else n++;
+    }
+    if (tab[1][n][5] == false) tab[1][n][5] = true;
+    else tab[1][n][5] = false;
     fav = construit_fav();
     updatefavori();
+    var child = document.getElementById("AnimeMusicList");
     document.body.removeChild(child);
     affich(tab_anime, tab_musique);
 }

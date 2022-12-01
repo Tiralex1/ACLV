@@ -124,6 +124,7 @@ function supp_fav(ind) {
         if (mus_egal(tab[1][n], fav[ind].slice(2))) stop = true;
         else n++;
     }
+    console.log(tab[1][n])
     if (tab[1][n][5] == false) tab[1][n][5] = true;
     else tab[1][n][5] = false;
     fav = construit_fav();

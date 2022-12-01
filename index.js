@@ -83,7 +83,7 @@ function construit_fav() {
 }
 
 function ajout_fav(ind) {
-    if (affich_fav == true) supp_fav(ind);
+    if (affich_fav == false) supp_fav(ind);
     else {
         if (tab_musique[ind][5] == false) tab_musique[ind][5] = true;
         else tab_musique[ind][5] = false;
@@ -124,7 +124,7 @@ function supp_fav(ind) {
         if (mus_egal(tab[1][n], fav[ind].slice(2))) stop = true;
         else n++;
     }
-    console.log(tab[1][n])
+    console.log(tab[1][n]);
     if (tab[1][n][5] == false) tab[1][n][5] = true;
     else tab[1][n][5] = false;
     fav = construit_fav();

@@ -116,6 +116,7 @@ function supp_fav(ind) {
         }
         else if (tab[0][m][0] > fav[ind][0]) j = m;
         else i = m;
+        console.log(i + " | " j);
     }
     var n = tab[0][m][3];
     var stop = false;

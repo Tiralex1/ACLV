@@ -104,7 +104,7 @@ function supp_fav(ind) {
     var i = 0;
     var j = tab[0].length;
     var m = 0;
-    while (j - i > 0 && nb_test>0) {
+    while (j - i > 0) {
         m = Math.floor((j + i) / 2);
         if (tab[0][m][0] == fav[ind][0]) {
             if (tab[0][m][1] > fav[ind][1]) j = m;

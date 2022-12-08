@@ -1,6 +1,6 @@
 {
   "nb_anime": 409,
-  "nb_musique": 2030,
+  "nb_musique": 2031,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -2143,7 +2143,7 @@
     {
       "nom": "Chainsaw Man",
       "id": 0,
-      "nb_musique": 9,
+      "nb_musique": 10,
       "musique": [
         {
           "type": "Opening",
@@ -2207,6 +2207,13 @@
           "nom": "first death",
           "artiste": "TK from Ling Tosite Sigure",
           "lien": "https://nl.catbox.moe/2rkuwu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 9,
+          "nom": "Deep down",
+          "artiste": "Aimer",
+          "lien": "https://nl.catbox.moe/e1o4al.webm"
         }
       ],
       "users": [

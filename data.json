@@ -1,6 +1,6 @@
 {
   "nb_anime": 410,
-  "nb_musique": 2035,
+  "nb_musique": 2037,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -2143,7 +2143,7 @@
     {
       "nom": "Chainsaw Man",
       "id": 0,
-      "nb_musique": 10,
+      "nb_musique": 12,
       "musique": [
         {
           "type": "Opening",
@@ -2214,6 +2214,20 @@
           "nom": "Deep down",
           "artiste": "Aimer",
           "lien": "https://nl.catbox.moe/e1o4al.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 10,
+          "nom": "DOGLAND",
+          "artiste": "PEOPLE 1",
+          "lien": "https://nl.catbox.moe/0l1b16.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 11,
+          "nom": "Violence",
+          "artiste": "Ziyoou-vachi",
+          "lien": "https://nl.catbox.moe/56ilpk.webm"
         }
       ],
       "users": [

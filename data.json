@@ -1,6 +1,6 @@
 {
   "nb_anime": 414,
-  "nb_musique": 2057,
+  "nb_musique": 2058,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -3645,7 +3645,7 @@
     {
       "nom": "Digimon Ghost Game",
       "id": 0,
-      "nb_musique": 7,
+      "nb_musique": 8,
       "musique": [
         {
           "type": "Opening",
@@ -3695,6 +3695,13 @@
           "nom": "First Riders",
           "artiste": "Masukura Yoshimasa",
           "lien": "https://nl.catbox.moe/vats4i.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "MAKUAKE",
+          "artiste": "Masukura Yoshimasa",
+          "lien": "https://nl.catbox.moe/him4lv.webm"
         }
       ],
       "users": [

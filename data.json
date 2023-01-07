@@ -1,6 +1,6 @@
 {
   "nb_anime": 414,
-  "nb_musique": 2065,
+  "nb_musique": 2068,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -8944,35 +8944,35 @@
           "numero": 1,
           "nom": "Tenshi no Yubikiri",
           "artiste": "Mai Fukuda",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/iwbbds.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Yume no Naka e",
           "artiste": "Atsuko Enomoto & Chihiro Suzuki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/n1jw9d.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Kaze Hiita Yoru",
           "artiste": "Yuki Watanabe & Maria Yamamoto",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/jhdrmy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "S・O・S",
           "artiste": "Yuki Watanabe & Maria Yamamoto",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/77grbj.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Youkai Ningen Bem",
           "artiste": "Yukinon's",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/nsthso.webm"
         }
       ],
       "users": [
@@ -9124,77 +9124,98 @@
     {
       "nom": "Kill la Kill",
       "id": 0,
-      "nb_musique": 10,
+      "nb_musique": 13,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
           "nom": "Sirius",
           "artiste": "Eir Aoi",
-          "lien": ""
+          "lien": "https://files.catbox.moe/uuy006.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "ambiguous",
           "artiste": "GARNiDELiA",
-          "lien": ""
+          "lien": "https://files.catbox.moe/l8ct39.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Gomen ne, Ii ko ja Irarenai.",
           "artiste": "Miku Sawai",
-          "lien": ""
+          "lien": "https://files.catbox.moe/mtrorx.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Shinsekai Koukyougaku",
           "artiste": "Sayonara Ponytail",
-          "lien": ""
+          "lien": "https://files.catbox.moe/g15b6g.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Before my body is dry",
           "artiste": "Mika Kobayashi & David Whitaker",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/95nb5w.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Blumenkranz",
           "artiste": "Cyua",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/0g5r6v.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Blumenkranz:[nZk] ver.",
+          "artiste": "Cyua",
+          "lien": "https://nl.catbox.moe/jnsuxo.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "I want to know",
           "artiste": "Benjamin Anderson",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/k4egrv.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Light your heart up",
           "artiste": "Aimee Blackschleger",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ez6eut.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Namida Guse",
+          "artiste": "Hiroshi Matsuyama",
+          "lien": "https://nl.catbox.moe/bn51rw.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Sanbika",
           "artiste": "Eir Aoi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/jo84ff.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Suck your blood",
           "artiste": "Benjamin Anderson & mpi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/leebdq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Suck your blood:[nZk] ver.",
+          "artiste": "Benjamin Anderson & mpi",
+          "lien": "https://nl.catbox.moe/a515t9.webm"
         }
       ],
       "users": [
@@ -9266,14 +9287,14 @@
           "numero": 1,
           "nom": "Kimi ni Todoke",
           "artiste": "Tomofumi Tanizawa",
-          "lien": ""
+          "lien": "https://openings.moe/video/KimiNiTodoke-OP01-NCOLD.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Kataomoi",
           "artiste": "Chara",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ts5u6p.webm"
         }
       ],
       "users": [
@@ -9295,14 +9316,14 @@
           "numero": 1,
           "nom": "Sawakaze",
           "artiste": "Tomofumi Tanizawa",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/l7xtgq.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Kimi ni Todoke...",
           "artiste": "MAY'S",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/vjx0z5.webm"
         }
       ],
       "users": [
@@ -9324,35 +9345,35 @@
           "numero": 1,
           "nom": "Yume Tourou",
           "artiste": "RADWIMPS",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/p2ievv.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Nandemonaiya movie ver.",
           "artiste": "RADWIMPS",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/rzmzt0.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nandemonaiya (movie edit)",
           "artiste": "RADWIMPS",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/zkun5f.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Sparkle movie ver.",
           "artiste": "RADWIMPS",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/cgrjib.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Zen Zen Zense movie ver.",
           "artiste": "RADWIMPS",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/r8w58t.webm"
         }
       ],
       "users": [
@@ -9374,21 +9395,21 @@
           "numero": 1,
           "nom": "Fanfare",
           "artiste": "sumika",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/4rk180.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Shunkashuutou",
           "artiste": "sumika",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/lndxcu.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Himitsu",
           "artiste": "sumika",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/9znujd.webm"
         }
       ],
       "users": [
@@ -9446,7 +9467,7 @@
           "numero": 1,
           "nom": "Brand New Story",
           "artiste": "GENERATIONS from EXILE TRIBE",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/iga6c2.webm"
         }
       ],
       "users": [
@@ -9526,14 +9547,14 @@
           "numero": 1,
           "nom": "Aozora no Rhapsody",
           "artiste": "fhána",
-          "lien": ""
+          "lien": "https://files.catbox.moe/thsitv.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Ishukan Communication",
           "artiste": "Choro-gonzu",
-          "lien": ""
+          "lien": "https://nl.catbox.video/c9rteu.webm"
         }
       ],
       "users": [
@@ -9605,14 +9626,14 @@
           "numero": 1,
           "nom": "MY GENERATION",
           "artiste": "THE WHO",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/5l0hk4.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Koi wo Shita no wa",
           "artiste": "aiko",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/hoipvd.webm"
         }
       ],
       "users": [
@@ -9634,14 +9655,14 @@
           "numero": 1,
           "nom": "Kanashii Ureshii",
           "artiste": "Frederic",
-          "lien": ""
+          "lien": "https://files.catbox.moe/i98t5p.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Can't you say",
           "artiste": "Roys",
-          "lien": ""
+          "lien": "https://files.catbox.moe/p9e3za.webm"
         }
       ],
       "users": [
@@ -9663,14 +9684,14 @@
           "numero": 1,
           "nom": "Monoqlo City",
           "artiste": "ACE COLLECTION",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/7fbl09.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Linaria",
           "artiste": "MaRuRi to Ryuga",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/flwi1i.webm"
         }
       ],
       "users": [
@@ -9692,56 +9713,56 @@
           "numero": 1,
           "nom": "Kimochi Signal",
           "artiste": "Sayuri Horishita",
-          "lien": ""
+          "lien": "https://files.catbox.moe/igb9bj.webm"
         },
         {
           "type": "Opening",
           "numero": 1,
           "nom": "Paradigm",
           "artiste": "eufonius",
-          "lien": ""
+          "lien": "https://files.catbox.moe/uxtm6h.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "Kimi Rhythm",
           "artiste": "Masaki Imai",
-          "lien": ""
+          "lien": "https://files.catbox.moe/jtafyv.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Kokoro no Kara",
           "artiste": "Team.Nekokan [Neko] featuring. Junca Amaoto",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/fisyun.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Cry Out",
           "artiste": "Team.Nekokan [Neko] featuring. Atsuko",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/xnwvcx.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Salvage",
           "artiste": "Team.Nekokan [Neko] featuring. Rekka Katakiri",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/5qr6kw.webm"
         },
         {
           "type": "Ending",
           "numero": 4,
           "nom": "I scream Chocolatl",
           "artiste": "Team.Nekokan [Neko] featuring. Lia",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/g4alqo.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Milk Shake",
           "artiste": "Sayuri Horishita",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/2nktbe.webm"
         }
       ],
       "users": [
@@ -9763,21 +9784,21 @@
           "numero": 1,
           "nom": "Cinderella",
           "artiste": "Cidergirl",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/3bt996.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Sympathy",
           "artiste": "Kitri",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/h3zx9j.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Hikare Inochi",
           "artiste": "Kitri",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/yfyjow.webm"
         }
       ],
       "users": [
@@ -9799,14 +9820,14 @@
           "numero": 1,
           "nom": "Ao 100-shoku",
           "artiste": "Miku Itou",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/umh2po.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Koshaberi Biyori",
           "artiste": "FantasticYouth",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/25rudy.webm"
         }
       ],
       "users": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 410,
-  "nb_musique": 2046,
+  "nb_anime": 411,
+  "nb_musique": 2048,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -12440,6 +12440,35 @@
           "nom": "Akane Sasu",
           "artiste": "Aimer",
           "lien": "https://nl.catbox.moe/o4jtl3.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 1,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Natsume Yuujinchou Roku",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Floria",
+          "artiste": "Tomohisa Sako",
+          "lien": "https://nl.catbox.moe/nxy9oc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimi no Uta",
+          "artiste": "Rei Yasuda",
+          "lien": "https://nl.catbox.moe/op8eph.webm"
         }
       ],
       "users": [

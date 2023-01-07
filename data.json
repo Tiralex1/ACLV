@@ -1,6 +1,6 @@
 {
-  "nb_anime": 411,
-  "nb_musique": 2048,
+  "nb_anime": 414,
+  "nb_musique": 2056,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -5436,6 +5436,63 @@
       ]
     },
     {
+      "nom": "Gekijouban Karakai Jouzu no Takagi-san",
+      "id": 0,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hajimari no Natsu",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://nl.catbox.moe/fac9vg.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Asu e no Tobira",
+          "artiste": "Rie Takahashi",
+          "lien": "https://nl.catbox.moe/j5cgw8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "fragile",
+          "artiste": "Rie Takahashi",
+          "lien": "https://nl.catbox.moe/a4oy4o.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimi ni Todoke",
+          "artiste": "Rie Takahashi",
+          "lien": "https://nl.catbox.moe/y4vuky.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tentai Kansoku",
+          "artiste": "Rie Takahashi",
+          "lien": "https://nl.catbox.moe/4zmfsa.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hamabou no Hana",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://nl.catbox.moe/vynsn6.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1
+        }
+      ]
+    },
+    {
       "nom": "Gekijouban Sword Art Online: Progressive - Hoshi Naki Yoru no Aria",
       "id": 0,
       "nb_musique": 3,
@@ -7973,6 +8030,50 @@
         {
           "A": 1,
           "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kaginado",
+      "id": 0,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Chiisana Kiseki",
+          "artiste": "Lia",
+          "lien": "https://nl.catbox.moe/ljxvde.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kaginado Season 2",
+      "id": 0,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Chiisana Kiseki",
+          "artiste": "Lia",
+          "lien": "https://nl.catbox.moe/xmh16m.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
           "L": 0,
           "V": 0
         }

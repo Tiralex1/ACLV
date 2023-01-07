@@ -1,6 +1,6 @@
 {
   "nb_anime": 414,
-  "nb_musique": 2056,
+  "nb_musique": 2057,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -1854,7 +1854,7 @@
     {
       "nom": "Boruto: Naruto Next Generations",
       "id": 0,
-      "nb_musique": 34,
+      "nb_musique": 35,
       "musique": [
         {
           "type": "Opening",
@@ -1925,6 +1925,13 @@
           "nom": "GOLD",
           "artiste": "FLOW",
           "lien": "https://nl.catbox.moe/2ym4z3.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 11,
+          "nom": "Kirarirari",
+          "artiste": "KANA-BOON",
+          "lien": "https://nl.catbox.moe/tdnk7x.webm"
         },
         {
           "type": "Ending",

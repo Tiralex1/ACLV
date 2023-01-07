@@ -1,6 +1,6 @@
 {
   "nb_anime": 414,
-  "nb_musique": 2064,
+  "nb_musique": 2065,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -16629,28 +16629,35 @@
     {
       "nom": "selector spread WIXOSS",
       "id": 0,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
           "nom": "world's end, girl's rondo",
           "artiste": "Kanon Wakeshima",
-          "lien": ""
+          "lien": "https://nl.catbox.video/tkqcsk.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Undo ‐Asu e no Kioku-",
           "artiste": "Cyua",
-          "lien": ""
+          "lien": "https://nl.catbox.video/w5loc5.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
+          "nom": "Undo -Asu e no Kioku- ~Black Desire Mix~",
+          "artiste": "Cyua",
+          "lien": "https://nl.catbox.video/zu8vr3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
           "nom": "Infinite Girl",
           "artiste": "SUIMI",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ovvau9.webm"
         }
       ],
       "users": [

@@ -1,6 +1,6 @@
 {
   "nb_anime": 414,
-  "nb_musique": 2060,
+  "nb_musique": 2064,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -10662,8 +10662,15 @@
     {
       "nom": "Made in Abyss: Retsujitsu no Ougonkyou",
       "id": 0,
-      "nb_musique": 2,
+      "nb_musique": 6,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "GRAVITY",
+          "artiste": "Arnór Dan",
+          "lien": "https://nl.catbox.moe/i77tn8.webm"
+        },
         {
           "type": "Opening",
           "numero": 2,
@@ -10677,6 +10684,27 @@
           "nom": "Endless Embrace",
           "artiste": "MYTH & ROID",
           "lien": "https://nl.catbox.moe/k7pa3x.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Belaf no Komoriuta",
+          "artiste": "Mitsuki Saiga",
+          "lien": "https://nl.catbox.moe/oakmq0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hanezeve Caradhina",
+          "artiste": "Kevin Penkin ft. Takeshi Saito",
+          "lien": "https://nl.catbox.moe/p6g4yl.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "VOH",
+          "artiste": "Kevin Penkin ft. Takeshi Saito",
+          "lien": "https://nl.catbox.moe/mb5r2g.webm"
         }
       ],
       "users": [

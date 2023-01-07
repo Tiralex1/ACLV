@@ -1,6 +1,6 @@
 {
   "nb_anime": 410,
-  "nb_musique": 2038,
+  "nb_musique": 2046,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -14817,9 +14817,9 @@
       ]
     },
     {
-      "nom": "Pop Team Epic 2nd Series",
+      "nom": "Pop Team Epic 2nd Season",
       "id": 0,
-      "nb_musique": 14,
+      "nb_musique": 22,
       "musique": [
         {
           "type": "Opening",
@@ -14892,6 +14892,41 @@
           "lien": "https://nl.catbox.moe/r6y15u.webm"
         },
         {
+          "type": "Ending",
+          "numero": 9,
+          "nom": "Nakayo Peas (Sweet Pop MIX)",
+          "artiste": "Manaka Iwami & Ikumi Hasegawa",
+          "lien": "https://nl.catbox.moe/gzeby6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 10,
+          "nom": "Nakayo Peas (Sweet Pop MIX)",
+          "artiste": "Jun Oosuka & Hiroki Takahashi",
+          "lien": "https://nl.catbox.moe/rr3m8z.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 11,
+          "nom": "Nakayo Peas (Dance Rock MIX)",
+          "artiste": "Manaka Iwami & Ikumi Hasegawa",
+          "lien": "https://nl.catbox.moe/ak5qzz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 12,
+          "nom": "Nakayo Peas (Dance Rock MIX)",
+          "artiste": "Jun Oosuka & Hiroki Takahashi",
+          "lien": "https://nl.catbox.moe/8bnd96.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 13,
+          "nom": "Shouta Aoi Taisou",
+          "artiste": "Shouta Aoi",
+          "lien": "https://nl.catbox.moe/kz89en.webm"
+        },
+        {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Identity",
@@ -14904,6 +14939,27 @@
           "nom": "Identity",
           "artiste": "Kazuhiko Inoue & Ryo Horikawa",
           "lien": "https://nl.catbox.moe/249whz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "POP Memories To YOU♪",
+          "artiste": "Mayumi Iizuka & Hekiru Shiina",
+          "lien": "https://nl.catbox.moe/0k83kr.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "POP Memories To YOU♪",
+          "artiste": "Tasuku Hatanaka & Toshiki Masuda",
+          "lien": "https://nl.catbox.moe/7nbfmm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sekizui Bukko Nuki Ondo",
+          "artiste": "Manaka Iwami & Ikumi Hasegawa",
+          "lien": "https://nl.catbox.moe/2isf4l.webm"
         },
         {
           "type": "Insert Song",

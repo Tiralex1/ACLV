@@ -1508,6 +1508,49 @@
       ]
     },
     {
+      "nom": "BNA",
+      "id": 0,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Ready to",
+          "artiste": "Sumire Morohoshi",
+          "lien": "https://nl.catbox.moe/2tj4id.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "NIGHT RUNNING",
+          "artiste": "AAAMYYY",
+          "lien": "https://nl.catbox.moe/6jqtwn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "NIGHT RUNNING",
+          "artiste": "Maria Naganawa",
+          "lien": "https://nl.catbox.moe/mh3khx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Wish",
+          "artiste": "Maria Naganawa",
+          "lien": "https://nl.catbox.moe/yauhnm.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 1,
+          "V": 1
+        }
+      ]
+    },
+    {
       "nom": "Boku dake ga Inai Machi",
       "id": 0,
       "nb_musique": 2,
@@ -2057,49 +2100,6 @@
           "A": 0,
           "C": 0,
           "L": 0,
-          "V": 1
-        }
-      ]
-    },
-    {
-      "nom": "Brand New Animal",
-      "id": 0,
-      "nb_musique": 4,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Ready to",
-          "artiste": "Sumire Morohoshi",
-          "lien": "https://nl.catbox.moe/2tj4id.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "NIGHT RUNNING",
-          "artiste": "AAAMYYY",
-          "lien": "https://nl.catbox.moe/6jqtwn.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "NIGHT RUNNING",
-          "artiste": "Maria Naganawa",
-          "lien": "https://nl.catbox.moe/mh3khx.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Wish",
-          "artiste": "Maria Naganawa",
-          "lien": "https://nl.catbox.moe/yauhnm.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 0,
-          "L": 1,
           "V": 1
         }
       ]

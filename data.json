@@ -1,6 +1,6 @@
 {
   "nb_anime": 414,
-  "nb_musique": 2058,
+  "nb_musique": 2060,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -17883,7 +17883,7 @@
     {
       "nom": "Spy × Family",
       "id": 1,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -17898,6 +17898,20 @@
           "nom": "Shikisai",
           "artiste": "yama",
           "lien": "https://files.catbox.moe/apoyyo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Breeze",
+          "artiste": "(K)NoW_NAME:NIKIIE",
+          "lien": "https://nl.catbox.moe/is51b0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "GOOD DAY",
+          "artiste": "(K)NoW_NAME:NIKIIE",
+          "lien": "https://nl.catbox.moe/r8pmce.webm"
         }
       ],
       "users": [

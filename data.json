@@ -1,6 +1,6 @@
 {
   "nb_anime": 410,
-  "nb_musique": 2037,
+  "nb_musique": 2038,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -2143,7 +2143,7 @@
     {
       "nom": "Chainsaw Man",
       "id": 0,
-      "nb_musique": 12,
+      "nb_musique": 13,
       "musique": [
         {
           "type": "Opening",
@@ -2228,6 +2228,13 @@
           "nom": "Violence",
           "artiste": "Ziyoou-vachi",
           "lien": "https://nl.catbox.moe/56ilpk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 12,
+          "nom": "Fight Song",
+          "artiste": "Eve",
+          "lien": "https://nl.catbox.moe/1t4yrv.webm"
         }
       ],
       "users": [

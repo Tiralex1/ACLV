@@ -1,6 +1,6 @@
 {
   "nb_anime": 414,
-  "nb_musique": 2064,
+  "nb_musique": 2063,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -6085,42 +6085,35 @@
     {
       "nom": "Golden Time",
       "id": 0,
-      "nb_musique": 5,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
           "nom": "Golden Time",
           "artiste": "Yui Horie",
-          "lien": ""
+          "lien": "https://nl.catbox.video/d97n16.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "The♡World's♡End",
           "artiste": "Yui Horie",
-          "lien": ""
+          "lien": "https://nl.catbox.video/rp4t93.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Sweet & Sweet CHERRY",
           "artiste": "Yui Horie",
-          "lien": "https://openings.moe/video/GoldenTime-ED01-NCBD.webm"
+          "lien": "https://nl.catbox.video/pn4s99.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Haneikyuu-teki ni Aishite yo♡",
           "artiste": "Yui Horie",
-          "lien": "https://openings.moe/video/GoldenTime-ED02-NCBD.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 3,
-          "nom": "Golden Time",
-          "artiste": "Yui Horie",
-          "lien": ""
+          "lien": "https://nl.catbox.video/nw5i8j.webm"
         }
       ],
       "users": [
@@ -6185,7 +6178,7 @@
           "numero": 1,
           "nom": "Hatsukoi",
           "artiste": "Nakano-ke no Itsutsugo",
-          "lien": ""
+          "lien": "https://nl.catbox.video/nzov7h.webm"
         },
         {
           "type": "Ending",
@@ -6329,28 +6322,28 @@
           "numero": 2,
           "nom": "My Dearest",
           "artiste": "supercell",
-          "lien": ""
+          "lien": "https://nl.catbox.video/mv5kou.webm"
         },
         {
           "type": "Opening",
           "numero": 3,
           "nom": "The Everlasting Guilty Crown",
           "artiste": "EGOIST",
-          "lien": ""
+          "lien": "https://nl.catbox.video/al5ms1.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Departures ~Anata ni Okuru Ai no Uta~",
           "artiste": "EGOIST",
-          "lien": ""
+          "lien": "https://nl.catbox.video/pjhnx6.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Kokuhaku",
           "artiste": "supercell",
-          "lien": ""
+          "lien": "https://nl.catbox.video/qknxvi.webm"
         },
         {
           "type": "Insert Song",
@@ -6848,14 +6841,14 @@
           "numero": 1,
           "nom": "Higurashi no Naku Koro ni",
           "artiste": "Eiko Shimamiya",
-          "lien": ""
+          "lien": "https://nl.catbox.video/3czpgu.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "why, or why not",
           "artiste": "Rekka Katakiri",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/69phlq.webm"
         }
       ],
       "users": [

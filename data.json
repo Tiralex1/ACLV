@@ -1,6 +1,6 @@
 {
   "nb_anime": 414,
-  "nb_musique": 2076,
+  "nb_musique": 2079,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -10854,7 +10854,7 @@
           "numero": 1,
           "nom": "Rising Hope",
           "artiste": "LiSA",
-          "lien": ""
+          "lien": "https://files.catbox.moe/5p0wyp.webm"
         },
         {
           "type": "Opening",
@@ -10868,14 +10868,14 @@
           "numero": 1,
           "nom": "Millenario",
           "artiste": "ELISA",
-          "lien": ""
+          "lien": "https://files.catbox.moe/b5cqvr.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Mirror",
           "artiste": "Rei Yasuda",
-          "lien": ""
+          "lien": "https://files.catbox.moe/2juhma.webm"
         },
         {
           "type": "Insert Song",
@@ -11541,14 +11541,14 @@
           "numero": 1,
           "nom": "Loop-the-Loop",
           "artiste": "KOTOKO",
-          "lien": ""
+          "lien": "https://files.catbox.moe/txssb6.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Baby Baby Love",
           "artiste": "Haruka Tomatsu",
-          "lien": ""
+          "lien": "https://files.catbox.moe/u6p07t.webm"
         },
         {
           "type": "Insert Song",
@@ -11656,28 +11656,28 @@
           "numero": 1,
           "nom": "Netsujou no Spectrum",
           "artiste": "Ikimono-gakari",
-          "lien": ""
+          "lien": "https://files.catbox.moe/ln6qbo.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "Seven Deadly Sins",
           "artiste": "MAN WITH A MISSION",
-          "lien": ""
+          "lien": "https://files.catbox.moe/5nha2a.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "7-seven-",
           "artiste": "FLOW×GRANRODEO",
-          "lien": ""
+          "lien": "https://files.catbox.moe/io2iow.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Season",
           "artiste": "Alisa Takigawa",
-          "lien": ""
+          "lien": "https://files.catbox.moe/mefy13.webm"
         },
         {
           "type": "Insert Song",
@@ -17823,21 +17823,28 @@
     {
       "nom": "Sono Bisque Doll wa Koi wo Suru",
       "id": 0,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
           "nom": "Sunsun Days",
           "artiste": "Spira Spica",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/j5nu6u.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Koi no Yukue",
           "artiste": "Akari Akase",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/49ccde.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kimi ni Tsutaetai Koto ga Arunda",
+          "artiste": "Spira Spica",
+          "lien": "https://nl.catbox.moe/gnddyy.webm"
         }
       ],
       "users": [
@@ -17859,14 +17866,14 @@
           "numero": 1,
           "nom": "Kakehiki wa Poker Face",
           "artiste": "Kana Hanazawa",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/yxnzcq.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "50 Centi",
           "artiste": "Kanna Nakamura",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/kyra8z.webm"
         }
       ],
       "users": [
@@ -17888,63 +17895,63 @@
           "numero": 1,
           "nom": "Special Days",
           "artiste": "Yuko Goto",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/u4bk8w.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "Gorgeous 4U",
           "artiste": "Jun Fukuyama, Hiro Shimono, Tsubasa Yonaga, Kazuma Horie",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/bcjh9u.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Hidamari no Gate",
           "artiste": "Jun Fukuyama, Hiro Shimono, Tsubasa Yonaga & Kazuma Horie",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/wve8d0.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Special☆Gyutto Good luck!",
           "artiste": "Yuko Goto, Hitomi Nabatame, Ayahi Takagaki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/xpf6mr.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Asu e",
           "artiste": "Hitomi Nabatame",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/wp2hnd.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Boku no Basho",
           "artiste": "Tsubasa Yonaga",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/jv2o17.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Hoshi no Nagareru Yoru ni",
           "artiste": "Ayahi Takagaki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/dbxso0.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Te o Tsunaidara",
           "artiste": "Kazuma Horie",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/oipc0l.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Umi no Mukou",
           "artiste": "Hiro Shimono",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/kc8u94.webm"
         }
       ],
       "users": [
@@ -18038,7 +18045,7 @@
     {
       "nom": "Steins;Gate",
       "id": 0,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -18059,28 +18066,35 @@
           "numero": 2,
           "nom": "Sky Clad no Kansokusha",
           "artiste": "Kanako Itou",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/etwejy.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Another Heaven",
           "artiste": "Kanako Itou",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/3b6qxb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Get in the Car",
+          "artiste": "NALU",
+          "lien": "https://nl.catbox.moe/1hjc24.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "My White Ribbon",
           "artiste": "Afilia Saga East",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/cc7nzy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Watashi☆LOVE na☆Otome!",
           "artiste": "Afilia Saga East",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/4rf44z.webm"
         }
       ],
       "users": [
@@ -18095,77 +18109,84 @@
     {
       "nom": "Steins;Gate 0",
       "id": 0,
-      "nb_musique": 10,
+      "nb_musique": 11,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
           "nom": "Fatima",
           "artiste": "Kanako Itou",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/dfaeda.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Amadeus",
           "artiste": "Kanako Itou",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/i0e1rr.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "LAST GAME",
           "artiste": "Zwei",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/idgsef.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Lyra",
           "artiste": "Zwei",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/jlhtdz.webm"
         },
         {
           "type": "Ending",
           "numero": 4,
           "nom": "Hoshi no Kanaderu Uta",
           "artiste": "Kana Hanazawa & Megumi Han",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/rnfza1.webm"
         },
         {
           "type": "Ending",
           "numero": 5,
           "nom": "World-Line",
           "artiste": "Asami Imai",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/vo5les.webm"
         },
         {
           "type": "Ending",
           "numero": 6,
           "nom": "GATE OF STEINER",
           "artiste": "Eri Sasaki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/jg4h2n.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Dakishime Magic",
+          "artiste": "AKORINGO",
+          "lien": "https://nl.catbox.moe/0lv9ls.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Hacking to the Gate",
           "artiste": "Kanako Itou",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/rpfwzc.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Kimi wa Lovely my prince",
           "artiste": "AKORINGO",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/q5dehq.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Sky Clad no Kansokusha",
           "artiste": "Kanako Itou",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/2pv55v.webm"
         }
       ],
       "users": [
@@ -18187,14 +18208,14 @@
           "numero": 1,
           "nom": "Anata no Eranda Kono Toki wo",
           "artiste": "Kanako Itou",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/pwekrb.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Itsumo Kono Basho de",
           "artiste": "Ayane",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/nxyyrh.webm"
         }
       ],
       "users": [
@@ -18252,42 +18273,42 @@
           "numero": 1,
           "nom": "Senpai.",
           "artiste": "HoneyWorks meets TrySail",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/er0abw.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Daikirai na Hazu Datta.",
           "artiste": "HoneyWorks meets Sayuringo Gundan + Manatsu-san Respect Gundan from Nogizaka46",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/6vzkx4.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Hana ni Akai Ito",
           "artiste": "Momo Asakura",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/d5jfg4.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Ima Suki ni Naru.-triangle story-",
           "artiste": "Natsuki Hanae",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/yyee3t.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Romeo",
           "artiste": "LIP×LIP",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/88ie8t.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Suki to Suki no Houteishiki",
           "artiste": "HoneyWorks meets Mafumafu",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/lgx4gh.webm"
         }
       ],
       "users": [
@@ -18316,14 +18337,14 @@
           "numero": 1,
           "nom": "slow dance",
           "artiste": "Suneohair",
-          "lien": ""
+          "lien": "https://openings.moe/video/SukitteIiNaYo%EF%BC%8E-ED01-NCBD.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Sarari",
           "artiste": "Suneohair",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ck03gg.webm"
         }
       ],
       "users": [
@@ -18345,28 +18366,28 @@
           "numero": 1,
           "nom": "Hoshi ga Oyogu",
           "artiste": "Macaroni Enpitsu",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/e7w3nj.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "Natsuyume Noisy",
           "artiste": "Asaka",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/r4wrc2.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Kaika",
           "artiste": "cadode",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/orjk8w.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Shitsuren Song Takusan Kiite Naite Bakari no Watashi wa Mou.",
           "artiste": "Riria.",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/jlnj9f.webm"
         }
       ],
       "users": [
@@ -19347,28 +19368,28 @@
           "numero": 0,
           "nom": "Bakunetsu Shoujo Magical Kyouko",
           "artiste": "Chiemi Chiba",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/5y6wnm.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Daisuki Mikke!",
           "artiste": "Haruka Tomatsu",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/8hdcqn.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "GOLDEN TRANCER",
           "artiste": "Misato Fukuen",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/lsgy0o.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Skirt no Hajikko",
           "artiste": "Sayuri Yahagi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/1qdxyn.webm"
         }
       ],
       "users": [
@@ -19870,28 +19891,28 @@
           "numero": 1,
           "nom": "Gamble",
           "artiste": "syudou",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/w5oee4.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Ah Jinsei ni Namida Ari",
           "artiste": "Natsuki Hanae",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/uiajjs.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Beautiful Dreamer",
           "artiste": "Ezoshika Gourmet Club",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/s9qukk.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Ah Jinsei ni Namida Ari",
           "artiste": "Ayane Sakura & Akari Kitou",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ynljr2.webm"
         }
       ],
       "users": [
@@ -19913,56 +19934,56 @@
           "numero": 1,
           "nom": "Ima Koko",
           "artiste": "Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/t2p7vr.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Tsuki ga Kirei",
           "artiste": "Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/b0hc4q.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "3-gatsu 9-ka",
+          "artiste": "Nao Touyama",
+          "lien": "https://nl.catbox.moe/ygpwow.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Fragile",
           "artiste": "Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/a8fw7s.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Hatsukoi",
           "artiste": "Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/9yexa3.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Mirai e",
           "artiste": "Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/md5ks7.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Natsumatsuri",
           "artiste": "Nao Touyama",
-          "lien": ""
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Sangatsu Kokonoka",
-          "artiste": "Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/f3cmf9.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Yasashii Kimochi",
           "artiste": "Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/fuurw0.webm"
         }
       ],
       "users": [
@@ -19982,16 +20003,16 @@
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "Aimaimoko",
+          "nom": "Aimai Moko",
           "artiste": "Inori Minase",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/6cqqaw.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Dear",
           "artiste": "Yui Ogura",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/yjnlg6.webm"
         }
       ],
       "users": [
@@ -20013,21 +20034,21 @@
           "numero": 1,
           "nom": "Uchiage Hanabi",
           "artiste": "DAOKO × Kenshi Yonezu",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/98lgh8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Forever Friends",
           "artiste": "DAOKO",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/12ygpb.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Ruri-iro no Chikyuu",
           "artiste": "Suzu Hirose",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/juhyx5.webm"
         }
       ],
       "users": [
@@ -20049,14 +20070,14 @@
           "numero": 1,
           "nom": "Nadamesukashi Negotiation",
           "artiste": "Kano to Uzaki-chan",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/3sm4om.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Kokoro Knock",
           "artiste": "YuNi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/fygvxg.webm"
         }
       ],
       "users": [
@@ -20078,28 +20099,28 @@
           "numero": 1,
           "nom": "Sincerely",
           "artiste": "TRUE",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ni1bl6.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Michishirube",
           "artiste": "Minori Chihara",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/cbrrdr.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Believe in...",
           "artiste": "Aira Yuuki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/a5ewpp.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Violet Snow",
           "artiste": "Aira Yuuki",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/mhppuq.webm"
         }
       ],
       "users": [
@@ -20121,7 +20142,7 @@
           "numero": 1,
           "nom": "Amy",
           "artiste": "Minori Chihara",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/99rcjh.webm"
         }
       ],
       "users": [
@@ -20143,21 +20164,21 @@
           "numero": 1,
           "nom": "Fiction",
           "artiste": "sumika",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/rehox3.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Kimi no Tonari",
           "artiste": "halca",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/p8rw84.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Ashita mo Mata",
           "artiste": "halca",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/u2s89v.webm"
         }
       ],
       "users": [
@@ -20179,35 +20200,35 @@
           "numero": 1,
           "nom": "Yukitoki",
           "artiste": "Nagi Yanagi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/hwlhc4.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Hello Alone",
           "artiste": "Saori Hayami & Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/iu1xoc.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Hello Alone -Yui Ballade-",
           "artiste": "Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/8p0ugu.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Hello Alone -Band arrange-",
           "artiste": "Saori Hayami & Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/6f13pd.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Bitter Bitter Sweet",
           "artiste": "Saori Hayami & Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/oiu2hn.webm"
         }
       ],
       "users": [
@@ -20229,42 +20250,42 @@
           "numero": 1,
           "nom": "Megumi no Ame",
           "artiste": "Nagi Yanagi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/zzesvj.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Diamond no Jundo",
           "artiste": "Saori Hayami & Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/2gxey4.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Diamond no Jundo ~Yui Ballade~",
           "artiste": "Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/fms1du.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Diamond no Jundo ~Yukino Ballade~",
           "artiste": "Saori Hayami",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/kq5s1y.webm"
         },
         {
           "type": "Ending",
           "numero": 4,
           "nom": "Yukitoki",
           "artiste": "Nagi Yanagi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/r4f944.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Bitter Bitter Sweet",
           "artiste": "Saori Hayami & Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/o30ddi.webm"
         }
       ],
       "users": [
@@ -20286,49 +20307,49 @@
           "numero": 1,
           "nom": "Harumodoki",
           "artiste": "Nagi Yanagi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/c35rzu.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Everyday World",
           "artiste": "Saori Hayami & Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/qrzm8i.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Everyday World -Ballade Arrange- Yukino Solo Ver.",
           "artiste": "Saori Hayami",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/8yj5ml.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Everyday World -Ballade Arrange- Yui Solo Ver.",
           "artiste": "Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/6lca9i.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Bitter Bitter Sweet",
           "artiste": "Saori Hayami & Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/8vyz5n.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Hello Alone -Yui Ballade-",
           "artiste": "Nao Touyama",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/6vev7j.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Yukitoki",
           "artiste": "Nagi Yanagi",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/ax756s.webm"
         }
       ],
       "users": [
@@ -20545,14 +20566,14 @@
           "numero": 1,
           "nom": "Hakkensha wa Watashi",
           "artiste": "Tapimiru",
-          "lien": ""
+          "lien": "https://openings.moe/video/ZeroKaraHajimeruMahouNoSho-OP01-NCOLD.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Hajimari no Shirushi",
           "artiste": "Chima",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/4a9wk1.webm"
         }
       ],
       "users": [
@@ -20581,7 +20602,7 @@
           "numero": 1,
           "nom": "Honto no Kimochi",
           "artiste": "Rie Kugimiya",
-          "lien": ""
+          "lien": "https://openings.moe/video/ZeroNoTsukaima-ED01-NCBD.webm"
         }
       ],
       "users": [
@@ -20697,42 +20718,42 @@
           "numero": 1,
           "nom": "Koi-iro ni Sake",
           "artiste": "CHiCO with HoneyWorks",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/hmwrl0.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Ippun Ichibyou Kimi to Boku no",
           "artiste": "HoneyWorks meets Sphere",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/tyspv5.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Byoumei Koi Wazurai",
           "artiste": "HoneyWorks with sana",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/z89fd3.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Destiny~Zutto Mae kara Kimi ga Suki Deshita~",
           "artiste": "HoneyWorks meets YURiCa/Hanatan",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/4c0gxk.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Kokuhaku Yokou Renshuu",
           "artiste": "HoneyWorks with Haruka Tomatsu",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/dll9bw.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nichiyoubi no Himitsu",
           "artiste": "HoneyWorks meets CHiCO & sana",
-          "lien": ""
+          "lien": "https://nl.catbox.moe/s888px.webm"
         }
       ],
       "users": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 414,
-  "nb_musique": 2078,
+  "nb_anime": 415,
+  "nb_musique": 2080,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -15929,6 +15929,35 @@
           "C": 0,
           "L": 0,
           "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Romantic Killer",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "ROMA☆KiRA",
+          "artiste": "YURiKA",
+          "lien": "https://nl.catbox.moe/ergo0p.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Romantic Love~Renai Shimasenka?☆~",
+          "artiste": "Mikako Komatsu",
+          "lien": "https://nl.catbox.moe/mqa8su.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 415,
-  "nb_musique": 2084,
+  "nb_anime": 416,
+  "nb_musique": 2091,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -141,6 +141,70 @@
         {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Akame ga Kill!",
+      "id": 0,
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Skyreach",
+          "artiste": "Sora Amamiya",
+          "lien": "https://files.catbox.moe/pjdivz.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Liar Mask",
+          "artiste": "Rika Mayama",
+          "lien": "https://files.catbox.moe/x1l7m9.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Konna Sekai, Shiritakunakatta.",
+          "artiste": "Miku Sawai",
+          "lien": "https://files.catbox.moe/03945r.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Tsukiakari",
+          "artiste": "Sora Amamiya",
+          "lien": "https://files.catbox.moe/uevak7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "I've got to go home",
+          "artiste": "Florence McNair",
+          "lien": "https://nl.catbox.moe/dgldl8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Jaegers",
+          "artiste": "TAKUMI iwasky",
+          "lien": "https://nl.catbox.moe/p8i57r.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Le chant de Roma (Shiitagerareta Mono-tachi no Tame ni)",
+          "artiste": "Maïa Barouh",
+          "lien": "https://nl.catbox.moe/49ilnv.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
           "L": 0,
           "V": 0
         }

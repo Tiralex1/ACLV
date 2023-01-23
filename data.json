@@ -1,6 +1,6 @@
 {
   "nb_anime": 415,
-  "nb_musique": 2080,
+  "nb_musique": 2084,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -1481,7 +1481,7 @@
     {
       "nom": "Blue Lock",
       "id": 0,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -1491,11 +1491,25 @@
           "lien": "https://files.catbox.moe/wtmj3l.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Judgement",
+          "artiste": "ASH DA HERO",
+          "lien": "https://nl.catbox.moe/u0woxx.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "WINNER",
           "artiste": "Shugo Nakamura",
           "lien": "https://files.catbox.moe/7qbtr8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Numbness like a ginger",
+          "artiste": "UNISON SQUARE GARDEN",
+          "lien": "https://nl.catbox.moe/nv39fa.webm"
         }
       ],
       "users": [
@@ -1825,7 +1839,7 @@
     {
       "nom": "Boku no Hero Academia",
       "id": 5,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -1835,11 +1849,25 @@
           "lien": "https://files.catbox.moe/3vgjj3.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Bokura no",
+          "artiste": "Eve",
+          "lien": "https://nl.catbox.moe/v0lw02.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "SKETCH",
           "artiste": "Kiro Akiyama",
           "lien": "https://files.catbox.moe/potzli.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kitakaze",
+          "artiste": "SIX LOUNGE",
+          "lien": "https://nl.catbox.moe/zzoexh.webm"
         }
       ],
       "users": [
@@ -19066,7 +19094,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Grand Escape (Movie edit)",
-          "artiste": "RADWIMPS feat. Touko Miura",
+          "artiste": "RADWIMPS feat. Toko Miura",
           "lien": "https://nl.catbox.moe/i54nyf.webm"
         },
         {
@@ -19080,7 +19108,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Shukusai (Movie edit)",
-          "artiste": "RADWIMPS feat. Touko Miura",
+          "artiste": "RADWIMPS feat. Toko Miura",
           "lien": "https://nl.catbox.moe/u3w0cr.webm"
         }
       ],

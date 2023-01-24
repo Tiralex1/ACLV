@@ -1,6 +1,6 @@
 {
-  "nb_anime": 416,
-  "nb_musique": 2091,
+  "nb_anime": 427,
+  "nb_musique": 2114,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -7354,6 +7354,35 @@
       ]
     },
     {
+      "nom": "Hyouken no Majutsushi ga Sekai o Suberu",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Dystopia",
+          "artiste": "Sizuk",
+          "lien": "https://nl.catbox.moe/tuc59m.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Loud Hailer",
+          "artiste": "Maaya Uchida",
+          "lien": "https://nl.catbox.moe/f7byii.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
       "nom": "Ichiban Ushiro no Daimaou",
       "id": 0,
       "nb_musique": 2,
@@ -7414,6 +7443,35 @@
           "A": 0,
           "C": 1,
           "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Inferno Cop",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Die Hollen Polizei",
+          "artiste": "Juriano Hagiwara feat. Tsukasa Matsubara",
+          "lien": "https://nl.catbox.moe/312yu3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Gruss Elise von mir",
+          "artiste": "Juriano Hagiwara feat. Tsukasa Matsubara",
+          "lien": "https://nl.catbox.moe/lwahsp.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 1,
           "V": 0
         }
       ]
@@ -8388,6 +8446,35 @@
           "A": 0,
           "C": 0,
           "L": 1,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "CHANGEMAKER",
+          "artiste": "Hinano",
+          "lien": "https://nl.catbox.moe/e2p23o.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Dear Doze Days",
+          "artiste": "Akari Kitou",
+          "lien": "https://nl.catbox.moe/k2m48u.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
           "V": 0
         }
       ]
@@ -11301,6 +11388,35 @@
       ]
     },
     {
+      "nom": "Maou Gakuin no Futekigousha II",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "SEIEN",
+          "artiste": "Lenny code fiction",
+          "lien": "https://nl.catbox.moe/ms3hxd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Esoa",
+          "artiste": "Momosumomosu",
+          "lien": "https://nl.catbox.moe/vmniax.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
       "nom": "Masamune-kun no Revenge",
       "id": 0,
       "nb_musique": 6,
@@ -13003,6 +13119,35 @@
           "A": 0,
           "C": 0,
           "L": 1,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Ningen Fushin no Boukensha-tachi ga Sekai o Sukuu You desu",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Glorious World",
+          "artiste": "Shunichi Toki",
+          "lien": "https://nl.catbox.moe/6qv8ly.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Never Fear",
+          "artiste": "Mao Abe",
+          "lien": "https://nl.catbox.moe/y8nwxv.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
           "V": 0
         }
       ]
@@ -16054,6 +16199,35 @@
       ]
     },
     {
+      "nom": "Rougo ni Sonaete Isekai de 8-manmai no Kinka o Tamemasu",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hikatta Coin ga Shimesu Hou",
+          "artiste": "Kaori Maeda",
+          "lien": "https://nl.catbox.moe/nq78w1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yappari Economy",
+          "artiste": "YABI×YABI",
+          "lien": "https://nl.catbox.moe/8dibuk.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
       "nom": "Ryuu to Sobakasu no Hime",
       "id": 0,
       "nb_musique": 7,
@@ -16462,6 +16636,42 @@
           "nom": "San Eiketsu no Joshi",
           "artiste": "Eri Suzuki",
           "lien": "https://nl.catbox.moe/uidkqg.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Saikyou Onmyouji no Isekai Tenseiki",
+      "id": 0,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "RECONNECTION",
+          "artiste": "angela",
+          "lien": "https://nl.catbox.moe/wwe6dm.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Link",
+          "artiste": "Azumi Waki×Nene Hieda",
+          "lien": "https://nl.catbox.moe/wxqxas.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Tsukiyo no Tact",
+          "artiste": "Sou",
+          "lien": "https://nl.catbox.moe/f89x2l.webm"
         }
       ],
       "users": [
@@ -17099,6 +17309,35 @@
           "nom": "Day of Bright Sunshine",
           "artiste": "Yuki Nakashima",
           "lien": "https://nl.catbox.moe/j7ilip.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
+      "nom": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Evolution",
+          "artiste": "nano",
+          "lien": "https://nl.catbox.moe/qafpz2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Adore me",
+          "artiste": "Erii Yamazaki",
+          "lien": "https://nl.catbox.moe/n8x1gw.webm"
         }
       ],
       "users": [
@@ -18378,6 +18617,35 @@
       ]
     },
     {
+      "nom": "Sugar Apple Fairy Tale",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Musical",
+          "artiste": "Minori Suzuki",
+          "lien": "https://nl.catbox.moe/eeakk9.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kanaeru",
+          "artiste": "Sumire Morohoshi",
+          "lien": "https://nl.catbox.moe/r4ln78.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
       "nom": "Suki ni Naru Sono Shunkan o: Kokuhaku Jikkou Iinkai",
       "id": 0,
       "nb_musique": 6,
@@ -19244,6 +19512,35 @@
       ]
     },
     {
+      "nom": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Arc-en-ciel",
+          "artiste": "HaNaTan",
+          "lien": "https://nl.catbox.moe/0w10e2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Only for you",
+          "artiste": "Sayaka Senbongi & Manaka Iwami",
+          "lien": "https://nl.catbox.moe/pm709c.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
+        }
+      ]
+    },
+    {
       "nom": "Tensei Shitara Ken Deshita",
       "id": 0,
       "nb_musique": 2,
@@ -19835,6 +20132,35 @@
           "C": 1,
           "L": 0,
           "V": 1
+        }
+      ]
+    },
+    {
+      "nom": "Tondemo Skill de Isekai Hourou Meshi",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Zeitaku na Saji",
+          "artiste": "Van de Shop",
+          "lien": "https://nl.catbox.moe/a7i2h6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Happy-go-Journey",
+          "artiste": "Yuuma Uchida",
+          "lien": "https://nl.catbox.moe/bcl7au.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0
         }
       ]
     },

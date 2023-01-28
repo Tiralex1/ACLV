@@ -1,6 +1,6 @@
 {
-  "nb_anime": 429,
-  "nb_musique": 2124,
+  "nb_anime": 430,
+  "nb_musique": 2127,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -17172,6 +17172,42 @@
         {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 1
+        }
+      ]
+    },
+    {
+      "nom": "Shadows House",
+      "id": 0,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "a hollow shadow",
+          "artiste": "Kenichiro Suehiro",
+          "lien": "https://nl.catbox.moe/00xevw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Nainai",
+          "artiste": "ReoNa",
+          "lien": "https://nl.catbox.moe/fxi5fs.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Watashi no Kanpeki na Sekai",
+          "artiste": "Hideaki Hagimori",
+          "lien": "https://nl.catbox.moe/9ccvf4.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
           "L": 0,
           "V": 1
         }

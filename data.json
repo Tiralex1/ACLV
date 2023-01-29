@@ -3177,7 +3177,7 @@
         {
           "A": 0,
           "C": 1,
-          "L": 0,
+          "L": 1,
           "V": 0
         }
       ]
@@ -3206,7 +3206,7 @@
         {
           "A": 0,
           "C": 1,
-          "L": 0,
+          "L": 1,
           "V": 0
         }
       ]
@@ -3242,7 +3242,7 @@
         {
           "A": 0,
           "C": 1,
-          "L": 0,
+          "L": 1,
           "V": 0
         }
       ]
@@ -4331,7 +4331,7 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Ikiru o Suru",
-          "artiste": "Macaroni Enpitsu",
+          "artiste": "Macaroni Empitsu",
           "lien": "https://nl.catbox.moe/4gq0ot.webm"
         },
         {
@@ -4345,7 +4345,7 @@
           "type": "Ending",
           "numero": 1,
           "nom": "mother",
-          "artiste": "Macaroni Enpitsu",
+          "artiste": "Macaroni Empitsu",
           "lien": "https://nl.catbox.moe/r1uop2.webm"
         },
         {
@@ -8221,7 +8221,7 @@
           "type": "Ending",
           "numero": 7,
           "nom": "Darling in the Night",
-          "artiste": "Reina Kondou",
+          "artiste": "Reina Kondo",
           "lien": "https://nl.catbox.moe/l9fdyi.webm"
         }
       ],
@@ -10996,7 +10996,7 @@
         {
           "A": 1,
           "C": 0,
-          "L": 0,
+          "L": 1,
           "V": 0
         }
       ]
@@ -14279,7 +14279,7 @@
         {
           "A": 1,
           "C": 0,
-          "L": 0,
+          "L": 1,
           "V": 1
         }
       ]
@@ -18832,7 +18832,7 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Hoshi ga Oyogu",
-          "artiste": "Macaroni Enpitsu",
+          "artiste": "Macaroni Empitsu",
           "lien": "https://nl.catbox.moe/e7w3nj.webm"
         },
         {
@@ -21062,7 +21062,7 @@
         {
           "A": 0,
           "C": 0,
-          "L": 0,
+          "L": 1,
           "V": 0
         }
       ]
@@ -21156,7 +21156,7 @@
         {
           "A": 1,
           "C": 0,
-          "L": 0,
+          "L": 1,
           "V": 0
         }
       ]

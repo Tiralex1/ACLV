@@ -1,6 +1,6 @@
 {
-  "nb_anime": 430,
-  "nb_musique": 2127,
+  "nb_anime": 431,
+  "nb_musique": 2129,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -17202,6 +17202,35 @@
           "nom": "Watashi no Kanpeki na Sekai",
           "artiste": "Hideaki Hagimori",
           "lien": "https://nl.catbox.moe/9ccvf4.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1
+        }
+      ]
+    },
+    {
+      "nom": "Shadows House 2nd Season",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shall we Dance?",
+          "artiste": "ReoNa",
+          "lien": "https://nl.catbox.moe/kf45kf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Masquerade",
+          "artiste": "ClariS",
+          "lien": "https://nl.catbox.moe/01tphn.webm"
         }
       ],
       "users": [

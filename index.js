@@ -315,7 +315,6 @@ function filtre() {
     if (val == false || val2==false || val3 == false || val4 == false || val5 == false) {
         var j = 0;
         for (var i = 0; i < tab_anime.length; ++i) {
-            console.log(tab_anime[i][8]);
             if ((tab_anime[i][4] == true && val == true) || (tab_anime[i][5] == true && val2 == true) || (tab_anime[i][6] == true && val3 == true) || (tab_anime[i][7] == true && val4 == true) || (tab_anime[i][8] == true && val5 == true)) {
                 for (var k = tab_anime[i][3]; k < tab_anime[i][2] + tab_anime[i][3]; ++k) {
                     tab_filtr2.push(tab_musique[k]);

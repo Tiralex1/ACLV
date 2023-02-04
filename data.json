@@ -1,6 +1,6 @@
 {
-  "nb_anime": 436,
-  "nb_musique": 2163,
+  "nb_anime": 437,
+  "nb_musique": 2165,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -2296,6 +2296,36 @@
           "L": 0,
           "V": 1,
           "T": 1
+        }
+      ]
+    },
+    {
+      "nom": "Buddy Daddies",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "SHOCK!",
+          "artiste": "Ayase",
+          "lien": "https://nl.catbox.moe/2jk17f.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "My Plan",
+          "artiste": "DURDN",
+          "lien": "https://nl.catbox.moe/8633u8.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0
         }
       ]
     },

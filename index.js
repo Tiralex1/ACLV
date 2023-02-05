@@ -8,6 +8,7 @@ let naf = document.getElementById("name_anime");
 let typm = document.getElementById("type_music");
 let nam = document.getElementById("name_music");
 let naa = document.getElementById("name_artist");
+let intersection = document.getElementById("intersection");
 let a = document.getElementById("A");
 let c = document.getElementById("C");
 let l = document.getElementById("L");
@@ -312,10 +313,66 @@ function filtre() {
     var val3 = l.checked;
     var val4 = v.checked;
     var val5 = t.checked;
-    if (val == false || val2==false || val3 == false || val4 == false || val5 == false) {
+    var intersect = intersection.checked;
+    if (intersect == false) {
+        if (val == false || val2 == false || val3 == false || val4 == false || val5 == false) {
+            var j = 0;
+            for (var i = 0; i < tab_anime.length; ++i) {
+                if ((tab_anime[i][4] == true && val == true) || (tab_anime[i][5] == true && val2 == true) || (tab_anime[i][6] == true && val3 == true) || (tab_anime[i][7] == true && val4 == true) || (tab_anime[i][8] == true && val5 == true)) {
+                    for (var k = tab_anime[i][3]; k < tab_anime[i][2] + tab_anime[i][3]; ++k) {
+                        tab_filtr2.push(tab_musique[k]);
+                    }
+                    tab_filtr.push(tab_anime[i]);
+                    tab_filtr[tab_filtr.length - 1][3] = j;
+                    j += tab_filtr[tab_filtr.length - 1][2];
+                }
+            }
+            tab_anime = tab_filtr;
+            tab_musique = tab_filtr2;
+        }
+    }
+    else {
         var j = 0;
         for (var i = 0; i < tab_anime.length; ++i) {
-            if ((tab_anime[i][4] == true && val == true) || (tab_anime[i][5] == true && val2 == true) || (tab_anime[i][6] == true && val3 == true) || (tab_anime[i][7] == true && val4 == true) || (tab_anime[i][8] == true && val5 == true)) {
+            var ok = false;
+            var stop = false;
+            if (val == true) {
+                if (tab_anime[i][4] == true) {
+                    ok = true;
+                }
+                else {
+                    ok = false;
+                    stop = true;
+                }
+            }
+            if (!stop && val2 == true) {
+                if (tab_anime[i][5] == true) {
+                    ok = true;
+                }
+                else {
+                    ok = false;
+                    stop = true;
+                }
+            }
+            if (!stop && val3 == true) {
+                if (tab_anime[i][6] == true) {
+                    ok = true;
+                }
+                else {
+                    ok = false;
+                    stop = true;
+                }
+            }
+            if (!stop && val4 == true) {
+                if (tab_anime[i][6] == true) {
+                    ok = true;
+                }
+                else {
+                    ok = false;
+                    stop = true;
+                }
+            }
+            if (ok == true) {
                 for (var k = tab_anime[i][3]; k < tab_anime[i][2] + tab_anime[i][3]; ++k) {
                     tab_filtr2.push(tab_musique[k]);
                 }
@@ -327,6 +384,7 @@ function filtre() {
         tab_anime = tab_filtr;
         tab_musique = tab_filtr2;
     }
+    
     tab_filtr = [];
     tab_filtr2 = [];
     val = correctString(nam.value);

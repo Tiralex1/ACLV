@@ -364,7 +364,16 @@ function filtre() {
                 }
             }
             if (!stop && val4 == true) {
-                if (tab_anime[i][6] == true) {
+                if (tab_anime[i][7] == true) {
+                    ok = true;
+                }
+                else {
+                    ok = false;
+                    stop = true;
+                }
+            }
+            if (!stop && val5 == true) {
+                if (tab_anime[i][8] == true) {
                     ok = true;
                 }
                 else {

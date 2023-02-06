@@ -98,7 +98,7 @@ table {
 }
 
 .nomart {
-    width : 30%;
+    width : 28%;
 }
 
 .lien {
@@ -106,5 +106,6 @@ table {
 }
 
 .favo {
+    width : 2%;
     user-select: none;
 }

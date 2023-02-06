@@ -1,6 +1,6 @@
 {
-  "nb_anime": 437,
-  "nb_musique": 2165,
+  "nb_anime": 438,
+  "nb_musique": 2180,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -10769,6 +10769,127 @@
           "C": 0,
           "L": 0,
           "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kunoichi Tsubaki no Mune no Uchi",
+      "id": 0,
+      "nb_musique": 15,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Highlight Highlight",
+          "artiste": "the peggies",
+          "lien": "https://nl.catbox.moe/du35hd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Akane-gumi Katsudou Nisshi ~Inu-han~",
+          "artiste": "Yuuko Natsuyoshi・Miyari Nemoto・Sayumi Suzushiro",
+          "lien": "https://nl.catbox.moe/puu6ca.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Akane-gumi Katsudou Nisshi ~Hitsuji-han~",
+          "artiste": "Aya Yamane・Manaka Iwami・Miyu Tomita",
+          "lien": "https://nl.catbox.moe/tuag7b.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Akane-gumi Katsudou Nisshi ~Hebi-han~",
+          "artiste": "Madoka Asahina・Minami Tanaka",
+          "lien": "https://nl.catbox.moe/c0i7is.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Akane-gumi Katsudou Nisshi ~Saru-han~",
+          "artiste": "Hina Youmiya・Yuuki Hirose・Hiyori Kouno",
+          "lien": "https://nl.catbox.moe/632w9w.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Akane-gumi Katsudou Nisshi ~Ushi-han~",
+          "artiste": "Ikumi Hasegawa・Hikaru Toono・Aoi Koga",
+          "lien": "https://nl.catbox.moe/bork05.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Akane-gumi Katsudou Nisshi ~Tora-han~",
+          "artiste": "Mayu Minami・Ayaka Nanase・Misaki Watada",
+          "lien": "https://nl.catbox.moe/5u61kt.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Akane-gumi Katsudou Nisshi ~Tatsu-han~",
+          "artiste": "Yuka Nukui・Yuuki Takada・Moe Kahara",
+          "lien": "https://nl.catbox.moe/3az6mf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 8,
+          "nom": "Akane-gumi Katsudou Nisshi ~Inoshishi-han~",
+          "artiste": "Natsumi Kawaida・Makoto Koichi・Rio Tsuchiya",
+          "lien": "https://nl.catbox.moe/tnqhlu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 9,
+          "nom": "Akane-gumi Katsudou Nisshi ~Tori-han~",
+          "artiste": "Fairouz Ai・Ayaka Asai・Honoka Inoue",
+          "lien": "https://nl.catbox.moe/4kvf8l.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 10,
+          "nom": "Akane-gumi Katsudou Nisshi ~Nezumi-han~",
+          "artiste": "Kana Ichinose・Mayu Mineda・Reina Kondo",
+          "lien": "https://nl.catbox.moe/ujo800.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 11,
+          "nom": "Akane-gumi Katsudou Nisshi ~Usagi-han~",
+          "artiste": "Saya Aizawa・Eri Yukimura・Ayasa Ito",
+          "lien": "https://nl.catbox.moe/69irs7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 12,
+          "nom": "Akane-gumi Katsudou Nisshi ~Uma-han~",
+          "artiste": "Marika Kohno・Maria Naganawa・You Taichi",
+          "lien": "https://nl.catbox.moe/1dcvy5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 13,
+          "nom": "Akane-gumi Katsudou Nisshi ~Neushitorautatsumiumahitsujisarutoriinui Daishuugou!~",
+          "artiste": "Neushitorautatsumiumahitsujisarutoriinui",
+          "lien": "https://nl.catbox.moe/ydzpb9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Itsumo Tonari de",
+          "artiste": "Saya Aizawa",
+          "lien": "https://nl.catbox.moe/ydql2s.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
           "T": 0
         }
       ]

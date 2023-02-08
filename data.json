@@ -1,6 +1,6 @@
 {
-  "nb_anime": 438,
-  "nb_musique": 2180,
+  "nb_anime": 439,
+  "nb_musique": 2186,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -10686,6 +10686,64 @@
       ]
     },
     {
+      "nom": "Kremlin",
+      "id": 0,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Genkai Lovers",
+          "artiste": "Aki Hirakawa",
+          "lien": "https://nl.catbox.moe/ujm0yb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Koinu to Boku",
+          "artiste": "Azuma Tani",
+          "lien": "https://nl.catbox.moe/fqddxb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Machi o Deru Boku",
+          "artiste": "Azuma Tani",
+          "lien": "https://nl.catbox.moe/eygxke.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Kimi to Boku to Neko",
+          "artiste": "Azuma Tani",
+          "lien": "https://nl.catbox.moe/4i9f58.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Boku no Suki na Hito",
+          "artiste": "Azuma Tani",
+          "lien": "https://nl.catbox.moe/eq4ohx.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Mail ga Konee",
+          "artiste": "Azuma Tani",
+          "lien": "https://nl.catbox.moe/henqki.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Kuma Kuma Kuma Bear",
       "id": 0,
       "nb_musique": 3,
@@ -11640,7 +11698,7 @@
           "type": "Ending",
           "numero": 2,
           "nom": "Akuma Gakkou Babyls Kouka",
-          "artiste": "Akuma Gakkou Babyls Seito no Mina-san",
+          "artiste": "Akuma Gakkou Babyls Seito no Minasan",
           "lien": "https://files.catbox.moe/bhn25d.webm"
         },
         {
@@ -11698,7 +11756,7 @@
           "type": "Ending",
           "numero": 2,
           "nom": "Akuma Gakkou Babyls Kouka",
-          "artiste": "Akuma Gakkou Babyls Seito no Mina-san",
+          "artiste": "Akuma Gakkou Babyls Seito no Minasan",
           "lien": "https://nl.catbox.moe/uccum5.webm"
         },
         {

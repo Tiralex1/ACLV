@@ -322,7 +322,6 @@ function modif_fav(i, j) {
     listeFiltre.getAnime(i).getMusic(j).ModifFavori();
     affich(listeFiltre);
     sauvegarde_fav();
-    console.log(fav);
 }
 
 function filtre_nomAnime(listeFiltreAnime, str) {
@@ -427,6 +426,3 @@ function filtre() {
 reset_filtre();
 data(NomFicData);
 affich(Liste_Anime);
-
-console.log(Liste_Anime);
-console.log(fav);

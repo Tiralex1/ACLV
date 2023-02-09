@@ -321,7 +321,8 @@ function modif_fav(i, j) {
     if (!listeFiltre.getAnime(i).getMusic(j).getFavori) ajout_fav(i, j);
     else supp_fav(i, j);
     listeFiltre.getAnime(i).getMusic(j).ModifFavori();
-    affich(listeFiltre);
+    if (!AffichageFavori) affich(listeFiltre);
+    else affich_fav();
     sauvegarde_fav();
 }
 

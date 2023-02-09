@@ -322,7 +322,10 @@ function modif_fav(i, j) {
     else supp_fav(i, j);
     listeFiltre.getAnime(i).getMusic(j).ModifFavori();
     if (!AffichageFavori) affich(listeFiltre);
-    else affich_fav();
+    else {
+        AffichageFavori = !AffichageFavori;
+        affich_fav();
+    }
     sauvegarde_fav();
 }
 

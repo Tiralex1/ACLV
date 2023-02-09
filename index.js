@@ -189,7 +189,7 @@ function affich(listeA) {
     }
     $("<div/>", {
         "id": "info",
-        html: "&nbsp;Nb Anime: " + listeA.getNbAnime + " , Nb Musique: " + listeA.getNbMusic
+        html: "&nbsp;Nb Anime: " + listeA.getNbAnime + " | Nb Musique: " + listeA.getNbMusic
     }).appendTo("body");
     $("<table/>", {
         "id": "AnimeMusicList",
@@ -240,7 +240,7 @@ function affich_fav() {
         }
         $("<div/>", {
             "id": "info",
-            html: "&nbsp;Nb Anime: " + fav.getNbAnime + " , Nb Musique: " + fav.getNbMusic
+            html: "&nbsp;Nb Anime: " + fav.getNbAnime + " | Nb Musique: " + fav.getNbMusic
         }).appendTo("body");
         $("<table/>", {
             "id": "AnimeMusicList",

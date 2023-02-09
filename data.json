@@ -1,6 +1,6 @@
 {
-  "nb_anime": 439,
-  "nb_musique": 2186,
+  "nb_anime": 440,
+  "nb_musique": 2190,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -8819,6 +8819,50 @@
           "C": 0,
           "L": 0,
           "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kakkou no Iinazuke",
+      "id": 0,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Dekoboko",
+          "artiste": "Kiyoe Yoshioka",
+          "lien": "https://nl.catbox.moe/kxgfeg.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Glitter",
+          "artiste": "sumika",
+          "lien": "https://nl.catbox.moe/hd701e.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shikaku Unmei",
+          "artiste": "Sangatsu no Phantasia",
+          "lien": "https://nl.catbox.moe/pufl75.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "HELLO HELLO HELLO",
+          "artiste": "Eir Aoi",
+          "lien": "https://nl.catbox.moe/0vnth9.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 0,
           "T": 0
         }
       ]

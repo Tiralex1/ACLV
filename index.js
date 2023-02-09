@@ -327,6 +327,7 @@ function modif_fav(i, j) {
         affich_fav();
     }
     sauvegarde_fav();
+    console.log(fav);
 }
 
 function filtre_nomAnime(listeFiltreAnime, str) {

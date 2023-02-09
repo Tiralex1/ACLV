@@ -62,6 +62,7 @@ class Anime {
         this.#nbMusic --;
     }
     AjouteUser(bool) { this.#tabUsers.push(bool); }
+    CopieUsers(anime) { for (var i = 0; i < NB_USERS; ++i) eval("this.AjouteUser(anime.getEtatUser(" + i + "));"); }
     get getNom() { return this.#nom; }
     get getId() { return this.#id; }
     get getNbMusic() { return this.#nbMusic; }
@@ -335,10 +336,11 @@ function filtre_nomAnime(listeFiltreAnime, str) {
 function filtre_typeMusic(listeFiltreAnime, val) {
     var listeA = new ListeAnime();
     for (var i = 0; i < listeFiltreAnime.getNbAnime; ++i) {
-        A = listeFiltreAnime.getAnime(i);
+        var A = listeFiltreAnime.getAnime(i);
         var Abis = new Anime(A.getNom, A.getId);
         for (var j = 0; j < A.getNbMusic; ++j)
             if (A.getMusic(j).getType == val) Abis.AjouteMusic(A.getMusic(j));
+        Abis.CopieUsers(A);
         if (Abis.getNbMusic > 0) listeA.AjouteAnime(Abis);
     }
     return listeA;
@@ -351,6 +353,7 @@ function filtre_nomMusic(listeFiltreAnime, val) {
         var Abis = new Anime(A.getNom, A.getId);
         for (var j = 0; j < A.getNbMusic; ++j)
             if (A.getMusic(j).getNom.toLowerCase().includes(val.toLowerCase())) Abis.AjouteMusic(A.getMusic(j));
+        Abis.CopieUsers(A);
         if (Abis.getNbMusic > 0) listeA.AjouteAnime(Abis);
     }
     return listeA;
@@ -363,6 +366,7 @@ function filtre_nomArtistMusic(listeFiltreAnime, val) {
         var Abis = new Anime(A.getNom, A.getId);
         for (var j = 0; j < A.getNbMusic; ++j)
             if (A.getMusic(j).getArtist.toLowerCase().includes(val.toLowerCase())) Abis.AjouteMusic(A.getMusic(j));
+        Abis.CopieUsers(A);
         if (Abis.getNbMusic > 0) listeA.AjouteAnime(Abis);
     }
     return listeA;

@@ -7,8 +7,8 @@ td {
 }
 
 table {
-    border-collapse : collapse ;
-    width : 100%;
+    border-collapse: collapse;
+    width: 100%;
 }
 
 .grey > td {
@@ -17,35 +17,35 @@ table {
 }
 
 .no-watch {
-    background-color : red ;
+    background-color: red;
 }
 
 .watch {
-    background-color : green;
+    background-color: green;
 }
 
-.red>td{
-    background-color : lightcoral;
+.red > td {
+    background-color: lightcoral;
 }
 
-.green>td{
-    background-color : lightgreen;
+.green > td {
+    background-color: lightgreen;
 }
 
 .tete {
     display: grid;
-    grid-template-columns: 18fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 45fr 2fr 2fr 2fr 2fr 2fr;
     grid-template-rows: 1fr;
     text-align: center;
 }
 
-.un {
+._1 {
     grid-column: 1;
     grid-row: 1;
     padding: 15px;
 }
 
-.deux {
+._2 {
     grid-column: 2;
     grid-row: 1;
     border-width: 1px;
@@ -54,7 +54,7 @@ table {
     padding: 15px;
 }
 
-.trois {
+._3 {
     grid-column: 3;
     grid-row: 1;
     border-width: 1px;
@@ -63,7 +63,7 @@ table {
     padding: 15px;
 }
 
-.quatre {
+._4 {
     grid-column: 4;
     grid-row: 1;
     border-width: 1px;
@@ -72,7 +72,7 @@ table {
     padding: 15px;
 }
 
-.cinq {
+._5 {
     grid-column: 5;
     grid-row: 1;
     border-width: 1px;
@@ -81,23 +81,32 @@ table {
     padding: 15px;
 }
 
-.noman {
+._6 {
+    grid-column: 6;
+    grid-row: 1;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 15px;
+}
+
+.nom_anime {
     width: 23%;
 }
 
-.typm {
+.type_music {
     width: 9%;
 }
 
-.num {
+.numero_music {
     width: 2%;
 }
 
-.nomm {
+.nom_music {
     width: 26%;
 }
 
-.nomart {
+.nom_artist {
     width: 26%;
 }
 

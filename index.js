@@ -327,7 +327,6 @@ function modif_fav(i, j) {
         affich_fav();
     }
     sauvegarde_fav();
-    console.log(fav);
 }
 
 function filtre_nomAnime(listeFiltreAnime, str) {
@@ -412,8 +411,6 @@ function filtre_usersIntersection(listeFiltreAnime) {
 function filtre() {
     var listeFiltreAnime = Liste_Anime;
     AffichageFavori = false;
-
-    console.log(listeFiltreAnime);
 
     val = filtreJointure.value;
     if (val == "Union") { listeFiltreAnime = filtre_usersUnion(listeFiltreAnime); }

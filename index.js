@@ -82,7 +82,7 @@ class ListeAnime {
         this.#nbAnime ++;
         this.#nbMusic += anime.getNbMusic;
     }
-    SupprimePosAnime(animeref, pos) {
+    SupprimePosAnime(pos) {
         this.#TabAnime.splice(pos, 1);
         this.#nbAnime --;
     }

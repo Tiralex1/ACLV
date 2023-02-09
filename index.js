@@ -403,6 +403,12 @@ function filtre_usersIntersection(listeFiltreAnime) {
 function filtre() {
     var listeFiltreAnime = Liste_Anime;
 
+    console.log(listeFiltreAnime);
+
+    val = filtreJointure.value;
+    if (val == "Union") { listeFiltreAnime = filtre_usersUnion(listeFiltreAnime); }
+    else { listeFiltreAnime = filtre_usersIntersection(listeFiltreAnime); }
+
     var val = correctString(filtreNomAnime.value);
     if (val != "") { listeFiltreAnime = filtre_nomAnime(listeFiltreAnime, val); }
 
@@ -414,10 +420,6 @@ function filtre() {
 
     val = filtreNomArtist.value;
     if (val != "") { listeFiltreAnime = filtre_nomArtistMusic(listeFiltreAnime, val); }
-
-    val = filtreJointure.value;
-    if (val == "Union") { listeFiltreAnime = filtre_usersUnion(listeFiltreAnime); }
-    else { listeFiltreAnime = filtre_usersIntersection(listeFiltreAnime); }
 
     affich(listeFiltreAnime);
     listeFiltre = listeFiltreAnime;

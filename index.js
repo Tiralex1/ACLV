@@ -318,9 +318,9 @@ function supp_fav(i, j) {
 }
 
 function modif_fav(i, j) {
+    listeFiltre.getAnime(i).getMusic(j).ModifFavori();
     if (!listeFiltre.getAnime(i).getMusic(j).getFavori) ajout_fav(i, j);
     else supp_fav(i, j);
-    listeFiltre.getAnime(i).getMusic(j).ModifFavori();
     if (!AffichageFavori) affich(listeFiltre);
     else {
         AffichageFavori = !AffichageFavori;

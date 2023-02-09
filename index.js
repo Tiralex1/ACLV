@@ -411,6 +411,7 @@ function filtre_usersIntersection(listeFiltreAnime) {
 
 function filtre() {
     var listeFiltreAnime = Liste_Anime;
+    AffichageFavori = false;
 
     console.log(listeFiltreAnime);
 

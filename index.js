@@ -10,7 +10,7 @@ let filtreTypeMusic = document.getElementById("type_music");
 let filtreNomMusic = document.getElementById("name_music");
 let filtreNomArtist = document.getElementById("name_artist");
 let filtreJointure = document.getElementById("jointure");
-for (var i = 0; i < NB_USERS; ++i) eval("let " + TabStringUsers[i] + " = document.getElementById(\"" + TabStringUsers[i] + "\");");
+for (var i of TabStringUsers) eval("let " + i + " = document.getElementById(\"" + i + "\");");
 
 let favori = [];
 if (localStorage.getItem("favori")) {
@@ -103,7 +103,7 @@ function reset_filtre() {
     filtreNomMusic.value = "";
     filtreNomArtist.value = "";
     filtreJointure.value = "Union";
-    for (var i = 0; i < NB_USERS; ++i) eval(TabStringUsers[i] + ".checked = true");
+    for (var i of TabStringUsers) eval(i + ".checked = true");
 }
 
 function correctString(str) {
@@ -134,7 +134,7 @@ function data(nom_fic) {
                         else M = new Music(mus[i].type, mus[i].numero, correctString(mus[i].nom), correctString(mus[i].artiste), mus[i].lien);
                         A.AjouteMusic(M);
                     }
-                    for (var i = 0; i < NB_USERS; ++i) eval("A.AjouteUser(val.users[0]." + TabStringUsers[i] + ");");
+                    for (var i of TabStringUsers) eval("A.AjouteUser(val.users[0]." + i + ");");
                     Liste_Anime.AjouteAnime(A);
                     if (Afav.getNbMusic > 0) fav.AjouteAnime(Afav);
                 });

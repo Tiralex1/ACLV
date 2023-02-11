@@ -1,6 +1,6 @@
 {
   "nb_anime": 440,
-  "nb_musique": 2190,
+  "nb_musique": 2191,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -8626,14 +8626,14 @@
           "type": "Ending",
           "numero": 1,
           "nom": "Destiny",
-          "artiste": "MAYBE ME",
+          "artiste": "Maybe ME",
           "lien": "https://nl.catbox.moe/dhmcwe.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Aimai Identity",
-          "artiste": "MAYBE ME",
+          "artiste": "Maybe ME",
           "lien": "https://nl.catbox.moe/a02g3z.webm"
         },
         {
@@ -8647,7 +8647,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Kimi Drome",
-          "artiste": "MAYBE ME",
+          "artiste": "Maybe ME",
           "lien": "https://nl.catbox.moe/x7xr37.webm"
         },
         {
@@ -11838,7 +11838,7 @@
     {
       "nom": "Mairimashita! Iruma-kun",
       "id": 2,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -11860,6 +11860,13 @@
           "nom": "Omocha no Kuni no Venus",
           "artiste": "Ayaka Asai",
           "lien": "https://nl.catbox.moe/icw2j2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tomodachi no Senaka",
+          "artiste": "Ayaka Asai",
+          "lien": "https://nl.catbox.moe/tn3bgw.webm"
         }
       ],
       "users": [
@@ -14293,7 +14300,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Bone To Be Wild",
-          "artiste": "Choo",
+          "artiste": "Cho",
           "lien": "https://nl.catbox.moe/7k6h8b.webm"
         },
         {
@@ -14321,14 +14328,14 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nekomamushi no Danna ni Ai ni Ikou",
-          "artiste": "Choo",
+          "artiste": "Cho",
           "lien": "https://nl.catbox.moe/21x66y.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "New World",
-          "artiste": "Choo",
+          "artiste": "Cho",
           "lien": "https://nl.catbox.moe/dvyj0f.webm"
         },
         {
@@ -14342,7 +14349,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Shiawase no Kuroi Handkerchief",
-          "artiste": "Choo",
+          "artiste": "Cho",
           "lien": "https://nl.catbox.moe/z21dh9.webm"
         },
         {

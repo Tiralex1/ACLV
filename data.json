@@ -5809,6 +5809,43 @@
       ]
     },
     {
+      "nom": "Gekijouban Ta ga Tame no Alchemist",
+      "id": 0,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ano Natsu no Hi no Mahou",
+          "artiste": "Huwie Ishizaki",
+          "lien": "https://nl.catbox.moe/5bu9k3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Koi no Yousei no Sei",
+          "artiste": "Inori Minase",
+          "lien": "https://nl.catbox.moe/hqgpxc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Namida",
+          "artiste": "Huwie Ishizaki",
+          "lien": "https://nl.catbox.moe/el4858.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Gekijouban Youjo Senki",
       "id": 0,
       "nb_musique": 3,
@@ -20170,43 +20207,6 @@
           "nom": "Blazing the future",
           "artiste": "Yoshitsugu Matsuoka, Nobunaga Shimazaki, Ai Kayano",
           "lien": "https://nl.catbox.moe/4rmoa8.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 1,
-          "C": 0,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Ta ga Tame no Alchemist",
-      "id": 0,
-      "nb_musique": 3,
-      "musique": [
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Ano Natsu no Hi no Mahou",
-          "artiste": "Huwie Ishizaki",
-          "lien": "https://nl.catbox.moe/5bu9k3.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Koi no Yousei no Sei",
-          "artiste": "Inori Minase",
-          "lien": "https://nl.catbox.moe/hqgpxc.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Namida",
-          "artiste": "Huwie Ishizaki",
-          "lien": "https://nl.catbox.moe/el4858.webm"
         }
       ],
       "users": [

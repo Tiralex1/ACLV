@@ -93,6 +93,10 @@ class ListeAnime {
     getAnime(i) { return this.#TabAnime[i] }
 }
 
+Object.seal(Music);
+Object.seal(Anime);
+Object.seal(ListeAnime);
+
 let Liste_Anime = new ListeAnime();
 let listeFiltre = Liste_Anime;
 let fav = new ListeAnime();

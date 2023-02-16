@@ -82,12 +82,20 @@ class ListeAnime {
         this.#nbAnime ++;
         this.#nbMusic += anime.getNbMusic;
     }
+    AjoutePosMusic(i, music, pos)
+    {
+        this.#nbMusic ++;
+        this.#TabAnime[i].AjoutePosMusic(music,pos);
+    }
     SupprimePosAnime(pos) {
         this.#TabAnime.splice(pos, 1);
         this.#nbAnime --;
     }
-    IncrementeMusic() { this.#nbMusic ++; }
-    DecrementeMusic() { this.#nbMusic --; }
+    SupprimePosMusic(i, pos)
+    {
+        this.#nbMusic --;
+        this.#TabAnime[i].SupprimePosMusic(pos);
+    }
     get getNbAnime() { return this.#nbAnime; }
     get getNbMusic() { return this.#nbMusic; }
     getAnime(i) { return this.#TabAnime[i] }
@@ -308,16 +316,14 @@ function ajout_fav(i, j) {
     }
     else {
         var posMus = posMusic(listeFiltre.getAnime(i).getMusic(j), fav.getAnime(pos), listeFiltre.getAnime(i));
-        if (posMus > -1) fav.getAnime(pos).AjoutePosMusic(listeFiltre.getAnime(i).getMusic(j), posMus);
-        fav.IncrementeMusic();
+        if (posMus > -1) fav.AjoutePosMusic(pos, listeFiltre.getAnime(i).getMusic(j), posMus);
     }
 }
 
 function supp_fav(i, j) {
     var posAfav = posAnime(listeFiltre.getAnime(i), fav);
     var posM = posMusic(listeFiltre.getAnime(i).getMusic(j), fav.getAnime(posAfav), listeFiltre.getAnime(i));
-    fav.getAnime(posAfav).SupprimePosMusic(posM);
-    fav.DecrementeMusic();
+    fav.SupprimePosMusic(posAfav, posM);
     if (fav.getAnime(posAfav).getNbMusic == 0) fav.SupprimePosAnime(posAfav);
 }
 

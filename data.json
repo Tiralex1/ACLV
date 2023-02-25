@@ -1,6 +1,6 @@
 {
-  "nb_anime": 440,
-  "nb_musique": 2191,
+  "nb_anime": 441,
+  "nb_musique": 2193,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -1572,6 +1572,36 @@
           "A": 1,
           "C": 0,
           "L": 1,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Blood Lad",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "ViViD",
+          "artiste": "May'n",
+          "lien": "https://files.catbox.moe/dcwxz4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "BLOODY HOLIC",
+          "artiste": "Yuuka Nanri",
+          "lien": "https://files.catbox.moe/86uxck.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
           "V": 0,
           "T": 0
         }
@@ -15946,7 +15976,7 @@
           "type": "Opening",
           "numero": 2,
           "nom": "Pokémon World",
-          "artiste": "Russell Velázquez",
+          "artiste": "Russell Velazquez",
           "lien": "https://nl.catbox.moe/lhr5ol.webm"
         },
         {
@@ -15973,7 +16003,7 @@
         {
           "type": "Opening",
           "numero": 4,
-          "nom": "Born to be a Winner",
+          "nom": "BORN TO BE A WINNER",
           "artiste": "David Rolfe",
           "lien": "https://nl.catbox.moe/28b86c.webm"
         },

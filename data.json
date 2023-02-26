@@ -1,6 +1,6 @@
 {
   "nb_anime": 441,
-  "nb_musique": 2193,
+  "nb_musique": 2194,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -17199,150 +17199,6 @@
       ]
     },
     {
-      "nom": "SSSS.DYNAZENON",
-      "id": 0,
-      "nb_musique": 11,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Imperfect",
-          "artiste": "Masayoshi Ooishi",
-          "lien": "https://nl.catbox.moe/1zktr6.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Strobe Memory",
-          "artiste": "Maaya Uchida",
-          "lien": "https://nl.catbox.moe/kvtsw7.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "23-ji no Shunrai Shoujo",
-          "artiste": "Akari Kitou",
-          "lien": "https://nl.catbox.moe/rm9u09.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "all this metal",
-          "artiste": "Shiro SAGISU featuring Hazel Fernandes",
-          "lien": "https://nl.catbox.moe/8p3fhq.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "ALL THIS TIME",
-          "artiste": "Shiro SAGISU featuring Hazel Fernandes",
-          "lien": "https://nl.catbox.moe/a1zl8t.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Hands",
-          "artiste": "Masayoshi Ooishi",
-          "lien": "https://nl.catbox.moe/lis66x.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Hoshikuzu no Curtain",
-          "artiste": "Suzuko Mimori",
-          "lien": "https://nl.catbox.moe/18o2px.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Kimi no Heroine de Iru Tame ni",
-          "artiste": "Maaya Uchida",
-          "lien": "https://nl.catbox.moe/1ol4xz.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "My Way",
-          "artiste": "Kenichi Suzumura",
-          "lien": "https://nl.catbox.moe/eqkk1e.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "No Scenario",
-          "artiste": "Maaya Uchida",
-          "lien": "https://nl.catbox.moe/gkhbf5.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "The Day I Knew I Needed You",
-          "artiste": "MARLOE.",
-          "lien": "https://nl.catbox.moe/s70sty.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 0,
-          "L": 1,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "SSSS.GRIDMAN",
-      "id": 0,
-      "nb_musique": 5,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "UNION",
-          "artiste": "OxT",
-          "lien": "https://nl.catbox.moe/asik7t.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "youthful beautiful",
-          "artiste": "Maaya Uchida",
-          "lien": "https://nl.catbox.moe/xxri08.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "HumanLove",
-          "artiste": "Paul Lee",
-          "lien": "https://nl.catbox.moe/ib7vdq.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Yume Hikou",
-          "artiste": "Suzuko Mimori",
-          "lien": "https://nl.catbox.moe/j8npri.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Yume no Hero",
-          "artiste": "Norio Sakai",
-          "lien": "https://nl.catbox.moe/7exjh6.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 0,
-          "L": 1,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
       "nom": "Saenai Heroine no Sodate-kata",
       "id": 0,
       "nb_musique": 6,
@@ -17563,7 +17419,7 @@
     {
       "nom": "Saikyou Onmyouji no Isekai Tenseiki",
       "id": 0,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -17585,6 +17441,13 @@
           "nom": "Tsukiyo no Tact",
           "artiste": "Sou",
           "lien": "https://nl.catbox.moe/f89x2l.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Link",
+          "artiste": "Azumi Waki×Nene Hieda×Akari Kitou",
+          "lien": "https://nl.catbox.moe/gjmncl.webm"
         }
       ],
       "users": [
@@ -19462,6 +19325,150 @@
           "C": 1,
           "L": 0,
           "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "SSSS.DYNAZENON",
+      "id": 0,
+      "nb_musique": 11,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Imperfect",
+          "artiste": "Masayoshi Ooishi",
+          "lien": "https://nl.catbox.moe/1zktr6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Strobe Memory",
+          "artiste": "Maaya Uchida",
+          "lien": "https://nl.catbox.moe/kvtsw7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "23-ji no Shunrai Shoujo",
+          "artiste": "Akari Kitou",
+          "lien": "https://nl.catbox.moe/rm9u09.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "all this metal",
+          "artiste": "Shiro SAGISU featuring Hazel Fernandes",
+          "lien": "https://nl.catbox.moe/8p3fhq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "ALL THIS TIME",
+          "artiste": "Shiro SAGISU featuring Hazel Fernandes",
+          "lien": "https://nl.catbox.moe/a1zl8t.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hands",
+          "artiste": "Masayoshi Ooishi",
+          "lien": "https://nl.catbox.moe/lis66x.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hoshikuzu no Curtain",
+          "artiste": "Suzuko Mimori",
+          "lien": "https://nl.catbox.moe/18o2px.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kimi no Heroine de Iru Tame ni",
+          "artiste": "Maaya Uchida",
+          "lien": "https://nl.catbox.moe/1ol4xz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "My Way",
+          "artiste": "Kenichi Suzumura",
+          "lien": "https://nl.catbox.moe/eqkk1e.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "No Scenario",
+          "artiste": "Maaya Uchida",
+          "lien": "https://nl.catbox.moe/gkhbf5.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "The Day I Knew I Needed You",
+          "artiste": "MARLOE.",
+          "lien": "https://nl.catbox.moe/s70sty.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 1,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "SSSS.GRIDMAN",
+      "id": 0,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "UNION",
+          "artiste": "OxT",
+          "lien": "https://nl.catbox.moe/asik7t.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "youthful beautiful",
+          "artiste": "Maaya Uchida",
+          "lien": "https://nl.catbox.moe/xxri08.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "HumanLove",
+          "artiste": "Paul Lee",
+          "lien": "https://nl.catbox.moe/ib7vdq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yume Hikou",
+          "artiste": "Suzuko Mimori",
+          "lien": "https://nl.catbox.moe/j8npri.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yume no Hero",
+          "artiste": "Norio Sakai",
+          "lien": "https://nl.catbox.moe/7exjh6.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 1,
+          "V": 0,
           "T": 0
         }
       ]

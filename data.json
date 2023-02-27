@@ -1,6 +1,6 @@
 {
-  "nb_anime": 441,
-  "nb_musique": 2194,
+  "nb_anime": 442,
+  "nb_musique": 2198,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -5517,6 +5517,50 @@
           "C": 0,
           "L": 0,
           "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Fuufu Ijou, Koibito Miman",
+      "id": 0,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "TRUE FOOL LOVE",
+          "artiste": "Liyuu",
+          "lien": "https://nl.catbox.moe/n2olh8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Stuck on you",
+          "artiste": "Nowlu",
+          "lien": "https://nl.catbox.moe/jn5ozo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Swallows",
+          "artiste": "Nowlu",
+          "lien": "https://nl.catbox.moe/le4p16.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Touch",
+          "artiste": "Liyuu",
+          "lien": "https://nl.catbox.moe/u76b6v.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 0,
           "T": 0
         }
       ]

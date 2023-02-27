@@ -1,6 +1,6 @@
 {
-  "nb_anime": 442,
-  "nb_musique": 2198,
+  "nb_anime": 443,
+  "nb_musique": 2200,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -7013,6 +7013,36 @@
       ]
     },
     {
+      "nom": "Hashiri Tsuzukete Yokattatte.",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Yume Fanfare",
+          "artiste": "LIP×LIP",
+          "lien": "https://nl.catbox.moe/6t24ta.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Aikatsu Happy End",
+          "artiste": "=LOVE",
+          "lien": "https://nl.catbox.moe/6rjt6x.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Hataage! Kemono Michi",
       "id": 0,
       "nb_musique": 2,
@@ -11313,7 +11343,7 @@
       "users": [
         {
           "A": 0,
-          "C": 0,
+          "C": 1,
           "L": 1,
           "V": 0,
           "T": 0

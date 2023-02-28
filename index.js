@@ -316,7 +316,6 @@ function ajout_fav(i, j) {
     }
     else {
         var posMus = posMusic(listeFiltre.getAnime(i).getMusic(j), fav.getAnime(pos), listeFiltre.getAnime(i));
-        console.log(posMus);
         if (posMus > -1) fav.AjoutePosMusic(pos, listeFiltre.getAnime(i).getMusic(j), posMus);
     }
 }

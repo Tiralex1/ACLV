@@ -296,9 +296,7 @@ function posAnime(anime, listeA) {
 
 function posMusic(music, anime, animeref) {
     var pos = 0;
-    console.log(anime.getNbMusic);
     for (var i = 0; i < animeref.getNbMusic; ++i) {
-        console.log(music.getLien + " | " + animeref.getMusic(i).getLien + " | " + anime.getMusic(pos));
         if (music.getLien == animeref.getMusic(i).getLien) return pos;
         if (pos < anime.getNbMusic && anime.getMusic(pos).getLien == animeref.getMusic(i).getLien) pos++;
     }
@@ -317,7 +315,7 @@ function ajout_fav(i, j) {
         fav.AjoutePosAnime(A, pos);
     }
     else {
-        var posMus = posMusic(listeFiltre.getAnime(i).getMusic(j), fav.getAnime(pos), listeFiltre.getAnime(i));
+        var posMus = posMusic(listeFiltre.getAnime(i).getMusic(j), fav.getAnime(pos), Liste_Anime.getAnime(posAnime(listeFiltre.getAnime(i), Liste_Anime)));
         if (posMus > -1) fav.AjoutePosMusic(pos, listeFiltre.getAnime(i).getMusic(j), posMus);
     }
 }

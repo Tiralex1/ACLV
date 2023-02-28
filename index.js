@@ -322,7 +322,7 @@ function ajout_fav(i, j) {
 
 function supp_fav(i, j) {
     var posAfav = posAnime(listeFiltre.getAnime(i), fav);
-    var posM = posMusic(listeFiltre.getAnime(i).getMusic(j), fav.getAnime(posAfav), listeFiltre.getAnime(i));
+    var posM = posMusic(listeFiltre.getAnime(i).getMusic(j), fav.getAnime(posAfav), fav.getAnime(posAfav));
     fav.SupprimePosMusic(posAfav, posM);
     if (fav.getAnime(posAfav).getNbMusic == 0) fav.SupprimePosAnime(posAfav);
 }

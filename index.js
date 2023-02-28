@@ -296,7 +296,9 @@ function posAnime(anime, listeA) {
 
 function posMusic(music, anime, animeref) {
     var pos = 0;
+    console.log(anime.getNbMusic);
     for (var i = 0; i < animeref.getNbMusic; ++i) {
+        console.log(music.getLien + " | " + animeref.getMusic(i).getLien + " | " + anime.getMusic(pos));
         if (music.getLien == animeref.getMusic(i).getLien) return pos;
         if (pos < anime.getNbMusic && anime.getMusic(pos).getLien == animeref.getMusic(i).getLien) pos++;
     }

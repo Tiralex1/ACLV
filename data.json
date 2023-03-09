@@ -1,6 +1,6 @@
 {
-  "nb_anime": 445,
-  "nb_musique": 2205,
+  "nb_anime": 448,
+  "nb_musique": 2212,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -7985,6 +7985,36 @@
       ]
     },
     {
+      "nom": "Isekai Nonbiri Nouka",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Flower Ring",
+          "artiste": "Shino Shimoji & Aya Suzaki",
+          "lien": "https://nl.catbox.moe/ittfa0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Feel the winds",
+          "artiste": "Yui Hizuki",
+          "lien": "https://nl.catbox.moe/1nbe6s.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Isekai Quartet",
       "id": 0,
       "nb_musique": 3,
@@ -11425,6 +11455,36 @@
       ]
     },
     {
+      "nom": "Log Horizon",
+      "id": 0,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "database",
+          "artiste": "MAN WITH A MISSION feat. TAKUMA (10-FEET)",
+          "lien": "https://nl.catbox.moe/ljd4qh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Your song*",
+          "artiste": "Yun*chi",
+          "lien": "https://openings.moe/video/LogHorizon-ED01-NCBD.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "LoveCom",
       "id": 0,
       "nb_musique": 5,
@@ -12009,7 +12069,7 @@
     {
       "nom": "Mairimashita! Iruma-kun",
       "id": 2,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -12024,6 +12084,13 @@
           "nom": "Nabe Bugyou",
           "artiste": "Wednesday Campanella",
           "lien": "https://nl.catbox.moe/vboz4k.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Tomodachi no Senaka",
+          "artiste": "Akuma Gakkou Babyls Seito no Minasan",
+          "lien": "https://nl.catbox.moe/43evn0.webm"
         },
         {
           "type": "Insert Song",
@@ -16170,7 +16237,7 @@
         {
           "type": "Ending",
           "numero": 6,
-          "nom": "Lapras ni Notte",
+          "nom": "Laplace ni Notte",
           "artiste": "Mayumi Iizuka & Rikako Aikawa",
           "lien": "https://nl.catbox.moe/l344nf.webm"
         },
@@ -17523,7 +17590,7 @@
     {
       "nom": "Saikyou Onmyouji no Isekai Tenseiki",
       "id": 0,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -17545,6 +17612,13 @@
           "nom": "Tsukiyo no Tact",
           "artiste": "Sou",
           "lien": "https://nl.catbox.moe/f89x2l.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Link",
+          "artiste": "Akari Kitou",
+          "lien": "https://nl.catbox.moe/skodzp.webm"
         },
         {
           "type": "Ending",
@@ -18723,6 +18797,29 @@
         {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+      "id": 0,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "UNDER THE TREE",
+          "artiste": "SiM",
+          "lien": "https://nl.catbox.moe/0600u7.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
           "L": 0,
           "V": 1,
           "T": 0

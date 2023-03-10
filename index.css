@@ -119,10 +119,6 @@ table {
     user-select: none;
 }
 
-/*div > a {
-    color: darkblue;
-}*/
-
 div > a {
     color: black;
     text-decoration: none;

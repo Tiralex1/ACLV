@@ -12,6 +12,18 @@ let filtreNomArtist = document.getElementById("name_artist");
 let filtreJointure = document.getElementById("jointure");
 for (var i of TabStringUsers) eval("let " + i + " = document.getElementById(\"" + i + "\");");
 
+let AffichLien1 = document.getElementById("affich_lien1");
+let AffichLien2 = document.getElementById("affich_lien2");
+
+let ModeAffichLien = "1";
+if (localStorage.getItem("modeAffichLien")) {
+    ModeAffichLien = localStorage.getItem("modeAffichLien");
+}
+else {
+    ModeAffichLien = "1";
+    localStorage.setItem("modeAffichLien", ModeAffichLien);
+}
+
 let favori = [];
 if (localStorage.getItem("favori")) {
     var favori_string = localStorage.getItem("favori");
@@ -120,6 +132,13 @@ function reset_filtre() {
     for (var i of TabStringUsers) eval(i + ".checked = true");
 }
 
+function modif_mode_affich() {
+    if (AffichLien1.checked) ModeAffichLien = AffichLien1.value;
+    else ModeAffichLien = AffichLien2.value;
+    affich(listeFiltre);
+    localStorage.setItem("modeAffichLien", ModeAffichLien);
+}
+
 function correctString(str) {
     var string = str.replace("<", "&lt;");
     string = string.replace(">", "&gt;");
@@ -176,8 +195,11 @@ function affich(listeA) {
 
         items.push("<tr class='grey'><td colspan='7'><div class='tete'>");
         items.push("<div class='_1 grey'>");
-        if (A.getLien != "") //items.push("&ensp;<a href='" + A.getLien + "' target='_blank'>&#9032;</a>");
-            items.push("<a href='" + A.getLien + "' target='_blank'>" + A.getNom + "</a>");
+        if (A.getLien != "")
+        {
+            if (ModeAffichLien == "1") items.push("<a href='" + A.getLien + "' target='_blank'>" + A.getNom + "</a>");
+            else items.push(A.getNom + "&ensp;<a href='" + A.getLien + "' target='_blank' style='color: darkblue;'>&#9032;</a>");
+        }
         else items.push(A.getNom);
         items.push("</div>");
         for (var j = 0; j < NB_USERS; j++) {

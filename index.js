@@ -44,10 +44,11 @@ class Music {
 }
 
 class Anime {
-    #nom; #id; #nbMusic = 0; #TabMusic = []; #tabUsers = [];
-    constructor(nom, id = 0) {
+    #nom; #id; #lien; #nbMusic = 0; #TabMusic = []; #tabUsers = [];
+    constructor(nom, id = 0, lien="") {
         this.#nom = nom;
         this.#id = id;
+        this.#lien = lien;
     }
     AjouteMusic(music) {
         this.#TabMusic.push(music);
@@ -65,6 +66,7 @@ class Anime {
     CopieUsers(anime) { for (var i = 0; i < NB_USERS; ++i) eval("this.AjouteUser(anime.getEtatUser(" + i + "));"); }
     get getNom() { return this.#nom; }
     get getId() { return this.#id; }
+    get getLien() { return this.#lien; }
     get getNbMusic() { return this.#nbMusic; }
     getEtatUser(i) { return this.#tabUsers[i] }
     getMusic(j) { return this.#TabMusic[j] }
@@ -133,8 +135,8 @@ function data(nom_fic) {
             if (key == "anime") {
                 var cpt = 0;
                 $.each(val, function (key, val) {
-                    var A = new Anime(correctString(val.nom), val.id);
-                    var Afav = new Anime(correctString(val.nom), val.id);
+                    var A = new Anime(correctString(val.nom), val.id, val.lien);
+                    var Afav = new Anime(correctString(val.nom), val.id, val.lien);
                     var mus = val.musique;
                     for (var i = 0; i < val.nb_musique; ++i) {
                         var M;

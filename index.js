@@ -175,8 +175,10 @@ function affich(listeA) {
         else BackGround = AlternateColor2;
 
         items.push("<tr class='grey'><td colspan='7'><div class='tete'>");
-        items.push("<div class='_1 grey'>" + A.getNom);
-        if (A.getLien != "") items.push("&ensp;<a href='" + A.getLien + "' target='_blank'>&#9032;</a>");
+        items.push("<div class='_1 grey'>");
+        if (A.getLien != "") //items.push("&ensp;<a href='" + A.getLien + "' target='_blank'>&#9032;</a>");
+            items.push("<a href='" + A.getLien + "' target='_blank'>" + A.getNom + "</a>");
+        else items.push(A.getNom);
         items.push("</div>");
         for (var j = 0; j < NB_USERS; j++) {
             items.push("<div class='_" + (j + 2) + " ");

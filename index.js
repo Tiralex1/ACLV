@@ -175,7 +175,7 @@ function affich(listeA) {
         else BackGround = AlternateColor2;
 
         items.push("<tr class='grey'><td colspan='7'><div class='tete'>");
-        items.push("<div class='_1 grey'>" + A.getNom + " <a href='" + A.getLien + ">&#9032;</a>" + "</div>");
+        items.push("<div class='_1 grey'>" + A.getNom + " <a href='" + A.getLien + "'>&#9032;</a>" + "</div>");
         for (var j = 0; j < NB_USERS; j++) {
             items.push("<div class='_" + (j + 2) + " ");
             if (!A.getEtatUser(j)) items.push("no-watch");

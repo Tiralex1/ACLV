@@ -118,3 +118,7 @@ table {
     width: 2%;
     user-select: none;
 }
+
+div > a {
+    color: darkblue;
+}

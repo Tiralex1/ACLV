@@ -3136,9 +3136,261 @@
       ]
     },
     {
+      "nom": "DanMachi",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hey World",
+          "artiste": "Yuka Iguchi",
+          "lien": "https://nl.catbox.video/8tp020.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "RIGHT LIGHT RISE",
+          "artiste": "Kanon Wakeshima",
+          "lien": "https://nl.catbox.video/az60a5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "REALIZE ~Hajimari no Toki~",
+          "artiste": "Maaya Uchida",
+          "lien": "https://nl.catbox.moe/hzfkan.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "DanMachi",
+      "id": 1,
+      "lien": "https://myanimelist.net/anime/32801/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_OVA",
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimi to Boku no 1-nichi",
+          "artiste": "Inori Minase",
+          "lien": "https://nl.catbox.moe/n9ey8c.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "DanMachi II",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/37347/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_II",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "HELLO to DREAM",
+          "artiste": "Yuka Iguchi",
+          "lien": "https://nl.catbox.moe/s6x4wu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sasayaka na Shukusai",
+          "artiste": "sora tob sakana",
+          "lien": "https://nl.catbox.moe/5tnp99.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tsuki no Shirabe",
+          "artiste": "Haruka Chisuga",
+          "lien": "https://nl.catbox.moe/m5632h.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/34103/Danganronpa_3__The_End_of_Kibougamine_Gakuen_-_Kibou-hen",
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "ever free",
+          "artiste": "hide with Spread Beaver",
+          "lien": "https://nl.catbox.moe/mcmhag.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 1,
+          "V": 0,
+          "T": 1
+        }
+      ]
+    },
+    {
+      "nom": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/32189/Danganronpa_3__The_End_of_Kibougamine_Gakuen_-_Mirai-hen",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "DEAD OR LIE",
+          "artiste": "Maon Kurosaki feat. TRUSTRICK",
+          "lien": "https://nl.catbox.moe/v676b3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Recall THE END",
+          "artiste": "TRUSTRICK",
+          "lien": "https://nl.catbox.moe/577rp9.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 1,
+          "V": 0,
+          "T": 1
+        }
+      ]
+    },
+    {
+      "nom": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/33028/Danganronpa_3__The_End_of_Kibougamine_Gakuen_-_Zetsubou-hen",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kami-iro Awase",
+          "artiste": "binaria",
+          "lien": "https://nl.catbox.moe/a8oeuw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Zettai Kibou Birthday",
+          "artiste": "Megumi Ogata",
+          "lien": "https://nl.catbox.moe/ops2mp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tsubasa o Kudasai",
+          "artiste": "Megumi Toyoguchi",
+          "lien": "https://nl.catbox.moe/yd9ls4.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 1,
+          "V": 0,
+          "T": 1
+        }
+      ]
+    },
+    {
+      "nom": "Danganronpa Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation",
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "DANGANRONPA",
+          "artiste": "Masafumi Takada",
+          "lien": "https://nl.catbox.moe/s26ua1.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Never Say Never",
+          "artiste": "TKDz2b",
+          "lien": "https://nl.catbox.moe/n1uk12.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "Monokuma Ondo",
+          "artiste": "Sachiko Kobayashi feat. Nobuyo Ooyama",
+          "lien": "https://nl.catbox.moe/p1xdfn.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Zetsubousei: Hero Chiryouyaku",
+          "artiste": "Suzumu feat. Soraru",
+          "lien": "https://nl.catbox.moe/43g8cl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Saisei -rebuild- re:build ver.",
+          "artiste": "Megumi Ogata",
+          "lien": "https://nl.catbox.moe/k5avbm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Negaigoto Ensemble",
+          "artiste": "Makiko Ohmoto",
+          "lien": "https://nl.catbox.moe/a4a20r.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 1,
+          "V": 0,
+          "T": 1
+        }
+      ]
+    },
+    {
       "nom": "Darling in the FranXX",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/35849/Darling_in_the_FranXX",
       "nb_musique": 12,
       "musique": [
         {
@@ -3237,261 +3489,9 @@
       ]
     },
     {
-      "nom": "DanMachi",
-      "id": 0,
-      "lien": "",
-      "nb_musique": 3,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Hey World",
-          "artiste": "Yuka Iguchi",
-          "lien": "https://nl.catbox.video/8tp020.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "RIGHT LIGHT RISE",
-          "artiste": "Kanon Wakeshima",
-          "lien": "https://nl.catbox.video/az60a5.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "REALIZE ~Hajimari no Toki~",
-          "artiste": "Maaya Uchida",
-          "lien": "https://nl.catbox.moe/hzfkan.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 1,
-          "C": 0,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "DanMachi",
-      "id": 1,
-      "lien": "",
-      "nb_musique": 1,
-      "musique": [
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Kimi to Boku no 1-nichi",
-          "artiste": "Inori Minase",
-          "lien": "https://nl.catbox.moe/n9ey8c.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 1,
-          "C": 0,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "DanMachi II",
-      "id": 0,
-      "lien": "",
-      "nb_musique": 3,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "HELLO to DREAM",
-          "artiste": "Yuka Iguchi",
-          "lien": "https://nl.catbox.moe/s6x4wu.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Sasayaka na Shukusai",
-          "artiste": "sora tob sakana",
-          "lien": "https://nl.catbox.moe/5tnp99.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Tsuki no Shirabe",
-          "artiste": "Haruka Chisuga",
-          "lien": "https://nl.catbox.moe/m5632h.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 1,
-          "C": 0,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
-      "id": 0,
-      "lien": "",
-      "nb_musique": 1,
-      "musique": [
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "ever free",
-          "artiste": "hide with Spread Beaver",
-          "lien": "https://nl.catbox.moe/mcmhag.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 1,
-          "V": 0,
-          "T": 1
-        }
-      ]
-    },
-    {
-      "nom": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
-      "id": 0,
-      "lien": "",
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "DEAD OR LIE",
-          "artiste": "Maon Kurosaki feat. TRUSTRICK",
-          "lien": "https://nl.catbox.moe/v676b3.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Recall THE END",
-          "artiste": "TRUSTRICK",
-          "lien": "https://nl.catbox.moe/577rp9.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 1,
-          "V": 0,
-          "T": 1
-        }
-      ]
-    },
-    {
-      "nom": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
-      "id": 0,
-      "lien": "",
-      "nb_musique": 3,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Kami-iro Awase",
-          "artiste": "binaria",
-          "lien": "https://nl.catbox.moe/a8oeuw.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Zettai Kibou Birthday",
-          "artiste": "Megumi Ogata",
-          "lien": "https://nl.catbox.moe/ops2mp.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Tsubasa o Kudasai",
-          "artiste": "Megumi Toyoguchi",
-          "lien": "https://nl.catbox.moe/yd9ls4.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 1,
-          "V": 0,
-          "T": 1
-        }
-      ]
-    },
-    {
-      "nom": "Danganronpa Kibou no Gakuen to Zetsubou no Koukousei The Animation",
-      "id": 0,
-      "lien": "",
-      "nb_musique": 6,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "DANGANRONPA",
-          "artiste": "Masafumi Takada",
-          "lien": "https://nl.catbox.moe/s26ua1.webm"
-        },
-        {
-          "type": "Opening",
-          "numero": 2,
-          "nom": "Never Say Never",
-          "artiste": "TKDz2b",
-          "lien": "https://nl.catbox.moe/n1uk12.webm"
-        },
-        {
-          "type": "Opening",
-          "numero": 3,
-          "nom": "Monokuma Ondo",
-          "artiste": "Sachiko Kobayashi feat. Nobuyo Ooyama",
-          "lien": "https://nl.catbox.moe/p1xdfn.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Zetsubousei: Hero Chiryouyaku",
-          "artiste": "Suzumu feat. Soraru",
-          "lien": "https://nl.catbox.moe/43g8cl.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Saisei -rebuild- re:build ver.",
-          "artiste": "Megumi Ogata",
-          "lien": "https://nl.catbox.moe/k5avbm.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Negaigoto Ensemble",
-          "artiste": "Makiko Ohmoto",
-          "lien": "https://nl.catbox.moe/a4a20r.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 1,
-          "V": 0,
-          "T": 1
-        }
-      ]
-    },
-    {
       "nom": "Date A Live",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/15583/Date_A_Live",
       "nb_musique": 8,
       "musique": [
         {
@@ -3564,7 +3564,7 @@
     {
       "nom": "Date A Live II",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/19163/Date_A_Live_II",
       "nb_musique": 7,
       "musique": [
         {
@@ -3630,7 +3630,7 @@
     {
       "nom": "Date A Live III",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/36633/Date_A_Live_III",
       "nb_musique": 4,
       "musique": [
         {
@@ -3675,7 +3675,7 @@
     {
       "nom": "Date A Live IV",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/41461/Date_A_Live_IV",
       "nb_musique": 2,
       "musique": [
         {
@@ -3706,7 +3706,7 @@
     {
       "nom": "Death March kara Hajimaru Isekai Kyousoukyoku",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/34497/Death_March_kara_Hajimaru_Isekai_Kyousoukyoku",
       "nb_musique": 2,
       "musique": [
         {
@@ -3737,7 +3737,7 @@
     {
       "nom": "Death Note",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/1535/Death_Note",
       "nb_musique": 5,
       "musique": [
         {
@@ -3789,7 +3789,7 @@
     {
       "nom": "Death Parade",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/28223/Death_Parade",
       "nb_musique": 2,
       "musique": [
         {
@@ -3820,7 +3820,7 @@
     {
       "nom": "Deatte 5-byou de Battle",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/43814/Deatte_5-byou_de_Battle",
       "nb_musique": 2,
       "musique": [
         {
@@ -3851,7 +3851,7 @@
     {
       "nom": "Digimon Adventure:",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/41074/Digimon_Adventure_",
       "nb_musique": 9,
       "musique": [
         {
@@ -3931,7 +3931,7 @@
     {
       "nom": "Digimon Adventure: Last Evolution Kizuna",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna",
       "nb_musique": 4,
       "musique": [
         {
@@ -3976,7 +3976,7 @@
     {
       "nom": "Digimon Ghost Game",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/49515/Digimon_Ghost_Game",
       "nb_musique": 9,
       "musique": [
         {
@@ -4056,7 +4056,7 @@
     {
       "nom": "Digimon Tamers",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/874/Digimon_Tamers",
       "nb_musique": 17,
       "musique": [
         {
@@ -4192,7 +4192,7 @@
     {
       "nom": "Digimon Xros Wars",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/8624/Digimon_Xros_Wars",
       "nb_musique": 12,
       "musique": [
         {
@@ -4293,7 +4293,7 @@
     {
       "nom": "Digimon Xros Wars: Toki o Kakeru Shounen Hunter-tachi",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/11385/Digimon_Xros_Wars__Toki_wo_Kakeru_Shounen_Hunter-tachi",
       "nb_musique": 5,
       "musique": [
         {
@@ -4345,7 +4345,7 @@
     {
       "nom": "Domestic na Kanojo",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/37982/Domestic_na_Kanojo",
       "nb_musique": 6,
       "musique": [
         {
@@ -4404,7 +4404,7 @@
     {
       "nom": "Dr. STONE",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/38691/Dr_Stone",
       "nb_musique": 7,
       "musique": [
         {
@@ -4470,7 +4470,7 @@
     {
       "nom": "Dr. STONE: STONE WARS",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/40852/Dr_Stone__Stone_Wars",
       "nb_musique": 8,
       "musique": [
         {
@@ -4543,7 +4543,7 @@
     {
       "nom": "Dragon Quest: Dai no Daibouken",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/40906/Dragon_Quest__Dai_no_Daibouken_2020",
       "nb_musique": 6,
       "musique": [
         {
@@ -4602,7 +4602,7 @@
     {
       "nom": "Dragon, Ie o Kau.",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/40526/Dragon_Ie_wo_Kau",
       "nb_musique": 2,
       "musique": [
         {
@@ -4633,7 +4633,7 @@
     {
       "nom": "Dumbbell Nan-Kilo Moteru?",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/39026/Dumbbell_Nan_Kilo_Moteru",
       "nb_musique": 4,
       "musique": [
         {
@@ -4678,7 +4678,7 @@
     {
       "nom": "Edens Zero",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/42192/Edens_Zero",
       "nb_musique": 4,
       "musique": [
         {
@@ -4723,7 +4723,7 @@
     {
       "nom": "Eiyuu-Ou, Bu o Kiwameru Tame Tensei-Su: Soshite, Sekai Saikyou no Minarai Kishi",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/50481/Eiyuu-ou_Bu_wo_Kiwameru_Tame_Tenseisu__Soshite_Sekai_Saikyou_no_Minarai_Kishi%E2%99%80",
       "nb_musique": 2,
       "musique": [
         {
@@ -4754,7 +4754,7 @@
     {
       "nom": "Enen no Shouboutai",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/38671/Enen_no_Shouboutai",
       "nb_musique": 4,
       "musique": [
         {
@@ -4799,7 +4799,7 @@
     {
       "nom": "Enen no Shouboutai: Ni no Shou",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/40956/Enen_no_Shouboutai__Ni_no_Shou",
       "nb_musique": 5,
       "musique": [
         {
@@ -4851,7 +4851,7 @@
     {
       "nom": "Fairy Tail",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/6702/Fairy_Tail",
       "nb_musique": 32,
       "musique": [
         {
@@ -5092,7 +5092,7 @@
     {
       "nom": "Fairy Tail",
       "id": 1,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/22043/Fairy_Tail_2014",
       "nb_musique": 16,
       "musique": [
         {
@@ -5221,7 +5221,7 @@
     {
       "nom": "Fairy Tail: Final Season",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/35972/Fairy_Tail__Final_Series",
       "nb_musique": 9,
       "musique": [
         {
@@ -5301,7 +5301,7 @@
     {
       "nom": "Fantasy Bishoujo Juniku Ojisan to",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/48997/Fantasy_Bishoujo_Juniku_Ojisan_to",
       "nb_musique": 2,
       "musique": [
         {
@@ -5332,7 +5332,7 @@
     {
       "nom": "Fate/Zero",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/10087/Fate_Zero",
       "nb_musique": 2,
       "musique": [
         {
@@ -5363,7 +5363,7 @@
     {
       "nom": "Fate/Zero",
       "id": 1,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/11741/Fate_Zero_2nd_Season",
       "nb_musique": 4,
       "musique": [
         {
@@ -5408,7 +5408,7 @@
     {
       "nom": "Fruits Basket",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/38680/Fruits_Basket_1st_Season",
       "nb_musique": 5,
       "musique": [
         {
@@ -5460,7 +5460,7 @@
     {
       "nom": "Fruits Basket 2nd Season",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/40417/Fruits_Basket_2nd_Season",
       "nb_musique": 6,
       "musique": [
         {
@@ -5519,7 +5519,7 @@
     {
       "nom": "Fruits Basket The Final Season",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/42938/Fruits_Basket__The_Final",
       "nb_musique": 4,
       "musique": [
         {
@@ -5564,7 +5564,7 @@
     {
       "nom": "Fukumenkei Noise",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/33203/Fukumenkei_Noise",
       "nb_musique": 10,
       "musique": [
         {
@@ -5651,7 +5651,7 @@
     {
       "nom": "Fuufu Ijou, Koibito Miman",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/50425/Fuufu_Ijou_Koibito_Miman",
       "nb_musique": 4,
       "musique": [
         {
@@ -5696,7 +5696,7 @@
     {
       "nom": "Gabriel DropOut",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/33731/Gabriel_DropOut",
       "nb_musique": 3,
       "musique": [
         {

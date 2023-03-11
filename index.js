@@ -124,6 +124,7 @@ let listeFiltre = Liste_Anime;
 let fav = new ListeAnime();
 
 function reset_filtre() {
+    if (ModeAffichLien == "2") AffichLien2.checked = true;
     filtreNomAnime.value = "";
     filtreTypeMusic.value = "";
     filtreNomMusic.value = "";

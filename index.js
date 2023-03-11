@@ -393,7 +393,7 @@ function filtre_nomMusic(listeFiltreAnime, val) {
     var listeA = new ListeAnime();
     for (var i = 0; i < listeFiltreAnime.getNbAnime; ++i) {
         var A = listeFiltreAnime.getAnime(i);
-        var Abis = new Anime(A.getNom, A.getId);
+        var Abis = new Anime(A.getNom, A.getId, A.getLien);
         for (var j = 0; j < A.getNbMusic; ++j)
             if (A.getMusic(j).getNom.toLowerCase().includes(val.toLowerCase())) Abis.AjouteMusic(A.getMusic(j));
         Abis.CopieUsers(A);
@@ -406,7 +406,7 @@ function filtre_nomArtistMusic(listeFiltreAnime, val) {
     var listeA = new ListeAnime();
     for (var i = 0; i < listeFiltreAnime.getNbAnime; ++i) {
         var A = listeFiltreAnime.getAnime(i);
-        var Abis = new Anime(A.getNom, A.getId);
+        var Abis = new Anime(A.getNom, A.getId, A.getLien);
         for (var j = 0; j < A.getNbMusic; ++j)
             if (A.getMusic(j).getArtist.toLowerCase().includes(val.toLowerCase())) Abis.AjouteMusic(A.getMusic(j));
         Abis.CopieUsers(A);

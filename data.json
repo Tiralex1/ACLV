@@ -1,6 +1,6 @@
 {
-  "nb_anime": 448,
-  "nb_musique": 2212,
+  "nb_anime": 449,
+  "nb_musique": 2215,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -11704,6 +11704,44 @@
           "nom": "Your song*",
           "artiste": "Yun*chi",
           "lien": "https://openings.moe/video/LogHorizon-ED01-NCBD.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Log Horizon",
+      "id": 1,
+      "lien": "",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "database",
+          "artiste": "MAN WITH A MISSION feat. TAKUMA (10-FEET)",
+          "lien": "https://nl.catbox.video/1so6be.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Wonderful Wonder World*",
+          "artiste": "Yun*chi",
+          "lien": "https://openings.moe/video/LogHorizon2-ED01-NCBD.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Birthday Song",
+          "artiste": "Eriko Matsui",
+          "lien": "https://nl.catbox.moe/j1vtvo.webm"
         }
       ],
       "users": [

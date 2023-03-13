@@ -6399,82 +6399,6 @@
       ]
     },
     {
-      "nom": "Gochuumon wa Usagi Desu ka??: Dear My Sister",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/33280/Gochuumon_wa_Usagi_desu_ka_Dear_My_Sister",
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Happiness Encore",
-          "artiste": "Petit Rabbit's",
-          "lien": "https://nl.catbox.moe/2cu89m.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Sekai ga Café ni Nacchatta!",
-          "artiste": "Petit Rabbit's with beans",
-          "lien": "https://nl.catbox.moe/2692nw.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Gochuumon wa Usagi Desu ka??: Sing for You",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/38333/Gochuumon_wa_Usagi_desu_ka_Sing_for_You",
-      "nb_musique": 4,
-      "musique": [
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Gin no Spoon ~Blend of Memory~",
-          "artiste": "Nana Mizuki, Inori Minase",
-          "lien": "https://nl.catbox.moe/wixmio.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Furimukeba Tsuki, Iie Dango.",
-          "artiste": "Satomi Sato",
-          "lien": "https://nl.catbox.moe/91ym8h.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Hi Hi High☆",
-          "artiste": "Maaya Uchida",
-          "lien": "https://nl.catbox.moe/qwarkg.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Komorebi Seishunfu",
-          "artiste": "Inori Minase, Sora Tokui, Rie Murakawa, Suginami Jidou Gasshou-dan",
-          "lien": "https://nl.catbox.moe/qh7d0s.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
       "nom": "Gochuumon wa Usagi Desu ka?",
       "id": 0,
       "lien": "https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_desu_ka",
@@ -6576,6 +6500,82 @@
           "nom": "Nantonaku Mirai",
           "artiste": "Petit Rabbit's",
           "lien": "https://nl.catbox.moe/mx75ak.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Gochuumon wa Usagi Desu ka??: Dear My Sister",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/33280/Gochuumon_wa_Usagi_desu_ka_Dear_My_Sister",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Happiness Encore",
+          "artiste": "Petit Rabbit's",
+          "lien": "https://nl.catbox.moe/2cu89m.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sekai ga Café ni Nacchatta!",
+          "artiste": "Petit Rabbit's with beans",
+          "lien": "https://nl.catbox.moe/2692nw.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Gochuumon wa Usagi Desu ka??: Sing for You",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/38333/Gochuumon_wa_Usagi_desu_ka_Sing_for_You",
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Gin no Spoon ~Blend of Memory~",
+          "artiste": "Nana Mizuki, Inori Minase",
+          "lien": "https://nl.catbox.moe/wixmio.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Furimukeba Tsuki, Iie Dango.",
+          "artiste": "Satomi Sato",
+          "lien": "https://nl.catbox.moe/91ym8h.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hi Hi High☆",
+          "artiste": "Maaya Uchida",
+          "lien": "https://nl.catbox.moe/qwarkg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Komorebi Seishunfu",
+          "artiste": "Inori Minase, Sora Tokui, Rie Murakawa, Suginami Jidou Gasshou-dan",
+          "lien": "https://nl.catbox.moe/qh7d0s.webm"
         }
       ],
       "users": [
@@ -11757,7 +11757,7 @@
     {
       "nom": "LoveCom",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/2034/Lovely%E2%98%85Complex",
       "nb_musique": 5,
       "musique": [
         {
@@ -11809,7 +11809,7 @@
     {
       "nom": "Made in Abyss",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/34599/Made_in_Abyss",
       "nb_musique": 5,
       "musique": [
         {
@@ -11861,7 +11861,7 @@
     {
       "nom": "Made in Abyss: Fukaki Tamashii no Reimei",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/36862/Made_in_Abyss_Movie_3__Fukaki_Tamashii_no_Reimei",
       "nb_musique": 3,
       "musique": [
         {
@@ -11899,7 +11899,7 @@
     {
       "nom": "Made in Abyss: Retsujitsu no Ougonkyou",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/41084/Made_in_Abyss__Retsujitsu_no_Ougonkyou",
       "nb_musique": 6,
       "musique": [
         {
@@ -11956,40 +11956,9 @@
       ]
     },
     {
-      "nom": "Mahoutsukai Reimeiki",
-      "id": 0,
-      "lien": "",
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "dawn of infinity",
-          "artiste": "fripSide",
-          "lien": "https://nl.catbox.moe/mdq0py.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Imprinting",
-          "artiste": "▽▲TRiNITY▲▽",
-          "lien": "https://nl.catbox.moe/lcyqlz.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 1,
-          "C": 0,
-          "L": 1,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
       "nom": "Mahou Shoujo Madoka★Magica",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica",
       "nb_musique": 7,
       "musique": [
         {
@@ -12055,7 +12024,7 @@
     {
       "nom": "Mahouka Koukou no Rettousei",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei",
       "nb_musique": 9,
       "musique": [
         {
@@ -12135,7 +12104,7 @@
     {
       "nom": "Mahouka Koukou no Rettousei: Raihousha-hen",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/40497/Mahouka_Koukou_no_Rettousei__Raihousha-hen",
       "nb_musique": 3,
       "musique": [
         {
@@ -12171,9 +12140,40 @@
       ]
     },
     {
+      "nom": "Mahoutsukai Reimeiki",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/48842/Mahoutsukai_Reimeiki",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "dawn of infinity",
+          "artiste": "fripSide",
+          "lien": "https://nl.catbox.moe/mdq0py.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Imprinting",
+          "artiste": "▽▲TRiNITY▲▽",
+          "lien": "https://nl.catbox.moe/lcyqlz.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 1,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Maid Sama!",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama",
       "nb_musique": 6,
       "musique": [
         {
@@ -12232,7 +12232,7 @@
     {
       "nom": "Mairimashita! Iruma-kun",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun",
       "nb_musique": 6,
       "musique": [
         {
@@ -12291,7 +12291,7 @@
     {
       "nom": "Mairimashita! Iruma-kun",
       "id": 1,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/41402/Mairimashita_Iruma-kun_2nd_Season",
       "nb_musique": 6,
       "musique": [
         {
@@ -12350,7 +12350,7 @@
     {
       "nom": "Mairimashita! Iruma-kun",
       "id": 2,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/49784/Mairimashita_Iruma-kun_3rd_Season",
       "nb_musique": 5,
       "musique": [
         {
@@ -12402,7 +12402,7 @@
     {
       "nom": "Maou Gakuin no Futekigousha",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/40496/Maou_Gakuin_no_Futekigousha__Shijou_Saikyou_no_Maou_no_Shiso_Tensei_shite_Shison-tachi_no_Gakkou_e_Kayou",
       "nb_musique": 4,
       "musique": [
         {
@@ -12447,7 +12447,7 @@
     {
       "nom": "Maou Gakuin no Futekigousha II",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/48417/Maou_Gakuin_no_Futekigousha__Shijou_Saikyou_no_Maou_no_Shiso_Tensei_shite_Shison-tachi_no_Gakkou_e_Kayou_II",
       "nb_musique": 2,
       "musique": [
         {
@@ -12476,9 +12476,40 @@
       ]
     },
     {
-      "nom": "Masamune-kun no Revenge",
+      "nom": "Maou-sama, Retry!",
       "id": 0,
       "lien": "",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "TEMPEST",
+          "artiste": "Kaori Ishihara",
+          "lien": "https://nl.catbox.moe/d605h4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "NEW",
+          "artiste": "Haruka Tojo",
+          "lien": "https://nl.catbox.moe/3regxq.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Masamune-kun no Revenge",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/33487/Masamune-kun_no_Revenge",
       "nb_musique": 6,
       "musique": [
         {
@@ -12537,7 +12568,7 @@
     {
       "nom": "Masou Gakuen H×H",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/31845/Masou_Gakuen_HxH",
       "nb_musique": 2,
       "musique": [
         {
@@ -12566,40 +12597,9 @@
       ]
     },
     {
-      "nom": "Maou-sama, Retry!",
-      "id": 0,
-      "lien": "",
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "TEMPEST",
-          "artiste": "Kaori Ishihara",
-          "lien": "https://nl.catbox.moe/d605h4.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "NEW",
-          "artiste": "Haruka Tojo",
-          "lien": "https://nl.catbox.moe/3regxq.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 1,
-          "C": 0,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
       "nom": "Meikyuu Black Company",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/42340/Meikyuu_Black_Company",
       "nb_musique": 2,
       "musique": [
         {
@@ -12630,7 +12630,7 @@
     {
       "nom": "Mob Psycho 100",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/32182/Mob_Psycho_100",
       "nb_musique": 4,
       "musique": [
         {
@@ -12675,7 +12675,7 @@
     {
       "nom": "Mob Psycho 100 II",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/37510/Mob_Psycho_100_II",
       "nb_musique": 5,
       "musique": [
         {
@@ -12727,7 +12727,7 @@
     {
       "nom": "Momokuri",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/30014/Momokuri",
       "nb_musique": 3,
       "musique": [
         {
@@ -12765,7 +12765,7 @@
     {
       "nom": "Mondaiji-tachi ga Isekai kara Kuru-sou desu yo?",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/15315/Mondaiji-tachi_ga_Isekai_kara_Kuru_Sou_desu_yo",
       "nb_musique": 5,
       "musique": [
         {
@@ -12817,7 +12817,7 @@
     {
       "nom": "Motto To LOVE-Ru",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/9181/Motto_To_LOVE-Ru",
       "nb_musique": 4,
       "musique": [
         {
@@ -12862,7 +12862,7 @@
     {
       "nom": "Mushoku Tensei: Isekai Ittara Honki Dasu",
       "id": 0,
-      "lien": "",
+      "lien": "https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu",
       "nb_musique": 3,
       "musique": [
         {

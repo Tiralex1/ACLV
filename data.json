@@ -1,6 +1,6 @@
 {
-  "nb_anime": 453,
-  "nb_musique": 2226,
+  "nb_anime": 454,
+  "nb_musique": 2228,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -22953,6 +22953,37 @@
           "C": 0,
           "L": 1,
           "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Yuru Camp△",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/34798/Yuru_Camp%E2%96%B3",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "SHINY DAYS",
+          "artiste": "Asaka",
+          "lien": "https://files.catbox.moe/1pj273.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Fuyu Biyori",
+          "artiste": "Eri Sasaki",
+          "lien": "https://openings.moe/video/YuruCamp-ED01-NCBD.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
           "T": 0
         }
       ]

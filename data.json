@@ -1,6 +1,6 @@
 {
-  "nb_anime": 449,
-  "nb_musique": 2215,
+  "nb_anime": 453,
+  "nb_musique": 2226,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -2043,6 +2043,37 @@
           "nom": "Kitakaze",
           "artiste": "SIX LOUNGE",
           "lien": "https://nl.catbox.moe/zzoexh.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Boku no Hero Academia The Movie: Futari no Hero",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/36896/Boku_no_Hero_Academia_the_Movie_1__Futari_no_Hero",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Long Hope Philia",
+          "artiste": "Masaki Suda",
+          "lien": "https://nl.catbox.moe/58nphe.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Here",
+          "artiste": "Yuly",
+          "lien": "https://nl.catbox.moe/8uqn9z.webm"
         }
       ],
       "users": [
@@ -9413,6 +9444,44 @@
           "C": 1,
           "L": 0,
           "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kanojo to Kanojo no Neko: Everything Flows",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/32491/Kanojo_to_Kanojo_no_Neko__Everything_Flows",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Glass no Hitomi (Inst)",
+          "artiste": "Masumi Itou",
+          "lien": "https://nl.catbox.moe/m1trkf.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Glass no Hitomi",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.moe/g0ks4a.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sonata",
+          "artiste": "clammbon",
+          "lien": "https://nl.catbox.moe/eqrgy4.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
           "T": 0
         }
       ]
@@ -17671,6 +17740,44 @@
       ]
     },
     {
+      "nom": "Ryuu no Haisha",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/34549/Ryuu_no_Haisha",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Bokura ga Tabi ni Deru Riyuu",
+          "artiste": "RINKU (Mistera Feo)",
+          "lien": "https://nl.catbox.moe/fqdqlh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Bokura ga Tabi ni Deru Riyuu",
+          "artiste": "RINKU (Mistera Feo)",
+          "lien": "https://nl.catbox.moe/77n4vk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kakurenbo",
+          "artiste": "DAOKO",
+          "lien": "https://nl.catbox.moe/4s4rld.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 1,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Ryuu to Sobakasu no Hime",
       "id": 0,
       "lien": "https://myanimelist.net/anime/44807/Ryuu_to_Sobakasu_no_Hime",
@@ -22846,6 +22953,44 @@
           "C": 0,
           "L": 1,
           "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Yuru Camp△ Season 2",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/38474/Yuru_Camp%E2%96%B3_Season_2",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Seize The Day",
+          "artiste": "Asaka",
+          "lien": "https://nl.catbox.moe/0bl6rq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Haru no Tonari",
+          "artiste": "Eri Sasaki",
+          "lien": "https://nl.catbox.moe/vlbka1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kono Basho de.",
+          "artiste": "Okunai Katsudou Circle (Asaka)",
+          "lien": "https://nl.catbox.moe/yif5sw.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
           "T": 0
         }
       ]

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 454,
-  "nb_musique": 2228,
+  "nb_anime": 455,
+  "nb_musique": 2232,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -2074,6 +2074,44 @@
           "nom": "Here",
           "artiste": "Yuly",
           "lien": "https://nl.catbox.moe/8uqn9z.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Boku no Hero Academia The Movie: Heroes: Rising",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Higher Ground",
+          "artiste": "sumika",
+          "lien": "https://nl.catbox.moe/t5oojq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "HERO A",
+          "artiste": "Yuly",
+          "lien": "https://nl.catbox.moe/fnsckv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Might⁺U",
+          "artiste": "Makayla Phillips",
+          "lien": "https://nl.catbox.moe/y3bmad.webm"
         }
       ],
       "users": [
@@ -6111,7 +6149,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Imperial Anthem",
-          "artiste": "Dai Ni Rei San Koukuu Madou Dai-tai",
+          "artiste": "Dai Ni Maru San Koukuu Madou Dai-tai",
           "lien": "https://nl.catbox.moe/4c914a.webm"
         }
       ],
@@ -11789,7 +11827,7 @@
       "nom": "Log Horizon",
       "id": 1,
       "lien": "https://myanimelist.net/anime/23321/Log_Horizon_2nd_Season",
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -11811,6 +11849,13 @@
           "nom": "Birthday Song",
           "artiste": "Eriko Matsui",
           "lien": "https://nl.catbox.moe/j1vtvo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Your song*",
+          "artiste": "Eriko Matsui",
+          "lien": "https://nl.catbox.moe/kucnyp.webm"
         }
       ],
       "users": [

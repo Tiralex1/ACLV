@@ -1,6 +1,6 @@
 {
-  "nb_anime": 455,
-  "nb_musique": 2232,
+  "nb_anime": 456,
+  "nb_musique": 2234,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -2112,6 +2112,37 @@
           "nom": "Might⁺U",
           "artiste": "Makayla Phillips",
           "lien": "https://nl.catbox.moe/y3bmad.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Boku no Hero Academia The Movie: World Heroes' Mission",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/44200/Boku_no_Hero_Academia_the_Movie_3__World_Heroes_Mission",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Empathy",
+          "artiste": "ASIAN KUNG-FU GENERATION",
+          "lien": "https://nl.catbox.moe/wa7cup.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Flowers",
+          "artiste": "ASIAN KUNG-FU GENERATION",
+          "lien": "https://nl.catbox.moe/p06pcv.webm"
         }
       ],
       "users": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 456,
-  "nb_musique": 2234,
+  "nb_anime": 457,
+  "nb_musique": 2236,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -11644,6 +11644,37 @@
         {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu Yori mo Kuso-Gee Dattara",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/44276/Kyuukyoku_Shinka_shita_Full_Dive_RPG_ga_Genjitsu_yori_mo_Kusoge_Dattara",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "ANSWER",
+          "artiste": "Mayu Maeshima",
+          "lien": "https://nl.catbox.moe/32mlkh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kisuida!",
+          "artiste": "Ayana Taketatsu, Fairouz Ai, Shiori Izawa, Aoi Koga",
+          "lien": "https://nl.catbox.moe/ffo5tl.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0

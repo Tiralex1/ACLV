@@ -1,6 +1,6 @@
 {
   "nb_anime": 457,
-  "nb_musique": 2236,
+  "nb_musique": 2238,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -18176,7 +18176,7 @@
       "nom": "Saikyou Onmyouji no Isekai Tenseiki",
       "id": 0,
       "lien": "https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki",
-      "nb_musique": 5,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -18212,6 +18212,20 @@
           "nom": "Link",
           "artiste": "Azumi Waki×Nene Hieda×Akari Kitou",
           "lien": "https://nl.catbox.moe/gjmncl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Link",
+          "artiste": "Azumi Waki",
+          "lien": "https://nl.catbox.moe/sg4zyu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Link",
+          "artiste": "Nene Hieda",
+          "lien": "https://nl.catbox.moe/t34r4e.webm"
         }
       ],
       "users": [

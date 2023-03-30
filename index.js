@@ -52,10 +52,12 @@ function saveFav() {
 function loadFav() {
     const button = document.createElement('input');
     button.type = "file";
-    button.onchange = function (file) {
+    button.onchange = function () {
+        let file = button.files[0];
         const reader = new FileReader();
         reader.onload = (evt) => {
-            console.log(evt.result);
+            localStorage.setItem("favori", evt.target.result);
+            location.reload();
         };
         reader.readAsText(file);
     };

@@ -33,8 +33,37 @@ if (localStorage.getItem("favori")) {
         if (favori[i].startsWith("https://")) i++;
         else favori.splice(i, 1);
     }
+    let sav = favori.join("|");
+    localStorage.setItem("favori", sav);
 }
 else localStorage.setItem("favori", favori);
+
+function saveFav() {
+    const a = document.createElement('a');
+    var nomf = prompt("Nom du fichier : ", "SaveFav.txt");
+    if (nomf == null) nomf = "saveFav.txt";
+    a.download = nomf;
+    a.href = "data:text/plain," + localStorage.getItem("favori");
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+}
+
+function loadFav() {
+    const button = document.createElement('input');
+    button.type = "file";
+    button.onchange = function (file) {
+        const reader = new FileReader();
+        reader.onload = (evt) => {
+            console.log(evt.result);
+        };
+        reader.readAsText(file);
+    };
+    document.body.appendChild(button);
+    button.click();
+    document.body.removeChild(button);
+}
+
 
 class Music {
     #type; #numero; #nom; #artist; #lien; #favori;
@@ -57,7 +86,7 @@ class Music {
 
 class Anime {
     #nom; #id; #lien; #nbMusic = 0; #TabMusic = []; #tabUsers = [];
-    constructor(nom, id = 0, lien="") {
+    constructor(nom, id = 0, lien = "") {
         this.#nom = nom;
         this.#id = id;
         this.#lien = lien;
@@ -96,17 +125,15 @@ class ListeAnime {
         this.#nbAnime ++;
         this.#nbMusic += anime.getNbMusic;
     }
-    AjoutePosMusic(i, music, pos)
-    {
+    AjoutePosMusic(i, music, pos) {
         this.#nbMusic ++;
-        this.#TabAnime[i].AjoutePosMusic(music,pos);
+        this.#TabAnime[i].AjoutePosMusic(music, pos);
     }
     SupprimePosAnime(pos) {
         this.#TabAnime.splice(pos, 1);
         this.#nbAnime --;
     }
-    SupprimePosMusic(i, pos)
-    {
+    SupprimePosMusic(i, pos) {
         this.#nbMusic --;
         this.#TabAnime[i].SupprimePosMusic(pos);
     }
@@ -196,8 +223,7 @@ function affich(listeA) {
 
         items.push("<tr class='grey'><td colspan='7'><div class='tete'>");
         items.push("<div class='_1 grey'>");
-        if (A.getLien != "")
-        {
+        if (A.getLien != "") {
             if (ModeAffichLien == "1") items.push("<a href='" + A.getLien + "' target='_blank'>" + A.getNom + "</a>");
             else items.push(A.getNom + "&ensp;<a href='" + A.getLien + "' target='_blank' style='color: darkblue;'>&#9032;</a>");
         }

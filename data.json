@@ -1,6 +1,6 @@
 {
-  "nb_anime": 457,
-  "nb_musique": 2238,
+  "nb_anime": 458,
+  "nb_musique": 2242,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -15496,6 +15496,51 @@
       ]
     },
     {
+      "nom": "Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/50739/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken",
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Gift",
+          "artiste": "Masayoshi Ooishi",
+          "lien": "https://nl.catbox.moe/ngfoih.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Chiisana Koi no Uta",
+          "artiste": "Manaka Iwami",
+          "lien": "https://nl.catbox.moe/jd6ilm.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ai Uta",
+          "artiste": "Manaka Iwami",
+          "lien": "https://nl.catbox.moe/igq4mc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Kimi ni Todoke",
+          "artiste": "Manaka Iwami",
+          "lien": "https://nl.catbox.moe/6rgwdj.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Oukami Shoujo to Kuro ouji",
       "id": 0,
       "lien": "https://myanimelist.net/anime/23673/Ookami_Shoujo_to_Kuro_Ouji",
@@ -16806,7 +16851,7 @@
         {
           "type": "Ending",
           "numero": 12,
-          "nom": "Maemuki Rocket-dan",
+          "nom": "Maemuki Rocket-dan!",
           "artiste": "Rocket-dan",
           "lien": "https://nl.catbox.moe/i7jyxg.webm"
         },

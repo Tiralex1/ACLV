@@ -1,6 +1,6 @@
 {
-  "nb_anime": 458,
-  "nb_musique": 2242,
+  "nb_anime": 459,
+  "nb_musique": 2243,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -4555,6 +4555,30 @@
           "nom": "Yeah,My Teams Amazing!!",
           "artiste": "Aztech, Paranom & Kasper from Hybrid Thoughts",
           "lien": "https://nl.catbox.moe/k2q5rl.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Dr. Stone Special Episode: Ryusui",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/50612/Dr_Stone__Ryuusui",
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Good Morning [New] World!",
+          "artiste": "BURNOUT SYNDROMES",
+          "lien": "https://nl.catbox.moe/84pq68.webm"
         }
       ],
       "users": [

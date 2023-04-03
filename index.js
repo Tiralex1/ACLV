@@ -4,6 +4,8 @@ let TabStringUsers = ["A", "C", "L", "V", "T"];
 let AlternateColor1 = "green";
 let AlternateColor2 = "red";
 let AffichageFavori = false;
+let AudioActuel = new Audio("");
+let stateAudio = 0;
 
 let filtreNomAnime = document.getElementById("name_anime");
 let filtreTypeMusic = document.getElementById("type_music");
@@ -209,7 +211,35 @@ function data(nom_fic) {
     });
 }
 
+function clickAudio(lien, ind) { // &#9208;
+    if (AudioActuel.src != lien) {
+        AudioActuel.pause();
+        if (clickAudio.ind !== undefined) document.getElementById("AnimeMusicList").rows[clickAudio.ind].querySelector("button").innerHTML = "&#9658;";
+        AudioActuel = new Audio(lien);
+        AudioActuel.play();
+        document.getElementById("AnimeMusicList").rows[ind].querySelector("button").innerHTML = "&#9208;";
+        stateAudio = 1;
+    }
+    else if (stateAudio == 1) {
+        AudioActuel.pause();
+        document.getElementById("AnimeMusicList").rows[ind].querySelector("button").innerHTML = "&#9658;";
+        stateAudio = 0;
+    }
+    else {
+        AudioActuel.play();
+        document.getElementById("AnimeMusicList").rows[ind].querySelector("button").innerHTML = "&#9208;";
+        stateAudio = 1;
+    }
+    clickAudio.ind = ind;
+}
+function clickAudioStop() {
+    clickAudio.ind = undefined;
+    AudioActuel.pause();
+    stateAudio = 0;
+}
+
 function affich(listeA) {
+    clickAudioStop();
     var child = document.getElementById("info");
     if (!(child === null)) document.body.removeChild(child);
     child = document.getElementById("AnimeMusicList");
@@ -217,6 +247,7 @@ function affich(listeA) {
 
     var items = [];
     var BackGround = AlternateColor2;
+    let k = 0;
     for (var i = 0; i < listeA.getNbAnime; ++i) {
 
         var A = listeA.getAnime(i);
@@ -240,11 +271,12 @@ function affich(listeA) {
         items.push("</div></td></tr>");
 
         for (var j = 0; j < A.getNbMusic; ++j) {
+            k++;
             var M = A.getMusic(j);
             items.push("<tr class=" + BackGround + ">");
 
-            if (!M.getFavori) items.push("<td class='favo' onclick='modif_fav(" + i + "," + j + ");'>&#10025;</td>");
-            else items.push("<td class='favo' onclick='modif_fav(" + i + "," + j + ");'>&#9733;</td>");
+            if (!M.getFavori) items.push("<td class='favo' onclick='modif_fav(" + i + "," + j + "," + k + ");'>&#10025;</td>");
+            else items.push("<td class='favo' onclick='modif_fav(" + i + "," + j + "," + k + ");'>&#9733;</td>");
 
             items.push("<td class='nom_anime'>" + A.getNom + "</td>");
             items.push("<td class='type_music'>" + M.getType + "</td>");
@@ -252,10 +284,11 @@ function affich(listeA) {
             else items.push("<td class='numero_music'></td>");
             items.push("<td class='nom_music'>" + M.getNom + "</td>");
             items.push("<td class='nom_artist'>" + M.getArtist + "</td>");
-            items.push("<td class='lien'><a href='" + M.getLien + "' target='_blank'>Lien</td>");
+            items.push("<td class='lien'><a href='" + M.getLien + "' target='_blank'>Lien</a> <button style=\"background-color: transparent; border: transparent\" onclick=\"clickAudio('" + M.getLien + "'," + k + ");\">&#9658;</button></td>");
 
             items.push("</tr>");
         }
+        k++;
     }
     $("<div/>", {
         "id": "info",
@@ -268,6 +301,7 @@ function affich(listeA) {
 }
 
 function affich_fav() {
+    clickAudioStop();
     if (AffichageFavori) {
         AffichageFavori = false;
         filtre();
@@ -284,8 +318,8 @@ function affich_fav() {
 
         var items = [];
         var BackGround = AlternateColor2;
+        let k = 0;
         for (var i = 0; i < fav.getNbAnime; ++i) {
-
             var A = fav.getAnime(i);
             if (BackGround == AlternateColor2) BackGround = AlternateColor1;
             else BackGround = AlternateColor2;
@@ -303,9 +337,10 @@ function affich_fav() {
                 else items.push("<td class='numero_music'></td>");
                 items.push("<td class='nom_music'>" + M.getNom + "</td>");
                 items.push("<td class='nom_artist'>" + M.getArtist + "</td>");
-                items.push("<td class='lien'><a href='" + M.getLien + "' target='_blank'>Lien</td>");
+                items.push("<td class='lien'><a href='" + M.getLien + "' target='_blank'>Lien</a> <button style=\"background-color: transparent; border: transparent\" onclick=\"clickAudio('" + M.getLien + "'," + k + ");\">&#9658;</button></td>");
 
                 items.push("</tr>");
+                k++;
             }
         }
         $("<div/>", {
@@ -384,11 +419,14 @@ function supp_fav(i, j) {
     if (fav.getAnime(posAfav).getNbMusic == 0) fav.SupprimePosAnime(posAfav);
 }
 
-function modif_fav(i, j) {
+function modif_fav(i, j, k) {
     listeFiltre.getAnime(i).getMusic(j).ModifFavori();
     if (listeFiltre.getAnime(i).getMusic(j).getFavori) ajout_fav(i, j);
     else supp_fav(i, j);
-    if (!AffichageFavori) affich(listeFiltre);
+    if (!AffichageFavori) {
+        if (listeFiltre.getAnime(i).getMusic(j).getFavori) document.getElementById("AnimeMusicList").rows[k].cells[0].innerHTML = "&#9733;";
+        else document.getElementById("AnimeMusicList").rows[k].cells[0].innerHTML = "&#10025;";
+    }
     else {
         AffichageFavori = !AffichageFavori;
         affich_fav();

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 459,
-  "nb_musique": 2243,
+  "nb_anime": 460,
+  "nb_musique": 2248,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -8962,6 +8962,37 @@
           "C": 1,
           "L": 0,
           "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/52198/Kaguya-sama_wa_Kokurasetai__First_Kiss_wa_Owaranai",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Love is Show",
+          "artiste": "Masayuki Suzuki feat. Reni Takagi",
+          "lien": "https://nl.catbox.moe/0gjp3q.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "heart notes",
+          "artiste": "Airi Suzuki",
+          "lien": "https://nl.catbox.moe/bbptc4.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 1,
           "T": 0
         }
       ]
@@ -19128,7 +19159,7 @@
       "nom": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
       "id": 0,
       "lien": "https://myanimelist.net/anime/51495/Shin_Shinka_no_Mi__Shiranai_Uchi_ni_Kachigumi_Jinsei",
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -19143,6 +19174,13 @@
           "nom": "Adore me",
           "artiste": "Erii Yamazaki",
           "lien": "https://nl.catbox.moe/n8x1gw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shinka→LOVE♡",
+          "artiste": "Kana Hanazawa & Tetsu Inada",
+          "lien": "https://nl.catbox.moe/59vn8l.webm"
         }
       ],
       "users": [
@@ -19471,7 +19509,7 @@
       "nom": "Shingeki no Kyojin: The Final Season",
       "id": 1,
       "lien": "https://myanimelist.net/anime/48583/Shingeki_no_Kyojin__The_Final_Season_Part_2",
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -19486,6 +19524,20 @@
           "nom": "Akuma no Ko",
           "artiste": "Ai Higuchi",
           "lien": "https://nl.catbox.moe/eqjb5j.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Barricades",
+          "artiste": "yosh, Gemie, mpi",
+          "lien": "https://nl.catbox.moe/vrkjxh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "ətˈæk 0N tάɪtn<TFSv>",
+          "artiste": "Eliana",
+          "lien": "https://nl.catbox.moe/u9j15f.webm"
         }
       ],
       "users": [

@@ -6046,6 +6046,44 @@
       ]
     },
     {
+      "nom": "Gekijouban Date A Live: Mayuri Judgement",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/24655/Date_A_Live_Movie__Mayuri_Judgment",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Invisible Date",
+          "artiste": "sweet ARMS",
+          "lien": "https://nl.catbox.moe/gskph8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Date A Live",
+          "artiste": "sweet ARMS",
+          "lien": "https://nl.catbox.moe/kwfnvu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Go☆Summer Girl",
+          "artiste": "Minori Chihara",
+          "lien": "https://nl.catbox.moe/ff2s9t.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Gekijouban Karakai Jouzu no Takagi-san",
       "id": 0,
       "lien": "https://myanimelist.net/anime/49722/Karakai_Jouzu_no_Takagi-san_Movie",
@@ -6212,44 +6250,6 @@
         {
           "A": 1,
           "C": 0,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Gekijouban Date A Live: Mayuri Judgement",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/24655/Date_A_Live_Movie__Mayuri_Judgment",
-      "nb_musique": 3,
-      "musique": [
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Invisible Date",
-          "artiste": "sweet ARMS",
-          "lien": "https://nl.catbox.moe/gskph8.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Date A Live",
-          "artiste": "sweet ARMS",
-          "lien": "https://nl.catbox.moe/kwfnvu.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Go☆Summer Girl",
-          "artiste": "Minori Chihara",
-          "lien": "https://nl.catbox.moe/ff2s9t.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
           "L": 0,
           "V": 0,
           "T": 0

@@ -401,7 +401,6 @@ function identiqueAnime(anime1, anime2) {
 
 function ajout_fav(i, j) {
     var pos = posAnime(listeFiltre.getAnime(i), fav);
-    console.log(fav.getAnime(pos));
     if (pos == -1 || pos == fav.getNbAnime || !identiqueAnime(fav.getAnime(pos), listeFiltre.getAnime(i))) {
         var A = new Anime(listeFiltre.getAnime(i).getNom, listeFiltre.getAnime(i).getId);
         A.AjouteMusic(listeFiltre.getAnime(i).getMusic(j));

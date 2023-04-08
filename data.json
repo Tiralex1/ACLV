@@ -1,6 +1,6 @@
 {
-  "nb_anime": 461,
-  "nb_musique": 2256,
+  "nb_anime": 463,
+  "nb_musique": 2259,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -4592,6 +4592,37 @@
       ]
     },
     {
+      "nom": "Dr. Stone: New World",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/48549/Dr_Stone__New_World",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Wasuregataki",
+          "artiste": "Huwie Ishizaki",
+          "lien": "https://nl.catbox.moe/dyoint.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Where Do We Go?",
+          "artiste": "OKAMOTO'S",
+          "lien": "https://nl.catbox.moe/silt5v.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Dr. STONE: STONE WARS",
       "id": 0,
       "lien": "https://myanimelist.net/anime/40852/Dr_Stone__Stone_Wars",
@@ -8745,6 +8776,37 @@
       ]
     },
     {
+      "nom": "Jijou o Shiranai Tenkousei ga Guigui Kuru.",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/53621/Jijou_wo_Shiranai_Tenkousei_ga_Guigui_Kuru",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Alcor to Polaris",
+          "artiste": "Reina Kondo",
+          "lien": "https://nl.catbox.moe/kevlpp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kokorone",
+          "artiste": "Kitri",
+          "lien": "https://nl.catbox.moe/uvteif.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Jujutsu Kaisen",
       "id": 0,
       "lien": "https://myanimelist.net/anime/40748/Jujutsu_Kaisen",
@@ -12790,6 +12852,37 @@
         {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Mashle: Magic and Muscles",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/52211/Mashle",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Knock Out",
+          "artiste": "Taiiku Okazaki",
+          "lien": "https://nl.catbox.moe/rw7g4a.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shucream Funk",
+          "artiste": "Philosophy no Dance",
+          "lien": "https://nl.catbox.moe/agka5m.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0
@@ -23299,44 +23392,6 @@
           "C": 0,
           "L": 0,
           "V": 1,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Yuru Camp△ Season 2",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/38474/Yuru_Camp%E2%96%B3_Season_2",
-      "nb_musique": 3,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Seize The Day",
-          "artiste": "Asaka",
-          "lien": "https://nl.catbox.moe/0bl6rq.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Haru no Tonari",
-          "artiste": "Eri Sasaki",
-          "lien": "https://nl.catbox.moe/vlbka1.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Kono Basho de.",
-          "artiste": "Okunai Katsudou Circle (Asaka)",
-          "lien": "https://nl.catbox.moe/yif5sw.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 0,
-          "L": 0,
-          "V": 0,
           "T": 0
         }
       ]

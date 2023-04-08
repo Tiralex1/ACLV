@@ -1,6 +1,6 @@
 {
-  "nb_anime": 460,
-  "nb_musique": 2251,
+  "nb_anime": 461,
+  "nb_musique": 2256,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -23032,6 +23032,58 @@
           "nom": "CANDY MAGIC",
           "artiste": "MimimemeMIMI",
           "lien": "https://files.catbox.moe/wwbobo.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Yamada-kun to 7-nin no Majo",
+      "id": 1,
+      "lien": "https://myanimelist.net/anime/24627/Yamada-kun_to_7-nin_no_Majo__Mou_Hitotsu_no_Suzaku-sai",
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "ding!ging!dong!",
+          "artiste": "Erushi",
+          "lien": "https://nl.catbox.moe/r1oc9p.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Kuchizuke Diamond",
+          "artiste": "WEAVER",
+          "lien": "https://nl.catbox.moe/cn4qdl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Oddloop",
+          "artiste": "Frederic",
+          "lien": "https://nl.catbox.moe/vr60iu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "CANDY MAGIC",
+          "artiste": "MimimemeMIMI",
+          "lien": "https://nl.catbox.moe/wwbobo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "ding! ging! dong!",
+          "artiste": "Choujougenshou-bu",
+          "lien": "https://nl.catbox.moe/k7dpn6.webm"
         }
       ],
       "users": [

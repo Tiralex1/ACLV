@@ -1,6 +1,6 @@
 {
   "nb_anime": 460,
-  "nb_musique": 2250,
+  "nb_musique": 2251,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -20739,7 +20739,7 @@
       "nom": "Sugar Apple Fairy Tale",
       "id": 0,
       "lien": "https://myanimelist.net/anime/49980/Sugar_Apple_Fairy_Tale",
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -20754,6 +20754,13 @@
           "nom": "Kanaeru",
           "artiste": "Sumire Morohoshi",
           "lien": "https://nl.catbox.moe/r4ln78.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "I Will Go On",
+          "artiste": "Sumire Morohoshi",
+          "lien": "https://nl.catbox.moe/0unu6k.webm"
         }
       ],
       "users": [

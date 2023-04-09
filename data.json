@@ -1,6 +1,6 @@
 {
-  "nb_anime": 463,
-  "nb_musique": 2259,
+  "nb_anime": 464,
+  "nb_musique": 2261,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -21744,6 +21744,37 @@
           "nom": "Gohan da yo! Dadadadan!!",
           "artiste": "Surachans△",
           "lien": "https://nl.catbox.moe/0871vc.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Tensei Kizoku no Isekai Boukenroku: Jichou o Shiranai Kamigami no Shito",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/52608/Tensei_Kizoku_no_Isekai_Boukenroku__Jichou_wo_Shiranai_Kamigami_no_Shito",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Preview",
+          "artiste": "Aya Uchida",
+          "lien": "https://nl.catbox.moe/cpe8g3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Nana-iro no Enogu de",
+          "artiste": "7land",
+          "lien": "https://nl.catbox.moe/fslbnl.webm"
         }
       ],
       "users": [

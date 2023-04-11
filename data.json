@@ -1,6 +1,6 @@
 {
-  "nb_anime": 464,
-  "nb_musique": 2261,
+  "nb_anime": 465,
+  "nb_musique": 2263,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -4770,7 +4770,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Shizuka na Kaze",
+          "nom": "Shizukana Kaze",
           "artiste": "Non Stop Rabbit",
           "lien": "https://nl.catbox.moe/0pazpl.webm"
         }
@@ -11504,6 +11504,37 @@
       ]
     },
     {
+      "nom": "Kuma Kuma Kuma Bear: Punch!",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/45486/Kuma_Kuma_Kuma_Bear_Punch",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kimi to no Mirai",
+          "artiste": "Azumi Waki",
+          "lien": "https://nl.catbox.moe/2im721.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Zutto",
+          "artiste": "Maki Kawase",
+          "lien": "https://nl.catbox.moe/c56sis.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Kumo desu ga, Nani ka?",
       "id": 0,
       "lien": "https://myanimelist.net/anime/37984/Kumo_desu_ga_Nani_ka",
@@ -13580,7 +13611,7 @@
         {
           "type": "Opening",
           "numero": 5,
-          "nom": "Tada Yowai dake ja Nakute Bokura wa",
+          "nom": "Tada Yowai dake ja Nakute Bokura wa...",
           "artiste": "Mass Alert",
           "lien": "https://nl.catbox.moe/0mg65q.webm"
         },
@@ -16986,7 +17017,7 @@
           "type": "Ending",
           "numero": 10,
           "nom": "Takeshi no Paradise",
-          "artiste": "Yuji Ueda",
+          "artiste": "Yuuji Ueda",
           "lien": "https://nl.catbox.moe/7omhsj.webm"
         },
         {

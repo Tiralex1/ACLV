@@ -1,6 +1,6 @@
 {
-  "nb_anime": 465,
-  "nb_musique": 2263,
+  "nb_anime": 467,
+  "nb_musique": 2267,
   "anime": [
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -8226,6 +8226,37 @@
       ]
     },
     {
+      "nom": "Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musousuru: Level Up wa Jinsei o Kaeta",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/52830/Isekai_de_Cheat_Skill_wo_Te_ni_Shita_Ore_wa_Genjitsu_Sekai_wo_mo_Musou_Suru__Level_Up_wa_Jinsei_wo_Kaeta",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Gyakuten Geki",
+          "artiste": "Tsukuyomi",
+          "lien": "https://nl.catbox.moe/kcm08d.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hachimitsu",
+          "artiste": "Shikao Suga",
+          "lien": "https://nl.catbox.moe/fdlhdd.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
       "id": 0,
       "lien": "https://myanimelist.net/anime/37210/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu",
@@ -10243,6 +10274,37 @@
           "nom": "Kimiyo Kedakakuare",
           "artiste": "Shiyui",
           "lien": "https://files.catbox.moe/2nwjpp.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kidou Senshi Gundam: Suisei no Majo",
+      "id": 1,
+      "lien": "https://myanimelist.net/anime/53199/Kidou_Senshi_Gundam__Suisei_no_Majo_Season_2",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "slash",
+          "artiste": "yama",
+          "lien": "https://nl.catbox.moe/o0yvka.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Red:birthmark",
+          "artiste": "Aina The End",
+          "lien": "https://nl.catbox.moe/73ewcs.webm"
         }
       ],
       "users": [

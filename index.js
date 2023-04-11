@@ -372,8 +372,8 @@ function posAnime(anime, listeA) {
     var m;
     while (i < j) {
         m = Math.trunc((i + j) / 2);
-        if (listeA.getAnime(m).getNom > anime.getNom) j = m;
-        else if (listeA.getAnime(m).getNom < anime.getNom) i = m + 1;
+        if (listeA.getAnime(m).getNom.toLowerCase() > anime.getNom.toLowerCase()) j = m;
+        else if (listeA.getAnime(m).getNom.toLowerCase() < anime.getNom.toLowerCase()) i = m + 1;
         else {
             if (listeA.getAnime(m).getId > anime.getId) j = m;
             else if (listeA.getAnime(m).getId < anime.getId) i = m + 1;

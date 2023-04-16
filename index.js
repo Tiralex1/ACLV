@@ -284,7 +284,7 @@ function affich(listeA) {
             else items.push("<td class='numero_music'></td>");
             items.push("<td class='nom_music'>" + M.getNom + "</td>");
             items.push("<td class='nom_artist'>" + M.getArtist + "</td>");
-            items.push("<td class='lien'><a href='" + M.getLien + "' target='_blank'>Lien</a> <button style=\"background-color: transparent; border: transparent\" onclick=\"clickAudio('" + M.getLien + "'," + k + ");\">&#9658;</button></td>");
+            items.push("<td class='lien'><a href='" + M.getLien + "' target='_blank'>Lien</a><br/><button style=\"background-color: transparent; border: transparent\" onclick=\"clickAudio('" + M.getLien + "'," + k + ");\">&#9658;</button></td>");
 
             items.push("</tr>");
         }
@@ -337,7 +337,7 @@ function affich_fav() {
                 else items.push("<td class='numero_music'></td>");
                 items.push("<td class='nom_music'>" + M.getNom + "</td>");
                 items.push("<td class='nom_artist'>" + M.getArtist + "</td>");
-                items.push("<td class='lien'><a href='" + M.getLien + "' target='_blank'>Lien</a> <button style=\"background-color: transparent; border: transparent\" onclick=\"clickAudio('" + M.getLien + "'," + k + ");\">&#9658;</button></td>");
+                items.push("<td class='lien'><a href='" + M.getLien + "' target='_blank'>Lien</a><br/><button style=\"background-color: transparent; border: transparent\" onclick=\"clickAudio('" + M.getLien + "'," + k + ");\">&#9658;</button></td>");
 
                 items.push("</tr>");
                 k++;

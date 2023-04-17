@@ -390,6 +390,7 @@ function affich(listeA) {
 }
 
 function affich_filtr(listeA) {
+    clickAudioStop();
     let info = document.getElementById("info");
     let BackGround = AlternateColor2;
     let k = 0;
@@ -420,18 +421,16 @@ function affich_filtr(listeA) {
 }
 
 function affich_fav() {
-    clickAudioStop();
     if (AffichageFavori) {
         AffichageFavori = false;
         listeFiltre = Liste_Anime;
-        affich_filtr(listeFiltre);
     }
     else {
         AffichageFavori = true;
         listeFiltre = fav;
         reset_filtre();
-        affich_filtr(listeFiltre);
     }
+    affich_filtr(listeFiltre);
 }
 
 function sauvegarde_fav() {

@@ -359,7 +359,8 @@ function clickAudio(lien, button) { // &#9208;
     clickAudio.button = button;
 }
 function clickAudioStop() {
-    clickAudio.ind = undefined;
+    clickAudio.button.innerHTML = "&#9658";
+    clickAudio.button = undefined;
     AudioActuel.pause();
     stateAudio = 0;
 }
@@ -390,6 +391,7 @@ function affich(listeA) {
 }
 
 function affich_filtr(listeA) {
+    clickAudioStop();
     let info = document.getElementById("info");
     let BackGround = AlternateColor2;
     let k = 0;

@@ -390,7 +390,6 @@ function affich(listeA) {
 }
 
 function affich_filtr(listeA) {
-    clickAudioStop();
     let info = document.getElementById("info");
     let BackGround = AlternateColor2;
     let k = 0;

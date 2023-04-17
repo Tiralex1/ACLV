@@ -7,6 +7,7 @@ let AffichageFavori = false;
 let AudioActuel = new Audio("");
 let stateAudio = 0;
 
+// initialisation des variables représentant les champs de filtrages
 let filtreNomAnime = document.getElementById("name_anime");
 let filtreTypeMusic = document.getElementById("type_music");
 let filtreNomMusic = document.getElementById("name_music");
@@ -18,9 +19,7 @@ let AffichLien1 = document.getElementById("affich_lien1");
 let AffichLien2 = document.getElementById("affich_lien2");
 
 let ModeAffichLien = "1";
-if (localStorage.getItem("modeAffichLien")) {
-    ModeAffichLien = localStorage.getItem("modeAffichLien");
-}
+if (localStorage.getItem("modeAffichLien")) { ModeAffichLien = localStorage.getItem("modeAffichLien"); }
 else {
     ModeAffichLien = "1";
     localStorage.setItem("modeAffichLien", ModeAffichLien);
@@ -70,26 +69,103 @@ function loadFav() {
 
 
 class Music {
-    #type; #numero; #nom; #artist; #lien; #favori;
-    constructor(type, numero, nom, artist, lien, fav = false) {
+    #anime; #type; #numero; #nom; #artist; #lien; #favori; #html; #background;
+    constructor(anime, type, numero, nom, artist, lien, fav = false) {
+        this.#anime = anime;
         this.#type = type;
         this.#numero = numero;
         this.#nom = nom;
         this.#artist = artist;
         this.#lien = lien;
         this.#favori = fav;
+        this.#background = "green";
+        this.#html = this.#generateHTML();
     }
+    get getAnime() { return this.#anime; }
     get getType() { return this.#type; }
     get getNom() { return this.#nom; }
     get getNumero() { return this.#numero; }
     get getArtist() { return this.#artist; }
     get getLien() { return this.#lien; }
     get getFavori() { return this.#favori; }
+    getHtml(backgroundColor) {
+        if (backgroundColor != this.#background) this.changeBackground();
+        return this.#html;
+    }
+    get getBackgroundColor() { return this.#background; }
     ModifFavori() { this.#favori = !this.#favori }
+    #generateHTML() {
+        let tr = document.createElement("tr");
+        tr.classList.add(this.getBackgroundColor);
+        let td1 = document.createElement("td");
+        if (!this.getFavori) td1.innerHTML = "&#10025;";
+        else td1.innerHTML = "&#9733;";
+        td1.classList.add("favo");
+        let M = this;
+        td1.addEventListener("click", function () {
+            M.ModifFavori();
+            if (!M.getFavori) td1.innerHTML = "&#10025;";
+            else td1.innerHTML = "&#9733;";
+            modif_fav(M.getAnime, M);
+        });
+        tr.appendChild(td1);
+        let td2 = document.createElement("td");
+        td2.innerHTML = this.getAnime.getNom;
+        td2.classList.add("nom_anime");
+        tr.appendChild(td2);
+        let td3 = document.createElement("td");
+        td3.innerHTML = this.getType;
+        td3.classList.add("type_music");
+        tr.appendChild(td3);
+        let td4 = document.createElement("td");
+        td4.innerHTML = this.getNumero;
+        td4.classList.add("numero_music");
+        tr.appendChild(td4);
+        let td5 = document.createElement("td");
+        td5.innerHTML = this.getNom;
+        td5.classList.add("nom_music");
+        tr.appendChild(td5);
+        let td6 = document.createElement("td");
+        td6.innerHTML = this.getArtist;
+        td6.classList.add("nom_artist");
+        tr.appendChild(td6);
+        let td7 = document.createElement("td");
+        let a = document.createElement("a");
+        a.href = this.getLien;
+        a.target = "_blank";
+        a.innerHTML = "Lien";
+        td7.appendChild(a);
+        td7.appendChild(document.createElement("br"));
+        let button = document.createElement("button");
+        button.style.backgroundColor = "transparent";
+        button.style.border = "transparent";
+        button.innerHTML = "&#9658;";
+        button.addEventListener("click", function () {
+            clickAudio(M.getLien, button);
+        });
+        td7.appendChild(button);
+        td7.classList.add("lien");
+        tr.appendChild(td7);
+        return tr;
+    }
+    changeBackground() {
+        this.#html.classList.remove(this.#background);
+        if (this.#background == "green") this.#background = "red";
+        else this.#background = "green";
+        this.#html.classList.add(this.#background);
+    }
+    setVisibleHTML(bool) {
+        if (bool) {
+            if (this.#html.style.display == "none") this.#html.style.display = "";
+        }
+        else {
+            if (this.#html.style.display == "") this.#html.style.display = "none";
+        }
+    }
 }
 
 class Anime {
-    #nom; #id; #lien; #nbMusic = 0; #TabMusic = []; #tabUsers = [];
+    #nom; #id; #lien; #nbMusic = 0; #TabMusic = []; #tabUsers = []; #html;
     constructor(nom, id = 0, lien = "") {
         this.#nom = nom;
         this.#id = id;
@@ -109,12 +185,61 @@ class Anime {
     }
     AjouteUser(bool) { this.#tabUsers.push(bool); }
     CopieUsers(anime) { for (var i = 0; i < NB_USERS; ++i) eval("this.AjouteUser(anime.getEtatUser(" + i + "));"); }
+    GenereHtml() {
+        this.#html = this.#generateHTML();
+    }
     get getNom() { return this.#nom; }
     get getId() { return this.#id; }
     get getLien() { return this.#lien; }
     get getNbMusic() { return this.#nbMusic; }
+    get getHtml() { return this.#html; }
     getEtatUser(i) { return this.#tabUsers[i] }
     getMusic(j) { return this.#TabMusic[j] }
+    setVisibleHTML(bool) {
+        if (bool) {
+            if (this.#html.style.display == "none") this.#html.style.display = "";
+        }
+        else {
+            if (this.#html.style.display == "") this.#html.style.display = "none";
+            for (let music of this.#TabMusic) {
+                music.setVisibleHTML(false);
+            }
+        }
+    }
+    #generateHTML() {
+        let tr = document.createElement("tr");
+        tr.classList.add("grey");
+        let td1 = document.createElement("td");
+        td1.colSpan = "7";
+        tr.appendChild(td1);
+        let div_tete = document.createElement("div");
+        div_tete.classList.add("tete");
+        td1.appendChild(div_tete);
+        let div1 = document.createElement("div");
+        div1.classList.add("_1");
+        div1.classList.add("grey");
+        let a = document.createElement("a");
+        a.href = this.getLien;
+        a.target = "_blank";
+        if (ModeAffichLien == "1") { a.innerHTML = this.getNom; }
+        else {
+            div1.innerHTML = this.getNom + "&ensp;";
+            a.style.color = "darkblue";
+            a.innerHTML = "&#9032;";
+        }
+        div1.appendChild(a);
+        div_tete.appendChild(div1);
+
+        for (var j = 0; j < NB_USERS; j++) {
+            let div = document.createElement("div");
+            div.classList.add("_" + (j + 2));
+            if (!this.getEtatUser(j)) div.classList.add("no-watch");
+            else div.classList.add("watch");
+            div.innerHTML = TabStringUsers[j];
+            div_tete.appendChild(div);
+        }
+        return tr;
+    }
 }
 
 class ListeAnime {
@@ -167,8 +292,8 @@ function reset_filtre() {
 function modif_mode_affich() {
     if (AffichLien1.checked) ModeAffichLien = AffichLien1.value;
     else ModeAffichLien = AffichLien2.value;
-    affich(listeFiltre);
     localStorage.setItem("modeAffichLien", ModeAffichLien);
+    location.reload();
 }
 
 function correctString(str) {
@@ -192,14 +317,15 @@ function data(nom_fic) {
                     for (var i = 0; i < val.nb_musique; ++i) {
                         var M;
                         if (cpt < favori.length && mus[i].lien == favori[cpt]) {
-                            M = new Music(mus[i].type, mus[i].numero, correctString(mus[i].nom), correctString(mus[i].artiste), mus[i].lien, true);
+                            M = new Music(A, mus[i].type, mus[i].numero, correctString(mus[i].nom), correctString(mus[i].artiste), mus[i].lien, true);
                             Afav.AjouteMusic(M);
                             cpt++;
                         }
-                        else M = new Music(mus[i].type, mus[i].numero, correctString(mus[i].nom), correctString(mus[i].artiste), mus[i].lien);
+                        else M = new Music(A, mus[i].type, mus[i].numero, correctString(mus[i].nom), correctString(mus[i].artiste), mus[i].lien);
                         A.AjouteMusic(M);
                     }
                     for (var i of TabStringUsers) eval("A.AjouteUser(val.users[0]." + i + ");");
+                    A.GenereHtml();
                     Liste_Anime.AjouteAnime(A);
                     if (Afav.getNbMusic > 0) fav.AjouteAnime(Afav);
                 });
@@ -211,26 +337,26 @@ function data(nom_fic) {
     });
 }
 
-function clickAudio(lien, ind) { // &#9208;
+function clickAudio(lien, button) { // &#9208;
     if (AudioActuel.src != lien) {
         AudioActuel.pause();
-        if (clickAudio.ind !== undefined) document.getElementById("AnimeMusicList").rows[clickAudio.ind].querySelector("button").innerHTML = "&#9658;";
+        if (clickAudio.button !== undefined) clickAudio.button.innerHTML = "&#9658;";
         AudioActuel = new Audio(lien);
         AudioActuel.play();
-        document.getElementById("AnimeMusicList").rows[ind].querySelector("button").innerHTML = "&#9208;";
+        button.innerHTML = "&#9208;";
         stateAudio = 1;
     }
     else if (stateAudio == 1) {
         AudioActuel.pause();
-        document.getElementById("AnimeMusicList").rows[ind].querySelector("button").innerHTML = "&#9658;";
+        button.innerHTML = "&#9658;";
         stateAudio = 0;
     }
     else {
         AudioActuel.play();
-        document.getElementById("AnimeMusicList").rows[ind].querySelector("button").innerHTML = "&#9208;";
+        button.innerHTML = "&#9208;";
         stateAudio = 1;
     }
-    clickAudio.ind = ind;
+    clickAudio.button = button;
 }
 function clickAudioStop() {
     clickAudio.ind = undefined;
@@ -239,118 +365,72 @@ function clickAudioStop() {
 }
 
 function affich(listeA) {
-    clickAudioStop();
-    var child = document.getElementById("info");
-    if (!(child === null)) document.body.removeChild(child);
-    child = document.getElementById("AnimeMusicList");
-    if (!(child === null)) document.body.removeChild(child);
+    let info = document.createElement("div");
+    info.id = "info";
+    let table = document.createElement("table");
+    table.id = "AnimeMusicList";
 
-    var items = [];
     var BackGround = AlternateColor2;
-    let k = 0;
     for (var i = 0; i < listeA.getNbAnime; ++i) {
-
         var A = listeA.getAnime(i);
+        table.appendChild(A.getHtml);
+
         if (BackGround == AlternateColor2) BackGround = AlternateColor1;
         else BackGround = AlternateColor2;
 
-        items.push("<tr class='grey'><td colspan='7'><div class='tete'>");
-        items.push("<div class='_1 grey'>");
-        if (A.getLien != "") {
-            if (ModeAffichLien == "1") items.push("<a href='" + A.getLien + "' target='_blank'>" + A.getNom + "</a>");
-            else items.push(A.getNom + "&ensp;<a href='" + A.getLien + "' target='_blank' style='color: darkblue;'>&#9032;</a>");
-        }
-        else items.push(A.getNom);
-        items.push("</div>");
-        for (var j = 0; j < NB_USERS; j++) {
-            items.push("<div class='_" + (j + 2) + " ");
-            if (!A.getEtatUser(j)) items.push("no-watch");
-            else items.push("watch");
-            items.push("'>" + TabStringUsers[j] + "</div>");
-        }
-        items.push("</div></td></tr>");
-
         for (var j = 0; j < A.getNbMusic; ++j) {
-            k++;
             var M = A.getMusic(j);
-            items.push("<tr class=" + BackGround + ">");
-
-            if (!M.getFavori) items.push("<td class='favo' onclick='modif_fav(" + i + "," + j + "," + k + ");'>&#10025;</td>");
-            else items.push("<td class='favo' onclick='modif_fav(" + i + "," + j + "," + k + ");'>&#9733;</td>");
-
-            items.push("<td class='nom_anime'>" + A.getNom + "</td>");
-            items.push("<td class='type_music'>" + M.getType + "</td>");
-            if (M.getNumero) items.push("<td class='numero_music'>" + M.getNumero + "</td>");
-            else items.push("<td class='numero_music'></td>");
-            items.push("<td class='nom_music'>" + M.getNom + "</td>");
-            items.push("<td class='nom_artist'>" + M.getArtist + "</td>");
-            items.push("<td class='lien'><a href='" + M.getLien + "' target='_blank'>Lien</a><br/><button style=\"background-color: transparent; border: transparent\" onclick=\"clickAudio('" + M.getLien + "'," + k + ");\">&#9658;</button></td>");
-
-            items.push("</tr>");
+            table.appendChild(M.getHtml(BackGround));
         }
-        k++;
     }
-    $("<div/>", {
-        "id": "info",
-        html: "&nbsp;Nb Anime: " + listeA.getNbAnime + " | Nb Musique: " + listeA.getNbMusic
-    }).appendTo("body");
-    $("<table/>", {
-        "id": "AnimeMusicList",
-        html: items.join("")
-    }).appendTo("body");
+
+    info.innerHTML = "&nbsp;Nb Anime: " + listeA.getNbAnime + " | Nb Musique: " + listeA.getNbMusic;
+    document.body.appendChild(info);
+    document.body.appendChild(table);
+}
+
+function affich_filtr(listeA) {
+    let info = document.getElementById("info");
+    let BackGround = AlternateColor2;
+    let k = 0;
+    for (let i = 0; i < Liste_Anime.getNbAnime; ++i) {
+        let A = Liste_Anime.getAnime(i);
+        if (k < listeA.getNbAnime && identiqueAnime(listeA.getAnime(k), A)) {
+
+            if (!AffichageFavori) A.setVisibleHTML(true);
+            else A.setVisibleHTML(false);
+
+            if (BackGround == AlternateColor2) BackGround = AlternateColor1;
+            else BackGround = AlternateColor2;
+
+            let l = 0;
+            for (let j = 0; j < A.getNbMusic; ++j) {
+                if (listeA.getAnime(k).getMusic(l) == A.getMusic(j)) {
+                    A.getMusic(j).setVisibleHTML(true);
+                    if (A.getMusic(j).getBackgroundColor != BackGround) A.getMusic(j).changeBackground();
+                    l++;
+                }
+                else A.getMusic(j).setVisibleHTML(false);
+            }
+            k++;
+        }
+        else A.setVisibleHTML(false);
+    }
+    info.innerHTML = "&nbsp;Nb Anime: " + listeA.getNbAnime + " | Nb Musique: " + listeA.getNbMusic;
 }
 
 function affich_fav() {
     clickAudioStop();
     if (AffichageFavori) {
         AffichageFavori = false;
-        filtre();
+        listeFiltre = Liste_Anime;
+        affich_filtr(listeFiltre);
     }
     else {
         AffichageFavori = true;
         listeFiltre = fav;
         reset_filtre();
-
-        var child = document.getElementById("info");
-        document.body.removeChild(child);
-        child = document.getElementById("AnimeMusicList");
-        document.body.removeChild(child);
-
-        var items = [];
-        var BackGround = AlternateColor2;
-        let k = 0;
-        for (var i = 0; i < fav.getNbAnime; ++i) {
-            var A = fav.getAnime(i);
-            if (BackGround == AlternateColor2) BackGround = AlternateColor1;
-            else BackGround = AlternateColor2;
-
-            for (var j = 0; j < A.getNbMusic; ++j) {
-                var M = A.getMusic(j);
-                items.push("<tr class=" + BackGround + ">");
-
-                if (!M.getFavori) items.push("<td class='favo' onclick='modif_fav(" + i + "," + j + ");'>&#10025;</td>");
-                else items.push("<td class='favo' onclick='modif_fav(" + i + "," + j + ");'>&#9733;</td>");
-
-                items.push("<td class='nom_anime'>" + A.getNom + "</td>");
-                items.push("<td class='type_music'>" + M.getType + "</td>");
-                if (M.getNumero) items.push("<td class='numero_music'>" + M.getNumero + "</td>");
-                else items.push("<td class='numero_music'></td>");
-                items.push("<td class='nom_music'>" + M.getNom + "</td>");
-                items.push("<td class='nom_artist'>" + M.getArtist + "</td>");
-                items.push("<td class='lien'><a href='" + M.getLien + "' target='_blank'>Lien</a><br/><button style=\"background-color: transparent; border: transparent\" onclick=\"clickAudio('" + M.getLien + "'," + k + ");\">&#9658;</button></td>");
-
-                items.push("</tr>");
-                k++;
-            }
-        }
-        $("<div/>", {
-            "id": "info",
-            html: "&nbsp;Nb Anime: " + fav.getNbAnime + " | Nb Musique: " + fav.getNbMusic
-        }).appendTo("body");
-        $("<table/>", {
-            "id": "AnimeMusicList",
-            html: items.join("")
-        }).appendTo("body");
+        affich_filtr(listeFiltre);
     }
 }
 
@@ -399,35 +479,30 @@ function identiqueAnime(anime1, anime2) {
     return anime1.getNom == anime2.getNom && anime1.getId == anime2.getId;
 }
 
-function ajout_fav(i, j) {
-    var pos = posAnime(listeFiltre.getAnime(i), fav);
-    if (pos == -1 || pos == fav.getNbAnime || !identiqueAnime(fav.getAnime(pos), listeFiltre.getAnime(i))) {
-        var A = new Anime(listeFiltre.getAnime(i).getNom, listeFiltre.getAnime(i).getId);
-        A.AjouteMusic(listeFiltre.getAnime(i).getMusic(j));
+function ajout_fav(anime, music) {
+    var pos = posAnime(anime, fav);
+    if (pos == -1 || pos == fav.getNbAnime || !identiqueAnime(fav.getAnime(pos), anime)) {
+        var A = new Anime(anime.getNom, anime.getId);
+        A.AjouteMusic(music);
         fav.AjoutePosAnime(A, pos);
     }
     else {
-        var posMus = posMusic(listeFiltre.getAnime(i).getMusic(j), fav.getAnime(pos), Liste_Anime.getAnime(posAnime(listeFiltre.getAnime(i), Liste_Anime)));
+        var posMus = posMusic(music, fav.getAnime(pos), anime);
         if (posMus > -1) fav.AjoutePosMusic(pos, listeFiltre.getAnime(i).getMusic(j), posMus);
     }
 }
 
-function supp_fav(i, j) {
-    var posAfav = posAnime(listeFiltre.getAnime(i), fav);
-    var posM = posMusic(listeFiltre.getAnime(i).getMusic(j), fav.getAnime(posAfav), fav.getAnime(posAfav));
+function supp_fav(anime, music) {
+    var posAfav = posAnime(anime, fav);
+    var posM = posMusic(music, fav.getAnime(posAfav), fav.getAnime(posAfav));
     fav.SupprimePosMusic(posAfav, posM);
     if (fav.getAnime(posAfav).getNbMusic == 0) fav.SupprimePosAnime(posAfav);
 }
 
-function modif_fav(i, j, k) {
-    listeFiltre.getAnime(i).getMusic(j).ModifFavori();
-    if (listeFiltre.getAnime(i).getMusic(j).getFavori) ajout_fav(i, j);
-    else supp_fav(i, j);
-    if (!AffichageFavori) {
-        if (listeFiltre.getAnime(i).getMusic(j).getFavori) document.getElementById("AnimeMusicList").rows[k].cells[0].innerHTML = "&#9733;";
-        else document.getElementById("AnimeMusicList").rows[k].cells[0].innerHTML = "&#10025;";
-    }
-    else {
+function modif_fav(anime, music) {
+    if (music.getFavori) ajout_fav(anime, music);
+    else supp_fav(anime, music);
+    if (AffichageFavori) {
         AffichageFavori = !AffichageFavori;
         affich_fav();
     }
@@ -514,14 +589,14 @@ function filtre_usersIntersection(listeFiltreAnime) {
 }
 
 function filtre() {
-    var listeFiltreAnime = Liste_Anime;
+    let listeFiltreAnime = Liste_Anime;
     AffichageFavori = false;
 
-    val = filtreJointure.value;
+    let val = filtreJointure.value;
     if (val == "Union") { listeFiltreAnime = filtre_usersUnion(listeFiltreAnime); }
     else { listeFiltreAnime = filtre_usersIntersection(listeFiltreAnime); }
 
-    var val = correctString(filtreNomAnime.value);
+    val = correctString(filtreNomAnime.value);
     if (val != "") { listeFiltreAnime = filtre_nomAnime(listeFiltreAnime, val); }
 
     val = filtreTypeMusic.value;
@@ -533,7 +608,7 @@ function filtre() {
     val = filtreNomArtist.value;
     if (val != "") { listeFiltreAnime = filtre_nomArtistMusic(listeFiltreAnime, val); }
 
-    affich(listeFiltreAnime);
+    affich_filtr(listeFiltreAnime);
     listeFiltre = listeFiltreAnime;
 }
 

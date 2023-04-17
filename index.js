@@ -7,7 +7,7 @@ let AffichageFavori = false;
 let AudioActuel = new Audio("");
 let stateAudio = 0;
 
-// initialisation des variables représentant les champs de filtrages
+// initialisation des variables representant les champs de filtrages
 let filtreNomAnime = document.getElementById("name_anime");
 let filtreTypeMusic = document.getElementById("type_music");
 let filtreNomMusic = document.getElementById("name_music");

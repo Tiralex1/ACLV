@@ -359,10 +359,12 @@ function clickAudio(lien, button) { // &#9208;
     clickAudio.button = button;
 }
 function clickAudioStop() {
-    clickAudio.button.innerHTML = "&#9658";
-    clickAudio.button = undefined;
-    AudioActuel.pause();
-    stateAudio = 0;
+    if (clickAudio.button != undefined) {
+        clickAudio.button.innerHTML = "&#9658";
+        clickAudio.button = undefined;
+        AudioActuel.pause();
+        stateAudio = 0;
+    }
 }
 
 function affich(listeA) {

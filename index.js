@@ -367,7 +367,7 @@ function clickAudioStop() {
     }
 }
 
-function affich(listeA) {
+async function affich(listeA) {
     let info = document.createElement("div");
     info.id = "info";
     let table = document.createElement("table");
@@ -392,7 +392,7 @@ function affich(listeA) {
     document.body.appendChild(table);
 }
 
-function affich_filtr(listeA) {
+async function affich_filtr(listeA) {
     clickAudioStop();
     let info = document.getElementById("info");
     let BackGround = AlternateColor2;

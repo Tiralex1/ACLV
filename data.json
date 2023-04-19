@@ -1,13 +1,27 @@
 {
   "nb_anime": 469,
-  "nb_musique": 2272,
+  "nb_musique": 2275,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
       "id": 0,
       "lien": "https://myanimelist.net/anime/52034/Oshi_no_Ko",
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Idol",
+          "artiste": "YOASOBI",
+          "lien": "https://nl.catbox.moe/p8te61.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Mephisto",
+          "artiste": "Ziyoou-vachi",
+          "lien": "https://nl.catbox.moe/4n4afi.webm"
+        },
         {
           "type": "Insert Song",
           "numero": 0,
@@ -9101,7 +9115,7 @@
       "nom": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
       "id": 0,
       "lien": "https://myanimelist.net/anime/52198/Kaguya-sama_wa_Kokurasetai__First_Kiss_wa_Owaranai",
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -9116,6 +9130,13 @@
           "nom": "heart notes",
           "artiste": "Airi Suzuki",
           "lien": "https://nl.catbox.moe/bbptc4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Romantic Manifesto",
+          "artiste": "halca",
+          "lien": "https://nl.catbox.moe/uila2l.webm"
         }
       ],
       "users": [

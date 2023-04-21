@@ -1,6 +1,6 @@
 {
-  "nb_anime": 469,
-  "nb_musique": 2275,
+  "nb_anime": 470,
+  "nb_musique": 2280,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -6161,6 +6161,58 @@
           "A": 0,
           "C": 1,
           "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Gekijouban Deemo: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/40722/Deemo_Movie__Sakura_no_Oto_-_Anata_no_Kanadeta_Oto_ga_Ima_mo_Hibiku",
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "nocturne",
+          "artiste": "Hinano",
+          "lien": "https://nl.catbox.moe/gtrw72.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Deemo Main Theme",
+          "artiste": "Wen Tzu-Chieh",
+          "lien": "https://nl.catbox.moe/5nu2mf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Haru no Sora e to",
+          "artiste": "Akari Kitou & Ayane Sakura",
+          "lien": "https://nl.catbox.moe/nl8twj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "inside a dream",
+          "artiste": "Joelle",
+          "lien": "https://nl.catbox.moe/o7c5du.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kakurenbo",
+          "artiste": "Aira Yuuki",
+          "lien": "https://nl.catbox.moe/l2urk0.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 1,
           "V": 0,
           "T": 0
         }

@@ -490,7 +490,7 @@ function ajout_fav(anime, music) {
     }
     else {
         var posMus = posMusic(music, fav.getAnime(pos), anime);
-        if (posMus > -1) fav.AjoutePosMusic(pos, listeFiltre.getAnime(i).getMusic(j), posMus);
+        if (posMus > -1) fav.AjoutePosMusic(pos, music, posMus);
     }
 }
 

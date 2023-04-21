@@ -1,6 +1,6 @@
 {
-  "nb_anime": 470,
-  "nb_musique": 2280,
+  "nb_anime": 471,
+  "nb_musique": 2283,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -6341,6 +6341,44 @@
           "nom": "Namida",
           "artiste": "Huwie Ishizaki",
           "lien": "https://nl.catbox.moe/el4858.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Gekijouban Tensei shitara Slime Datta Ken: Guren no Kizuna-hen",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/49877/Tensei_shitara_Slime_Datta_Ken_Movie__Guren_no_Kizuna-hen",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Make Me Feel Better",
+          "artiste": "MindaRyn",
+          "lien": "https://nl.catbox.moe/1j8qcc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Jouka",
+          "artiste": "TRUE",
+          "lien": "https://nl.catbox.moe/2j0nc9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "SPARKLES",
+          "artiste": "STEREO DIVE FOUNDATION",
+          "lien": "https://nl.catbox.moe/woozz9.webm"
         }
       ],
       "users": [

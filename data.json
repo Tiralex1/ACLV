@@ -1,6 +1,6 @@
 {
-  "nb_anime": 471,
-  "nb_musique": 2283,
+  "nb_anime": 472,
+  "nb_musique": 2289,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -13451,6 +13451,65 @@
           "nom": "Only",
           "artiste": "Yuiko Ohara",
           "lien": "https://nl.catbox.moe/myezzx.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+      "id": 1,
+      "lien": "https://myanimelist.net/anime/45576/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu_Part_2",
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Mezame no Uta",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://nl.catbox.moe/xx3lyj.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Keishou no Uta",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://nl.catbox.moe/98l2h0.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "Inori no Uta",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://nl.catbox.moe/fyhbpq.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 4,
+          "nom": "Tooku no Komori no Uta",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://nl.catbox.moe/8bzuxw.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 5,
+          "nom": "Tabibito no Uta ~Kikyou~",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://nl.catbox.moe/rh97cc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kaze to Iku Michi",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://nl.catbox.moe/ocrj2k.webm"
         }
       ],
       "users": [

@@ -10907,6 +10907,142 @@
       ]
     },
     {
+      "nom": "KimiUso",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso",
+      "nb_musique": 17,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hikaru Nara",
+          "artiste": "Goose house",
+          "lien": "https://nl.catbox.video/mw0lqu.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Nana-iro Symphony",
+          "artiste": "Coalamode.",
+          "lien": "https://nl.catbox.video/aus53n.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kirameki",
+          "artiste": "wacci",
+          "lien": "https://nl.catbox.video/1kgl4o.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Orange",
+          "artiste": "7!!",
+          "lien": "https://nl.catbox.video/492mz8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Orange (Acoustic Ver.)",
+          "artiste": "7!!",
+          "lien": "https://nl.catbox.moe/5s1uop.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ballade No. 1 in G minor, Op. 23",
+          "artiste": "Frédéric Chopin",
+          "lien": "https://nl.catbox.moe/zx6qh6.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Clair de Lune",
+          "artiste": "Claude Debussy",
+          "lien": "https://nl.catbox.moe/p5cjrz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Étude Op. 25 No. 11 (Winter Wind)",
+          "artiste": "Frédéric Chopin",
+          "lien": "https://nl.catbox.moe/5rp3vf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Étude Op. 25 No. 5",
+          "artiste": "Frédéric Chopin",
+          "lien": "https://nl.catbox.moe/v4psxf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Étude Révolutionnaire Op. 10 No.12",
+          "artiste": "Frédéric Chopin",
+          "lien": "https://nl.catbox.moe/9whjvf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "For you ~Tsuki no Hikari ga Furisosogu Terasu",
+          "artiste": "ENA",
+          "lien": "https://nl.catbox.moe/rjdif2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kirakiraboshi",
+          "artiste": "Mamiko Noto",
+          "lien": "https://nl.catbox.moe/75ihgb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kirakiraboshi",
+          "artiste": "Risa Taneda",
+          "lien": "https://nl.catbox.moe/w6o6ci.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kirameki ~Kousei to Kaori no Ensou Ver.",
+          "artiste": "wacci",
+          "lien": "https://nl.catbox.moe/a0c9p0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "My Truth ~Rondo Capriccioso",
+          "artiste": "ENA",
+          "lien": "https://nl.catbox.moe/l4weu6.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Piano Sonata No. 14, 3rd movement",
+          "artiste": "Ludwig Van Beethoven",
+          "lien": "https://nl.catbox.moe/1401ca.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Violin & Piano Sonata No. 9 (Kreutzer Sonata)",
+          "artiste": "Ludwig Van Beethoven",
+          "lien": "https://nl.catbox.moe/vdmx53.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 1,
+          "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai o Tsukisusumu",
       "id": 0,
       "lien": "https://myanimelist.net/anime/51213/Kinsou_no_Vermeil__Gakeppuchi_Majutsushi_wa_Saikyou_no_Yakusai_to_Mahou_Sekai_wo_Tsukisusumu",
@@ -18542,7 +18678,7 @@
       ]
     },
     {
-      "nom": "Saenai Heroine no Sodate-kata",
+      "nom": "Saenai Heroine no Sodatekata",
       "id": 0,
       "lien": "https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata",
       "nb_musique": 6,
@@ -18601,7 +18737,7 @@
       ]
     },
     {
-      "nom": "Saenai Heroine no Sodate-kata fine",
+      "nom": "Saenai Heroine no Sodatekata fine",
       "id": 0,
       "lien": "https://myanimelist.net/anime/36885/Saenai_Heroine_no_Sodatekata_Fine",
       "nb_musique": 4,
@@ -18646,7 +18782,7 @@
       ]
     },
     {
-      "nom": "Saenai Heroine no Sodate-kata Flat",
+      "nom": "Saenai Heroine no Sodatekata Flat",
       "id": 0,
       "lien": "https://myanimelist.net/anime/30727/Saenai_Heroine_no_Sodatekata_%E2%99%AD",
       "nb_musique": 7,
@@ -19412,142 +19548,6 @@
           "A": 0,
           "C": 0,
           "L": 0,
-          "V": 1,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Shigatsu wa Kimi no Uso",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso",
-      "nb_musique": 17,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Hikaru Nara",
-          "artiste": "Goose house",
-          "lien": "https://nl.catbox.video/mw0lqu.webm"
-        },
-        {
-          "type": "Opening",
-          "numero": 2,
-          "nom": "Nana-iro Symphony",
-          "artiste": "Coalamode.",
-          "lien": "https://nl.catbox.video/aus53n.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Kirameki",
-          "artiste": "wacci",
-          "lien": "https://nl.catbox.video/1kgl4o.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Orange",
-          "artiste": "7!!",
-          "lien": "https://nl.catbox.video/492mz8.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 3,
-          "nom": "Orange (Acoustic Ver.)",
-          "artiste": "7!!",
-          "lien": "https://nl.catbox.moe/5s1uop.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Ballade No. 1 in G minor, Op. 23",
-          "artiste": "Frédéric Chopin",
-          "lien": "https://nl.catbox.moe/zx6qh6.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Clair de Lune",
-          "artiste": "Claude Debussy",
-          "lien": "https://nl.catbox.moe/p5cjrz.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Étude Op. 25 No. 11 (Winter Wind)",
-          "artiste": "Frédéric Chopin",
-          "lien": "https://nl.catbox.moe/5rp3vf.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Étude Op. 25 No. 5",
-          "artiste": "Frédéric Chopin",
-          "lien": "https://nl.catbox.moe/v4psxf.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Étude Révolutionnaire Op. 10 No.12",
-          "artiste": "Frédéric Chopin",
-          "lien": "https://nl.catbox.moe/9whjvf.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "For you ~Tsuki no Hikari ga Furisosogu Terasu",
-          "artiste": "ENA",
-          "lien": "https://nl.catbox.moe/rjdif2.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Kirakiraboshi",
-          "artiste": "Mamiko Noto",
-          "lien": "https://nl.catbox.moe/75ihgb.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Kirakiraboshi",
-          "artiste": "Risa Taneda",
-          "lien": "https://nl.catbox.moe/w6o6ci.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Kirameki ~Kousei to Kaori no Ensou Ver.",
-          "artiste": "wacci",
-          "lien": "https://nl.catbox.moe/a0c9p0.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "My Truth ~Rondo Capriccioso",
-          "artiste": "ENA",
-          "lien": "https://nl.catbox.moe/l4weu6.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Piano Sonata No. 14, 3rd movement",
-          "artiste": "Ludwig Van Beethoven",
-          "lien": "https://nl.catbox.moe/1401ca.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Violin & Piano Sonata No. 9 (Kreutzer Sonata)",
-          "artiste": "Ludwig Van Beethoven",
-          "lien": "https://nl.catbox.moe/vdmx53.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 1,
           "V": 1,
           "T": 0
         }

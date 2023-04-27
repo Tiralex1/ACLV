@@ -614,6 +614,30 @@ function filtre() {
     listeFiltre = listeFiltreAnime;
 }
 
+function chercheMusique(lien) {
+    for (let i = 0; i < Liste_Anime.getNbAnime; ++i) {
+        for (let j = 0; j < Liste_Anime.getAnime(i).getNbMusic; ++j) {
+            if (Liste_Anime.getAnime(i).getMusic(j).getLien == lien) return Liste_Anime.getAnime(i).getMusic(j);
+        }
+    }
+    return null;
+}
+
+function repareFav() {
+    let nb_supp = 0;
+    for (let i = 0; i < favori.length; ++i) {
+        let music = chercheMusique(favori[i]);
+        if (music == null) nb_supp++;
+        else if (!music.getFavori) ajout_fav(music.getAnime, music);
+    }
+    if (fav.getNbMusic != favori.length - nb_supp) console.log("repareFav don't working");
+    else {
+        sauvegarde_fav();
+        location.reload();
+    }
+}
+
 reset_filtre();
 data(NomFicData);
+if (fav.getNbMusic != favori.length) repareFav();
 affich(Liste_Anime);

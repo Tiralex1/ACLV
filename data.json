@@ -2876,7 +2876,7 @@
       ]
     },
     {
-      "nom": "Chuunibyou demo Koi ga Shitai!",
+      "nom": "Chu-2 Byou demo Koi ga Shitai!",
       "id": 0,
       "lien": "https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai",
       "nb_musique": 4,
@@ -2908,6 +2908,37 @@
           "nom": "Kimi no Tonari wa",
           "artiste": "ZAQ",
           "lien": "https://nl.catbox.moe/60h29c.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Chu-2 Byou demo Koi ga Shitai! Ren",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/18671/Chuunibyou_demo_Koi_ga_Shitai_Ren",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "VOICE",
+          "artiste": "ZAQ",
+          "lien": "https://nl.catbox.moe/fsy78x.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Van!shment Th!s World",
+          "artiste": "Black Raison d'être",
+          "lien": "https://nl.catbox.moe/zq1ux6.webm"
         }
       ],
       "users": [
@@ -2953,37 +2984,6 @@
           "nom": "Sparkling Daydream",
           "artiste": "ZAQ",
           "lien": "https://nl.catbox.moe/y4hy7k.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Chuunibyou demo Koi ga Shitai! Ren",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/18671/Chuunibyou_demo_Koi_ga_Shitai_Ren",
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "VOICE",
-          "artiste": "ZAQ",
-          "lien": "https://nl.catbox.moe/fsy78x.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Van!shment Th!s World",
-          "artiste": "Black Raison d'être",
-          "lien": "https://nl.catbox.moe/zq1ux6.webm"
         }
       ],
       "users": [

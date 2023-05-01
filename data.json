@@ -12288,6 +12288,37 @@
       ]
     },
     {
+      "nom": "LasDan",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/40594/Tatoeba_Last_Dungeon_Mae_no_Mura_no_Shounen_ga_Joban_no_Machi_de_Kurasu_Youna_Monogatari",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Tatoeba Sore wa Yuuki no Mahou",
+          "artiste": "Haruka Yamazaki",
+          "lien": "https://nl.catbox.moe/wt4itl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "I'mpossible?",
+          "artiste": "Luce Twinkle Wink☆",
+          "lien": "https://nl.catbox.moe/xta53c.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Layton Kyouju to Eien no Utahime",
       "id": 0,
       "lien": "https://myanimelist.net/anime/6172/Layton_Kyouju_to_Eien_no_Utahime",
@@ -21882,37 +21913,6 @@
           "nom": "Gemini",
           "artiste": "Kevin Penkin (ft. Elspeth Bawden)",
           "lien": "https://nl.catbox.moe/c9agjl.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 1,
-          "C": 0,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu You na Monogatari",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/40594/Tatoeba_Last_Dungeon_Mae_no_Mura_no_Shounen_ga_Joban_no_Machi_de_Kurasu_Youna_Monogatari",
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Tatoeba Sore wa Yuuki no Mahou",
-          "artiste": "Haruka Yamazaki",
-          "lien": "https://nl.catbox.moe/wt4itl.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "I'mpossible?",
-          "artiste": "Luce Twinkle Wink☆",
-          "lien": "https://nl.catbox.moe/xta53c.webm"
         }
       ],
       "users": [

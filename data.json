@@ -16078,6 +16078,37 @@
       ]
     },
     {
+      "nom": "Ookami Shoujo to Kuro Ouji",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/23673/Ookami_Shoujo_to_Kuro_Ouji",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "LOVE GOOD TIME",
+          "artiste": "SpecialThanks",
+          "lien": "https://nl.catbox.moe/hmnfpd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ookami Heart",
+          "artiste": "ORESAMA",
+          "lien": "https://nl.catbox.moe/gdxvtl.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Orange",
       "id": 0,
       "lien": "https://myanimelist.net/anime/32729/Orange",
@@ -16255,37 +16286,6 @@
           "nom": "Kimi ni Todoke",
           "artiste": "Manaka Iwami",
           "lien": "https://nl.catbox.moe/6rgwdj.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Oukami Shoujo to Kuro ouji",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/23673/Ookami_Shoujo_to_Kuro_Ouji",
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "LOVE GOOD TIME",
-          "artiste": "SpecialThanks",
-          "lien": "https://nl.catbox.moe/hmnfpd.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Ookami Heart",
-          "artiste": "ORESAMA",
-          "lien": "https://nl.catbox.moe/gdxvtl.webm"
         }
       ],
       "users": [
@@ -20644,7 +20644,7 @@
       ]
     },
     {
-      "nom": "Sono Bisque Doll wa Koi wo Suru",
+      "nom": "Sono Bisque Doll wa Koi o Suru",
       "id": 0,
       "lien": "https://myanimelist.net/anime/48736/Sono_Bisque_Doll_wa_Koi_wo_Suru",
       "nb_musique": 3,
@@ -23874,7 +23874,7 @@
       ]
     },
     {
-      "nom": "Zero Kara Hajimeru Mahou no Sho",
+      "nom": "Zero kara Hajimeru Mahou no Sho",
       "id": 0,
       "lien": "https://myanimelist.net/anime/34176/Zero_kara_Hajimeru_Mahou_no_Sho",
       "nb_musique": 2,

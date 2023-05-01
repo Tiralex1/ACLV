@@ -5946,6 +5946,68 @@
       ]
     },
     {
+      "nom": "G-Witch",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/49828/Kidou_Senshi_Gundam__Suisei_no_Majo",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shukufuku",
+          "artiste": "YOASOBI",
+          "lien": "https://files.catbox.moe/5m0lxh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimiyo Kedakakuare",
+          "artiste": "Shiyui",
+          "lien": "https://files.catbox.moe/2nwjpp.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "G-Witch",
+      "id": 1,
+      "lien": "https://myanimelist.net/anime/53199/Kidou_Senshi_Gundam__Suisei_no_Majo_Season_2",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "slash",
+          "artiste": "yama",
+          "lien": "https://nl.catbox.moe/o0yvka.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Red:birthmark",
+          "artiste": "AiNA THE END",
+          "lien": "https://nl.catbox.moe/73ewcs.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Gabriel DropOut",
       "id": 0,
       "lien": "https://myanimelist.net/anime/33731/Gabriel_DropOut",
@@ -10511,68 +10573,6 @@
           "C": 0,
           "L": 0,
           "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Kidou Senshi Gundam: Suisei no Majo",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/49828/Kidou_Senshi_Gundam__Suisei_no_Majo",
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Shukufuku",
-          "artiste": "YOASOBI",
-          "lien": "https://files.catbox.moe/5m0lxh.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Kimiyo Kedakakuare",
-          "artiste": "Shiyui",
-          "lien": "https://files.catbox.moe/2nwjpp.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 0,
-          "L": 0,
-          "V": 1,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Kidou Senshi Gundam: Suisei no Majo",
-      "id": 1,
-      "lien": "https://myanimelist.net/anime/53199/Kidou_Senshi_Gundam__Suisei_no_Majo_Season_2",
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "slash",
-          "artiste": "yama",
-          "lien": "https://nl.catbox.moe/o0yvka.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Red:birthmark",
-          "artiste": "AiNA THE END",
-          "lien": "https://nl.catbox.moe/73ewcs.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 0,
-          "L": 0,
-          "V": 1,
           "T": 0
         }
       ]

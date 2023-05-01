@@ -16171,6 +16171,183 @@
       ]
     },
     {
+      "nom": "Oregairu",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru",
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Yukitoki",
+          "artiste": "Nagi Yanagi",
+          "lien": "https://nl.catbox.moe/hwlhc4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hello Alone",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://nl.catbox.moe/iu1xoc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Hello Alone -Yui Ballade-",
+          "artiste": "Nao Touyama",
+          "lien": "https://nl.catbox.moe/8p0ugu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Hello Alone -Band arrange-",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://nl.catbox.moe/6f13pd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bitter Bitter Sweet",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://nl.catbox.moe/oiu2hn.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Oregairu Kan",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/39547/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Kan",
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Megumi no Ame",
+          "artiste": "Nagi Yanagi",
+          "lien": "https://nl.catbox.moe/zzesvj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Diamond no Jundo",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://nl.catbox.moe/2gxey4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Diamond no Jundo ~Yui Ballade~",
+          "artiste": "Nao Touyama",
+          "lien": "https://nl.catbox.moe/fms1du.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Diamond no Jundo ~Yukino Ballade~",
+          "artiste": "Saori Hayami",
+          "lien": "https://nl.catbox.moe/kq5s1y.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Yukitoki",
+          "artiste": "Nagi Yanagi",
+          "lien": "https://nl.catbox.moe/r4f944.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bitter Bitter Sweet",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://nl.catbox.moe/o30ddi.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Oregairu Zoku",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku",
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Harumodoki",
+          "artiste": "Nagi Yanagi",
+          "lien": "https://nl.catbox.moe/c35rzu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Everyday World",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://nl.catbox.moe/qrzm8i.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Everyday World -Ballade Arrange-Yukino Solo Ver.",
+          "artiste": "Saori Hayami",
+          "lien": "https://nl.catbox.moe/8yj5ml.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Everyday World -Ballade Arrange-Yui Solo Ver.",
+          "artiste": "Nao Touyama",
+          "lien": "https://nl.catbox.moe/6lca9i.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bitter Bitter Sweet",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://nl.catbox.moe/8vyz5n.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hello Alone -Yui Ballade-",
+          "artiste": "Nao Touyama",
+          "lien": "https://nl.catbox.moe/6vev7j.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yukitoki",
+          "artiste": "Nagi Yanagi",
+          "lien": "https://nl.catbox.moe/ax756s.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Osananajimi ga Zettai ni Makenai Love Come",
       "id": 0,
       "lien": "https://myanimelist.net/anime/43007/Osananajimi_ga_Zettai_ni_Makenai_Love_Comedy",
@@ -19326,7 +19503,7 @@
       ]
     },
     {
-      "nom": "Seishun Buta Yarou wa Bunny Girl-senpai no Yume o Minai",
+      "nom": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai",
       "id": 0,
       "lien": "https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai",
       "nb_musique": 8,
@@ -23325,183 +23502,6 @@
           "nom": "Ashita mo Mata",
           "artiste": "halca",
           "lien": "https://nl.catbox.moe/u2s89v.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru",
-      "nb_musique": 5,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Yukitoki",
-          "artiste": "Nagi Yanagi",
-          "lien": "https://nl.catbox.moe/hwlhc4.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Hello Alone",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://nl.catbox.moe/iu1xoc.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Hello Alone -Yui Ballade-",
-          "artiste": "Nao Touyama",
-          "lien": "https://nl.catbox.moe/8p0ugu.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 3,
-          "nom": "Hello Alone -Band arrange-",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://nl.catbox.moe/6f13pd.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Bitter Bitter Sweet",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://nl.catbox.moe/oiu2hn.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Yahari Ore no Seishun Love Come wa Machigatteiru. Kan",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/39547/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Kan",
-      "nb_musique": 6,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Megumi no Ame",
-          "artiste": "Nagi Yanagi",
-          "lien": "https://nl.catbox.moe/zzesvj.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Diamond no Jundo",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://nl.catbox.moe/2gxey4.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Diamond no Jundo ~Yui Ballade~",
-          "artiste": "Nao Touyama",
-          "lien": "https://nl.catbox.moe/fms1du.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 3,
-          "nom": "Diamond no Jundo ~Yukino Ballade~",
-          "artiste": "Saori Hayami",
-          "lien": "https://nl.catbox.moe/kq5s1y.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 4,
-          "nom": "Yukitoki",
-          "artiste": "Nagi Yanagi",
-          "lien": "https://nl.catbox.moe/r4f944.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Bitter Bitter Sweet",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://nl.catbox.moe/o30ddi.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku",
-      "nb_musique": 7,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Harumodoki",
-          "artiste": "Nagi Yanagi",
-          "lien": "https://nl.catbox.moe/c35rzu.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Everyday World",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://nl.catbox.moe/qrzm8i.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Everyday World -Ballade Arrange-Yukino Solo Ver.",
-          "artiste": "Saori Hayami",
-          "lien": "https://nl.catbox.moe/8yj5ml.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 3,
-          "nom": "Everyday World -Ballade Arrange-Yui Solo Ver.",
-          "artiste": "Nao Touyama",
-          "lien": "https://nl.catbox.moe/6lca9i.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Bitter Bitter Sweet",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://nl.catbox.moe/8vyz5n.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Hello Alone -Yui Ballade-",
-          "artiste": "Nao Touyama",
-          "lien": "https://nl.catbox.moe/6vev7j.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Yukitoki",
-          "artiste": "Nagi Yanagi",
-          "lien": "https://nl.catbox.moe/ax756s.webm"
         }
       ],
       "users": [

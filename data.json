@@ -1,6 +1,6 @@
 {
-  "nb_anime": 473,
-  "nb_musique": 2293,
+  "nb_anime": 474,
+  "nb_musique": 2295,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -20712,6 +20712,37 @@
           "C": 0,
           "L": 0,
           "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Skip to Loafer",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/50416/Skip_to_Loafer",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Mellow",
+          "artiste": "Keina Suda",
+          "lien": "https://nl.catbox.moe/ty5w1d.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hana Uta to Mawarimichi",
+          "artiste": "Rikako Aida",
+          "lien": "https://nl.catbox.moe/tac4vf.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
           "T": 0
         }
       ]

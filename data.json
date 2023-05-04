@@ -1,6 +1,6 @@
 {
-  "nb_anime": 474,
-  "nb_musique": 2295,
+  "nb_anime": 475,
+  "nb_musique": 2299,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -260,6 +260,51 @@
           "nom": "Le chant de Roma (Shiitagerareta Mono-tachi no Tame ni)",
           "artiste": "Maïa Barouh",
           "lien": "https://nl.catbox.moe/49ilnv.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Akatsuki no Yona",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/25013/Akatsuki_no_Yona",
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Akatsuki no Yona",
+          "artiste": "Ryo Kunihiko",
+          "lien": "https://files.catbox.moe/eippz0.mp3"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Akatsuki no Hana",
+          "artiste": "Cyntia",
+          "lien": "https://files.catbox.moe/0o1yjk.mp3"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yoru",
+          "artiste": "vistlip",
+          "lien": "https://files.catbox.moe/ohefrq.mp3"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Akatsuki",
+          "artiste": "Akiko Shikata",
+          "lien": "https://files.catbox.moe/tgjic8.mp3"
         }
       ],
       "users": [

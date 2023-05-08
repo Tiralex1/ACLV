@@ -1,6 +1,6 @@
 {
-  "nb_anime": 475,
-  "nb_musique": 2299,
+  "nb_anime": 477,
+  "nb_musique": 2303,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3894,6 +3894,37 @@
         {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Dead Mount Death Play",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/53613/Dead_Mount_Death_Play",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Nero",
+          "artiste": "Sou",
+          "lien": "https://nl.catbox.moe/13wyuj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Iolite",
+          "artiste": "Inori Minase",
+          "lien": "https://nl.catbox.moe/ar5nc0.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0
@@ -9989,6 +10020,37 @@
           "nom": "BLUE ROSE knows",
           "artiste": "MindaRyn",
           "lien": "https://nl.catbox.moe/4c493u.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kaminaki Sekai no Kamisama Katsudou",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "I wish",
+          "artiste": "Rin Kurusu",
+          "lien": "https://nl.catbox.moe/e228cr.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Steppin' Up Life!",
+          "artiste": "Akari Kitou",
+          "lien": "https://nl.catbox.moe/8f2xio.webm"
         }
       ],
       "users": [

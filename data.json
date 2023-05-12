@@ -1,6 +1,6 @@
 {
-  "nb_anime": 477,
-  "nb_musique": 2303,
+  "nb_anime": 478,
+  "nb_musique": 2319,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -5729,6 +5729,135 @@
           "C": 0,
           "L": 0,
           "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "FLCL",
+      "id": 0,
+      "lien": "",
+      "nb_musique": 16,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ride on shooting star",
+          "artiste": "the pillows",
+          "lien": "https://openings.moe/video/FLCL-ED01-NCBD.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Advice",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/wzj1lj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Another Morning",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/t062ql.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Blues Drive Monster",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/edrqvn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "CARNIVAL",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/ysr9nu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Crazy Sunshine",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/xzcpbi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Funny Bunny",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/k1m1jt.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "HAPPY BIVOUAC",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/5tkhhd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "HYBRID RAINBOW",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/ucuhvm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "I think I can",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/ororp4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Instant Music",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/or5pl7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "LAST DINOSAUR",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/46fnm4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "LITTLE BUSTERS",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/m6wc6v.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "ONE LIFE",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/gn3caa.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "RUNNERS HIGH~FLCL Ver.~",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/1gl17k.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "White Ash",
+          "artiste": "the pillows",
+          "lien": "https://nl.catbox.moe/jpm8pg.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 1,
+          "V": 0,
           "T": 0
         }
       ]

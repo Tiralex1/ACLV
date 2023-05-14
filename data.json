@@ -23457,52 +23457,7 @@
       ]
     },
     {
-      "nom": "Tsuki ga Michibiku Isekai Douchuu",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/43523/Tsuki_ga_Michibiku_Isekai_Douchuu",
-      "nb_musique": 4,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Gamble",
-          "artiste": "syudou",
-          "lien": "https://nl.catbox.moe/w5oee4.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Ah Jinsei ni Namida Ari",
-          "artiste": "Natsuki Hanae",
-          "lien": "https://nl.catbox.moe/uiajjs.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Beautiful Dreamer",
-          "artiste": "Ezoshika Gourmet Club",
-          "lien": "https://nl.catbox.moe/s9qukk.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 3,
-          "nom": "Ah Jinsei ni Namida Ari",
-          "artiste": "Ayane Sakura & Akari Kitou",
-          "lien": "https://nl.catbox.moe/ynljr2.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 1,
-          "C": 0,
-          "L": 0,
-          "V": 0,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Tsukigakirei",
+      "nom": "Tsuki ga Kirei",
       "id": 0,
       "lien": "https://myanimelist.net/anime/34822/Tsuki_ga_Kirei",
       "nb_musique": 8,
@@ -23568,6 +23523,51 @@
         {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Tsuki ga Michibiku Isekai Douchuu",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/43523/Tsuki_ga_Michibiku_Isekai_Douchuu",
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Gamble",
+          "artiste": "syudou",
+          "lien": "https://nl.catbox.moe/w5oee4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ah Jinsei ni Namida Ari",
+          "artiste": "Natsuki Hanae",
+          "lien": "https://nl.catbox.moe/uiajjs.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Beautiful Dreamer",
+          "artiste": "Ezoshika Gourmet Club",
+          "lien": "https://nl.catbox.moe/s9qukk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Ah Jinsei ni Namida Ari",
+          "artiste": "Ayane Sakura & Akari Kitou",
+          "lien": "https://nl.catbox.moe/ynljr2.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0

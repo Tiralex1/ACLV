@@ -604,10 +604,10 @@ function filtre() {
     val = filtreTypeMusic.value;
     if (val != "") { listeFiltreAnime = filtre_typeMusic(listeFiltreAnime, val); }
 
-    val = filtreNomMusic.value;
+    val = correctString(filtreNomMusic.value);
     if (val != "") { listeFiltreAnime = filtre_nomMusic(listeFiltreAnime, val); }
 
-    val = filtreNomArtist.value;
+    val = correctString(filtreNomArtist.value);
     if (val != "") { listeFiltreAnime = filtre_nomArtistMusic(listeFiltreAnime, val); }
 
     affich_filtr(listeFiltreAnime);

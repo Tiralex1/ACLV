@@ -1,6 +1,6 @@
 {
-  "nb_anime": 478,
-  "nb_musique": 2319,
+  "nb_anime": 480,
+  "nb_musique": 2324,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -6235,7 +6235,7 @@
         {
           "type": "Ending",
           "numero": 2,
-          "nom": "Gabriel no Kazoeuta",
+          "nom": "Gabriel no Kazoe Uta",
           "artiste": "Saori Oonishi",
           "lien": "https://nl.catbox.moe/lh5pf7.webm"
         }
@@ -9037,6 +9037,44 @@
           "nom": "Junjou Emotional",
           "artiste": "Sumire Uesaka feat. Maaya Uchida, Yui Fukuo, Chinatsu Akasaki, Marika Kohno, Nanami Yamashita",
           "lien": "https://nl.catbox.moe/4bror8.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Isekai wa Smartphone to Tomo ni. 2",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/51632/Isekai_wa_Smartphone_to_Tomo_ni_2",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Real Diamond",
+          "artiste": "Gemstone7",
+          "lien": "https://files.catbox.moe/mpjdgy.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Isekai Jewelry",
+          "artiste": "Marika Kohno, Maaya Uchida, Yui Fukuo",
+          "lien": "https://files.catbox.moe/ujcpwc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Isekai Jewelry",
+          "artiste": "Marika Kohno, Maaya Uchida, Yui Fukuo, Chinatsu Akasaki, Nanami Yamashita, Sumire Uesaka",
+          "lien": "https://files.catbox.moe/rb5lo5.webm"
         }
       ],
       "users": [
@@ -15031,7 +15069,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Bijuu Kazoeuta",
+          "nom": "Bijuu Kazoe Uta",
           "artiste": "Junko Takeuchi",
           "lien": "https://nl.catbox.moe/js5re4.webm"
         }
@@ -23860,6 +23898,37 @@
           "C": 0,
           "L": 0,
           "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Yamada-kun to Lv999 no Koi o Suru",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/53126/Yamada-kun_to_Lv999_no_Koi_wo_Suru",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Gradation",
+          "artiste": "KANA-BOON feat. Yuuho Kitazawa",
+          "lien": "https://files.catbox.moe/4odqtc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Trick Art",
+          "artiste": "Ryujin Kiyoshi",
+          "lien": "https://files.catbox.moe/6r25mp.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
           "T": 0
         }
       ]

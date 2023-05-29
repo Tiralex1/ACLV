@@ -1,12 +1,12 @@
 {
-  "nb_anime": 480,
-  "nb_musique": 2324,
+  "nb_anime": 483,
+  "nb_musique": 2353,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
       "id": 0,
       "lien": "https://myanimelist.net/anime/52034/Oshi_no_Ko",
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -28,6 +28,13 @@
           "nom": "HEART's♡KISS -Ai Solo ver.-",
           "artiste": "Rie Takahashi",
           "lien": "https://nl.catbox.moe/90yzsh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Pieyon Boot Dance",
+          "artiste": "Taishi Murata",
+          "lien": "https://nl.catbox.moe/ic1uiw.webm"
         },
         {
           "type": "Insert Song",
@@ -1851,6 +1858,44 @@
           "L": 1,
           "V": 1,
           "T": 1
+        }
+      ]
+    },
+    {
+      "nom": "Boku ga Aishita Subete no Kimi e",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/49834/Boku_ga_Aishita_Subete_no_Kimi_e",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kumo o Kou",
+          "artiste": "Keina Suda",
+          "lien": "https://files.catbox.moe/lgcoml.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Rakka Ryuusui",
+          "artiste": "Keina Suda",
+          "lien": "https://nl.catbox.moe/ahkdwg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shion",
+          "artiste": "Saucy Dog",
+          "lien": "https://nl.catbox.moe/1alvq5.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0
         }
       ]
     },
@@ -11157,6 +11202,37 @@
         {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kimi o Aishita Hitori no Boku e",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/49835/Kimi_wo_Aishita_Hitori_no_Boku_e",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shion",
+          "artiste": "Saucy Dog",
+          "lien": "https://files.catbox.moe/eyta0x.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kumo o Kou",
+          "artiste": "Keina Suda",
+          "lien": "https://nl.catbox.moe/79guna.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
           "L": 0,
           "V": 1,
           "T": 0
@@ -20852,6 +20928,184 @@
           "L": 0,
           "V": 0,
           "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Shinseiki Evangelion",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+      "nb_musique": 23,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Zankoku na Tenshi no Thesis",
+          "artiste": "Yoko Takahashi",
+          "lien": "https://files.catbox.moe/71u5bi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Rei I",
+          "artiste": "Shiro SAGISU",
+          "lien": "https://nl.catbox.moe/jokwai.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "FLY ME TO THE MOON",
+          "artiste": "CLAIRE",
+          "lien": "https://files.catbox.moe/3pvm4v.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "FLY ME TO THE MOON <Rei (#5) Remix Version>",
+          "artiste": "Megumi Hayashibara",
+          "lien": "https://files.catbox.moe/w0tkx1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "FLY ME TO THE MOON <Rei (#6) Remix Version>",
+          "artiste": "Megumi Hayashibara",
+          "lien": "https://nl.catbox.moe/u1s5gn.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "FLY ME TO THE MOON -4 BEAT VERSION-",
+          "artiste": "Yoko Takahashi",
+          "lien": "https://nl.catbox.moe/g4taps.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "FLY ME TO THE MOON <Aya Bossa Techno Version>",
+          "artiste": "Aya",
+          "lien": "https://nl.catbox.moe/bimelr.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "FLY ME TO THE MOON <YOKO TAKAHASHI Acid Bossa Version>",
+          "artiste": "Yoko Takahashi",
+          "lien": "https://files.catbox.moe/8rrajw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "FLY ME TO THE MOON <YOKO TAKAHASHI Version>",
+          "artiste": "Yoko Takahashi",
+          "lien": "https://nl.catbox.moe/eayavk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 8,
+          "nom": "FLY ME TO THE MOON -4 BEAT OFF VOCAL VERSION-",
+          "artiste": "Toshiyuki Omori",
+          "lien": "https://nl.catbox.moe/jqpnkd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 9,
+          "nom": "FLY ME TO THE MOON <OFF VOCAL VERSION>",
+          "artiste": "Toshiyuki Omori",
+          "lien": "https://nl.catbox.moe/sqrncr.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 10,
+          "nom": "FLY ME TO THE MOON <Aki Jungle Version>",
+          "artiste": "Aki",
+          "lien": "https://nl.catbox.moe/yygts6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 11,
+          "nom": "FLY ME TO THE MOON <B-22A-Type>",
+          "artiste": "Toshiyuki Omori",
+          "lien": "https://nl.catbox.moe/ad2qo6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 12,
+          "nom": "FLY ME TO THE MOON <Rei(#23) Version>",
+          "artiste": "Megumi Hayashibara",
+          "lien": "https://nl.catbox.moe/axphk9.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 13,
+          "nom": "FLY ME TO THE MOON <Rei(#25) Version>",
+          "artiste": "Megumi Hayashibara",
+          "lien": "https://nl.catbox.moe/0nph3y.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 14,
+          "nom": "FLY ME TO THE MOON <Rei(#26) Version>",
+          "artiste": "Megumi Hayashibara",
+          "lien": "https://nl.catbox.moe/i6f434.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Aoi Legend",
+          "artiste": "Kotono Mitsuishi",
+          "lien": "https://nl.catbox.moe/1h4535.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bay side love story -from Tokyo-",
+          "artiste": "Masami Okui",
+          "lien": "https://nl.catbox.moe/7idp95.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "FACE",
+          "artiste": "Masami Okui",
+          "lien": "https://nl.catbox.moe/pcfmzk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "FALL in STAR",
+          "artiste": "Kotono Mitsuishi",
+          "lien": "https://nl.catbox.moe/hx9urx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Fushigi na Yoru",
+          "artiste": "Masami Okui",
+          "lien": "https://nl.catbox.moe/nh6lbc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ryoute Ippai no Yume",
+          "artiste": "Masami Okui",
+          "lien": "https://nl.catbox.moe/lt1xmu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "You are the only one",
+          "artiste": "Kotono Mitsuishi",
+          "lien": "https://nl.catbox.moe/p2guja.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 1
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "nb_anime": 483,
-  "nb_musique": 2353,
+  "nb_musique": 2354,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -9098,7 +9098,7 @@
       "nom": "Isekai wa Smartphone to Tomo ni. 2",
       "id": 0,
       "lien": "https://myanimelist.net/anime/51632/Isekai_wa_Smartphone_to_Tomo_ni_2",
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -9120,6 +9120,13 @@
           "nom": "Isekai Jewelry",
           "artiste": "Marika Kohno, Maaya Uchida, Yui Fukuo, Chinatsu Akasaki, Nanami Yamashita, Sumire Uesaka",
           "lien": "https://files.catbox.moe/rb5lo5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Isekai Jewelry",
+          "artiste": "Marika Kohno, Maaya Uchida, Yui Fukuo, Chinatsu Akasaki, Nanami Yamashita, Sumire Uesaka, Miyu Takagi, Yuu Serizawa, Miyu Kubota",
+          "lien": "https://nl.catbox.moe/cvgink.webm"
         }
       ],
       "users": [
@@ -11235,7 +11242,7 @@
           "C": 0,
           "L": 0,
           "V": 1,
-          "T": 0
+          "T": 1
         }
       ]
     },
@@ -17413,7 +17420,7 @@
       "users": [
         {
           "A": 0,
-          "C": 0,
+          "C": 1,
           "L": 0,
           "V": 1,
           "T": 1
@@ -17465,7 +17472,7 @@
       "users": [
         {
           "A": 0,
-          "C": 0,
+          "C": 1,
           "L": 0,
           "V": 0,
           "T": 1

@@ -1,0 +1,334 @@
+{
+    "listExcept": [
+        {
+            "songName": "Daiji na Koto",
+            "artist": "Quruli",
+            "types": [
+                "opening 1",
+                "ending 2"
+            ]
+        },
+        {
+            "songName": "Many Stories-epilogue-",
+            "artist": "Chica",
+            "types": [
+                "ending 2",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Kumo o Kou",
+            "artist": "Keina Suda",
+            "types": [
+                "ending 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Shion",
+            "artist": "Saucy Dog",
+            "types": [
+                "insert song",
+                "ending 1"
+            ]
+        },
+        {
+            "songName": "Sparkling Daydream",
+            "artist": "ZAQ",
+            "types": [
+                "opening 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Dango Daikazoku",
+            "artist": "Chata",
+            "types": [
+                "ending 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Ana",
+            "artist": "Lia",
+            "types": [
+                "ending 2",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Date A Live",
+            "artist": "sweet ARMS",
+            "types": [
+                "opening 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Sangenshoku",
+            "artist": "PELICAN FANCLUB",
+            "types": [
+                "opening 2",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Sugarless Kiss",
+            "artist": "Suzuko Mimori",
+            "types": [
+                "insert song",
+                "ending 1"
+            ]
+        },
+        {
+            "songName": "Inferno",
+            "artist": "Mrs. GREEN APPLE",
+            "types": [
+                "opening 1",
+                "ending 3"
+            ]
+        },
+        {
+            "songName": "Snow fairy",
+            "artist": "FUNKIST",
+            "types": [
+                "opening 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Haseru Mirai",
+            "artist": "Uta Arii",
+            "types": [
+                "ending 2",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Noise",
+            "artist": "in NO hurry to shout;",
+            "types": [
+                "opening 4",
+                "ending 2"
+            ]
+        },
+        {
+            "songName": "Michishirube",
+            "artist": "Minori Chihara",
+            "types": [
+                "insert song",
+                "ending 1"
+            ]
+        },
+        {
+            "songName": "Gotoubun no Kimochi",
+            "artist": "Nakano-ke no Itsutsugo",
+            "types": [
+                "opening 1",
+                "ending 2"
+            ]
+        },
+        {
+            "songName": "Yume Fanfare",
+            "artist": "LIP×LIP",
+            "types": [
+                "opening 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Non Fantasy",
+            "artist": "LIP×LIP",
+            "types": [
+                "insert song",
+                "opening 1"
+            ]
+        },
+        {
+            "songName": "Ayafuwa Asterisk (for Fuuka Kikuchi)",
+            "artist": "Ai Kayano",
+            "types": [
+                "ending 4",
+                "ending 1"
+            ]
+        },
+        {
+            "songName": "Sentimental Crisis",
+            "artist": "halca",
+            "types": [
+                "ending 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Deal with the devil",
+            "artist": "Tia",
+            "types": [
+                "opening 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Centimeter",
+            "artist": "the peggies",
+            "types": [
+                "opening 1",
+                "ending 1"
+            ]
+        },
+        {
+            "songName": "Aozora no Rhapsody",
+            "artist": "fhána",
+            "types": [
+                "opening 1",
+                "ending 3",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Tone",
+            "artist": "Shouta Aoi",
+            "types": [
+                "opening 1",
+                "ending 2"
+            ]
+        },
+        {
+            "songName": "Mezame no Uta",
+            "artist": "Yuiko Ohara",
+            "types": [
+                "opening 2",
+                "opening 1"
+            ]
+        },
+        {
+            "songName": "Kibou Refrain",
+            "artist": "Suzuko Mimori",
+            "types": [
+                "ending 3",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Yukitoki",
+            "artist": "Nagi Yanagi",
+            "types": [
+                "opening 1",
+                "ending 4",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Hello Alone -Yui Ballade-",
+            "artist": "Nao Touyama",
+            "types": [
+                "ending 2",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "STRAIGHT BET",
+            "artist": "MYTH & ROID",
+            "types": [
+                "ending 2",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Realize",
+            "artist": "Konomi Suzuki",
+            "types": [
+                "opening 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Bokura ga Tabi ni Deru Riyuu",
+            "artist": "RINKU (Mistera Feo)",
+            "types": [
+                "opening 1",
+                "ending 1"
+            ]
+        },
+        {
+            "songName": "Scarborough Fair",
+            "artist": "Tamaru Yamada",
+            "types": [
+                "opening 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Hacking to the Gate",
+            "artist": "Kanako Itou",
+            "types": [
+                "opening 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Skyclad no Kansokusha",
+            "artist": "Kanako Itou",
+            "types": [
+                "ending 2",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Niji no Kanata ni",
+            "artist": "ReoNa",
+            "types": [
+                "ending 3",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "happily ever after",
+            "artist": "Shoko Nakagawa",
+            "types": [
+                "ending 2",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "unravel",
+            "artist": "TK from Ling Tosite Sigure",
+            "types": [
+                "opening 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Holy Night",
+            "artist": "Rie Kugimiya & Eri Kitamura",
+            "types": [
+                "ending 3",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Kuchizuke Diamond",
+            "artist": "WEAVER",
+            "types": [
+                "opening 1",
+                "opening 2"
+            ]
+        },
+        {
+            "songName": "CANDY MAGIC",
+            "artist": "MimimemeMIMI",
+            "types": [
+                "ending 1",
+                "ending 2"
+            ]
+        },
+        {
+            "songName": "Sensen no Realism",
+            "artist": "Mako Niina",
+            "types": [
+                "ending 2",
+                "insert song"
+            ]
+        }
+    ]
+}

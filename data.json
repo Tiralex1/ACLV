@@ -1,12 +1,12 @@
 {
   "nb_anime": 483,
-  "nb_musique": 2354,
+  "nb_musique": 2358,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
       "id": 0,
       "lien": "https://myanimelist.net/anime/52034/Oshi_no_Ko",
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -21,6 +21,13 @@
           "nom": "Mephisto",
           "artiste": "Ziyoou-vachi",
           "lien": "https://nl.catbox.moe/4n4afi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Full moon...!",
+          "artiste": "Megumi Han",
+          "lien": "https://nl.catbox.moe/y5gcur.webm"
         },
         {
           "type": "Insert Song",
@@ -9098,7 +9105,7 @@
       "nom": "Isekai wa Smartphone to Tomo ni. 2",
       "id": 0,
       "lien": "https://myanimelist.net/anime/51632/Isekai_wa_Smartphone_to_Tomo_ni_2",
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -9127,6 +9134,13 @@
           "nom": "Isekai Jewelry",
           "artiste": "Marika Kohno, Maaya Uchida, Yui Fukuo, Chinatsu Akasaki, Nanami Yamashita, Sumire Uesaka, Miyu Takagi, Yuu Serizawa, Miyu Kubota",
           "lien": "https://nl.catbox.moe/cvgink.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sakura no Uta",
+          "artiste": "Miyu Kubota",
+          "lien": "https://nl.catbox.moe/i0ezgb.webm"
         }
       ],
       "users": [
@@ -13462,7 +13476,7 @@
       "nom": "Mairimashita! Iruma-kun",
       "id": 1,
       "lien": "https://myanimelist.net/anime/41402/Mairimashita_Iruma-kun_2nd_Season",
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -13505,6 +13519,13 @@
           "nom": "Ronove no Musical",
           "artiste": "Tatsuhisa Suzuki",
           "lien": "https://nl.catbox.moe/d56r9g.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Clara no Komoriuta",
+          "artiste": "Ayaka Asai",
+          "lien": "https://nl.catbox.moe/zigsih.webm"
         }
       ],
       "users": [
@@ -13521,7 +13542,7 @@
       "nom": "Mairimashita! Iruma-kun",
       "id": 2,
       "lien": "https://myanimelist.net/anime/49784/Mairimashita_Iruma-kun_3rd_Season",
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -13557,6 +13578,13 @@
           "nom": "Tomodachi no Senaka",
           "artiste": "Ayaka Asai",
           "lien": "https://nl.catbox.moe/tn3bgw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kimi no Koakuma Mokushiroku",
+          "artiste": "	Ayumu Murase & Yoshitaka Yamaya",
+          "lien": "https://nl.catbox.moe/ak4oud.webm"
         }
       ],
       "users": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 484,
-  "nb_musique": 2363,
+  "nb_anime": 485,
+  "nb_musique": 2364,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -5043,6 +5043,30 @@
           "nom": "Sekai no Himitsu",
           "artiste": "Sayuri",
           "lien": "https://nl.catbox.moe/35kiuw.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Eiga Black Clover: Mahou Tei no Ken",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/48585/Black_Clover__Mahou_Tei_no_Ken",
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Here I Stand",
+          "artiste": "TREASURE",
+          "lien": "https://nl.catbox.moe/gkd8e4.webm"
         }
       ],
       "users": [

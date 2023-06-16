@@ -1,6 +1,6 @@
 {
-  "nb_anime": 483,
-  "nb_musique": 2358,
+  "nb_anime": 484,
+  "nb_musique": 2363,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -22458,7 +22458,7 @@
       "nom": "Sword Art Online: Alicization - War of Underworld",
       "id": 1,
       "lien": "https://myanimelist.net/anime/40540/Sword_Art_Online__Alicization_-_War_of_Underworld_2nd_Season",
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -22473,6 +22473,13 @@
           "nom": "I will...",
           "artiste": "Eir Aoi",
           "lien": "https://nl.catbox.moe/bmun5p.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "longing",
+          "artiste": "Sayaka Kanda",
+          "lien": "https://nl.catbox.moe/1eqz2k.webm"
         }
       ],
       "users": [
@@ -23008,35 +23015,35 @@
           "numero": 1,
           "nom": "Nameless Story",
           "artiste": "Takuma Terashima",
-          "lien": "https://nl.catbox.moe/4ma7hc.webm"
+          "lien": "https://nl.catbox.moe/f8ybbl.webm"
         },
         {
           "type": "Opening",
           "numero": 2,
           "nom": "Meguru Mono",
           "artiste": "Takuma Terashima",
-          "lien": "https://nl.catbox.moe/q34viu.webm"
+          "lien": "https://nl.catbox.moe/qtw27u.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Another colony",
           "artiste": "TRUE",
-          "lien": "https://nl.catbox.moe/rur45k.webm"
+          "lien": "https://nl.catbox.moe/0iwvo2.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Little Soldier",
           "artiste": "Azusa Tadokoro",
-          "lien": "https://nl.catbox.moe/3wezd6.webm"
+          "lien": "https://nl.catbox.moe/mjfng4.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Boku no Naka no Kimi e",
           "artiste": "TRUE",
-          "lien": "https://nl.catbox.moe/3w8eat.webm"
+          "lien": "https://nl.catbox.moe/r1t17h.webm"
         }
       ],
       "users": [
@@ -23052,6 +23059,51 @@
     {
       "nom": "Tensei shitara Slime Datta Ken",
       "id": 1,
+      "lien": "https://myanimelist.net/anime/38793/Tensei_shitara_Slime_Datta_Ken_OVA",
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Nameless Story",
+          "artiste": "Takuma Terashima",
+          "lien": "https://nl.catbox.moe/dst03f.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Meguru Mono",
+          "artiste": "Takuma Terashima",
+          "lien": "https://nl.catbox.moe/xrrpjz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Another colony",
+          "artiste": "TRUE",
+          "lien": "https://nl.catbox.moe/htsw44.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Little Soldier",
+          "artiste": "Azusa Tadokoro",
+          "lien": "https://nl.catbox.moe/tm0xmv.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 1,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Tensei shitara Slime Datta Ken",
+      "id": 2,
       "lien": "https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season",
       "nb_musique": 4,
       "musique": [
@@ -23096,7 +23148,7 @@
     },
     {
       "nom": "Tensei shitara Slime Datta Ken",
-      "id": 2,
+      "id": 3,
       "lien": "https://myanimelist.net/anime/41487/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Part_2",
       "nb_musique": 3,
       "musique": [

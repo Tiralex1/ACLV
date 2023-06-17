@@ -1,6 +1,6 @@
 {
   "nb_anime": 485,
-  "nb_musique": 2364,
+  "nb_musique": 2365,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -5059,7 +5059,7 @@
       "nom": "Eiga Black Clover: Mahou Tei no Ken",
       "id": 0,
       "lien": "https://myanimelist.net/anime/48585/Black_Clover__Mahou_Tei_no_Ken",
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Ending",
@@ -5067,6 +5067,13 @@
           "nom": "Here I Stand",
           "artiste": "TREASURE",
           "lien": "https://nl.catbox.moe/gkd8e4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Break Together",
+          "artiste": "Kankaku Piero",
+          "lien": "https://nl.catbox.moe/ytqleg.webm"
         }
       ],
       "users": [

@@ -1,6 +1,6 @@
 {
   "nb_anime": 485,
-  "nb_musique": 2365,
+  "nb_musique": 2367,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -2163,7 +2163,7 @@
       "nom": "Boku no Hero Academia",
       "id": 5,
       "lien": "https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season",
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -2192,6 +2192,13 @@
           "nom": "Kitakaze",
           "artiste": "SIX LOUNGE",
           "lien": "https://nl.catbox.moe/zzoexh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Might⁺U",
+          "artiste": "Makayla Phillips",
+          "lien": "https://nl.catbox.moe/s7qiyk.webm"
         }
       ],
       "users": [
@@ -5059,7 +5066,7 @@
       "nom": "Eiga Black Clover: Mahou Tei no Ken",
       "id": 0,
       "lien": "https://myanimelist.net/anime/48585/Black_Clover__Mahou_Tei_no_Ken",
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Ending",
@@ -5074,6 +5081,13 @@
           "nom": "Break Together",
           "artiste": "Kankaku Piero",
           "lien": "https://nl.catbox.moe/ytqleg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Haruka Mirai",
+          "artiste": "Kankaku Piero",
+          "lien": "https://nl.catbox.moe/098fpd.webm"
         }
       ],
       "users": [

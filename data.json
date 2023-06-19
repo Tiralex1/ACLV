@@ -1,6 +1,6 @@
 {
   "nb_anime": 485,
-  "nb_musique": 2367,
+  "nb_musique": 2368,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -22960,7 +22960,7 @@
       "nom": "Tensei Kizoku no Isekai Boukenroku: Jichou o Shiranai Kamigami no Shito",
       "id": 0,
       "lien": "https://myanimelist.net/anime/52608/Tensei_Kizoku_no_Isekai_Boukenroku__Jichou_wo_Shiranai_Kamigami_no_Shito",
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -22975,6 +22975,13 @@
           "nom": "Nana-iro no Enogu de",
           "artiste": "7LAND",
           "lien": "https://nl.catbox.moe/fslbnl.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Endless roll",
+          "artiste": "Aya Uchida",
+          "lien": "https://nl.catbox.moe/bwrhd7.webm"
         }
       ],
       "users": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 485,
-  "nb_musique": 2368,
+  "nb_anime": 487,
+  "nb_musique": 2373,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -2653,6 +2653,37 @@
           "L": 0,
           "V": 1,
           "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Byousoku 5 Centimeter",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/1689/Byousoku_5_Centimeter",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kimi no Ichiban ni...",
+          "artiste": "LINDBERG",
+          "lien": "https://nl.catbox.moe/2ixa0i.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "One more time, One more chance",
+          "artiste": "Masayoshi Yamazaki",
+          "lien": "https://nl.catbox.moe/cfjflx.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 1
         }
       ]
     },
@@ -11355,6 +11386,44 @@
           "nom": "Brand New Story",
           "artiste": "GENERATIONS from EXILE TRIBE",
           "lien": "https://nl.catbox.moe/iga6c2.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kimi wa Houkago Insomnia",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/50796/Kimi_wa_Houkago_Insomnia",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Itsu Aetara",
+          "artiste": "aiko",
+          "lien": "https://nl.catbox.moe/0e3i1l.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Lapse",
+          "artiste": "Homecomings",
+          "lien": "https://nl.catbox.moe/5gcjj7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Herz",
+          "artiste": "Homecomings",
+          "lien": "https://nl.catbox.moe/9p0wpq.webm"
         }
       ],
       "users": [

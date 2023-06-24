@@ -1,6 +1,6 @@
 {
   "nb_anime": 487,
-  "nb_musique": 2373,
+  "nb_musique": 2375,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -2591,14 +2591,21 @@
       "nom": "Bubble",
       "id": 0,
       "lien": "https://myanimelist.net/anime/50549/Bubble",
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Bubble feat. Uta",
+          "artiste": "Eve feat. Riria.",
+          "lien": "https://nl.catbox.moe/wx0b06.webm"
+        },
         {
           "type": "Opening",
           "numero": 1,
           "nom": "Bubble feat. Uta (TeddyLoid Remix)",
           "artiste": "Eve feat. Riria.",
-          "lien": "https://nl.catbox.moe/ogo0rr.webm"
+          "lien": "https://nl.catbox.moe/419xrs.webm"
         },
         {
           "type": "Ending",
@@ -2799,7 +2806,7 @@
       "nom": "Charlotte",
       "id": 0,
       "lien": "https://myanimelist.net/anime/28999/Charlotte",
-      "nb_musique": 14,
+      "nb_musique": 15,
       "musique": [
         {
           "type": "Opening",
@@ -2870,6 +2877,13 @@
           "nom": "Heavy Rain",
           "artiste": "ZHIEND",
           "lien": "https://nl.catbox.moe/qzszrz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Live for You",
+          "artiste": "ZHIEND",
+          "lien": "https://nl.catbox.moe/wg76r4.webm"
         },
         {
           "type": "Insert Song",
@@ -17673,7 +17687,7 @@
       "users": [
         {
           "A": 0,
-          "C": 0,
+          "C": 1,
           "L": 0,
           "V": 0,
           "T": 1
@@ -24215,7 +24229,7 @@
           "C": 1,
           "L": 0,
           "V": 1,
-          "T": 0
+          "T": 1
         }
       ]
     },

@@ -16944,6 +16944,44 @@
       ]
     },
     {
+      "nom": "Otaku ni Koi wa Muzukashii",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Fiction",
+          "artiste": "sumika",
+          "lien": "https://nl.catbox.moe/rehox3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimi no Tonari",
+          "artiste": "halca",
+          "lien": "https://nl.catbox.moe/p8rw84.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ashita mo Mata",
+          "artiste": "halca",
+          "lien": "https://nl.catbox.moe/u2s89v.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken",
       "id": 0,
       "lien": "https://myanimelist.net/anime/50739/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken",
@@ -24253,44 +24291,6 @@
           "C": 1,
           "L": 0,
           "V": 1,
-          "T": 0
-        }
-      ]
-    },
-    {
-      "nom": "Wotaku ni Koi wa Muzukashii",
-      "id": 0,
-      "lien": "https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii",
-      "nb_musique": 3,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Fiction",
-          "artiste": "sumika",
-          "lien": "https://nl.catbox.moe/rehox3.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Kimi no Tonari",
-          "artiste": "halca",
-          "lien": "https://nl.catbox.moe/p8rw84.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Ashita mo Mata",
-          "artiste": "halca",
-          "lien": "https://nl.catbox.moe/u2s89v.webm"
-        }
-      ],
-      "users": [
-        {
-          "A": 0,
-          "C": 1,
-          "L": 0,
-          "V": 0,
           "T": 0
         }
       ]

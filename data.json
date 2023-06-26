@@ -1,6 +1,6 @@
 {
-  "nb_anime": 487,
-  "nb_musique": 2375,
+  "nb_anime": 488,
+  "nb_musique": 2378,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -9006,6 +9006,44 @@
           "nom": "Feel the winds",
           "artiste": "Yui Hizuki",
           "lien": "https://nl.catbox.moe/1nbe6s.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Isekai Ojisan",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/49220/Isekai_Ojisan",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "story",
+          "artiste": "Mayu Maeshima",
+          "lien": "https://nl.catbox.moe/3qp6mp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ichibanboshi Sonority",
+          "artiste": "Yuka Iguchi",
+          "lien": "https://nl.catbox.moe/eirz6g.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tokenai Mahou",
+          "artiste": "Yuka Iguchi",
+          "lien": "https://nl.catbox.moe/y98kh3.webm"
         }
       ],
       "users": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 488,
-  "nb_musique": 2378,
+  "nb_anime": 489,
+  "nb_musique": 2389,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -414,7 +414,7 @@
           "type": "Opening",
           "numero": 2,
           "nom": "Aku no Hana -Sawa Nakamura-",
-          "artiste": "Uchuujin feat. Marika Gotou",
+          "artiste": "Uchuujin feat. Mariko Gotou",
           "lien": "https://nl.catbox.moe/icdfe6.webm"
         },
         {
@@ -7483,7 +7483,7 @@
           "A": 0,
           "C": 1,
           "L": 0,
-          "V": 0,
+          "V": 1,
           "T": 0
         }
       ]
@@ -9307,7 +9307,7 @@
           "A": 0,
           "C": 1,
           "L": 0,
-          "V": 0,
+          "V": 1,
           "T": 0
         }
       ]
@@ -24330,6 +24330,100 @@
           "L": 0,
           "V": 1,
           "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Vivy: Fluorite Eye's Song",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song",
+      "nb_musique": 11,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Happy Together",
+          "artiste": "Miya Kotuki",
+          "lien": "https://nl.catbox.moe/6sl354.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "A Tender Moon Tempo",
+          "artiste": "Kairi Yagi",
+          "lien": "https://nl.catbox.moe/25wcii.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "Sing My Pleasure",
+          "artiste": "Kairi Yagi",
+          "lien": "https://nl.catbox.moe/7wa4zi.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 4,
+          "nom": "Galaxy Anthem",
+          "artiste": "Kairi Yagi",
+          "lien": "https://nl.catbox.moe/u7sov8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Fluorite Eye's Song -Piano Version-",
+          "artiste": "Satoru Kosaki (MONACA)",
+          "lien": "https://nl.catbox.moe/tdra4e.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ensemble for Polaris",
+          "artiste": "Licca & Noa",
+          "lien": "https://nl.catbox.moe/sdbirz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Elegy Dedicated With Love",
+          "artiste": "acane_madder",
+          "lien": "https://nl.catbox.moe/z3x92s.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Fluorite Eye's Song",
+          "artiste": "Kairi Yagi",
+          "lien": "https://nl.catbox.moe/rukq4s.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Harmony of One's Heart",
+          "artiste": "Kairi Yagi",
+          "lien": "https://nl.catbox.moe/77sims.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "My Code",
+          "artiste": "Kairi Yagi",
+          "lien": "https://nl.catbox.moe/basvjk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sing My Pleasure (Grace Ver.)",
+          "artiste": "Hikari Codama",
+          "lien": "https://nl.catbox.moe/5o9niq.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 1
         }
       ]
     },

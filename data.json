@@ -1,12 +1,12 @@
 {
   "nb_anime": 489,
-  "nb_musique": 2389,
+  "nb_musique": 2391,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
       "id": 0,
       "lien": "https://myanimelist.net/anime/52034/Oshi_no_Ko",
-      "nb_musique": 7,
+      "nb_musique": 9,
       "musique": [
         {
           "type": "Opening",
@@ -53,9 +53,23 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Sign wa B -New Arrange Ver.-",
+          "artiste": "B-Komachi",
+          "lien": "https://nl.catbox.moe/xhlcgb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "STAR☆T☆RAIN -Ai Solo ver.-",
           "artiste": "Rie Takahashi",
           "lien": "https://nl.catbox.moe/h9bame.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "STAR☆T☆RAIN -New Arrange Ver.-",
+          "artiste": "B-Komachi",
+          "lien": "https://nl.catbox.moe/hx7t95.webm"
         }
       ],
       "users": [

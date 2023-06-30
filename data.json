@@ -1,6 +1,6 @@
 {
   "nb_anime": 489,
-  "nb_musique": 2391,
+  "nb_musique": 2392,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -16947,7 +16947,7 @@
       "nom": "Osananajimi ga Zettai ni Makenai Love Come",
       "id": 0,
       "lien": "https://myanimelist.net/anime/43007/Osananajimi_ga_Zettai_ni_Makenai_Love_Comedy",
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -16973,9 +16973,16 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Child Star (Kokuhaku-sai ver.)",
+          "artiste": "Yoshitsugu Matsuoka & Takuma Terashima",
+          "lien": "https://nl.catbox.moe/kdj784.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Narcolepsy",
           "artiste": "SiN",
-          "lien": "https://nl.catbox.moe/8v71j9.webm"
+          "lien": "https://nl.catbox.moe/et0qp7.webm"
         },
         {
           "type": "Insert Song",

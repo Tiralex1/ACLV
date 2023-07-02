@@ -1,6 +1,6 @@
 {
-  "nb_anime": 489,
-  "nb_musique": 2392,
+  "nb_anime": 490,
+  "nb_musique": 2398,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -6341,7 +6341,7 @@
       "nom": "G-Witch",
       "id": 1,
       "lien": "https://myanimelist.net/anime/53199/Kidou_Senshi_Gundam__Suisei_no_Majo_Season_2",
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -6356,6 +6356,20 @@
           "nom": "Red:birthmark",
           "artiste": "AiNA THE END",
           "lien": "https://nl.catbox.moe/73ewcs.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Houseki no Hibi",
+          "artiste": "AiNA THE END",
+          "lien": "https://nl.catbox.moe/xwhj67.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Shukufuku",
+          "artiste": "YOASOBI",
+          "lien": "https://nl.catbox.moe/9hd0k2.webm"
         }
       ],
       "users": [
@@ -9058,6 +9072,51 @@
           "nom": "Tokenai Mahou",
           "artiste": "Yuka Iguchi",
           "lien": "https://nl.catbox.moe/y98kh3.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/51219/Isekai_One_Turn_Kill_Neesan__Ane_Douhan_no_Isekai_Seikatsu_Hajimemashita",
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Karei One Turn",
+          "artiste": "TrySail",
+          "lien": "https://nl.catbox.moe/3anut1.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Follow You!",
+          "artiste": "TrySail",
+          "lien": "https://nl.catbox.moe/9x8pwh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Mukyuu Platonic",
+          "artiste": "VALIS",
+          "lien": "https://nl.catbox.moe/vchc5z.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Meguri Megutte",
+          "artiste": "GuilDrops",
+          "lien": "https://nl.catbox.moe/hd5xs3.webm"
         }
       ],
       "users": [

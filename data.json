@@ -1,6 +1,6 @@
 {
-  "nb_anime": 490,
-  "nb_musique": 2398,
+  "nb_anime": 491,
+  "nb_musique": 2400,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -9658,6 +9658,37 @@
           "C": 0,
           "L": 0,
           "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Jitsu wa Ore, Saikyou deshita?",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/52969/Jitsu_wa_Ore_Saikyou_deshita",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Reset Life?",
+          "artiste": "Lezel",
+          "lien": "https://nl.catbox.moe/bjvyqo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "HimiCHU★Puri Love Magic",
+          "artiste": "Star★Shiμ'ne!!!",
+          "lien": "https://nl.catbox.moe/fk4zpp.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
           "T": 0
         }
       ]

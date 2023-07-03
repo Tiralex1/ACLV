@@ -1,10 +1,6 @@
-tr {
-    height: 60px;
-}
-
 td {
     text-align: center;
-    padding: 0 15px;
+    padding: 15px;
     border-width: 1px;
     border-style: solid;
     border-color: black;
@@ -17,7 +13,7 @@ table {
 
 .grey > td {
     background-color: grey;
-    padding: 0 2px;
+    padding: 2px;
 }
 
 .no-watch {

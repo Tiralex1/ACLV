@@ -360,7 +360,6 @@ document.addEventListener("scroll", function () {
         for (let i = nbAffich; i < (nbAffich + 100 < HTMLTab.length ? nbAffich + 100 : HTMLTab.length); ++i) charger(HTMLTab[i]);
         nbAffich = (nbAffich + 100 < HTMLTab.length ? nbAffich + 100 : HTMLTab.length);
         nbPixelAvantUpdate = Math.ceil(120 + (Math.ceil(nbAffich / 100) - 1) * 6000 + (100 * 60) * (3 / 4));
-        setTimeout(() => { }, 200);
     }
 });
 // affichage fin

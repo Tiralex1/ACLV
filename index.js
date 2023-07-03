@@ -455,6 +455,7 @@ function filtreUsersIntersection(listeFiltreAnime) {
 
 function filtre() {
     let listeFiltreAnime = globalList;
+    AffichageFavori = false;
 
     let val = filtreJointureSelect.value;
     if (val == "Union") { listeFiltreAnime = filtreUsersUnion(listeFiltreAnime); }

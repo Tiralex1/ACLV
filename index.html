@@ -4,38 +4,42 @@
     <title>AMQ ACLV(T)</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="index.css" />
-    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
 </head>
 <body>
     <div class="header">
         <div class="title">&nbsp;AMQ - ACLV(T)</div>
         <div class="filtre">
             &nbsp;Filtre :
-            | Anime : <input type="text" value="" id="name_anime" name="nom_anime" onchange="filtre();" />
-            | Type :
-            <select id="type_music" onchange="filtre();">
+            <label for="name_anime"> | Anime : </label><input type="text" value="" id="name_anime" name="nom_anime" />
+            <label for="type_music"> | Type : </label>
+            <select id="type_music">
                 <option value="">-</option>
                 <option value="Opening">Opening</option>
                 <option value="Ending">Ending</option>
                 <option value="Insert Song">Insert Song</option>
             </select>
-            | Musique : <input type="text" value="" id="name_music" onchange="filtre();" />
-            | Artiste(s) : <input type="text" value="" id="name_artist" onchange="filtre();" />
-            | <select id="jointure" onchange="filtre();">
+            <label for="name_music"> | Musique : </label><input type="text" value="" id="name_music" />
+            <label for="name_artist"> | Artiste(s) : </label><input type="text" value="" id="name_artist" />
+            <label for="jointure"> | </label>
+            <select id="jointure">
                 <option value="Union">Union</option>
                 <option value="Intersection">Intersection</option>
             </select>
-            | A <input value="1" type="checkbox" id="A" checked onchange="filtre();" />
-            | C <input value="1" type="checkbox" id="C" checked onchange="filtre();" />
-            | L <input value="1" type="checkbox" id="L" checked onchange="filtre();" />
-            | V <input value="1" type="checkbox" id="V" checked onchange="filtre();" />
-            | T <input value="1" type="checkbox" id="T" checked onchange="filtre();" />
-            | <input type="button" value="Favori" onclick="affich_fav();" />
-            <input type="button" value="S" onclick="saveFav();" />
-            <input type="button" value="L" onclick="loadFav();" />
+            <label for="A"> | A </label><input value="1" type="checkbox" id="A" checked />
+            <label for="C"> | C </label><input value="1" type="checkbox" id="C" checked />
+            <label for="L"> | L </label><input value="1" type="checkbox" id="L" checked />
+            <label for="V"> | V </label><input value="1" type="checkbox" id="V" checked />
+            <label for="T"> | T </label><input value="1" type="checkbox" id="T" checked />
+            |&nbsp;
+            <input type="button" value="Favori" id="favori" />
+            <input type="button" value="S" id="save" />
+            <input type="button" value="L" id="load" />
         </div>
-        &nbsp;Affichage Lien <input type="radio" value="1" name="affich_lien" id="affich_lien1" onchange="modif_mode_affich();" checked />
-        <input type="radio" value="2" name="affich_lien" id="affich_lien2" onchange="modif_mode_affich();" />
+        <div class="parametre_affichage">
+            &nbsp;Affichage Lien
+            <input type="radio" value="1" name="affich_lien" id="affich_lien1" checked />
+            <input type="radio" value="2" name="affich_lien" id="affich_lien2" />
+        </div>
         <br />
         <br />
     </div>

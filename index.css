@@ -38,7 +38,7 @@ table {
 ._1 {
     grid-column: 1;
     grid-row: 1;
-    padding: 0 15px;
+    padding: 15px;
 }
 
 ._2 {
@@ -47,7 +47,7 @@ table {
     border-width: 1px;
     border-style: solid;
     border-color: black;
-    padding: 0 15px;
+    padding: 15px;
 }
 
 ._3 {
@@ -56,7 +56,7 @@ table {
     border-width: 1px;
     border-style: solid;
     border-color: black;
-    padding: 0 15px;
+    padding: 15px;
 }
 
 ._4 {
@@ -65,7 +65,7 @@ table {
     border-width: 1px;
     border-style: solid;
     border-color: black;
-    padding: 0 15px;
+    padding: 15px;
 }
 
 ._5 {
@@ -74,7 +74,7 @@ table {
     border-width: 1px;
     border-style: solid;
     border-color: black;
-    padding: 0 15px;
+    padding: 15px;
 }
 
 ._6 {
@@ -83,7 +83,7 @@ table {
     border-width: 1px;
     border-style: solid;
     border-color: black;
-    padding: 0 15px;
+    padding: 15px;
 }
 
 .nom_anime {

@@ -270,9 +270,11 @@ Object.seal(ListeAnime);
 // event listeners pour (filtrage + affichage favori + save load favori)
 async function setupListenersFiltrage() {
     document.querySelectorAll("input[type='checkbox'], select").forEach(el => {
-        el.addEventListener("change", function () {
-            filtre();
-        });
+        if (el.id != "lecture_auto") {
+            el.addEventListener("change", function () {
+                filtre();
+            });
+        }
     });
     document.querySelectorAll("input[type='text']").forEach(el => {
         el.addEventListener("input", function () {

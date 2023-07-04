@@ -45,23 +45,31 @@ class HTMLMusic {
         button.addEventListener("click", async function () {
             clickAudio(music.getLien, button);
             if (lectureAutomatique) {
+                AudioActuel.removeEventListener("ended", function () {
+                    let button2 = chercheNextBouton(clickAudio.button);
+                    if (button2 != null) button2.click();
+                    else button.click();
+                });
+                AudioActuel.removeEventListener("ended", function () {
+                    button.click();
+                });
                 AudioActuel.addEventListener("ended", function () {
                     let button2 = chercheNextBouton(clickAudio.button);
                     if (button2 != null) button2.click();
                     else button.click();
-                    AudioActuel.removeEventListener("ended", function () {
-                        let button2 = chercheNextBouton(clickAudio.button);
-                        if (button2 != null) button2.click();
-                        else button.click();
-                    });
                 });
             }
             else {
+                AudioActuel.removeEventListener("ended", function () {
+                    let button2 = chercheNextBouton(clickAudio.button);
+                    if (button2 != null) button2.click();
+                    else button.click();
+                });
+                AudioActuel.removeEventListener("ended", function () {
+                    button.click();
+                });
                 AudioActuel.addEventListener("ended", function () {
                     button.click();
-                    AudioActuel.removeEventListener("ended", function () {
-                        button.click();
-                    });
                 });
             }
         });
@@ -519,6 +527,36 @@ inputLectureAuto.checked = false;
 
 inputLectureAuto.addEventListener("click", function () {
     lectureAutomatique = !lectureAutomatique;
+    if (clickAudio.button !== "undefined") {
+        if (lectureAutomatique) {
+            AudioActuel.removeEventListener("ended", function () {
+                let button2 = chercheNextBouton(clickAudio.button);
+                if (button2 != null) button2.click();
+                else clickAudio.button.click();
+            });
+            AudioActuel.removeEventListener("ended", function () {
+                clickAudio.button.click();
+            });
+            AudioActuel.addEventListener("ended", function () {
+                let button2 = chercheNextBouton(clickAudio.button);
+                if (button2 != null) button2.click();
+                else clickAudio.button.click();
+            });
+        }
+        else {
+            AudioActuel.removeEventListener("ended", function () {
+                let button2 = chercheNextBouton(clickAudio.button);
+                if (button2 != null) button2.click();
+                else clickAudio.button.click();
+            });
+            AudioActuel.removeEventListener("ended", function () {
+                clickAudio.button.click();
+            });
+            AudioActuel.addEventListener("ended", function () {
+                clickAudio.button.click();
+            });
+        }
+    }
 });
 
 function chercheNextBouton(button) {

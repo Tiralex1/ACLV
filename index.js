@@ -45,15 +45,23 @@ class HTMLMusic {
         button.addEventListener("click", async function () {
             clickAudio(music.getLien, button);
             if (lectureAutomatique) {
-                AudioActuel.removeEventListener("ended", function () {
-                    let button2 = chercheNextBouton(clickAudio.button);
-                    if (button2 != null) button2.click();
-                    else button.click();
-                });
                 AudioActuel.addEventListener("ended", function () {
                     let button2 = chercheNextBouton(clickAudio.button);
                     if (button2 != null) button2.click();
                     else button.click();
+                    AudioActuel.removeEventListener("ended", function () {
+                        let button2 = chercheNextBouton(clickAudio.button);
+                        if (button2 != null) button2.click();
+                        else button.click();
+                    });
+                });
+            }
+            else {
+                AudioActuel.addEventListener("ended", function () {
+                    button.click();
+                    AudioActuel.removeEventListener("ended", function () {
+                        button.click();
+                    });
                 });
             }
         });

@@ -1,6 +1,6 @@
 function correctString(str) {
-    var string = str.replace("<", "&lt;");
-    string = string.replace(">", "&gt;");
+    var string = str.replace("<", "&lt");
+    string = string.replace(">", "&gt");
     return string;
 }
 

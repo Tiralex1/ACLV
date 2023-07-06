@@ -384,7 +384,7 @@ function affichFiltr() {
     for (let i = 0; i < nbAffich; ++i) charger(HTMLTab[i]);
 }
 
-document.addEventListener("scroll", function () {
+document.addEventListener("scroll", async function () {
     if (nbAffich == HTMLTab.length) return;
     if (window.scrollY >= nbPixelAvantUpdate) {
         for (let i = nbAffich; i < (nbAffich + 100 < HTMLTab.length ? nbAffich + 100 : HTMLTab.length); ++i) charger(HTMLTab[i]);
@@ -525,7 +525,7 @@ let lectureAutomatique = false;
 let inputLectureAuto = document.querySelector("#lecture_auto");
 inputLectureAuto.checked = false;
 
-inputLectureAuto.addEventListener("click", function () {
+inputLectureAuto.addEventListener("click", async function () {
     lectureAutomatique = !lectureAutomatique;
     if (clickAudio.button !== "undefined") {
         if (lectureAutomatique) {
@@ -565,6 +565,7 @@ function chercheNextBouton(button) {
         trActuel = trActuel.nextElementSibling;
     }
     if (trActuel != null) return trActuel.querySelector("button");
+    else if (document.querySelector("button") != null) return document.querySelector("button");
     else return null;
 }
 

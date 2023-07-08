@@ -278,6 +278,22 @@ async function setupListenersFiltrage() {
     document.querySelector("#load").addEventListener("click", async function () {
         loadFav();
     });
+    document.addEventListener("scroll", async function () {
+        if (nbAffich == HTMLTab.length) return;
+        if (window.scrollY >= nbPixelAvantUpdate) {
+            for (let i = nbAffich; i < (nbAffich + 100 < HTMLTab.length ? nbAffich + 100 : HTMLTab.length); ++i) charger(HTMLTab[i]);
+            nbAffich = (nbAffich + 100 < HTMLTab.length ? nbAffich + 100 : HTMLTab.length);
+            nbPixelAvantUpdate = Math.ceil(120 + (Math.ceil(nbAffich / 100) - 1) * 6000 + (100 * 60) * (3 / 4));
+        }
+    });
+    inputLectureAuto.addEventListener("click", async function () {
+        lectureAutomatique = !lectureAutomatique;
+    });
+    document.querySelectorAll("input[type='radio']").forEach(radio => {
+        radio.addEventListener("change", function () {
+            modifModeAffich();
+        })
+    });
 }
 
 // ------------------------------Data Traitement---------------------------------------------------------------------------------------------------------------------//
@@ -356,14 +372,6 @@ function affichFiltr() {
     for (let i = 0; i < nbAffich; ++i) charger(HTMLTab[i]);
 }
 
-document.addEventListener("scroll", async function () {
-    if (nbAffich == HTMLTab.length) return;
-    if (window.scrollY >= nbPixelAvantUpdate) {
-        for (let i = nbAffich; i < (nbAffich + 100 < HTMLTab.length ? nbAffich + 100 : HTMLTab.length); ++i) charger(HTMLTab[i]);
-        nbAffich = (nbAffich + 100 < HTMLTab.length ? nbAffich + 100 : HTMLTab.length);
-        nbPixelAvantUpdate = Math.ceil(120 + (Math.ceil(nbAffich / 100) - 1) * 6000 + (100 * 60) * (3 / 4));
-    }
-});
 // affichage fin
 
 // filtrage
@@ -491,14 +499,6 @@ function resetFiltre() {
 }
 
 // audio
-let AudioActuel = new Audio("");
-let stateAudio = 0;
-let inputLectureAuto = document.querySelector("#lecture_auto");
-let lectureAutomatique = inputLectureAuto.checked;
-
-inputLectureAuto.addEventListener("click", async function () {
-    lectureAutomatique = !lectureAutomatique;
-});
 
 function chercheNextBouton(button) {
     let trActuel = button.parentElement.parentElement.nextElementSibling;
@@ -552,19 +552,6 @@ function clickAudioStop() {
 
 // affichageLien
 
-let AffichLien1 = document.getElementById("affich_lien1");
-let AffichLien2 = document.getElementById("affich_lien2");
-let ModeAffichLien = "1";
-
-if (localStorage.getItem("modeAffichLien")) ModeAffichLien = localStorage.getItem("modeAffichLien");
-else localStorage.setItem("modeAffichLien", ModeAffichLien);
-
-document.querySelectorAll("input[type='radio']").forEach(radio => {
-    radio.addEventListener("change", function () {
-        modifModeAffich();
-    })
-});
-
 function modifModeAffich() {
     ModeAffichLien = AffichLien1.checked ? AffichLien1.value : AffichLien2.value;
     localStorage.setItem("modeAffichLien", ModeAffichLien);
@@ -572,22 +559,6 @@ function modifModeAffich() {
 }
 
 // favori
-
-let AffichageFavori = false;
-let favori = [];
-
-if (localStorage.getItem("favori")) {
-    var favori_string = localStorage.getItem("favori");
-    favori = favori_string.split("|");
-    var i = 0;
-    while (i < favori.length) {
-        if (favori[i].startsWith("https://")) i++;
-        else favori.splice(i, 1);
-    }
-    let sav = favori.join("|");
-    localStorage.setItem("favori", sav);
-}
-else localStorage.setItem("favori", favori);
 
 function saveFav() {
     const a = document.createElement('a');
@@ -765,6 +736,34 @@ let filtreNomMusicInput = document.getElementById("name_music");
 let filtreNomArtistInput = document.getElementById("name_artist");
 let filtreJointureSelect = document.getElementById("jointure");
 for (var i of TabStringUsers) eval("let " + i + " = document.getElementById(\"" + i + "\");");
+
+let AudioActuel = new Audio("");
+let stateAudio = 0;
+let inputLectureAuto = document.querySelector("#lecture_auto");
+let lectureAutomatique = inputLectureAuto.checked;
+
+let AffichLien1 = document.getElementById("affich_lien1");
+let AffichLien2 = document.getElementById("affich_lien2");
+let ModeAffichLien = "1";
+
+if (localStorage.getItem("modeAffichLien")) ModeAffichLien = localStorage.getItem("modeAffichLien");
+else localStorage.setItem("modeAffichLien", ModeAffichLien);
+
+let AffichageFavori = false;
+let favori = [];
+
+if (localStorage.getItem("favori")) {
+    var favori_string = localStorage.getItem("favori");
+    favori = favori_string.split("|");
+    var i = 0;
+    while (i < favori.length) {
+        if (favori[i].startsWith("https://")) i++;
+        else favori.splice(i, 1);
+    }
+    let sav = favori.join("|");
+    localStorage.setItem("favori", sav);
+}
+else localStorage.setItem("favori", favori);
 
 // programme principal
 (async function () {

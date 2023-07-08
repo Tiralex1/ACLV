@@ -44,7 +44,6 @@ class HTMLMusic {
         let button = createSimpleNode("button", { "style": "background-color : transparent; border : transparent;" }, "&#9658;");
         button.addEventListener("click", async function () {
             clickAudio(music.getLien, button);
-            setupEventListenerLectureAuto();
         });
         let tdLien = createSimpleNode("td", { "className": "lien" });
         tdLien.appendChild(a);
@@ -496,27 +495,10 @@ let AudioActuel = new Audio("");
 let stateAudio = 0;
 let inputLectureAuto = document.querySelector("#lecture_auto");
 let lectureAutomatique = inputLectureAuto.checked;
-setupEventListenerLectureAuto();
 
 inputLectureAuto.addEventListener("click", async function () {
     lectureAutomatique = !lectureAutomatique;
-    setupEventListenerLectureAuto();
 });
-
-function setupEventListenerLectureAuto() {
-    if (lectureAutomatique) {
-        AudioActuel.addEventListener("ended", function () {
-            clickAudio.button.click();
-            let button2 = chercheNextBouton(clickAudio.button);
-            if (button2 != null) button2.click();
-        });
-    }
-    else {
-        AudioActuel.addEventListener("ended", function () {
-            clickAudio.button.click();
-        });
-    }
-}
 
 function chercheNextBouton(button) {
     let trActuel = button.parentElement.parentElement.nextElementSibling;
@@ -536,6 +518,13 @@ function clickAudio(lien, button) {
         AudioActuel.pause();
         if (clickAudio.button !== undefined) clickAudio.button.innerHTML = "&#9658;";
         AudioActuel = new Audio(lien);
+        AudioActuel.addEventListener("ended", function () {
+            clickAudio.button.click();
+            if (lectureAutomatique) {
+                let button2 = chercheNextBouton(clickAudio.button);
+                if (button2 != null) button2.click();
+            }
+        });
         AudioActuel.play();
         button.innerHTML = "&#9208;";
         stateAudio = 1;

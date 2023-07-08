@@ -44,34 +44,7 @@ class HTMLMusic {
         let button = createSimpleNode("button", { "style": "background-color : transparent; border : transparent;" }, "&#9658;");
         button.addEventListener("click", async function () {
             clickAudio(music.getLien, button);
-            if (lectureAutomatique) {
-                AudioActuel.removeEventListener("ended", function () {
-                    let button2 = chercheNextBouton(clickAudio.button);
-                    if (button2 != null) button2.click();
-                    else button.click();
-                });
-                AudioActuel.removeEventListener("ended", function () {
-                    button.click();
-                });
-                AudioActuel.addEventListener("ended", function () {
-                    let button2 = chercheNextBouton(clickAudio.button);
-                    if (button2 != null) button2.click();
-                    else button.click();
-                });
-            }
-            else {
-                AudioActuel.removeEventListener("ended", function () {
-                    let button2 = chercheNextBouton(clickAudio.button);
-                    if (button2 != null) button2.click();
-                    else button.click();
-                });
-                AudioActuel.removeEventListener("ended", function () {
-                    button.click();
-                });
-                AudioActuel.addEventListener("ended", function () {
-                    button.click();
-                });
-            }
+            setupEventListenerLectureAuto();
         });
         let tdLien = createSimpleNode("td", { "className": "lien" });
         tdLien.appendChild(a);
@@ -521,43 +494,29 @@ function resetFiltre() {
 // audio
 let AudioActuel = new Audio("");
 let stateAudio = 0;
-let lectureAutomatique = false;
 let inputLectureAuto = document.querySelector("#lecture_auto");
-inputLectureAuto.checked = false;
+let lectureAutomatique = inputLectureAuto.checked;
+setupEventListenerLectureAuto();
 
 inputLectureAuto.addEventListener("click", async function () {
     lectureAutomatique = !lectureAutomatique;
-    if (clickAudio.button !== "undefined") {
-        if (lectureAutomatique) {
-            AudioActuel.removeEventListener("ended", function () {
-                let button2 = chercheNextBouton(clickAudio.button);
-                if (button2 != null) button2.click();
-                else clickAudio.button.click();
-            });
-            AudioActuel.removeEventListener("ended", function () {
-                clickAudio.button.click();
-            });
-            AudioActuel.addEventListener("ended", function () {
-                let button2 = chercheNextBouton(clickAudio.button);
-                if (button2 != null) button2.click();
-                else clickAudio.button.click();
-            });
-        }
-        else {
-            AudioActuel.removeEventListener("ended", function () {
-                let button2 = chercheNextBouton(clickAudio.button);
-                if (button2 != null) button2.click();
-                else clickAudio.button.click();
-            });
-            AudioActuel.removeEventListener("ended", function () {
-                clickAudio.button.click();
-            });
-            AudioActuel.addEventListener("ended", function () {
-                clickAudio.button.click();
-            });
-        }
-    }
+    setupEventListenerLectureAuto();
 });
+
+function setupEventListenerLectureAuto() {
+    if (lectureAutomatique) {
+        AudioActuel.addEventListener("ended", function () {
+            clickAudio.button.click();
+            let button2 = chercheNextBouton(clickAudio.button);
+            if (button2 != null) button2.click();
+        });
+    }
+    else {
+        AudioActuel.addEventListener("ended", function () {
+            clickAudio.button.click();
+        });
+    }
+}
 
 function chercheNextBouton(button) {
     let trActuel = button.parentElement.parentElement.nextElementSibling;
@@ -565,7 +524,10 @@ function chercheNextBouton(button) {
         trActuel = trActuel.nextElementSibling;
     }
     if (trActuel != null) return trActuel.querySelector("button");
-    else if (document.querySelector("button") != null) return document.querySelector("button");
+    else if (HTMLTab.length > 0) {
+        if (HTMLTab[0].classList.contains("grey")) return HTMLTab[1].querySelector("button");
+        else return HTMLTab[0].querySelector("button");
+    }
     else return null;
 }
 

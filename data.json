@@ -1,6 +1,6 @@
 {
-  "nb_anime": 491,
-  "nb_musique": 2400,
+  "nb_anime": 493,
+  "nb_musique": 2403,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -231,6 +231,37 @@
           "L": 0,
           "V": 0,
           "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "AI no Idenshi",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/53787",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "No Frontier",
+          "artiste": "Aile The Shota",
+          "lien": "https://nl.catbox.moe/n1yxl8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Wasurenagusa",
+          "artiste": "GReeeeN",
+          "lien": "https://nl.catbox.moe/dwlmgj.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 1
         }
       ]
     },
@@ -10703,6 +10734,30 @@
           "nom": "Sakura selfish",
           "artiste": "Rie Takahashi",
           "lien": "https://nl.catbox.moe/e7y439.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Kanojo, Okarishimasu",
+      "id": 2,
+      "lien": "https://myanimelist.net/anime/53050",
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Renai Milli Film",
+          "artiste": "halca",
+          "lien": "https://nl.catbox.moe/v2aros.webm"
         }
       ],
       "users": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 494,
-  "nb_musique": 2405,
+  "nb_anime": 495,
+  "nb_musique": 2407,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -14476,6 +14476,30 @@
       ]
     },
     {
+      "nom": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/55818",
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Clover",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://nl.catbox.moe/p10myj.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
       "nom": "Mushoku Tensei: Isekai Ittara Honki Dasu",
       "id": 0,
       "lien": "https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu",
@@ -17310,7 +17334,7 @@
       "nom": "Ousama Ranking: Yuuki no Takarabako",
       "id": 0,
       "lien": "https://myanimelist.net/anime/52657/Ousama_Ranking__Yuuki_no_Takarabako",
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -17325,6 +17349,13 @@
           "nom": "Ate mo Naku",
           "artiste": "Aimer",
           "lien": "https://nl.catbox.moe/pafzxs.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "BOY",
+          "artiste": "King Gnu",
+          "lien": "https://nl.catbox.moe/a1msdu.webm"
         }
       ],
       "users": [

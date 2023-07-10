@@ -286,6 +286,13 @@ async function setupListenersFiltrage() {
             nbPixelAvantUpdate = Math.ceil(120 + (Math.ceil(nbAffich / 100) - 1) * 6000 + (100 * 60) * (3 / 4));
         }
     });
+    AudioActuel.addEventListener("ended", function () {
+        clickAudio.button.click();
+        if (lectureAutomatique) {
+            let button2 = chercheNextBouton(clickAudio.button);
+            if (button2 != null) button2.click();
+        }
+    });
     inputLectureAuto.addEventListener("click", async function () {
         lectureAutomatique = !lectureAutomatique;
     });
@@ -517,14 +524,7 @@ function clickAudio(lien, button) {
     if (AudioActuel.src != lien) {
         AudioActuel.pause();
         if (clickAudio.button !== undefined) clickAudio.button.innerHTML = "&#9658;";
-        AudioActuel = new Audio(lien);
-        AudioActuel.addEventListener("ended", function () {
-            clickAudio.button.click();
-            if (lectureAutomatique) {
-                let button2 = chercheNextBouton(clickAudio.button);
-                if (button2 != null) button2.click();
-            }
-        });
+        AudioActuel.src = lien;
         AudioActuel.play();
         button.innerHTML = "&#9208;";
         stateAudio = 1;

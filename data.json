@@ -1,6 +1,6 @@
 {
-  "nb_anime": 493,
-  "nb_musique": 2403,
+  "nb_anime": 494,
+  "nb_musique": 2405,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -13136,6 +13136,37 @@
         {
           "A": 0,
           "C": 1,
+          "L": 1,
+          "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Liar Liar",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/48633",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "LIES GOES ON",
+          "artiste": "May'n",
+          "lien": "https://nl.catbox.moe/h8kdyc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "fakey merry game",
+          "artiste": "SMILE PRINCESS",
+          "lien": "https://nl.catbox.moe/0xtymk.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
           "L": 1,
           "V": 0,
           "T": 0

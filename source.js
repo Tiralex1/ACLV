@@ -560,7 +560,7 @@ function modifModeAffich() {
 
 // favori
 
-function setupFavori() {
+async function setupFavori() {
     if (localStorage.getItem("favori")) {
         var favori_string = localStorage.getItem("favori");
         favori = favori_string.split("|");
@@ -769,8 +769,5 @@ let favori = [];
 
 // programme principal
 (async function () {
-    setupFavori();
-    lancementData();
-    resetFiltre();
-    setupListenersFiltrage();
+    resetFiltre().then(setupFavori()).then(lancementData()).then(setupListenersFiltrage());
 })();

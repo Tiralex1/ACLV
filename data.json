@@ -1,6 +1,6 @@
 {
-  "nb_anime": 495,
-  "nb_musique": 2407,
+  "nb_anime": 496,
+  "nb_musique": 2408,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -22539,6 +22539,30 @@
           "C": 0,
           "L": 0,
           "V": 0,
+          "T": 0
+        }
+      ]
+    },
+    {
+      "nom": "Suki na Ko ga Megane wo Wasureta",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/54234",
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Megane Go Round",
+          "artiste": "Masayoshi ga Megane o Wasureta",
+          "lien": "https://nl.catbox.moe/lke3m8.webm"
+        }
+      ],
+      "users": [
+        {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
           "T": 0
         }
       ]

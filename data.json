@@ -1,6 +1,6 @@
 {
   "nb_anime": 496,
-  "nb_musique": 2408,
+  "nb_musique": 2409,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -22547,8 +22547,15 @@
       "nom": "Suki na Ko ga Megane wo Wasureta",
       "id": 0,
       "lien": "https://myanimelist.net/anime/54234",
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "NAME",
+          "artiste": "Tsuzuri",
+          "lien": "https://nl.catbox.moe/6wvf2s.webm"
+        },
         {
           "type": "Ending",
           "numero": 1,

@@ -22,6 +22,28 @@
             </select>
             <label for="name_music"> | Musique : </label><input type="text" value="" id="name_music" />
             <label for="name_artist"> | Artiste(s) : </label><input type="text" value="" id="name_artist" />
+            <label for="genres"> | Genres : </label>
+            <select id="genres">
+                <option value="">-</option>
+                <option value="0">Action</option>
+                <option value="1">Adventure</option>
+                <option value="2">Comedy</option>
+                <option value="3">Drama</option>
+                <option value="4">Ecchi</option>
+                <option value="5">Fantasy</option>
+                <option value="6">Horror</option>
+                <option value="7">Mahou Shoujo</option>
+                <option value="8">Mecha</option>
+                <option value="9">Music</option>
+                <option value="10">Mystery</option>
+                <option value="11">Psychological</option>
+                <option value="12">Romance</option>
+                <option value="13">Sci-Fi</option>
+                <option value="14">Slice of Life</option>
+                <option value="15">Sports</option>
+                <option value="16">Supernatural</option>
+                <option value="17">Thriller</option>
+            </select>
             <label for="jointure"> | </label>
             <select id="jointure">
                 <option value="Union">Union</option>
@@ -32,31 +54,6 @@
             <label for="L"> | L </label><input value="1" type="checkbox" id="L" checked />
             <label for="V"> | V </label><input value="1" type="checkbox" id="V" checked />
             <label for="T"> | T </label><input value="1" type="checkbox" id="T" checked />
-            |&nbsp;
-            <input type="button" value="Favori" id="favori" />
-            <input type="button" value="S" id="save" />
-            <input type="button" value="L" id="load" />
-        </div>
-        <div class="filtre_genres">
-            &nbsp;Genres:
-            <label for="Action">Action</label><input type="checkbox" name="Action" id="Action">
-            <label for="Adventure">Adventure</label><input type="checkbox" name="Adventure" id="Adventure">
-            <label for="Comedy">Comedy</label><input type="checkbox" name="Comedy" id="Comedy">
-            <label for="Drama">Drama</label><input type="checkbox" name="Drama" id="Drama">
-            <label for="Ecchi">Ecchi</label><input type="checkbox" name="Ecchi" id="Ecchi">
-            <label for="Fantasy">Fantasy</label><input type="checkbox" name="Fantasy" id="Fantasy">
-            <label for="Horror">Horror</label><input type="checkbox" name="Horror" id="Horror">
-            <label for="Mahou Shoujo">Mahou Shoujo</label><input type="checkbox" name="Mahou Shoujo" id="Mahou Shoujo">
-            <label for="Mecha">Mecha</label><input type="checkbox" name="Mecha" id="Mecha">
-            <label for="Music">Music</label><input type="checkbox" name="Music" id="Music">
-            <label for="Mystery">Mystery</label><input type="checkbox" name="Mystery" id="Mystery">
-            <label for="Psychological">Psychological</label><input type="checkbox" name="Psychological" id="Psychological">
-            <label for="Romance">Romance</label><input type="checkbox" name="Romance" id="Romance">
-            <label for="Sci-Fi">Sci-Fi</label><input type="checkbox" name="Sci-Fi" id="Sci-Fi">
-            <label for="Slice of Life">Slice of Life</label><input type="checkbox" name="Slice of Life" id="Slice of Life">
-            <label for="Sports">Sports</label><input type="checkbox" name="Sports" id="Sports">
-            <label for="Supernatural">Supernatural</label><input type="checkbox" name="Supernatural" id="Supernatural">
-            <label for="Thriller">Thriller</label><input type="checkbox" name="Thriller" id="Thriller">
         </div>
         <div>
             &nbsp;Affichage Lien
@@ -64,6 +61,10 @@
             <label for="affich_lien2"></label><input type="radio" value="2" name="affich_lien" id="affich_lien2" />
             &nbsp;
             <label for="lecture_auto">Lecture Automatique</label><input type="checkbox" value="1" id="lecture_auto">
+            |&nbsp;
+            <input type="button" value="Favori" id="favori" />
+            <input type="button" value="S" id="save" />
+            <input type="button" value="L" id="load" />
         </div>
     </div>
     <script src="index.js" defer></script>

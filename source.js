@@ -4,17 +4,17 @@ function correctString(str) {
     return string;
 }
 
-function createSimpleNode(type, options, innerHTML = "") {
+function createSimpleNode (type, options, innerHTML = ""){
     let node = document.createElement(type);
     if (innerHTML !== "") node.innerHTML = innerHTML;
     for (let opt in options) node[opt] = options[opt];
     return node;
 }
 
-function charger(tr) {
+function charger(tr){
     tr.style.display = "";
 }
-function decharger(tr) {
+function decharger(tr){
     tr.style.display = "none";
 }
 
@@ -25,27 +25,27 @@ class HTMLMusic {
     // champs
     #htmlAnime; #tr; #tds = [];
     // constructor
-    constructor(music, htmlAnime) {
+    constructor(music, htmlAnime){
         if (!music instanceof Music || !htmlAnime instanceof HTMLAnime) throw new Error("Illegal Argument (constructor HTMLMusic)");
         this.#htmlAnime = htmlAnime;
-        let tdFavo = createSimpleNode("td", { "className": "favo" }, "&#10025;");
-        tdFavo.addEventListener("click", function () {
+        let tdFavo = createSimpleNode("td", {"className" : "favo"}, "&#10025;");
+        tdFavo.addEventListener("click", function(){
             modifFav(music.getAnime, music, tdFavo.innerHTML == falseTd.innerHTML);
             tdFavo.innerHTML = tdFavo.innerHTML == falseTd.innerHTML ? "&#9733;" : "&#10025;";
         });
         this.#tds.push(tdFavo);
-        this.#tds.push(createSimpleNode("td", { "className": "nom_anime" }, music.getAnime.getNom));
-        this.#tds.push(createSimpleNode("td", { "className": "type_music" }, music.getType));
-        this.#tds.push(createSimpleNode("td", { "className": "numero_music" }, music.getNumero));
-        this.#tds.push(createSimpleNode("td", { "className": "nom_music" }, music.getNom));
-        this.#tds.push(createSimpleNode("td", { "className": "nom_artist" }, music.getArtist));
-        let a = createSimpleNode("a", { "href": music.getLien, "target": "_blank" }, "Lien");
+        this.#tds.push(createSimpleNode("td", {"className" : "nom_anime"}, music.getAnime.getNom));
+        this.#tds.push(createSimpleNode("td", {"className" : "type_music"}, music.getType));
+        this.#tds.push(createSimpleNode("td", {"className" : "numero_music"}, music.getNumero));
+        this.#tds.push(createSimpleNode("td", {"className" : "nom_music"}, music.getNom));
+        this.#tds.push(createSimpleNode("td", {"className" : "nom_artist"}, music.getArtist));
+        let a = createSimpleNode("a", {"href" : music.getLien, "target" : "_blank"}, "Lien");
         let br = createSimpleNode("br", {});
-        let button = createSimpleNode("button", { "style": "background-color : transparent; border : transparent;" }, "&#9658;");
-        button.addEventListener("click", async function () {
+        let button = createSimpleNode("button", {"style" : "background-color : transparent; border : transparent;"}, "&#9658;");
+        button.addEventListener("click", async function(){
             clickAudio(music.getLien, button);
         });
-        let tdLien = createSimpleNode("td", { "className": "lien" });
+        let tdLien = createSimpleNode("td", {"className" : "lien"});
         tdLien.appendChild(a);
         tdLien.appendChild(br);
         tdLien.appendChild(button);
@@ -56,22 +56,22 @@ class HTMLMusic {
         });
     }
     // getters
-    get getHTMLAnime() { return this.#htmlAnime; }
-    get getTr() { return this.#tr; }
-    getTd(ind) { return this.#tds[ind]; }
+    get getHTMLAnime(){return this.#htmlAnime;}
+    get getTr(){return this.#tr;}
+    getTd(ind){return this.#tds[ind];}
     // méthodes
-    setBackground(background) {
+    setBackground(background){
         if (!typeof background === "string") throw new Error("Illegal Argument (setBackground HTMLMusic)");
         this.#tr.style.backgroundColor = background;
     }
-}
+} 
 
 class Music {
     // champs
     #anime; #type; #numero; #nom; #artist; #lien; #html;
     // constructor
-    constructor(anime, type, numero, nom, artist, lien) {
-        if (anime instanceof Anime && typeof type === "string" && Number.isInteger(numero) && typeof nom === "string" && typeof artist === "string" && typeof lien === "string") {
+    constructor(anime, type, numero, nom, artist, lien){
+        if (anime instanceof Anime && typeof type === "string" && Number.isInteger(numero) && typeof nom === "string" && typeof artist === "string" && typeof lien === "string"){
             this.#anime = anime;
             this.#type = type;
             this.#numero = numero;
@@ -90,7 +90,7 @@ class Music {
     get getLien() { return this.#lien; }
     get getHtml() { return this.#html; }
     // setters
-    setHTML(html) {
+    setHTML(html){
         if (!html instanceof HTMLMusic) throw new Error("Illegal Argument (setHTML HTMLAnime)")
         this.#html = html;
     }
@@ -100,36 +100,36 @@ class HTMLAnime {
     // champs
     #tr; #htmlMusics = [];
     // constructor
-    constructor(anime) {
+    constructor(anime){
         if (!anime instanceof Anime) throw new Error("Illegal Argument (constructor HTMLAnime)");
-        this.#tr = createSimpleNode("tr", { "className": "grey" });
-        let tdPrincipal = createSimpleNode("td", { "colSpan": "7" });
+        this.#tr = createSimpleNode("tr", {"className" : "grey"});
+        let tdPrincipal = createSimpleNode("td", {"colSpan" : "7"});
         this.#tr.appendChild(tdPrincipal);
-        let divTete = createSimpleNode("div", { "className": "tete" });
+        let divTete = createSimpleNode("div", {"className" : "tete"});
         tdPrincipal.appendChild(divTete);
         let div1;
-        if (ModeAffichLien == "2") {
-            div1 = createSimpleNode("div", { "className": "_1 grey" }, anime.getNom + "&ensp;");
-            div1.appendChild(createSimpleNode("a", { "href": anime.getLien, "target": "_blank", "style": "color : darkblue;" }, "&#9032;"));
+        if (ModeAffichLien == "2"){
+            div1 = createSimpleNode("div", {"className" : "_1 grey"}, anime.getNom+"&ensp;");
+            div1.appendChild(createSimpleNode("a", {"href" : anime.getLien, "target" : "_blank", "style" : "color : darkblue;"}, "&#9032;"));
         }
-        else {
-            div1 = createSimpleNode("div", { "className": "_1 grey" });
-            div1.appendChild(createSimpleNode("a", { "href": anime.getLien, "target": "_blank" }, anime.getNom));
+        else{
+            div1 = createSimpleNode("div", {"className" : "_1 grey"});
+            div1.appendChild(createSimpleNode("a", {"href" : anime.getLien, "target" : "_blank"}, anime.getNom));
         }
         divTete.appendChild(div1);
         for (var j = 0; j < TabStringUsers.length; j++) {
-            let div = createSimpleNode("div", { "className": "_" + (j + 2) + (anime.getEtatUser(j) ? " watch" : " no-watch") }, TabStringUsers[j]);
+            let div = createSimpleNode("div", {"className" : "_"+(j+2)+(anime.getEtatUser(j)?" watch":" no-watch")}, TabStringUsers[j]);
             divTete.appendChild(div);
         }
-        for (let i = 0; i < anime.getNbMusic; ++i) {
-            let htmlMusic = new HTMLMusic(anime.getMusic(i), this);
+        for (let i = 0 ; i < anime.getNbMusic ; ++i){
+            let htmlMusic = new HTMLMusic(anime.getMusic(i),this);
             this.#htmlMusics.push(htmlMusic);
             anime.getMusic(i).setHTML(htmlMusic);
         }
     }
     // getters
-    get getTr() { return this.#tr; }
-    get getTabTrMusic() {
+    get getTr(){ return this.#tr;}
+    get getTabTrMusic(){ 
         let tab = [];
         this.#htmlMusics.forEach(htmlMusic => {
             tab.push(htmlMusic.getTr);
@@ -137,13 +137,13 @@ class HTMLAnime {
         return tab;
     }
     // méthodes
-    setBackground(background) {
+    setBackground(background){
         if (!typeof background === "string") throw new Error("Illegal Argument (setBackground HTMLAnime)");
         this.#htmlMusics.forEach(htmlMusic => {
             htmlMusic.setBackground(background);
         });
     }
-    dechargerAll() {
+    dechargerAll(){
         decharger(this.#tr);
         this.#htmlMusics.forEach(htmlMusic => {
             decharger(htmlMusic.getTr);
@@ -153,10 +153,10 @@ class HTMLAnime {
 
 class Anime {
     // champs
-    #nom; #id; #lien; #tabMusic = []; #tabUsers = []; #html;
+    #nom; #id; #lien; #tabMusic = []; #tabGenres = []; #tabUsers = []; #html;
     // constructor
     constructor(nom, id, lien, html = null) {
-        if (typeof nom === "string" && Number.isInteger(id) && typeof lien === "string") {
+        if (typeof nom === "string" && Number.isInteger(id) && typeof lien === "string"){
             this.#nom = nom;
             this.#id = id;
             this.#lien = lien;
@@ -168,39 +168,51 @@ class Anime {
     get getNom() { return this.#nom; }
     get getId() { return this.#id; }
     get getLien() { return this.#lien; }
-    getMusic(ind) {
-        if (!Number.isInteger(ind)) throw new Error("illegal Argument (getMusic Method in Class Anime)");
-        return this.#tabMusic[ind];
+    getMusic(ind) { 
+        if (!Number.isInteger(ind)) throw new Error ("illegal Argument (getMusic Method in Class Anime)");
+        return this.#tabMusic[ind]; 
     }
     get getNbMusic() { return this.#tabMusic.length; }
-    getEtatUser(ind) {
-        if (!Number.isInteger(ind)) throw new Error("illegal Argument (getEtatUser Method in Class Anime)");
-        return this.#tabUsers[ind];
+    getEtatUser(ind) { 
+        if (!Number.isInteger(ind)) throw new Error ("illegal Argument (getEtatUser Method in Class Anime)");
+        return this.#tabUsers[ind]; 
+    }
+    getEtatGenre(ind) {
+        if (!Number.isInteger(ind)) throw new Error ("illegal Argument (getEtatUser Method in Class Anime)");
+        return this.#tabGenres[ind]; 
     }
     get getHtml() { return this.#html; }
     // méthodes
     generateHTML() {
         this.#html = new HTMLAnime(this);
     }
-    ajouteMusic(music) {
-        if (!music instanceof Music) throw new Error("illegal Argument (ajouteMusic Method in Class Anime)");
-        this.#tabMusic.push(music);
+    ajouteMusic(music) { 
+        if (!music instanceof Music) throw new Error ("illegal Argument (ajouteMusic Method in Class Anime)");
+        this.#tabMusic.push(music); 
     }
-    ajoutePosMusic(music, pos) {
-        if (!music instanceof Music || !Number.isInteger(pos)) throw new Error("illegal Argument (ajouteMusic Method in Class Anime)");
-        this.#tabMusic.splice(pos, 0, music);
+    ajoutePosMusic(music, pos) { 
+        if (!music instanceof Music || !Number.isInteger(pos)) throw new Error ("illegal Argument (ajouteMusic Method in Class Anime)");
+        this.#tabMusic.splice(pos, 0, music); 
     }
-    supprimePosMusic(pos) {
-        if (!Number.isInteger(pos)) throw new Error("illegal Argument (supprimePosMusic Method in Class Anime)");
+    supprimePosMusic(pos) { 
+        if (!Number.isInteger(pos)) throw new Error ("illegal Argument (supprimePosMusic Method in Class Anime)");
         this.#tabMusic.splice(pos, 1);
     }
-    ajouteUser(bool) {
-        if (!typeof bool === "boolean") throw new Error("illegal Argument (ajouteUser Method in Class Anime)");
-        this.#tabUsers.push(bool);
+    ajouteUser(bool) { 
+        if (!typeof bool === "boolean") throw new Error ("illegal Argument (ajouteUser Method in Class Anime)");
+        this.#tabUsers.push(bool); 
     }
-    copieUsers(anime) {
-        if (!anime instanceof Anime) throw new Error("illegal Argument (copieUsers Method in Class Anime)");
-        for (var i = 0; i < TabStringUsers.length; ++i) eval("this.ajouteUser(anime.getEtatUser(" + i + "));");
+    ajouteGenre(bool) {
+        if (!typeof bool === "boolean") throw new Error ("illegal Argument (ajouteGenre Method in Class Anime)");
+        this.#tabGenres.push(bool);
+    }
+    copieUsers(anime) { 
+        if (!anime instanceof Anime) throw new Error ("illegal Argument (copieUsers Method in Class Anime)");
+        for (var i = 0; i < TabStringUsers.length; ++i) eval("this.ajouteUser(anime.getEtatUser(" + i + "));"); 
+    }
+    copieGenres(anime) {
+        if (!anime instanceof Anime) throw new Error ("illegal Argument (copieGenres Method in Class Anime)");
+        for (var i = 0; i < TabGenres.length; ++i) eval("this.ajouteUser(anime.getEtatGenre(" + i + "));"); 
     }
 }
 
@@ -212,7 +224,7 @@ class ListeAnime {
     get getNbMusic() { return this.#nbMusic; }
     getAnime(i) { return this.#tabAnime[i] }
     // méthodes
-    generateHTML() {
+    generateHTML(){
         this.#tabAnime.forEach(anime => {
             anime.generateHTML();
         });
@@ -241,7 +253,7 @@ class ListeAnime {
         this.#tabAnime[i].supprimePosMusic(pos);
         this.#nbMusic --;
     }
-    dechargerAllHtml() {
+    dechargerAllHtml(){
         this.#tabAnime.forEach(anime => {
             anime.getHtml.dechargerAll();
         });
@@ -256,62 +268,62 @@ Object.seal(ListeAnime);
 // ------------------------------Class Fin---------------------------------------------------------------------------------------------------------------------------//
 
 // event listeners pour (filtrage + affichage favori + save load favori)
-async function setupListenersFiltrage() {
+async function setupListenersFiltrage(){
     document.querySelectorAll("input[type='checkbox'], select").forEach(el => {
-        if (el.id != "lecture_auto") {
-            el.addEventListener("change", async function () {
+        if (el.id != "lecture_auto"){
+            el.addEventListener("change", async function(){
                 filtre();
             });
         }
     });
     document.querySelectorAll("input[type='text']").forEach(el => {
-        el.addEventListener("input", async function () {
+        el.addEventListener("input", async function(){
             filtre();
         });
     });
-    document.querySelector("#favori").addEventListener("click", async function () {
+    document.querySelector("#favori").addEventListener("click", async function(){
         affichFav();
     });
-    document.querySelector("#save").addEventListener("click", async function () {
+    document.querySelector("#save").addEventListener("click", async function(){
         saveFav();
     });
-    document.querySelector("#load").addEventListener("click", async function () {
+    document.querySelector("#load").addEventListener("click", async function(){
         loadFav();
     });
-    document.addEventListener("scroll", async function () {
+    document.addEventListener("scroll", async function(){
         if (nbAffich == HTMLTab.length) return;
-        if (window.scrollY >= nbPixelAvantUpdate) {
-            for (let i = nbAffich; i < (nbAffich + 100 < HTMLTab.length ? nbAffich + 100 : HTMLTab.length); ++i) charger(HTMLTab[i]);
-            nbAffich = (nbAffich + 100 < HTMLTab.length ? nbAffich + 100 : HTMLTab.length);
-            nbPixelAvantUpdate = Math.ceil(120 + (Math.ceil(nbAffich / 100) - 1) * 6000 + (100 * 60) * (3 / 4));
+        if (window.scrollY >= nbPixelAvantUpdate){
+            for (let i = nbAffich ; i < (nbAffich+100 < HTMLTab.length ? nbAffich+100 : HTMLTab.length) ; ++i) charger(HTMLTab[i]);
+            nbAffich = (nbAffich+100 < HTMLTab.length ? nbAffich+100 : HTMLTab.length);
+            nbPixelAvantUpdate = Math.ceil(120+(Math.ceil(nbAffich/100)-1)*6000+(100*60)*(3/4));
         }
     });
-    AudioActuel.addEventListener("ended", function () {
+    AudioActuel.addEventListener("ended", function(){
         clickAudio.button.click();
-        if (lectureAutomatique) {
+        if (lectureAutomatique){
             let button2 = chercheNextBouton(clickAudio.button);
             if (button2 != null) button2.click();
         }
     });
-    inputLectureAuto.addEventListener("click", async function () {
+    inputLectureAuto.addEventListener("click", async function(){
         lectureAutomatique = !lectureAutomatique;
     });
     document.querySelectorAll("input[type='radio']").forEach(radio => {
-        radio.addEventListener("change", async function () {
+        radio.addEventListener("change", async function(){
             modifModeAffich();
         })
     });
 }
 
 // ------------------------------Data Traitement---------------------------------------------------------------------------------------------------------------------//
-async function lancementData() {
-    doCorsRequest("get", "data.json");
+async function lancementData(){
+    doCorsRequest("get","data.json");
 }
 
-async function doCorsRequest(method, url) {
+async function doCorsRequest(method, url){
     let x = new XMLHttpRequest();
-    x.open(method, url);
-    x.onload = x.onerror = function () {
+    x.open(method,url);
+    x.onload = x.onerror = function(){
         let res = x.responseText;
         res = JSON.parse(res);
         genereData(res);
@@ -326,10 +338,12 @@ function genereData(data) {
             let M = new Music(A, music.type, music.numero, correctString(music.nom), correctString(music.artiste), music.lien);
             A.ajouteMusic(M);
         });
-        let users = anime.users[0];
+        let users = anime.users;
         TabStringUsers.forEach(user => {
-            A.ajouteUser(users[user] == 1);
+            A.ajouteUser(users[user]==1);
         });
+        let genres = anime.genres;
+        for (let i = 0 ; i < TabGenres.length ; ++i) A.ajouteGenre(genres[i]);
         globalList.ajouteAnime(A);
     });
     globalList.generateHTML();
@@ -339,14 +353,14 @@ function genereData(data) {
 // ------------------------------Data Traitement Fin-----------------------------------------------------------------------------------------------------------------//
 
 // affichage
-function genereTabTr(liste, affichTrAnime = true) {
+function genereTabTr(liste, affichTrAnime = true){
     let tab = [];
     let color = AlternateColor1;
-    for (let i = 0; i < liste.getNbAnime; ++i) {
+    for (let i = 0 ; i < liste.getNbAnime ; ++i){
         liste.getAnime(i).getHtml.setBackground(color);
-        color = color == AlternateColor1 ? AlternateColor2 : AlternateColor1;
+        color = color==AlternateColor1 ? AlternateColor2 : AlternateColor1;
         if (affichTrAnime) tab.push(liste.getAnime(i).getHtml.getTr);
-        for (let j = 0; j < liste.getAnime(i).getNbMusic; ++j) {
+        for (let j = 0 ; j < liste.getAnime(i).getNbMusic ; ++j){
             tab.push(liste.getAnime(i).getMusic(j).getHtml.getTr);
         }
     }
@@ -359,24 +373,24 @@ function setupAffich() {
     let table = document.createElement("table");
     table.id = "AnimeMusicList";
     HTMLTab = genereTabTr(globalList);
-    for (let i = 100; i < HTMLTab.length; ++i) decharger(HTMLTab[i]);
+    for (let i = 100 ; i < HTMLTab.length ; ++i) decharger(HTMLTab[i]);
     nbAffich = HTMLTab.length < 100 ? HTMLTab.length : 100;
-    nbPixelAvantUpdate = Math.ceil(120 + (Math.ceil(nbAffich / 100) - 1) * 6000 + (100 * 60) * (3 / 4));
-    for (let i = 0; i < HTMLTab.length; ++i) table.appendChild(HTMLTab[i]);
+    nbPixelAvantUpdate = Math.ceil(120+(Math.ceil(nbAffich/100)-1)*6000+(100*60)*(3/4));
+    for (let i = 0 ; i < HTMLTab.length ; ++i) table.appendChild(HTMLTab[i]);
     info.innerHTML = "&nbsp;Nb Anime: " + globalList.getNbAnime + " | Nb Musique: " + globalList.getNbMusic;
     document.body.appendChild(info);
     document.body.appendChild(table);
 }
 
-function affichFiltr() {
+function affichFiltr(){
     clickAudioStop();
     let info = document.getElementById("info");
     info.innerHTML = "&nbsp;Nb Anime: " + listeFiltre.getNbAnime + " | Nb Musique: " + listeFiltre.getNbMusic;
     HTMLTab = genereTabTr(listeFiltre, !AffichageFavori);
-    for (let i = 100; i < HTMLTab.length; ++i) decharger(HTMLTab[i]);
+    for (let i = 100 ; i < HTMLTab.length ; ++i) decharger(HTMLTab[i]);
     nbAffich = HTMLTab.length < 100 ? HTMLTab.length : 100;
-    nbPixelAvantUpdate = Math.ceil(120 + (Math.ceil(nbAffich / 100) - 1) * 6000 + (100 * 60) * (3 / 4));
-    for (let i = 0; i < nbAffich; ++i) charger(HTMLTab[i]);
+    nbPixelAvantUpdate = Math.ceil(120+(Math.ceil(nbAffich/100)-1)*6000+(100*60)*(3/4));
+    for (let i = 0 ; i < nbAffich ; ++i) charger(HTMLTab[i]);
 }
 
 // affichage fin
@@ -400,6 +414,7 @@ function filtreTypeMusic(listeFiltreAnime, val) {
             if (A.getMusic(j).getType == val) Abis.ajouteMusic(A.getMusic(j));
             else decharger(listeFiltreAnime.getAnime(i).getMusic(j).getHtml.getTr);
         Abis.copieUsers(A);
+        Abis.copieGenres(A);
         if (Abis.getNbMusic > 0) listeA.ajouteAnime(Abis);
         else decharger(listeFiltreAnime.getAnime(i).getHtml.getTr);
     }
@@ -415,6 +430,7 @@ function filtreNomMusic(listeFiltreAnime, val) {
             if (A.getMusic(j).getNom.toLowerCase().includes(val.toLowerCase())) Abis.ajouteMusic(A.getMusic(j));
             else decharger(listeFiltreAnime.getAnime(i).getMusic(j).getHtml.getTr);
         Abis.copieUsers(A);
+        Abis.copieGenres(A);
         if (Abis.getNbMusic > 0) listeA.ajouteAnime(Abis);
         else decharger(listeFiltreAnime.getAnime(i).getHtml.getTr);
     }
@@ -430,6 +446,7 @@ function filtreNomArtistMusic(listeFiltreAnime, val) {
             if (A.getMusic(j).getArtist.toLowerCase().includes(val.toLowerCase())) Abis.ajouteMusic(A.getMusic(j));
             else decharger(listeFiltreAnime.getAnime(i).getMusic(j).getHtml.getTr);
         Abis.copieUsers(A);
+        Abis.copieGenres(A);
         if (Abis.getNbMusic > 0) listeA.ajouteAnime(Abis);
         else decharger(listeFiltreAnime.getAnime(i).getHtml.getTr);
     }
@@ -470,6 +487,32 @@ function filtreUsersIntersection(listeFiltreAnime) {
     return listeA;
 }
 
+function filtreGenres(listeFiltreAnime) {
+    var listeA = new ListeAnime();
+    for (var i = 0 ; i < listeFiltreAnime.getNbAnime; ++i){
+        var stop = false;
+        var j = 0;
+        while (j < TabGenres.length && !stop){
+            if (tabFiltreGenres[j].checked && listeFiltreAnime.getAnime(i).getEtatGenre(j)) stop = true;
+            if (stop) listeA.ajouteAnime(listeFiltreAnime.getAnime(i));
+            else j++;
+        }
+        if (!stop) listeFiltreAnime.getAnime(i).getHtml.dechargerAll();
+    }
+    return listeA;
+}
+
+function checkUpdateFiltreGenre(){
+    let res = false;
+    tabFiltreGenres.forEach(input => {
+        if (!input.checked){
+            res = true;
+            return true;
+        }
+    });
+    return res;
+}
+
 function filtre() {
     let listeFiltreAnime = globalList;
     AffichageFavori = false;
@@ -490,6 +533,8 @@ function filtre() {
     val = correctString(filtreNomArtistInput.value);
     if (val != "") { listeFiltreAnime = filtreNomArtistMusic(listeFiltreAnime, val); }
 
+    if (checkUpdateFiltreGenre()) listeFiltreAnime = filtreGenres(listeFiltreAnime);
+
     listeFiltre = listeFiltreAnime;
     affichFiltr();
 }
@@ -503,17 +548,18 @@ async function resetFiltre() {
     filtreNomArtistInput.value = "";
     filtreJointureSelect.value = "Union";
     for (var i of TabStringUsers) eval(i + ".checked = true");
+    for (var input of tabFiltreGenres) input.checked = true;
 }
 
 // audio
 
-function chercheNextBouton(button) {
+function chercheNextBouton(button){
     let trActuel = button.parentElement.parentElement.nextElementSibling;
-    while (trActuel != null && (trActuel.classList.contains("grey") || trActuel.style.display == "none")) {
+    while (trActuel != null && (trActuel.classList.contains("grey") || trActuel.style.display == "none")){
         trActuel = trActuel.nextElementSibling;
     }
     if (trActuel != null) return trActuel.querySelector("button");
-    else if (HTMLTab.length > 0) {
+    else if (HTMLTab.length > 0){
         if (HTMLTab[0].classList.contains("grey")) return HTMLTab[1].querySelector("button");
         else return HTMLTab[0].querySelector("button");
     }
@@ -560,7 +606,7 @@ function modifModeAffich() {
 
 // favori
 
-async function setupFavori() {
+async function setupFavori(){
     if (localStorage.getItem("favori")) {
         var favori_string = localStorage.getItem("favori");
         favori = favori_string.split("|");
@@ -678,13 +724,13 @@ function modifFav(anime, music, estfavori) {
     sauvegardeFav();
 }
 
-function setupFav(liste, tabLiens) {
+function setupFav(liste, tabLiens){
     if (tabLiens.length == 0) return;
     let k = 0;
-    for (let i = 0; i < globalList.getNbAnime && k < tabLiens.length; ++i) {
-        let A = new Anime(globalList.getAnime(i).getNom, globalList.getAnime(i).getId, globalList.getAnime(i).getLien, globalList.getAnime(i).getHtml);
-        for (let j = 0; j < globalList.getAnime(i).getNbMusic && k < tabLiens.length; ++j) {
-            if (globalList.getAnime(i).getMusic(j).getLien == tabLiens[k]) {
+    for (let i = 0 ; i < globalList.getNbAnime && k < tabLiens.length ; ++i){
+        let A = new Anime(globalList.getAnime(i).getNom,globalList.getAnime(i).getId,globalList.getAnime(i).getLien,globalList.getAnime(i).getHtml);
+        for (let j = 0 ; j < globalList.getAnime(i).getNbMusic && k < tabLiens.length ; ++j){
+            if (globalList.getAnime(i).getMusic(j).getLien == tabLiens[k]){
                 A.ajouteMusic(globalList.getAnime(i).getMusic(j));
                 globalList.getAnime(i).getMusic(j).getHtml.getTd(0).innerHTML = "&#9733;";
                 k++;
@@ -736,6 +782,7 @@ function repareFav() {
 
 // constantes et variables globales
 const TabStringUsers = ["A", "C", "L", "V", "T"];
+const TabGenres = ["Action", "Adventure", "Comedy", "Drama", "Ecchi", "Fantasy", "Horror", "Mahou Shoujo", "Mecha", "Music", "Mystery", "Psychological", "Romance", "Sci-Fi", "Slice of Life", "Sports", "Supernatural", "Thriller"];
 let globalList = new ListeAnime();
 let fav = new ListeAnime();
 let listeFiltre = globalList;
@@ -751,6 +798,8 @@ let filtreNomMusicInput = document.getElementById("name_music");
 let filtreNomArtistInput = document.getElementById("name_artist");
 let filtreJointureSelect = document.getElementById("jointure");
 for (var i of TabStringUsers) eval("let " + i + " = document.getElementById(\"" + i + "\");");
+let tabFiltreGenres = [];
+for (var i of TabGenres) eval("tabFiltreGenres.push(document.getElementById(\"" + i + "\"));");
 
 let AudioActuel = new Audio("");
 let stateAudio = 0;
@@ -768,6 +817,6 @@ let AffichageFavori = false;
 let favori = [];
 
 // programme principal
-(async function () {
-    resetFiltre().then(setupFavori()).then(lancementData()).then(setupListenersFiltrage());
+(async function(){
+    resetFiltre().then(setupFavori()).then(lancementData()).then(setupListenersFiltrage()).then(console.log(globalList));
 })();

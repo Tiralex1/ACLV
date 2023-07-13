@@ -23008,7 +23008,7 @@
       }
     },
     {
-      "nom": "Suki na Ko ga Megane wo Wasureta",
+      "nom": "Suki na Ko ga Megane o Wasureta",
       "id": 0,
       "lien": "https://myanimelist.net/anime/54234",
       "nb_musique": 2,
@@ -23029,14 +23029,31 @@
         }
       ],
       "genres": [
-          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "users": {
-          "A": 0,
-          "C": 0,
-          "L": 0,
-          "V": 1,
-          "T": 0
+        "A": 0,
+        "C": 0,
+        "L": 0,
+        "V": 1,
+        "T": 0
       }
     },
     {

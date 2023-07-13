@@ -1,6 +1,6 @@
 {
-  "nb_anime": 496,
-  "nb_musique": 2409,
+  "nb_anime": 497,
+  "nb_musique": 2411,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -9847,6 +9847,38 @@
           "A": 0,
           "C": 1,
           "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu ni Samayou",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/52619",
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Fanfare",
+          "artiste": "BRADIO",
+          "lien": "https://nl.catbox.moe/ajd6g0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Itsumo no Soup",
+          "artiste": "Peel the Apple",
+          "lien": "https://nl.catbox.moe/f8zow9.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 1,
+          "C": 0,
+          "L": 1,
           "V": 0,
           "T": 0
       }

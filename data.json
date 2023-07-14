@@ -22638,6 +22638,13 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Minna de Yeah☆Oh!!",
+          "artiste": "Suzuko Mimori",
+          "lien": "https://nl.catbox.moe/e4fdvu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "My Way",
           "artiste": "Kenichi Suzumura",
           "lien": "https://nl.catbox.moe/eqkk1e.webm"
@@ -22655,13 +22662,6 @@
           "nom": "The Day I Knew I Needed You",
           "artiste": "MARLOE.",
           "lien": "https://nl.catbox.moe/s70sty.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Minna de Yeah☆Oh!!",
-          "artiste": "Suzuko Mimori",
-          "lien": "https://nl.catbox.moe/e4fdvu.webm"
         }
       ],
       "genres": [

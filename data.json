@@ -1,6 +1,6 @@
 {
-  "nb_anime": 497,
-  "nb_musique": 2411,
+  "nb_anime": 498,
+  "nb_musique": 2414,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -22160,6 +22160,45 @@
       }
     },
     {
+      "nom": "Shuumatsu no Walküre II",
+      "id": 0,
+      "lien": "https://myanimelist.net/anime/49618",
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Rude Lose Dance",
+          "artiste": "Minami",
+          "lien": "https://nl.catbox.moe/87y2l5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Inori",
+          "artiste": "Masatoshi Ono",
+          "lien": "https://nl.catbox.moe/c0sort.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "London Bridge is Falling Dawn",
+          "artiste": "Tomokazu Sugita",
+          "lien": "https://nl.catbox.moe/9f83ad.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Skip to Loafer",
       "id": 0,
       "lien": "https://myanimelist.net/anime/50416/Skip_to_Loafer",
@@ -23029,31 +23068,14 @@
         }
       ],
       "genres": [
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ],
       "users": {
-        "A": 0,
-        "C": 0,
-        "L": 0,
-        "V": 1,
-        "T": 0
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0
       }
     },
     {

@@ -1,6 +1,6 @@
 {
   "nb_anime": 498,
-  "nb_musique": 2414,
+  "nb_musique": 2416,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -22577,7 +22577,7 @@
       "nom": "SSSS.DYNAZENON",
       "id": 0,
       "mal_id": 40870,
-      "nb_musique": 11,
+      "nb_musique": 12,
       "musique": [
         {
           "type": "Opening",
@@ -22655,6 +22655,13 @@
           "nom": "The Day I Knew I Needed You",
           "artiste": "MARLOE.",
           "lien": "https://nl.catbox.moe/s70sty.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Minna de Yeah☆Oh!!",
+          "artiste": "Suzuko Mimori",
+          "lien": "https://nl.catbox.moe/e4fdvu.webm"
         }
       ],
       "genres": [
@@ -23181,7 +23188,7 @@
       "nom": "Summertime Render",
       "id": 0,
       "mal_id": 47194,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -23210,6 +23217,13 @@
           "nom": "Shitsuren Song Takusan Kiite Naite Bakari no Watashi wa Mou.",
           "artiste": "Riria.",
           "lien": "https://nl.catbox.moe/jlnj9f.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Egao de Konnichiwa ~Renewal-ban~",
+          "artiste": "Osaka Ongaku Daigaku Seigakuka Daigakuinsei 4-mei",
+          "lien": "https://nl.catbox.moe/vt78fz.webm"
         }
       ],
       "genres": [

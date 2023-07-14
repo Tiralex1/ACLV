@@ -5,7 +5,7 @@
     {
       "nom": "\"Oshi no Ko\"",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/52034",
+      "mal-id": 52034,
       "nb_musique": 9,
       "musique": [
         {
@@ -86,7 +86,7 @@
     {
       "nom": "100-man no Inochi no Ue ni Ore wa Tatteiru",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41380",
+      "mal-id": 41380,
       "nb_musique": 3,
       "musique": [
         {
@@ -125,7 +125,7 @@
     {
       "nom": "3D Kanojo Real Girl",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36793",
+      "mal-id": 36793,
       "nb_musique": 2,
       "musique": [
         {
@@ -157,7 +157,7 @@
     {
       "nom": "3D Kanojo Real Girl",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/37956",
+      "mal-id": 37956,
       "nb_musique": 3,
       "musique": [
         {
@@ -196,7 +196,7 @@
     {
       "nom": "Absolute Duo",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/25397",
+      "mal-id": 25397,
       "nb_musique": 4,
       "musique": [
         {
@@ -242,7 +242,7 @@
     {
       "nom": "AI no Idenshi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/53787",
+      "mal-id": 53787,
       "nb_musique": 2,
       "musique": [
         {
@@ -274,7 +274,7 @@
     {
       "nom": "Akame ga Kill!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/22199",
+      "mal-id": 22199,
       "nb_musique": 7,
       "musique": [
         {
@@ -341,7 +341,7 @@
     {
       "nom": "Akatsuki no Yona",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/25013",
+      "mal-id": 25013,
       "nb_musique": 4,
       "musique": [
         {
@@ -387,7 +387,7 @@
     {
       "nom": "Akebi-chan no Sailor Fuku",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48553",
+      "mal-id": 48553,
       "nb_musique": 7,
       "musique": [
         {
@@ -454,7 +454,7 @@
     {
       "nom": "Aku no Hana",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/16201",
+      "mal-id": 16201,
       "nb_musique": 8,
       "musique": [
         {
@@ -528,7 +528,7 @@
     {
       "nom": "AkuLas",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49979",
+      "mal-id": 49979,
       "nb_musique": 2,
       "musique": [
         {
@@ -560,7 +560,7 @@
     {
       "nom": "Angel Beats!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/6547",
+      "mal-id": 6547,
       "nb_musique": 9,
       "musique": [
         {
@@ -641,7 +641,7 @@
     {
       "nom": "Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/9989",
+      "mal-id": 9989,
       "nb_musique": 6,
       "musique": [
         {
@@ -701,7 +701,7 @@
     {
       "nom": "Another",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/11111",
+      "mal-id": 11111,
       "nb_musique": 2,
       "musique": [
         {
@@ -733,7 +733,7 @@
     {
       "nom": "Ansatsu Kizoku",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/47790",
+      "mal-id": 47790,
       "nb_musique": 6,
       "musique": [
         {
@@ -793,7 +793,7 @@
     {
       "nom": "Ansatsu Kyoushitsu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/24833",
+      "mal-id": 24833,
       "nb_musique": 4,
       "musique": [
         {
@@ -839,7 +839,7 @@
     {
       "nom": "Ansatsu Kyoushitsu Final Season",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/30654",
+      "mal-id": 30654,
       "nb_musique": 7,
       "musique": [
         {
@@ -906,7 +906,7 @@
     {
       "nom": "Ao Haru Ride",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/21995",
+      "mal-id": 21995,
       "nb_musique": 3,
       "musique": [
         {
@@ -945,7 +945,7 @@
     {
       "nom": "Ao no Exorcist",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/9919",
+      "mal-id": 9919,
       "nb_musique": 8,
       "musique": [
         {
@@ -1019,7 +1019,7 @@
     {
       "nom": "Arifureta Shokugyou de Sekai Saikyou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36882",
+      "mal-id": 36882,
       "nb_musique": 7,
       "musique": [
         {
@@ -1086,7 +1086,7 @@
     {
       "nom": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40507",
+      "mal-id": 40507,
       "nb_musique": 2,
       "musique": [
         {
@@ -1118,7 +1118,7 @@
     {
       "nom": "Asobi Asobase",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37171",
+      "mal-id": 37171,
       "nb_musique": 2,
       "musique": [
         {
@@ -1150,7 +1150,7 @@
     {
       "nom": "Assassins Pride",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38572",
+      "mal-id": 38572,
       "nb_musique": 2,
       "musique": [
         {
@@ -1182,7 +1182,7 @@
     {
       "nom": "Baka to Test to Shoukanjuu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/6347",
+      "mal-id": 6347,
       "nb_musique": 3,
       "musique": [
         {
@@ -1221,7 +1221,7 @@
     {
       "nom": "Baka to Test to Shoukanjuu Ni!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/8516",
+      "mal-id": 8516,
       "nb_musique": 4,
       "musique": [
         {
@@ -1267,7 +1267,7 @@
     {
       "nom": "Ballroom e Youkoso",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34636",
+      "mal-id": 34636,
       "nb_musique": 14,
       "musique": [
         {
@@ -1383,7 +1383,7 @@
     {
       "nom": "Beastars",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39195",
+      "mal-id": 39195,
       "nb_musique": 7,
       "musique": [
         {
@@ -1450,7 +1450,7 @@
     {
       "nom": "Beastars",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/40935",
+      "mal-id": 40935,
       "nb_musique": 5,
       "musique": [
         {
@@ -1503,7 +1503,7 @@
     {
       "nom": "Binbougami ga!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/13535",
+      "mal-id": 13535,
       "nb_musique": 2,
       "musique": [
         {
@@ -1535,7 +1535,7 @@
     {
       "nom": "Bishounen Tanteidan",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40752",
+      "mal-id": 40752,
       "nb_musique": 3,
       "musique": [
         {
@@ -1574,7 +1574,7 @@
     {
       "nom": "Black Clover",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34572",
+      "mal-id": 34572,
       "nb_musique": 29,
       "musique": [
         {
@@ -1795,7 +1795,7 @@
     {
       "nom": "Blood Lad",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/11633/Blood_Lad",
+      "mal-id": 11633,
       "nb_musique": 2,
       "musique": [
         {
@@ -1827,7 +1827,7 @@
     {
       "nom": "Blue Lock",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49596/Blue_Lock",
+      "mal-id": 49596,
       "nb_musique": 4,
       "musique": [
         {
@@ -1873,7 +1873,7 @@
     {
       "nom": "BNA",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40060/BNA",
+      "mal-id": 40060,
       "nb_musique": 4,
       "musique": [
         {
@@ -1919,7 +1919,7 @@
     {
       "nom": "Boku dake ga Inai Machi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi",
+      "mal-id": 31043,
       "nb_musique": 2,
       "musique": [
         {
@@ -1951,7 +1951,7 @@
     {
       "nom": "Boku ga Aishita Subete no Kimi e",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49834/Boku_ga_Aishita_Subete_no_Kimi_e",
+      "mal-id": 49834,
       "nb_musique": 3,
       "musique": [
         {
@@ -1990,7 +1990,7 @@
     {
       "nom": "Boku no Hero Academia",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia",
+      "mal-id": 31964,
       "nb_musique": 3,
       "musique": [
         {
@@ -2029,7 +2029,7 @@
     {
       "nom": "Boku no Hero Academia",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season",
+      "mal-id": 33486,
       "nb_musique": 5,
       "musique": [
         {
@@ -2082,7 +2082,7 @@
     {
       "nom": "Boku no Hero Academia",
       "id": 2,
-      "lien": "https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season",
+      "mal-id": 36456,
       "nb_musique": 4,
       "musique": [
         {
@@ -2128,7 +2128,7 @@
     {
       "nom": "Boku no Hero Academia",
       "id": 3,
-      "lien": "https://myanimelist.net/anime/38408/Boku_no_Hero_Academia_4th_Season",
+      "mal-id": 38408,
       "nb_musique": 7,
       "musique": [
         {
@@ -2195,7 +2195,7 @@
     {
       "nom": "Boku no Hero Academia",
       "id": 4,
-      "lien": "https://myanimelist.net/anime/41587/Boku_no_Hero_Academia_5th_Season",
+      "mal-id": 41587,
       "nb_musique": 5,
       "musique": [
         {
@@ -2248,7 +2248,7 @@
     {
       "nom": "Boku no Hero Academia",
       "id": 5,
-      "lien": "https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season",
+      "mal-id": 49918,
       "nb_musique": 5,
       "musique": [
         {
@@ -2301,7 +2301,7 @@
     {
       "nom": "Boku no Hero Academia The Movie: Futari no Hero",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36896/Boku_no_Hero_Academia_the_Movie_1__Futari_no_Hero",
+      "mal-id": 36896,
       "nb_musique": 2,
       "musique": [
         {
@@ -2333,7 +2333,7 @@
     {
       "nom": "Boku no Hero Academia The Movie: Heroes: Rising",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising",
+      "mal-id": 39565,
       "nb_musique": 3,
       "musique": [
         {
@@ -2372,7 +2372,7 @@
     {
       "nom": "Boku no Hero Academia The Movie: World Heroes' Mission",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/44200/Boku_no_Hero_Academia_the_Movie_3__World_Heroes_Mission",
+      "mal-id": 44200,
       "nb_musique": 2,
       "musique": [
         {
@@ -2404,7 +2404,7 @@
     {
       "nom": "Boruto: Naruto Next Generations",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations",
+      "mal-id": 34566,
       "nb_musique": 37,
       "musique": [
         {
@@ -2681,7 +2681,7 @@
     {
       "nom": "Bubble",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50549/Bubble",
+      "mal-id": 50549,
       "nb_musique": 4,
       "musique": [
         {
@@ -2727,7 +2727,7 @@
     {
       "nom": "Buddy Daddies",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/53411/Buddy_Daddies",
+      "mal-id": 53411,
       "nb_musique": 2,
       "musique": [
         {
@@ -2759,7 +2759,7 @@
     {
       "nom": "Byousoku 5 Centimeter",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/1689/Byousoku_5_Centimeter",
+      "mal-id": 1689,
       "nb_musique": 2,
       "musique": [
         {
@@ -2791,7 +2791,7 @@
     {
       "nom": "Chainsaw Man",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/44511/Chainsaw_Man",
+      "mal-id": 44511,
       "nb_musique": 13,
       "musique": [
         {
@@ -2900,7 +2900,7 @@
     {
       "nom": "Charlotte",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/28999/Charlotte",
+      "mal-id": 28999,
       "nb_musique": 15,
       "musique": [
         {
@@ -3023,7 +3023,7 @@
     {
       "nom": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40960/Cheat_Kusushi_no_Slow_Life__Isekai_ni_Tsukurou_Drugstore",
+      "mal-id": 40960,
       "nb_musique": 2,
       "musique": [
         {
@@ -3055,7 +3055,7 @@
     {
       "nom": "Chou Gekijouban Keroro Gunsou 4: Gekishin Dragon Warriors de Arimasu!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/5710/Keroro_Gunsou_Movie_4__Gekishin_Dragon_Warriors_de_Arimasu",
+      "mal-id": 5710,
       "nb_musique": 3,
       "musique": [
         {
@@ -3094,7 +3094,7 @@
     {
       "nom": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku Youdesu!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39523/Choujin_Koukousei-tachi_wa_Isekai_demo_Yoyuu_de_Ikinuku_you_desu",
+      "mal-id": 39523,
       "nb_musique": 2,
       "musique": [
         {
@@ -3126,7 +3126,7 @@
     {
       "nom": "Chu-2 Byou demo Koi ga Shitai!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai",
+      "mal-id": 14741,
       "nb_musique": 4,
       "musique": [
         {
@@ -3172,7 +3172,7 @@
     {
       "nom": "Chu-2 Byou demo Koi ga Shitai! Ren",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/18671/Chuunibyou_demo_Koi_ga_Shitai_Ren",
+      "mal-id": 18671,
       "nb_musique": 2,
       "musique": [
         {
@@ -3204,7 +3204,7 @@
     {
       "nom": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35608/Chuunibyou_demo_Koi_ga_Shitai_Movie__Take_On_Me",
+      "mal-id": 35608,
       "nb_musique": 4,
       "musique": [
         {
@@ -3250,7 +3250,7 @@
     {
       "nom": "Cider no You ni Kotoba ga Wakiagaru",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39175/Cider_no_You_ni_Kotoba_ga_Wakiagaru",
+      "mal-id": 39175,
       "nb_musique": 3,
       "musique": [
         {
@@ -3289,7 +3289,7 @@
     {
       "nom": "Citrus",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34382/Citrus",
+      "mal-id": 34382,
       "nb_musique": 2,
       "musique": [
         {
@@ -3321,7 +3321,7 @@
     {
       "nom": "Clannad",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/2167/Clannad",
+      "mal-id": 2167,
       "nb_musique": 7,
       "musique": [
         {
@@ -3388,7 +3388,7 @@
     {
       "nom": "Clannad After Story",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/4181/Clannad__After_Story",
+      "mal-id": 4181,
       "nb_musique": 9,
       "musique": [
         {
@@ -3469,7 +3469,7 @@
     {
       "nom": "Clannad: The Motion Picture",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/1723/Clannad_Movie",
+      "mal-id": 1723,
       "nb_musique": 4,
       "musique": [
         {
@@ -3515,7 +3515,7 @@
     {
       "nom": "Clockwork Planet",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/32407/Clockwork_Planet",
+      "mal-id": 32407,
       "nb_musique": 2,
       "musique": [
         {
@@ -3547,7 +3547,7 @@
     {
       "nom": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34103/Danganronpa_3__The_End_of_Kibougamine_Gakuen_-_Kibou-hen",
+      "mal-id": 34103,
       "nb_musique": 1,
       "musique": [
         {
@@ -3572,7 +3572,7 @@
     {
       "nom": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/32189/Danganronpa_3__The_End_of_Kibougamine_Gakuen_-_Mirai-hen",
+      "mal-id": 32189,
       "nb_musique": 2,
       "musique": [
         {
@@ -3604,7 +3604,7 @@
     {
       "nom": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/33028/Danganronpa_3__The_End_of_Kibougamine_Gakuen_-_Zetsubou-hen",
+      "mal-id": 33028,
       "nb_musique": 3,
       "musique": [
         {
@@ -3643,7 +3643,7 @@
     {
       "nom": "Danganronpa Kibou no Gakuen to Zetsubou no Koukousei The Animation",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation",
+      "mal-id": 16592,
       "nb_musique": 6,
       "musique": [
         {
@@ -3703,7 +3703,7 @@
     {
       "nom": "DanMachi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka",
+      "mal-id": 28121,
       "nb_musique": 3,
       "musique": [
         {
@@ -3742,7 +3742,7 @@
     {
       "nom": "DanMachi",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/32801/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_OVA",
+      "mal-id": 32801,
       "nb_musique": 1,
       "musique": [
         {
@@ -3767,7 +3767,7 @@
     {
       "nom": "DanMachi II",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37347/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_II",
+      "mal-id": 37347,
       "nb_musique": 3,
       "musique": [
         {
@@ -3806,7 +3806,7 @@
     {
       "nom": "Darling in the FranXX",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35849/Darling_in_the_FranXX",
+      "mal-id": 35849,
       "nb_musique": 12,
       "musique": [
         {
@@ -3908,7 +3908,7 @@
     {
       "nom": "Date A Live",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/15583/Date_A_Live",
+      "mal-id": 15583,
       "nb_musique": 8,
       "musique": [
         {
@@ -3982,7 +3982,7 @@
     {
       "nom": "Date A Live II",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/19163/Date_A_Live_II",
+      "mal-id": 19163,
       "nb_musique": 7,
       "musique": [
         {
@@ -4049,7 +4049,7 @@
     {
       "nom": "Date A Live III",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36633/Date_A_Live_III",
+      "mal-id": 36633,
       "nb_musique": 4,
       "musique": [
         {
@@ -4095,7 +4095,7 @@
     {
       "nom": "Date A Live IV",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41461/Date_A_Live_IV",
+      "mal-id": 41461,
       "nb_musique": 2,
       "musique": [
         {
@@ -4127,7 +4127,7 @@
     {
       "nom": "Dead Mount Death Play",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/53613/Dead_Mount_Death_Play",
+      "mal-id": 53613,
       "nb_musique": 2,
       "musique": [
         {
@@ -4159,7 +4159,7 @@
     {
       "nom": "Death March kara Hajimaru Isekai Kyousoukyoku",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34497/Death_March_kara_Hajimaru_Isekai_Kyousoukyoku",
+      "mal-id": 34497,
       "nb_musique": 2,
       "musique": [
         {
@@ -4191,7 +4191,7 @@
     {
       "nom": "Death Note",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/1535/Death_Note",
+      "mal-id": 1535,
       "nb_musique": 5,
       "musique": [
         {
@@ -4244,7 +4244,7 @@
     {
       "nom": "Death Parade",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/28223/Death_Parade",
+      "mal-id": 28223,
       "nb_musique": 2,
       "musique": [
         {
@@ -4276,7 +4276,7 @@
     {
       "nom": "Deatte 5-byou de Battle",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/43814/Deatte_5-byou_de_Battle",
+      "mal-id": 43814,
       "nb_musique": 2,
       "musique": [
         {
@@ -4308,7 +4308,7 @@
     {
       "nom": "Digimon Adventure:",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41074/Digimon_Adventure_",
+      "mal-id": 41074,
       "nb_musique": 9,
       "musique": [
         {
@@ -4389,7 +4389,7 @@
     {
       "nom": "Digimon Adventure: Last Evolution Kizuna",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna",
+      "mal-id": 38088,
       "nb_musique": 4,
       "musique": [
         {
@@ -4435,7 +4435,7 @@
     {
       "nom": "Digimon Ghost Game",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49515/Digimon_Ghost_Game",
+      "mal-id": 49515,
       "nb_musique": 9,
       "musique": [
         {
@@ -4516,7 +4516,7 @@
     {
       "nom": "Digimon Tamers",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/874/Digimon_Tamers",
+      "mal-id": 874,
       "nb_musique": 17,
       "musique": [
         {
@@ -4653,7 +4653,7 @@
     {
       "nom": "Digimon Xros Wars",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/8624/Digimon_Xros_Wars",
+      "mal-id": 8624,
       "nb_musique": 12,
       "musique": [
         {
@@ -4755,7 +4755,7 @@
     {
       "nom": "Digimon Xros Wars: Toki o Kakeru Shounen Hunter-tachi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/11385/Digimon_Xros_Wars__Toki_wo_Kakeru_Shounen_Hunter-tachi",
+      "mal-id": 11385,
       "nb_musique": 5,
       "musique": [
         {
@@ -4808,7 +4808,7 @@
     {
       "nom": "Domestic na Kanojo",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37982/Domestic_na_Kanojo",
+      "mal-id": 37982,
       "nb_musique": 6,
       "musique": [
         {
@@ -4868,7 +4868,7 @@
     {
       "nom": "Dr. Stone",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38691/Dr_Stone",
+      "mal-id": 38691,
       "nb_musique": 7,
       "musique": [
         {
@@ -4935,7 +4935,7 @@
     {
       "nom": "Dr. Stone Special Episode: Ryusui",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50612/Dr_Stone__Ryuusui",
+      "mal-id": 50612,
       "nb_musique": 1,
       "musique": [
         {
@@ -4960,7 +4960,7 @@
     {
       "nom": "Dr. Stone: New World",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48549/Dr_Stone__New_World",
+      "mal-id": 48549,
       "nb_musique": 2,
       "musique": [
         {
@@ -4992,7 +4992,7 @@
     {
       "nom": "Dr. Stone: Stone Wars",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40852/Dr_Stone__Stone_Wars",
+      "mal-id": 40852,
       "nb_musique": 8,
       "musique": [
         {
@@ -5066,7 +5066,7 @@
     {
       "nom": "Dragon Quest: Dai no Daibouken",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40906/Dragon_Quest__Dai_no_Daibouken_2020",
+      "mal-id": 40906,
       "nb_musique": 6,
       "musique": [
         {
@@ -5126,7 +5126,7 @@
     {
       "nom": "Dragon, Ie o Kau.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40526/Dragon_Ie_wo_Kau",
+      "mal-id": 40526,
       "nb_musique": 2,
       "musique": [
         {
@@ -5158,7 +5158,7 @@
     {
       "nom": "Dumbbell Nan-Kilo Moteru?",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39026/Dumbbell_Nan_Kilo_Moteru",
+      "mal-id": 39026,
       "nb_musique": 4,
       "musique": [
         {
@@ -5204,7 +5204,7 @@
     {
       "nom": "Edens Zero",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/42192/Edens_Zero",
+      "mal-id": 42192,
       "nb_musique": 4,
       "musique": [
         {
@@ -5250,7 +5250,7 @@
     {
       "nom": "Eiga Black Clover: Mahou Tei no Ken",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48585/Black_Clover__Mahou_Tei_no_Ken",
+      "mal-id": 48585,
       "nb_musique": 3,
       "musique": [
         {
@@ -5289,7 +5289,7 @@
     {
       "nom": "Eiga Odd Taxi: In the Woods",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50653/Odd_Taxi_Movie__In_the_Woods",
+      "mal-id": 50653,
       "nb_musique": 4,
       "musique": [
         {
@@ -5335,7 +5335,7 @@
     {
       "nom": "Eiyuu-Ou, Bu o Kiwameru Tame Tensei-Su: Soshite, Sekai Saikyou no Minarai Kishi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50481/Eiyuu-ou_Bu_wo_Kiwameru_Tame_Tenseisu__Soshite_Sekai_Saikyou_no_Minarai_Kishi%E2%99%80",
+      "mal-id": 50481,
       "nb_musique": 2,
       "musique": [
         {
@@ -5367,7 +5367,7 @@
     {
       "nom": "Enen no Shouboutai",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38671/Enen_no_Shouboutai",
+      "mal-id": 38671,
       "nb_musique": 4,
       "musique": [
         {
@@ -5413,7 +5413,7 @@
     {
       "nom": "Enen no Shouboutai: Ni no Shou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40956/Enen_no_Shouboutai__Ni_no_Shou",
+      "mal-id": 40956,
       "nb_musique": 5,
       "musique": [
         {
@@ -5466,7 +5466,7 @@
     {
       "nom": "Fairy Tail",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/6702/Fairy_Tail",
+      "mal-id": 6702,
       "nb_musique": 32,
       "musique": [
         {
@@ -5708,7 +5708,7 @@
     {
       "nom": "Fairy Tail",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/22043/Fairy_Tail_2014",
+      "mal-id": 22043,
       "nb_musique": 16,
       "musique": [
         {
@@ -5838,7 +5838,7 @@
     {
       "nom": "Fairy Tail: Final Season",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35972/Fairy_Tail__Final_Series",
+      "mal-id": 35972,
       "nb_musique": 9,
       "musique": [
         {
@@ -5919,7 +5919,7 @@
     {
       "nom": "Fantasy Bishoujo Juniku Ojisan to",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48997/Fantasy_Bishoujo_Juniku_Ojisan_to",
+      "mal-id": 48997,
       "nb_musique": 2,
       "musique": [
         {
@@ -5951,7 +5951,7 @@
     {
       "nom": "Fate/Zero",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/10087/Fate_Zero",
+      "mal-id": 10087,
       "nb_musique": 2,
       "musique": [
         {
@@ -5983,7 +5983,7 @@
     {
       "nom": "Fate/Zero",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/11741/Fate_Zero_2nd_Season",
+      "mal-id": 11741,
       "nb_musique": 4,
       "musique": [
         {
@@ -6029,7 +6029,7 @@
     {
       "nom": "FLCL",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/227/FLCL",
+      "mal-id": 227,
       "nb_musique": 16,
       "musique": [
         {
@@ -6159,7 +6159,7 @@
     {
       "nom": "Fruits Basket",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38680/Fruits_Basket_1st_Season",
+      "mal-id": 38680,
       "nb_musique": 5,
       "musique": [
         {
@@ -6212,7 +6212,7 @@
     {
       "nom": "Fruits Basket 2nd Season",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40417/Fruits_Basket_2nd_Season",
+      "mal-id": 40417,
       "nb_musique": 6,
       "musique": [
         {
@@ -6272,7 +6272,7 @@
     {
       "nom": "Fruits Basket The Final",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/42938/Fruits_Basket__The_Final",
+      "mal-id": 42938,
       "nb_musique": 4,
       "musique": [
         {
@@ -6318,7 +6318,7 @@
     {
       "nom": "Fukumenkei Noise",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/33203/Fukumenkei_Noise",
+      "mal-id": 33203,
       "nb_musique": 10,
       "musique": [
         {
@@ -6406,7 +6406,7 @@
     {
       "nom": "Fuufu Ijou, Koibito Miman",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50425/Fuufu_Ijou_Koibito_Miman",
+      "mal-id": 50425,
       "nb_musique": 4,
       "musique": [
         {
@@ -6452,7 +6452,7 @@
     {
       "nom": "G-Witch",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49828/Kidou_Senshi_Gundam__Suisei_no_Majo",
+      "mal-id": 49828,
       "nb_musique": 2,
       "musique": [
         {
@@ -6484,7 +6484,7 @@
     {
       "nom": "G-Witch",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/53199/Kidou_Senshi_Gundam__Suisei_no_Majo_Season_2",
+      "mal-id": 53199,
       "nb_musique": 4,
       "musique": [
         {
@@ -6530,7 +6530,7 @@
     {
       "nom": "Gabriel DropOut",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/33731/Gabriel_DropOut",
+      "mal-id": 33731,
       "nb_musique": 3,
       "musique": [
         {
@@ -6569,7 +6569,7 @@
     {
       "nom": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48760/Gaikotsu_Kishi-sama_Tadaima_Isekai_e_Odekakechuu",
+      "mal-id": 48760,
       "nb_musique": 2,
       "musique": [
         {
@@ -6601,7 +6601,7 @@
     {
       "nom": "Gakkou Gurashi!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/24765/Gakkougurashi",
+      "mal-id": 24765,
       "nb_musique": 5,
       "musique": [
         {
@@ -6654,7 +6654,7 @@
     {
       "nom": "Gamers!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34280/Gamers",
+      "mal-id": 34280,
       "nb_musique": 3,
       "musique": [
         {
@@ -6693,7 +6693,7 @@
     {
       "nom": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/28907/Gate__Jieitai_Kanochi_nite_Kaku_Tatakaeri",
+      "mal-id": 28907,
       "nb_musique": 3,
       "musique": [
         {
@@ -6732,7 +6732,7 @@
     {
       "nom": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/31637/Gate__Jieitai_Kanochi_nite_Kaku_Tatakaeri_Part_2",
+      "mal-id": 31637,
       "nb_musique": 2,
       "musique": [
         {
@@ -6764,7 +6764,7 @@
     {
       "nom": "Gekijouban Date A Live: Mayuri Judgement",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/24655/Date_A_Live_Movie__Mayuri_Judgment",
+      "mal-id": 24655,
       "nb_musique": 3,
       "musique": [
         {
@@ -6803,7 +6803,7 @@
     {
       "nom": "Gekijouban Deemo: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40722/Deemo_Movie__Sakura_no_Oto_-_Anata_no_Kanadeta_Oto_ga_Ima_mo_Hibiku",
+      "mal-id": 40722,
       "nb_musique": 5,
       "musique": [
         {
@@ -6856,7 +6856,7 @@
     {
       "nom": "Gekijouban Karakai Jouzu no Takagi-san",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49722/Karakai_Jouzu_no_Takagi-san_Movie",
+      "mal-id": 49722,
       "nb_musique": 6,
       "musique": [
         {
@@ -6916,7 +6916,7 @@
     {
       "nom": "Gekijouban Sword Art Online: Ordinal Scale",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/31765/Sword_Art_Online_Movie__Ordinal_Scale",
+      "mal-id": 31765,
       "nb_musique": 7,
       "musique": [
         {
@@ -6983,7 +6983,7 @@
     {
       "nom": "Gekijouban Sword Art Online: Progressive - Hoshi Naki Yoru no Aria",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/42916/Sword_Art_Online__Progressive_Movie_-_Hoshi_Naki_Yoru_no_Aria",
+      "mal-id": 42916,
       "nb_musique": 3,
       "musique": [
         {
@@ -7022,7 +7022,7 @@
     {
       "nom": "Gekijouban Ta ga Tame no Alchemist",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37262/Ta_ga_Tame_no_Alchemist",
+      "mal-id": 37262,
       "nb_musique": 3,
       "musique": [
         {
@@ -7061,7 +7061,7 @@
     {
       "nom": "Gekijouban Tensei shitara Slime Datta Ken: Guren no Kizuna-hen",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49877/Tensei_shitara_Slime_Datta_Ken_Movie__Guren_no_Kizuna-hen",
+      "mal-id": 49877,
       "nb_musique": 3,
       "musique": [
         {
@@ -7100,7 +7100,7 @@
     {
       "nom": "Gekijouban Violet Evergarden",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37987/Violet_Evergarden_Movie",
+      "mal-id": 37987,
       "nb_musique": 3,
       "musique": [
         {
@@ -7139,7 +7139,7 @@
     {
       "nom": "Gekijouban Youjo Senki",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37055/Youjo_Senki_Movie",
+      "mal-id": 37055,
       "nb_musique": 3,
       "musique": [
         {
@@ -7178,7 +7178,7 @@
     {
       "nom": "Gekkan Shoujo Nozaki-kun",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/23289/Gekkan_Shoujo_Nozaki-kun",
+      "mal-id": 23289,
       "nb_musique": 2,
       "musique": [
         {
@@ -7210,7 +7210,7 @@
     {
       "nom": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41710/Genjitsu_Shugi_Yuusha_no_Oukoku_Saikenki",
+      "mal-id": 41710,
       "nb_musique": 6,
       "musique": [
         {
@@ -7270,7 +7270,7 @@
     {
       "nom": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/49930/Genjitsu_Shugi_Yuusha_no_Oukoku_Saikenki_Part_2",
+      "mal-id": 49930,
       "nb_musique": 2,
       "musique": [
         {
@@ -7302,7 +7302,7 @@
     {
       "nom": "Gleipnir",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39463/Gleipnir",
+      "mal-id": 39463,
       "nb_musique": 2,
       "musique": [
         {
@@ -7334,7 +7334,7 @@
     {
       "nom": "Goblin Slayer",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37349/Goblin_Slayer",
+      "mal-id": 37349,
       "nb_musique": 5,
       "musique": [
         {
@@ -7387,7 +7387,7 @@
     {
       "nom": "Goblin Slayer: Goblin's Crown",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39576/Goblin_Slayer__Goblins_Crown",
+      "mal-id": 39576,
       "nb_musique": 1,
       "musique": [
         {
@@ -7412,7 +7412,7 @@
     {
       "nom": "Gochuumon wa Usagi desu ka?",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_desu_ka",
+      "mal-id": 21273,
       "nb_musique": 3,
       "musique": [
         {
@@ -7451,7 +7451,7 @@
     {
       "nom": "Gochuumon wa Usagi desu ka? Bloom",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38337/Gochuumon_wa_Usagi_desu_ka_Bloom",
+      "mal-id": 38337,
       "nb_musique": 3,
       "musique": [
         {
@@ -7490,7 +7490,7 @@
     {
       "nom": "Gochuumon wa Usagi desu ka??",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/29787/Gochuumon_wa_Usagi_desu_ka",
+      "mal-id": 29787,
       "nb_musique": 3,
       "musique": [
         {
@@ -7529,7 +7529,7 @@
     {
       "nom": "Gochuumon wa Usagi desu ka?? Dear My Sister",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/33280/Gochuumon_wa_Usagi_desu_ka_Dear_My_Sister",
+      "mal-id": 33280,
       "nb_musique": 2,
       "musique": [
         {
@@ -7561,7 +7561,7 @@
     {
       "nom": "Gochuumon wa Usagi desu ka?? Sing For You",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38333/Gochuumon_wa_Usagi_desu_ka_Sing_for_You",
+      "mal-id": 38333,
       "nb_musique": 4,
       "musique": [
         {
@@ -7607,7 +7607,7 @@
     {
       "nom": "Godzilla: S.P",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/43229/Godzilla__SP",
+      "mal-id": 43229,
       "nb_musique": 3,
       "musique": [
         {
@@ -7646,7 +7646,7 @@
     {
       "nom": "Golden Time",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/17895/Golden_Time",
+      "mal-id": 17895,
       "nb_musique": 4,
       "musique": [
         {
@@ -7692,7 +7692,7 @@
     {
       "nom": "Gotoubun no Hanayome",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38101/5-toubun_no_Hanayome",
+      "mal-id": 38101,
       "nb_musique": 3,
       "musique": [
         {
@@ -7731,7 +7731,7 @@
     {
       "nom": "Gotoubun no Hanayome ∬",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39783/5-toubun_no_Hanayome_%E2%88%AC",
+      "mal-id": 39783,
       "nb_musique": 3,
       "musique": [
         {
@@ -7770,7 +7770,7 @@
     {
       "nom": "Granblue Fantasy the Animation",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/31629/Granblue_Fantasy_The_Animation",
+      "mal-id": 31629,
       "nb_musique": 3,
       "musique": [
         {
@@ -7809,7 +7809,7 @@
     {
       "nom": "Granblue Fantasy the Animation Season 2",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36587/Granblue_Fantasy_The_Animation_Season_2",
+      "mal-id": 36587,
       "nb_musique": 2,
       "musique": [
         {
@@ -7841,7 +7841,7 @@
     {
       "nom": "Grancrest Senki",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34279/Grancrest_Senki",
+      "mal-id": 34279,
       "nb_musique": 4,
       "musique": [
         {
@@ -7887,7 +7887,7 @@
     {
       "nom": "Guilty Crown",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/10793/Guilty_Crown",
+      "mal-id": 10793,
       "nb_musique": 17,
       "musique": [
         {
@@ -8024,7 +8024,7 @@
     {
       "nom": "Hachi-nan tte, Sore wa Nai Deshou!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38830/Hachi-nan_tte_Sore_wa_Nai_deshou",
+      "mal-id": 38830,
       "nb_musique": 2,
       "musique": [
         {
@@ -8056,7 +8056,7 @@
     {
       "nom": "Hagure Yuusha no Aesthetica",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/13161/Hagure_Yuusha_no_Aesthetica",
+      "mal-id": 13161,
       "nb_musique": 2,
       "musique": [
         {
@@ -8088,7 +8088,7 @@
     {
       "nom": "Hai to Gensou no Grimgar",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/31859/Hai_to_Gensou_no_Grimgar",
+      "mal-id": 31859,
       "nb_musique": 14,
       "musique": [
         {
@@ -8204,7 +8204,7 @@
     {
       "nom": "Hashiri Tsuzukete Yokattatte.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38254/Hashiri_Tsuzukete_Yokatta_tte",
+      "mal-id": 38254,
       "nb_musique": 2,
       "musique": [
         {
@@ -8236,7 +8236,7 @@
     {
       "nom": "Hataage! Kemono Michi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39030/Hataage_Kemono_Michi",
+      "mal-id": 39030,
       "nb_musique": 2,
       "musique": [
         {
@@ -8268,7 +8268,7 @@
     {
       "nom": "Hataraku Maou-sama!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/15809/Hataraku_Maou-sama",
+      "mal-id": 15809,
       "nb_musique": 5,
       "musique": [
         {
@@ -8321,7 +8321,7 @@
     {
       "nom": "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49692/Heroine_Tarumono_Kiraware_Heroine_to_Naisho_no_Oshigoto",
+      "mal-id": 49692,
       "nb_musique": 14,
       "musique": [
         {
@@ -8437,7 +8437,7 @@
     {
       "nom": "Hige o Soru. Soshite Joshikousei o Hirou.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40938/Hige_wo_Soru_Soshite_Joshikousei_wo_Hirou",
+      "mal-id": 40938,
       "nb_musique": 2,
       "musique": [
         {
@@ -8469,7 +8469,7 @@
     {
       "nom": "Higurashi no Naku Koro ni",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni",
+      "mal-id": 934,
       "nb_musique": 2,
       "musique": [
         {
@@ -8501,7 +8501,7 @@
     {
       "nom": "Higurashi no Naku Koro ni Kai",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/1889/Higurashi_no_Naku_Koro_ni_Kai",
+      "mal-id": 1889,
       "nb_musique": 2,
       "musique": [
         {
@@ -8533,7 +8533,7 @@
     {
       "nom": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erandeiraremasen",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39468/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen",
+      "mal-id": 39468,
       "nb_musique": 2,
       "musique": [
         {
@@ -8565,7 +8565,7 @@
     {
       "nom": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erandeiraremasen",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/40815/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen_2nd_Season",
+      "mal-id": 40815,
       "nb_musique": 3,
       "musique": [
         {
@@ -8604,7 +8604,7 @@
     {
       "nom": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erandeiraremasen",
       "id": 2,
-      "lien": "https://myanimelist.net/anime/42429/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen_3rd_Season",
+      "mal-id": 42429,
       "nb_musique": 2,
       "musique": [
         {
@@ -8636,7 +8636,7 @@
     {
       "nom": "Horimiya",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/42897/Horimiya",
+      "mal-id": 42897,
       "nb_musique": 2,
       "musique": [
         {
@@ -8668,7 +8668,7 @@
     {
       "nom": "Hundred",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/31338/Hundred",
+      "mal-id": 31338,
       "nb_musique": 11,
       "musique": [
         {
@@ -8763,7 +8763,7 @@
     {
       "nom": "Hunter x Hunter",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011",
+      "mal-id": 11061,
       "nb_musique": 7,
       "musique": [
         {
@@ -8830,7 +8830,7 @@
     {
       "nom": "Hyakuren no Haou to Seiyaku no Valkyria",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37446/Hyakuren_no_Haou_to_Seiyaku_no_Valkyria",
+      "mal-id": 37446,
       "nb_musique": 2,
       "musique": [
         {
@@ -8862,7 +8862,7 @@
     {
       "nom": "Hyouka",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/12189/Hyouka",
+      "mal-id": 12189,
       "nb_musique": 6,
       "musique": [
         {
@@ -8922,7 +8922,7 @@
     {
       "nom": "Hyouken no Majutsushi ga Sekai o Suberu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/51711/Hyouken_no_Majutsushi_ga_Sekai_wo_Suberu",
+      "mal-id": 51711,
       "nb_musique": 2,
       "musique": [
         {
@@ -8954,7 +8954,7 @@
     {
       "nom": "Ichiban Ushiro no Daimaou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/7088/Ichiban_Ushiro_no_Daimaou",
+      "mal-id": 7088,
       "nb_musique": 2,
       "musique": [
         {
@@ -8986,7 +8986,7 @@
     {
       "nom": "Ijiranaide, Nagatoro-san",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san",
+      "mal-id": 42361,
       "nb_musique": 3,
       "musique": [
         {
@@ -9025,7 +9025,7 @@
     {
       "nom": "Inferno Cop",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/16774/Inferno_Cop",
+      "mal-id": 16774,
       "nb_musique": 2,
       "musique": [
         {
@@ -9057,7 +9057,7 @@
     {
       "nom": "Infinite Dendrogram",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38909/Infinite_Dendrogram",
+      "mal-id": 38909,
       "nb_musique": 2,
       "musique": [
         {
@@ -9089,7 +9089,7 @@
     {
       "nom": "Isekai Cheat Magician",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37744/Isekai_Cheat_Magician",
+      "mal-id": 37744,
       "nb_musique": 2,
       "musique": [
         {
@@ -9121,7 +9121,7 @@
     {
       "nom": "Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/52830/Isekai_de_Cheat_Skill_wo_Te_ni_Shita_Ore_wa_Genjitsu_Sekai_wo_mo_Musou_Suru__Level_Up_wa_Jinsei_wo_Kaeta",
+      "mal-id": 52830,
       "nb_musique": 2,
       "musique": [
         {
@@ -9153,7 +9153,7 @@
     {
       "nom": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37210/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu",
+      "mal-id": 37210,
       "nb_musique": 2,
       "musique": [
         {
@@ -9185,7 +9185,7 @@
     {
       "nom": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41623/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu_%CE%A9",
+      "mal-id": 41623,
       "nb_musique": 3,
       "musique": [
         {
@@ -9224,7 +9224,7 @@
     {
       "nom": "Isekai Nonbiri Nouka",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/51462/Isekai_Nonbiri_Nouka",
+      "mal-id": 51462,
       "nb_musique": 2,
       "musique": [
         {
@@ -9256,7 +9256,7 @@
     {
       "nom": "Isekai Ojisan",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49220/Isekai_Ojisan",
+      "mal-id": 49220,
       "nb_musique": 3,
       "musique": [
         {
@@ -9295,7 +9295,7 @@
     {
       "nom": "Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/51219/Isekai_One_Turn_Kill_Neesan__Ane_Douhan_no_Isekai_Seikatsu_Hajimemashita",
+      "mal-id": 51219,
       "nb_musique": 4,
       "musique": [
         {
@@ -9341,7 +9341,7 @@
     {
       "nom": "Isekai Quartet",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38472/Isekai_Quartet",
+      "mal-id": 38472,
       "nb_musique": 3,
       "musique": [
         {
@@ -9380,7 +9380,7 @@
     {
       "nom": "Isekai Quartet 2",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39988/Isekai_Quartet_2",
+      "mal-id": 39988,
       "nb_musique": 3,
       "musique": [
         {
@@ -9419,7 +9419,7 @@
     {
       "nom": "Isekai Shokudou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34012/Isekai_Shokudou",
+      "mal-id": 34012,
       "nb_musique": 2,
       "musique": [
         {
@@ -9451,7 +9451,7 @@
     {
       "nom": "Isekai wa Smartphone to Tomo ni.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35203/Isekai_wa_Smartphone_to_Tomo_ni",
+      "mal-id": 35203,
       "nb_musique": 7,
       "musique": [
         {
@@ -9518,7 +9518,7 @@
     {
       "nom": "Isekai wa Smartphone to Tomo ni. 2",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/51632/Isekai_wa_Smartphone_to_Tomo_ni_2",
+      "mal-id": 51632,
       "nb_musique": 5,
       "musique": [
         {
@@ -9571,7 +9571,7 @@
     {
       "nom": "Isshuukan Friends.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/21327/Isshuukan_Friends",
+      "mal-id": 21327,
       "nb_musique": 2,
       "musique": [
         {
@@ -9603,7 +9603,7 @@
     {
       "nom": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38790/Itai_no_wa_Iya_nano_de_Bougyoryoku_ni_Kyokufuri_Shitai_to_Omoimasu",
+      "mal-id": 38790,
       "nb_musique": 3,
       "musique": [
         {
@@ -9642,7 +9642,7 @@
     {
       "nom": "Itsudatte Bokura no Koi wa 10 cm Datta.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36220/Itsudatte_Bokura_no_Koi_wa_10_cm_Datta",
+      "mal-id": 36220,
       "nb_musique": 7,
       "musique": [
         {
@@ -9709,7 +9709,7 @@
     {
       "nom": "Jahy-sama wa Kujikenai!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48753/Jahy-sama_wa_Kujikenai",
+      "mal-id": 48753,
       "nb_musique": 4,
       "musique": [
         {
@@ -9755,7 +9755,7 @@
     {
       "nom": "Jaku-Chara Tomozaki-kun",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40530/Jaku-Chara_Tomozaki-kun",
+      "mal-id": 40530,
       "nb_musique": 6,
       "musique": [
         {
@@ -9815,7 +9815,7 @@
     {
       "nom": "Jaku-Chara Tomozaki-kun",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/45604",
+      "mal-id": 45604,
       "nb_musique": 3,
       "musique": [
         {
@@ -9854,7 +9854,7 @@
     {
       "nom": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu ni Samayou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/52619",
+      "mal-id": 52619,
       "nb_musique": 2,
       "musique": [
         {
@@ -9886,7 +9886,7 @@
     {
       "nom": "Jijou o Shiranai Tenkousei ga Guigui Kuru.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/53621",
+      "mal-id": 53621,
       "nb_musique": 2,
       "musique": [
         {
@@ -9918,7 +9918,7 @@
     {
       "nom": "Jitsu wa Ore, Saikyou deshita?",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/52969",
+      "mal-id": 52969,
       "nb_musique": 2,
       "musique": [
         {
@@ -9950,7 +9950,7 @@
     {
       "nom": "Jujutsu Kaisen",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40748",
+      "mal-id": 40748,
       "nb_musique": 12,
       "musique": [
         {
@@ -10052,7 +10052,7 @@
     {
       "nom": "Kage no Jitsuryokusha ni Naritakute!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48316",
+      "mal-id": 48316,
       "nb_musique": 8,
       "musique": [
         {
@@ -10126,7 +10126,7 @@
     {
       "nom": "Kaginado",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48775",
+      "mal-id": 48775,
       "nb_musique": 1,
       "musique": [
         {
@@ -10151,7 +10151,7 @@
     {
       "nom": "Kaginado Season 2",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50685",
+      "mal-id": 50685,
       "nb_musique": 1,
       "musique": [
         {
@@ -10176,7 +10176,7 @@
     {
       "nom": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/52198",
+      "mal-id": 52198,
       "nb_musique": 3,
       "musique": [
         {
@@ -10215,7 +10215,7 @@
     {
       "nom": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37999",
+      "mal-id": 37999,
       "nb_musique": 3,
       "musique": [
         {
@@ -10254,7 +10254,7 @@
     {
       "nom": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/43608",
+      "mal-id": 43608,
       "nb_musique": 7,
       "musique": [
         {
@@ -10321,7 +10321,7 @@
     {
       "nom": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40591",
+      "mal-id": 40591,
       "nb_musique": 3,
       "musique": [
         {
@@ -10360,7 +10360,7 @@
     {
       "nom": "Kaichou wa Maid-sama!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama",
+      "mal-id": 7054,
       "nb_musique": 6,
       "musique": [
         {
@@ -10420,7 +10420,7 @@
     {
       "nom": "Kaijin Kaihatsu-bu no Kuroitsu-san",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49385",
+      "mal-id": 49385,
       "nb_musique": 8,
       "musique": [
         {
@@ -10494,7 +10494,7 @@
     {
       "nom": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/52446",
+      "mal-id": 52446,
       "nb_musique": 2,
       "musique": [
         {
@@ -10526,7 +10526,7 @@
     {
       "nom": "Kakegurui",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34933",
+      "mal-id": 34933,
       "nb_musique": 3,
       "musique": [
         {
@@ -10565,7 +10565,7 @@
     {
       "nom": "Kakegurui Twin",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50339",
+      "mal-id": 50339,
       "nb_musique": 2,
       "musique": [
         {
@@ -10597,7 +10597,7 @@
     {
       "nom": "Kakegurui××",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37086",
+      "mal-id": 37086,
       "nb_musique": 4,
       "musique": [
         {
@@ -10643,7 +10643,7 @@
     {
       "nom": "Kakkou no Iinazuke",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48675",
+      "mal-id": 48675,
       "nb_musique": 4,
       "musique": [
         {
@@ -10689,7 +10689,7 @@
     {
       "nom": "Kakuriyo no Yadomeshi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36754",
+      "mal-id": 36754,
       "nb_musique": 13,
       "musique": [
         {
@@ -10798,7 +10798,7 @@
     {
       "nom": "Kami-tachi ni Hirowareta Otoko",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41312",
+      "mal-id": 41312,
       "nb_musique": 2,
       "musique": [
         {
@@ -10830,7 +10830,7 @@
     {
       "nom": "Kaminaki Sekai no Kamisama Katsudou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/51693",
+      "mal-id": 51693,
       "nb_musique": 2,
       "musique": [
         {
@@ -10862,7 +10862,7 @@
     {
       "nom": "Kanojo mo Kanojo",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/43969",
+      "mal-id": 43969,
       "nb_musique": 2,
       "musique": [
         {
@@ -10894,7 +10894,7 @@
     {
       "nom": "Kanojo to Kanojo no Neko: Everything Flows",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/32491",
+      "mal-id": 32491,
       "nb_musique": 3,
       "musique": [
         {
@@ -10933,7 +10933,7 @@
     {
       "nom": "Kanojo, Okarishimasu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40839",
+      "mal-id": 40839,
       "nb_musique": 4,
       "musique": [
         {
@@ -10979,7 +10979,7 @@
     {
       "nom": "Kanojo, Okarishimasu",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/42963",
+      "mal-id": 42963,
       "nb_musique": 8,
       "musique": [
         {
@@ -11053,7 +11053,7 @@
     {
       "nom": "Kanojo, Okarishimasu",
       "id": 2,
-      "lien": "https://myanimelist.net/anime/53050",
+      "mal-id": 53050,
       "nb_musique": 1,
       "musique": [
         {
@@ -11078,7 +11078,7 @@
     {
       "nom": "Karakai Jouzu no Takagi-san",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35860",
+      "mal-id": 35860,
       "nb_musique": 9,
       "musique": [
         {
@@ -11159,7 +11159,7 @@
     {
       "nom": "Karakai Jouzu no Takagi-san 2",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38993",
+      "mal-id": 38993,
       "nb_musique": 10,
       "musique": [
         {
@@ -11247,7 +11247,7 @@
     {
       "nom": "Karakai Jouzu no Takagi-san 3",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49721",
+      "mal-id": 49721,
       "nb_musique": 12,
       "musique": [
         {
@@ -11349,7 +11349,7 @@
     {
       "nom": "Kareshi Kanojo no Jijou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/145",
+      "mal-id": 145,
       "nb_musique": 5,
       "musique": [
         {
@@ -11402,7 +11402,7 @@
     {
       "nom": "Kawaii dake ja Nai Shikimori-san",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/45613",
+      "mal-id": 45613,
       "nb_musique": 2,
       "musique": [
         {
@@ -11434,7 +11434,7 @@
     {
       "nom": "Kenja no Deshi o Nanoru Kenja",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/42072",
+      "mal-id": 42072,
       "nb_musique": 5,
       "musique": [
         {
@@ -11487,7 +11487,7 @@
     {
       "nom": "Kenja no Mago",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36407",
+      "mal-id": 36407,
       "nb_musique": 2,
       "musique": [
         {
@@ -11519,7 +11519,7 @@
     {
       "nom": "Kill la Kill",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/18679",
+      "mal-id": 18679,
       "nb_musique": 13,
       "musique": [
         {
@@ -11628,7 +11628,7 @@
     {
       "nom": "Kimetsu no Yaiba",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38000",
+      "mal-id": 38000,
       "nb_musique": 5,
       "musique": [
         {
@@ -11681,7 +11681,7 @@
     {
       "nom": "Kimi ni Todoke",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/6045",
+      "mal-id": 6045,
       "nb_musique": 2,
       "musique": [
         {
@@ -11713,7 +11713,7 @@
     {
       "nom": "Kimi ni Todoke 2nd Season",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/9656",
+      "mal-id": 9656,
       "nb_musique": 2,
       "musique": [
         {
@@ -11745,7 +11745,7 @@
     {
       "nom": "Kimi no Na wa.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/32281",
+      "mal-id": 32281,
       "nb_musique": 5,
       "musique": [
         {
@@ -11798,7 +11798,7 @@
     {
       "nom": "Kimi no Suizou o Tabetai",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36098",
+      "mal-id": 36098,
       "nb_musique": 3,
       "musique": [
         {
@@ -11837,7 +11837,7 @@
     {
       "nom": "Kimi o Aishita Hitori no Boku e",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49835",
+      "mal-id": 49835,
       "nb_musique": 2,
       "musique": [
         {
@@ -11869,7 +11869,7 @@
     {
       "nom": "Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40595",
+      "mal-id": 40595,
       "nb_musique": 3,
       "musique": [
         {
@@ -11908,7 +11908,7 @@
     {
       "nom": "Kimi to, Nami ni Noretara",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38594",
+      "mal-id": 38594,
       "nb_musique": 1,
       "musique": [
         {
@@ -11933,7 +11933,7 @@
     {
       "nom": "Kimi wa Houkago Insomnia",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50796",
+      "mal-id": 50796,
       "nb_musique": 3,
       "musique": [
         {
@@ -11972,7 +11972,7 @@
     {
       "nom": "KimiUso",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/23273",
+      "mal-id": 23273,
       "nb_musique": 17,
       "musique": [
         {
@@ -12109,7 +12109,7 @@
     {
       "nom": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai o Tsukisusumu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/51213",
+      "mal-id": 51213,
       "nb_musique": 2,
       "musique": [
         {
@@ -12141,7 +12141,7 @@
     {
       "nom": "Knight's & Magic",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34104",
+      "mal-id": 34104,
       "nb_musique": 2,
       "musique": [
         {
@@ -12173,7 +12173,7 @@
     {
       "nom": "Kobayashi-san Chi no Maid Dragon",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/33206",
+      "mal-id": 33206,
       "nb_musique": 2,
       "musique": [
         {
@@ -12205,7 +12205,7 @@
     {
       "nom": "Kobayashi-san Chi no Maid Dragon S",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39247",
+      "mal-id": 39247,
       "nb_musique": 5,
       "musique": [
         {
@@ -12258,7 +12258,7 @@
     {
       "nom": "Koe no Katachi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/28851",
+      "mal-id": 28851,
       "nb_musique": 2,
       "musique": [
         {
@@ -12290,7 +12290,7 @@
     {
       "nom": "Koi to Uso",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34934",
+      "mal-id": 34934,
       "nb_musique": 2,
       "musique": [
         {
@@ -12322,7 +12322,7 @@
     {
       "nom": "Koi to Yobu ni wa Kimochi Warui",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41103",
+      "mal-id": 41103,
       "nb_musique": 2,
       "musique": [
         {
@@ -12354,7 +12354,7 @@
     {
       "nom": "Kokoro Connect",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/11887",
+      "mal-id": 11887,
       "nb_musique": 8,
       "musique": [
         {
@@ -12428,7 +12428,7 @@
     {
       "nom": "Komi-san wa Comyushou desu.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48926",
+      "mal-id": 48926,
       "nb_musique": 3,
       "musique": [
         {
@@ -12467,7 +12467,7 @@
     {
       "nom": "Komi-san wa Comyushou desu.",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/50631",
+      "mal-id": 50631,
       "nb_musique": 2,
       "musique": [
         {
@@ -12499,7 +12499,7 @@
     {
       "nom": "Kono Bijutsu-bu ni wa Mondai ga Aru!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/31952",
+      "mal-id": 31952,
       "nb_musique": 5,
       "musique": [
         {
@@ -12552,7 +12552,7 @@
     {
       "nom": "Kono Healer, Mendokusai",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48742",
+      "mal-id": 48742,
       "nb_musique": 2,
       "musique": [
         {
@@ -12584,7 +12584,7 @@
     {
       "nom": "Kono Oto Tomare!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38080",
+      "mal-id": 38080,
       "nb_musique": 2,
       "musique": [
         {
@@ -12616,7 +12616,7 @@
     {
       "nom": "Kono Oto Tomare!",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/38889",
+      "mal-id": 38889,
       "nb_musique": 3,
       "musique": [
         {
@@ -12655,7 +12655,7 @@
     {
       "nom": "Kono Subarashii Sekai ni Shukufuku o!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/30831",
+      "mal-id": 30831,
       "nb_musique": 2,
       "musique": [
         {
@@ -12687,7 +12687,7 @@
     {
       "nom": "Kono Subarashii Sekai ni Shukufuku o! 2",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/32937",
+      "mal-id": 32937,
       "nb_musique": 2,
       "musique": [
         {
@@ -12719,7 +12719,7 @@
     {
       "nom": "Kono Subarashii Sekai ni Shukufuku o!: Kurenai Densetsu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38040",
+      "mal-id": 38040,
       "nb_musique": 2,
       "musique": [
         {
@@ -12751,7 +12751,7 @@
     {
       "nom": "Konohana Kitan",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35241",
+      "mal-id": 35241,
       "nb_musique": 6,
       "musique": [
         {
@@ -12811,7 +12811,7 @@
     {
       "nom": "Koro Sensei Quest!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34389",
+      "mal-id": 34389,
       "nb_musique": 2,
       "musique": [
         {
@@ -12843,7 +12843,7 @@
     {
       "nom": "Kotarou wa Hitorigurashi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49909",
+      "mal-id": 49909,
       "nb_musique": 3,
       "musique": [
         {
@@ -12882,7 +12882,7 @@
     {
       "nom": "Kotonoha no Niwa",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/16782",
+      "mal-id": 16782,
       "nb_musique": 1,
       "musique": [
         {
@@ -12907,7 +12907,7 @@
     {
       "nom": "Kremlin",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/15389",
+      "mal-id": 15389,
       "nb_musique": 6,
       "musique": [
         {
@@ -12967,7 +12967,7 @@
     {
       "nom": "Kuma Kuma Kuma Bear",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40974",
+      "mal-id": 40974,
       "nb_musique": 3,
       "musique": [
         {
@@ -13006,7 +13006,7 @@
     {
       "nom": "Kuma Kuma Kuma Bear: Punch!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/45486",
+      "mal-id": 45486,
       "nb_musique": 2,
       "musique": [
         {
@@ -13038,7 +13038,7 @@
     {
       "nom": "Kumo desu ga, Nani ka?",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37984",
+      "mal-id": 37984,
       "nb_musique": 5,
       "musique": [
         {
@@ -13091,7 +13091,7 @@
     {
       "nom": "Kunoichi Tsubaki no Mune no Uchi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50338",
+      "mal-id": 50338,
       "nb_musique": 15,
       "musique": [
         {
@@ -13214,7 +13214,7 @@
     {
       "nom": "Kuro no Shoukanshi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/51064",
+      "mal-id": 51064,
       "nb_musique": 3,
       "musique": [
         {
@@ -13253,7 +13253,7 @@
     {
       "nom": "Kuzu no Honkai",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/32949",
+      "mal-id": 32949,
       "nb_musique": 5,
       "musique": [
         {
@@ -13306,7 +13306,7 @@
     {
       "nom": "Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu Yori mo Kuso-Gee Dattara",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/44276",
+      "mal-id": 44276,
       "nb_musique": 2,
       "musique": [
         {
@@ -13338,7 +13338,7 @@
     {
       "nom": "LasDan",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40594",
+      "mal-id": 40594,
       "nb_musique": 2,
       "musique": [
         {
@@ -13370,7 +13370,7 @@
     {
       "nom": "Layton Kyouju to Eien no Utahime",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/6172",
+      "mal-id": 6172,
       "nb_musique": 4,
       "musique": [
         {
@@ -13416,7 +13416,7 @@
     {
       "nom": "Leadale no Daichi nite",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48239",
+      "mal-id": 48239,
       "nb_musique": 3,
       "musique": [
         {
@@ -13455,7 +13455,7 @@
     {
       "nom": "Legendz: Yomigaeru Ryuuou Densetsu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/1590",
+      "mal-id": 1590,
       "nb_musique": 4,
       "musique": [
         {
@@ -13501,7 +13501,7 @@
     {
       "nom": "Liar Liar",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48633",
+      "mal-id": 48633,
       "nb_musique": 2,
       "musique": [
         {
@@ -13533,7 +13533,7 @@
     {
       "nom": "Little Witch Academia",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/33489/Little_Witch_Academia_TV",
+      "mal-id": 33489,
       "nb_musique": 4,
       "musique": [
         {
@@ -13579,7 +13579,7 @@
     {
       "nom": "Log Horizon",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/17265/Log_Horizon",
+      "mal-id": 17265,
       "nb_musique": 2,
       "musique": [
         {
@@ -13611,7 +13611,7 @@
     {
       "nom": "Log Horizon",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/23321/Log_Horizon_2nd_Season",
+      "mal-id": 23321,
       "nb_musique": 4,
       "musique": [
         {
@@ -13657,7 +13657,7 @@
     {
       "nom": "LoveCom",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/2034/Lovely%E2%98%85Complex",
+      "mal-id": 2034,
       "nb_musique": 5,
       "musique": [
         {
@@ -13710,7 +13710,7 @@
     {
       "nom": "Made in Abyss",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34599/Made_in_Abyss",
+      "mal-id": 34599,
       "nb_musique": 5,
       "musique": [
         {
@@ -13763,7 +13763,7 @@
     {
       "nom": "Made in Abyss: Fukaki Tamashii no Reimei",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36862/Made_in_Abyss_Movie_3__Fukaki_Tamashii_no_Reimei",
+      "mal-id": 36862,
       "nb_musique": 3,
       "musique": [
         {
@@ -13802,7 +13802,7 @@
     {
       "nom": "Made in Abyss: Retsujitsu no Ougonkyou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41084/Made_in_Abyss__Retsujitsu_no_Ougonkyou",
+      "mal-id": 41084,
       "nb_musique": 6,
       "musique": [
         {
@@ -13862,7 +13862,7 @@
     {
       "nom": "Mahou Shoujo Madoka★Magica",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica",
+      "mal-id": 9756,
       "nb_musique": 7,
       "musique": [
         {
@@ -13929,7 +13929,7 @@
     {
       "nom": "Mahouka Koukou no Rettousei",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei",
+      "mal-id": 20785,
       "nb_musique": 9,
       "musique": [
         {
@@ -14010,7 +14010,7 @@
     {
       "nom": "Mahouka Koukou no Rettousei: Raihousha-hen",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40497/Mahouka_Koukou_no_Rettousei__Raihousha-hen",
+      "mal-id": 40497,
       "nb_musique": 3,
       "musique": [
         {
@@ -14049,7 +14049,7 @@
     {
       "nom": "Mahoutsukai Reimeiki",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48842/Mahoutsukai_Reimeiki",
+      "mal-id": 48842,
       "nb_musique": 2,
       "musique": [
         {
@@ -14081,7 +14081,7 @@
     {
       "nom": "Mairimashita! Iruma-kun",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun",
+      "mal-id": 39196,
       "nb_musique": 6,
       "musique": [
         {
@@ -14141,7 +14141,7 @@
     {
       "nom": "Mairimashita! Iruma-kun",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/41402/Mairimashita_Iruma-kun_2nd_Season",
+      "mal-id": 41402,
       "nb_musique": 7,
       "musique": [
         {
@@ -14208,7 +14208,7 @@
     {
       "nom": "Mairimashita! Iruma-kun",
       "id": 2,
-      "lien": "https://myanimelist.net/anime/49784/Mairimashita_Iruma-kun_3rd_Season",
+      "mal-id": 49784,
       "nb_musique": 6,
       "musique": [
         {
@@ -14268,7 +14268,7 @@
     {
       "nom": "Maou Gakuin no Futekigousha",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40496/Maou_Gakuin_no_Futekigousha__Shijou_Saikyou_no_Maou_no_Shiso_Tensei_shite_Shison-tachi_no_Gakkou_e_Kayou",
+      "mal-id": 40496,
       "nb_musique": 4,
       "musique": [
         {
@@ -14314,7 +14314,7 @@
     {
       "nom": "Maou Gakuin no Futekigousha II",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48417/Maou_Gakuin_no_Futekigousha__Shijou_Saikyou_no_Maou_no_Shiso_Tensei_shite_Shison-tachi_no_Gakkou_e_Kayou_II",
+      "mal-id": 48417,
       "nb_musique": 2,
       "musique": [
         {
@@ -14346,7 +14346,7 @@
     {
       "nom": "Maou-sama, Retry!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38297/Maou-sama_Retry",
+      "mal-id": 38297,
       "nb_musique": 2,
       "musique": [
         {
@@ -14378,7 +14378,7 @@
     {
       "nom": "Masamune-kun no Revenge",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/33487/Masamune-kun_no_Revenge",
+      "mal-id": 33487,
       "nb_musique": 6,
       "musique": [
         {
@@ -14438,7 +14438,7 @@
     {
       "nom": "Mashle: Magic and Muscles",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/52211/Mashle",
+      "mal-id": 52211,
       "nb_musique": 2,
       "musique": [
         {
@@ -14470,7 +14470,7 @@
     {
       "nom": "Masou Gakuen H×H",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/31845/Masou_Gakuen_HxH",
+      "mal-id": 31845,
       "nb_musique": 2,
       "musique": [
         {
@@ -14502,7 +14502,7 @@
     {
       "nom": "Meikyuu Black Company",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/42340/Meikyuu_Black_Company",
+      "mal-id": 42340,
       "nb_musique": 2,
       "musique": [
         {
@@ -14534,7 +14534,7 @@
     {
       "nom": "Mob Psycho 100",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/32182/Mob_Psycho_100",
+      "mal-id": 32182,
       "nb_musique": 4,
       "musique": [
         {
@@ -14580,7 +14580,7 @@
     {
       "nom": "Mob Psycho 100 II",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37510/Mob_Psycho_100_II",
+      "mal-id": 37510,
       "nb_musique": 5,
       "musique": [
         {
@@ -14633,7 +14633,7 @@
     {
       "nom": "MobSeka",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50461/Otome_Game_Sekai_wa_Mob_ni_Kibishii_Sekai_desu",
+      "mal-id": 50461,
       "nb_musique": 2,
       "musique": [
         {
@@ -14665,7 +14665,7 @@
     {
       "nom": "Momokuri",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/30014/Momokuri",
+      "mal-id": 30014,
       "nb_musique": 3,
       "musique": [
         {
@@ -14704,7 +14704,7 @@
     {
       "nom": "Mondaiji-tachi ga Isekai kara Kuru-sou desu yo?",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/15315/Mondaiji-tachi_ga_Isekai_kara_Kuru_Sou_desu_yo",
+      "mal-id": 15315,
       "nb_musique": 5,
       "musique": [
         {
@@ -14757,7 +14757,7 @@
     {
       "nom": "Motto To LOVE-Ru",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/9181/Motto_To_LOVE-Ru",
+      "mal-id": 9181,
       "nb_musique": 4,
       "musique": [
         {
@@ -14803,7 +14803,7 @@
     {
       "nom": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/55818",
+      "mal-id": 55818,
       "nb_musique": 1,
       "musique": [
         {
@@ -14828,7 +14828,7 @@
     {
       "nom": "Mushoku Tensei: Isekai Ittara Honki Dasu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu",
+      "mal-id": 39535,
       "nb_musique": 3,
       "musique": [
         {
@@ -14867,7 +14867,7 @@
     {
       "nom": "Mushoku Tensei: Isekai Ittara Honki Dasu",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/45576/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu_Part_2",
+      "mal-id": 45576,
       "nb_musique": 6,
       "musique": [
         {
@@ -14927,7 +14927,7 @@
     {
       "nom": "Nakitai Watashi wa Neko o Kaburu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41168/Nakitai_Watashi_wa_Neko_wo_Kaburu",
+      "mal-id": 41168,
       "nb_musique": 3,
       "musique": [
         {
@@ -14966,7 +14966,7 @@
     {
       "nom": "Nanatsu no Taizai",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai",
+      "mal-id": 23755,
       "nb_musique": 5,
       "musique": [
         {
@@ -15019,7 +15019,7 @@
     {
       "nom": "Nanatsu no Taizai: Funnu no Shinpan",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41491/Nanatsu_no_Taizai__Funnu_no_Shinpan",
+      "mal-id": 41491,
       "nb_musique": 5,
       "musique": [
         {
@@ -15072,7 +15072,7 @@
     {
       "nom": "Nanatsu no Taizai: Imashime no Fukkatsu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu",
+      "mal-id": 34577,
       "nb_musique": 5,
       "musique": [
         {
@@ -15125,7 +15125,7 @@
     {
       "nom": "Nanatsu no Taizai: Kamigami no Gekirin",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39701/Nanatsu_no_Taizai__Kamigami_no_Gekirin",
+      "mal-id": 39701,
       "nb_musique": 5,
       "musique": [
         {
@@ -15178,7 +15178,7 @@
     {
       "nom": "Nanatsu no Taizai: Seisen no Shirushi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/31722/Nanatsu_no_Taizai__Seisen_no_Shirushi",
+      "mal-id": 31722,
       "nb_musique": 2,
       "musique": [
         {
@@ -15210,7 +15210,7 @@
     {
       "nom": "Nanatsu no Taizai: Tenkuu no Torawarebito",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35946/Nanatsu_no_Taizai_Movie_1__Tenkuu_no_Torawarebito",
+      "mal-id": 35946,
       "nb_musique": 2,
       "musique": [
         {
@@ -15242,7 +15242,7 @@
     {
       "nom": "Naruto",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/20/Naruto",
+      "mal-id": 20,
       "nb_musique": 30,
       "musique": [
         {
@@ -15470,7 +15470,7 @@
     {
       "nom": "Naruto Shippuuden",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/1735/Naruto__Shippuuden",
+      "mal-id": 1735,
       "nb_musique": 61,
       "musique": [
         {
@@ -15915,7 +15915,7 @@
     {
       "nom": "Natsume Yuujinchou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/4081/Natsume_Yuujinchou",
+      "mal-id": 4081,
       "nb_musique": 2,
       "musique": [
         {
@@ -15947,7 +15947,7 @@
     {
       "nom": "Natsume Yuujinchou Go",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/32983/Natsume_Yuujinchou_Go",
+      "mal-id": 32983,
       "nb_musique": 2,
       "musique": [
         {
@@ -15979,7 +15979,7 @@
     {
       "nom": "Natsume Yuujinchou Roku",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34591/Natsume_Yuujinchou_Roku",
+      "mal-id": 34591,
       "nb_musique": 2,
       "musique": [
         {
@@ -16011,7 +16011,7 @@
     {
       "nom": "Natsume Yuujinchou San",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/10379/Natsume_Yuujinchou_San",
+      "mal-id": 10379,
       "nb_musique": 2,
       "musique": [
         {
@@ -16043,7 +16043,7 @@
     {
       "nom": "Natsume Yuujinchou Shi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/11665/Natsume_Yuujinchou_Shi",
+      "mal-id": 11665,
       "nb_musique": 2,
       "musique": [
         {
@@ -16075,7 +16075,7 @@
     {
       "nom": "Nejimaki Seirei Senki: Tenkyou no Alderamin",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/31764/Nejimaki_Seirei_Senki__Tenkyou_no_Alderamin",
+      "mal-id": 31764,
       "nb_musique": 2,
       "musique": [
         {
@@ -16107,7 +16107,7 @@
     {
       "nom": "Ni no Kuni",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39235/Ni_no_Kuni",
+      "mal-id": 39235,
       "nb_musique": 1,
       "musique": [
         {
@@ -16132,7 +16132,7 @@
     {
       "nom": "Nichijou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/10165/Nichijou",
+      "mal-id": 10165,
       "nb_musique": 19,
       "musique": [
         {
@@ -16283,7 +16283,7 @@
     {
       "nom": "Ningen Fushin no Boukensha-tachi ga Sekai o Sukuu You desu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49612/Ningen_Fushin_no_Boukensha-tachi_ga_Sekai_wo_Sukuu_you_desu",
+      "mal-id": 49612,
       "nb_musique": 2,
       "musique": [
         {
@@ -16315,7 +16315,7 @@
     {
       "nom": "No Game No Life",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/19815/No_Game_No_Life",
+      "mal-id": 19815,
       "nb_musique": 3,
       "musique": [
         {
@@ -16354,7 +16354,7 @@
     {
       "nom": "No Game No Life Zero",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/33674/No_Game_No_Life__Zero",
+      "mal-id": 33674,
       "nb_musique": 3,
       "musique": [
         {
@@ -16393,7 +16393,7 @@
     {
       "nom": "Noragami",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/20507/Noragami",
+      "mal-id": 20507,
       "nb_musique": 3,
       "musique": [
         {
@@ -16432,7 +16432,7 @@
     {
       "nom": "Noragami Aragoto",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/30503/Noragami_Aragoto",
+      "mal-id": 30503,
       "nb_musique": 2,
       "musique": [
         {
@@ -16464,7 +16464,7 @@
     {
       "nom": "Noukin",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37393/Watashi_Nouryoku_wa_Heikinchi_de_tte_Itta_yo_ne",
+      "mal-id": 37393,
       "nb_musique": 2,
       "musique": [
         {
@@ -16496,7 +16496,7 @@
     {
       "nom": "Noumin Kanren no Skill Bakka Agetetara Nazeka Tsuyoku Natta.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/51128/Noumin_Kanren_no_Skill_bakka_Agetetara_Nazeka_Tsuyoku_Natta",
+      "mal-id": 51128,
       "nb_musique": 2,
       "musique": [
         {
@@ -16528,7 +16528,7 @@
     {
       "nom": "Odd Taxi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/46102/Odd_Taxi",
+      "mal-id": 46102,
       "nb_musique": 5,
       "musique": [
         {
@@ -16581,7 +16581,7 @@
     {
       "nom": "One Piece",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/21/One_Piece",
+      "mal-id": 21,
       "nb_musique": 60,
       "musique": [
         {
@@ -17019,7 +17019,7 @@
     {
       "nom": "One Punch Man",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/30276/One_Punch_Man",
+      "mal-id": 30276,
       "nb_musique": 4,
       "musique": [
         {
@@ -17065,7 +17065,7 @@
     {
       "nom": "One Punch Man",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season",
+      "mal-id": 34134,
       "nb_musique": 2,
       "musique": [
         {
@@ -17097,7 +17097,7 @@
     {
       "nom": "One Room",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34392/One_Room",
+      "mal-id": 34392,
       "nb_musique": 4,
       "musique": [
         {
@@ -17143,7 +17143,7 @@
     {
       "nom": "One Room Second Season",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36431/One_Room__Second_Season",
+      "mal-id": 36431,
       "nb_musique": 3,
       "musique": [
         {
@@ -17182,7 +17182,7 @@
     {
       "nom": "One Room Third Season",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41364/One_Room__Third_Season",
+      "mal-id": 41364,
       "nb_musique": 5,
       "musique": [
         {
@@ -17235,7 +17235,7 @@
     {
       "nom": "Ookami Shoujo to Kuro Ouji",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/23673/Ookami_Shoujo_to_Kuro_Ouji",
+      "mal-id": 23673,
       "nb_musique": 2,
       "musique": [
         {
@@ -17267,7 +17267,7 @@
     {
       "nom": "Orange",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/32729/Orange",
+      "mal-id": 32729,
       "nb_musique": 2,
       "musique": [
         {
@@ -17299,7 +17299,7 @@
     {
       "nom": "Ore dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41899/Ore_dake_Haireru_Kakushi_Dungeon",
+      "mal-id": 41899,
       "nb_musique": 2,
       "musique": [
         {
@@ -17331,7 +17331,7 @@
     {
       "nom": "Oregairu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru",
+      "mal-id": 14813,
       "nb_musique": 5,
       "musique": [
         {
@@ -17384,7 +17384,7 @@
     {
       "nom": "Oregairu Kan",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39547/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Kan",
+      "mal-id": 39547,
       "nb_musique": 6,
       "musique": [
         {
@@ -17444,7 +17444,7 @@
     {
       "nom": "Oregairu Zoku",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku",
+      "mal-id": 23847,
       "nb_musique": 7,
       "musique": [
         {
@@ -17511,7 +17511,7 @@
     {
       "nom": "Osananajimi ga Zettai ni Makenai Love Come",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/43007/Osananajimi_ga_Zettai_ni_Makenai_Love_Comedy",
+      "mal-id": 43007,
       "nb_musique": 6,
       "musique": [
         {
@@ -17571,7 +17571,7 @@
     {
       "nom": "Otaku ni Koi wa Muzukashii",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii",
+      "mal-id": 35968,
       "nb_musique": 3,
       "musique": [
         {
@@ -17610,7 +17610,7 @@
     {
       "nom": "Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50739/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken",
+      "mal-id": 50739,
       "nb_musique": 4,
       "musique": [
         {
@@ -17656,7 +17656,7 @@
     {
       "nom": "Ousama Ranking",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40834/Ousama_Ranking",
+      "mal-id": 40834,
       "nb_musique": 4,
       "musique": [
         {
@@ -17702,7 +17702,7 @@
     {
       "nom": "Ousama Ranking: Yuuki no Takarabako",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/52657/Ousama_Ranking__Yuuki_no_Takarabako",
+      "mal-id": 52657,
       "nb_musique": 3,
       "musique": [
         {
@@ -17741,7 +17741,7 @@
     {
       "nom": "Outbreak Company: Moeru Shinryakusha",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/19369/Outbreak_Company",
+      "mal-id": 19369,
       "nb_musique": 3,
       "musique": [
         {
@@ -17780,7 +17780,7 @@
     {
       "nom": "Overlord",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/29803/Overlord",
+      "mal-id": 29803,
       "nb_musique": 2,
       "musique": [
         {
@@ -17812,7 +17812,7 @@
     {
       "nom": "Overlord II",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35073/Overlord_II",
+      "mal-id": 35073,
       "nb_musique": 2,
       "musique": [
         {
@@ -17844,7 +17844,7 @@
     {
       "nom": "Overlord III",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37675/Overlord_III",
+      "mal-id": 37675,
       "nb_musique": 2,
       "musique": [
         {
@@ -17876,7 +17876,7 @@
     {
       "nom": "Overlord IV",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48895/Overlord_IV",
+      "mal-id": 48895,
       "nb_musique": 3,
       "musique": [
         {
@@ -17915,7 +17915,7 @@
     {
       "nom": "Overlord: Fushisha no Ou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34161/Overlord_Movie_1__Fushisha_no_Ou",
+      "mal-id": 34161,
       "nb_musique": 1,
       "musique": [
         {
@@ -17940,7 +17940,7 @@
     {
       "nom": "Overlord: Shikkoku no Eiyuu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34428/Overlord_Movie_2__Shikkoku_no_Eiyuu",
+      "mal-id": 34428,
       "nb_musique": 1,
       "musique": [
         {
@@ -17965,7 +17965,7 @@
     {
       "nom": "Owari no Seraph",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/26243/Owari_no_Seraph",
+      "mal-id": 26243,
       "nb_musique": 2,
       "musique": [
         {
@@ -17997,7 +17997,7 @@
     {
       "nom": "Paripi Koumei",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50380/Paripi_Koumei",
+      "mal-id": 50380,
       "nb_musique": 16,
       "musique": [
         {
@@ -18127,7 +18127,7 @@
     {
       "nom": "Peach Boy Riverside",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/42627/Peach_Boy_Riverside",
+      "mal-id": 42627,
       "nb_musique": 2,
       "musique": [
         {
@@ -18159,7 +18159,7 @@
     {
       "nom": "Persona 3 the Movie: #1 Spring of Birth",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/14407/Persona_3_the_Movie_1__Spring_of_Birth",
+      "mal-id": 14407,
       "nb_musique": 5,
       "musique": [
         {
@@ -18212,7 +18212,7 @@
     {
       "nom": "Persona 3 the Movie: #2 Midsummer Knight's Dream",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/21473/Persona_3_the_Movie_2__Midsummer_Knights_Dream",
+      "mal-id": 21473,
       "nb_musique": 6,
       "musique": [
         {
@@ -18272,7 +18272,7 @@
     {
       "nom": "Persona 3 the Movie: #3 Falling Down",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/24543/Persona_3_the_Movie_3__Falling_Down",
+      "mal-id": 24543,
       "nb_musique": 5,
       "musique": [
         {
@@ -18325,7 +18325,7 @@
     {
       "nom": "Persona 3 the Movie: #4 Winter of Rebirth",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/31149/Persona_3_the_Movie_4__Winter_of_Rebirth",
+      "mal-id": 31149,
       "nb_musique": 6,
       "musique": [
         {
@@ -18385,7 +18385,7 @@
     {
       "nom": "Persona 4 the Animation",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/10588/Persona_4_the_Animation",
+      "mal-id": 10588,
       "nb_musique": 27,
       "musique": [
         {
@@ -18592,7 +18592,7 @@
     {
       "nom": "Persona 5 the Animation",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36023/Persona_5_the_Animation",
+      "mal-id": 36023,
       "nb_musique": 13,
       "musique": [
         {
@@ -18701,7 +18701,7 @@
     {
       "nom": "Plastic Memories",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/27775/Plastic_Memories",
+      "mal-id": 27775,
       "nb_musique": 4,
       "musique": [
         {
@@ -18747,7 +18747,7 @@
     {
       "nom": "Platinum End",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/44961/Platinum_End",
+      "mal-id": 44961,
       "nb_musique": 3,
       "musique": [
         {
@@ -18786,7 +18786,7 @@
     {
       "nom": "Plunderer",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37345/Plunderer",
+      "mal-id": 37345,
       "nb_musique": 4,
       "musique": [
         {
@@ -18832,7 +18832,7 @@
     {
       "nom": "Pocket Monsters",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/527/Pokemon",
+      "mal-id": 527,
       "nb_musique": 29,
       "musique": [
         {
@@ -19053,7 +19053,7 @@
     {
       "nom": "Pop Team Epic 2nd Season",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50663/Poputepipikku_2nd_Season",
+      "mal-id": 50663,
       "nb_musique": 22,
       "musique": [
         {
@@ -19225,7 +19225,7 @@
     {
       "nom": "Poputepipikku",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35330/Poputepipikku",
+      "mal-id": 35330,
       "nb_musique": 24,
       "musique": [
         {
@@ -19411,7 +19411,7 @@
     {
       "nom": "Poputepipikku",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/37596/Poputepipikku_TV_Special",
+      "mal-id": 37596,
       "nb_musique": 11,
       "musique": [
         {
@@ -19506,7 +19506,7 @@
     {
       "nom": "Radiant",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37202/Radiant",
+      "mal-id": 37202,
       "nb_musique": 3,
       "musique": [
         {
@@ -19545,7 +19545,7 @@
     {
       "nom": "Radiant",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/39355/Radiant_2nd_Season",
+      "mal-id": 39355,
       "nb_musique": 2,
       "musique": [
         {
@@ -19577,7 +19577,7 @@
     {
       "nom": "Rakudai Kishi no Cavalry",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/30296/Rakudai_Kishi_no_Cavalry",
+      "mal-id": 30296,
       "nb_musique": 3,
       "musique": [
         {
@@ -19616,7 +19616,7 @@
     {
       "nom": "Re:Zero kara Hajimeru Isekai Seikatsu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu",
+      "mal-id": 31240,
       "nb_musique": 8,
       "musique": [
         {
@@ -19690,7 +19690,7 @@
     {
       "nom": "Re:Zero kara Hajimeru Isekai Seikatsu",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season",
+      "mal-id": 39587,
       "nb_musique": 2,
       "musique": [
         {
@@ -19722,7 +19722,7 @@
     {
       "nom": "Re:Zero kara Hajimeru Isekai Seikatsu",
       "id": 2,
-      "lien": "https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2",
+      "mal-id": 42203,
       "nb_musique": 7,
       "musique": [
         {
@@ -19789,7 +19789,7 @@
     {
       "nom": "Re:Zero kara Hajimeru Isekai Seikatsu: Hyouketsu no Kizuna",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38414/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Hyouketsu_no_Kizuna",
+      "mal-id": 38414,
       "nb_musique": 1,
       "musique": [
         {
@@ -19814,7 +19814,7 @@
     {
       "nom": "Re:Zero kara Hajimeru Isekai Seikatsu: Memory Snow",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36286/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Memory_Snow",
+      "mal-id": 36286,
       "nb_musique": 2,
       "musique": [
         {
@@ -19846,7 +19846,7 @@
     {
       "nom": "ReLIFE",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/30015/ReLIFE",
+      "mal-id": 30015,
       "nb_musique": 13,
       "musique": [
         {
@@ -19955,7 +19955,7 @@
     {
       "nom": "Rokudenashi Majutsu Koushi to Akashic Records",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/32951/Rokudenashi_Majutsu_Koushi_to_Akashic_Records",
+      "mal-id": 32951,
       "nb_musique": 2,
       "musique": [
         {
@@ -19987,7 +19987,7 @@
     {
       "nom": "Romantic Killer",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/52865/Romantic_Killer",
+      "mal-id": 52865,
       "nb_musique": 2,
       "musique": [
         {
@@ -20019,7 +20019,7 @@
     {
       "nom": "Rougo ni Sonaete Isekai de 8-manmai no Kinka o Tamemasu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/52461/Rougo_ni_Sonaete_Isekai_de_8-manmai_no_Kinka_wo_Tamemasu",
+      "mal-id": 52461,
       "nb_musique": 2,
       "musique": [
         {
@@ -20051,7 +20051,7 @@
     {
       "nom": "Ryuu no Haisha",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34549/Ryuu_no_Haisha",
+      "mal-id": 34549,
       "nb_musique": 3,
       "musique": [
         {
@@ -20090,7 +20090,7 @@
     {
       "nom": "Ryuu to Sobakasu no Hime",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/44807/Ryuu_to_Sobakasu_no_Hime",
+      "mal-id": 44807,
       "nb_musique": 7,
       "musique": [
         {
@@ -20157,7 +20157,7 @@
     {
       "nom": "Saenai Heroine no Sodatekata",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata",
+      "mal-id": 23277,
       "nb_musique": 6,
       "musique": [
         {
@@ -20217,7 +20217,7 @@
     {
       "nom": "Saenai Heroine no Sodatekata Fine",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36885/Saenai_Heroine_no_Sodatekata_Fine",
+      "mal-id": 36885,
       "nb_musique": 4,
       "musique": [
         {
@@ -20263,7 +20263,7 @@
     {
       "nom": "Saenai Heroine no Sodatekata Flat",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/30727/Saenai_Heroine_no_Sodatekata_%E2%99%AD",
+      "mal-id": 30727,
       "nb_musique": 7,
       "musique": [
         {
@@ -20330,7 +20330,7 @@
     {
       "nom": "Saihate no Paladin",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48761/Saihate_no_Paladin",
+      "mal-id": 48761,
       "nb_musique": 5,
       "musique": [
         {
@@ -20383,7 +20383,7 @@
     {
       "nom": "Saikyou Onmyouji no Isekai Tenseiki",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki",
+      "mal-id": 50932,
       "nb_musique": 7,
       "musique": [
         {
@@ -20450,7 +20450,7 @@
     {
       "nom": "Sakamoto desu ga?",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/32542/Sakamoto_desu_ga",
+      "mal-id": 32542,
       "nb_musique": 2,
       "musique": [
         {
@@ -20482,7 +20482,7 @@
     {
       "nom": "Sakura-sou no Pet na Kanojo",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo",
+      "mal-id": 13759,
       "nb_musique": 7,
       "musique": [
         {
@@ -20549,7 +20549,7 @@
     {
       "nom": "Scarlet Nexus",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48492/Scarlet_Nexus",
+      "mal-id": 48492,
       "nb_musique": 5,
       "musique": [
         {
@@ -20602,7 +20602,7 @@
     {
       "nom": "Seijo no Maryoku wa Bannou desu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/42826/Seijo_no_Maryoku_wa_Bannou_desu",
+      "mal-id": 42826,
       "nb_musique": 3,
       "musique": [
         {
@@ -20641,7 +20641,7 @@
     {
       "nom": "Seirei Gensouki",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/44203/Seirei_Gensouki",
+      "mal-id": 44203,
       "nb_musique": 2,
       "musique": [
         {
@@ -20673,7 +20673,7 @@
     {
       "nom": "Seiren",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/33836/Seiren",
+      "mal-id": 33836,
       "nb_musique": 7,
       "musique": [
         {
@@ -20740,7 +20740,7 @@
     {
       "nom": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai",
+      "mal-id": 37450,
       "nb_musique": 8,
       "musique": [
         {
@@ -20814,7 +20814,7 @@
     {
       "nom": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38329/Seishun_Buta_Yarou_wa_Yumemiru_Shoujo_no_Yume_wo_Minai",
+      "mal-id": 38329,
       "nb_musique": 1,
       "musique": [
         {
@@ -20839,7 +20839,7 @@
     {
       "nom": "Selector Infected WIXOSS",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/22273/Selector_Infected_WIXOSS",
+      "mal-id": 22273,
       "nb_musique": 3,
       "musique": [
         {
@@ -20878,7 +20878,7 @@
     {
       "nom": "Selector Spread WIXOSS",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/24037/Selector_Spread_WIXOSS",
+      "mal-id": 24037,
       "nb_musique": 4,
       "musique": [
         {
@@ -20924,7 +20924,7 @@
     {
       "nom": "Sen to Chihiro no Kamikakushi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi",
+      "mal-id": 199,
       "nb_musique": 1,
       "musique": [
         {
@@ -20949,7 +20949,7 @@
     {
       "nom": "Senpai ga Uzai Kouhai no Hanashi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/42351/Senpai_ga_Uzai_Kouhai_no_Hanashi",
+      "mal-id": 42351,
       "nb_musique": 2,
       "musique": [
         {
@@ -20981,7 +20981,7 @@
     {
       "nom": "Shadows House",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/43439/Shadows_House",
+      "mal-id": 43439,
       "nb_musique": 3,
       "musique": [
         {
@@ -21020,7 +21020,7 @@
     {
       "nom": "Shadows House 2nd Season",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49782/Shadows_House_2nd_Season",
+      "mal-id": 49782,
       "nb_musique": 2,
       "musique": [
         {
@@ -21052,7 +21052,7 @@
     {
       "nom": "Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48415/Shijou_Saikyou_no_Daimaou_Murabito_A_ni_Tensei_suru",
+      "mal-id": 48415,
       "nb_musique": 2,
       "musique": [
         {
@@ -21084,7 +21084,7 @@
     {
       "nom": "Shikkakumon no Saikyou Kenja",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/47161/Shikkakumon_no_Saikyou_Kenja",
+      "mal-id": 47161,
       "nb_musique": 2,
       "musique": [
         {
@@ -21116,7 +21116,7 @@
     {
       "nom": "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/44037/Shin_no_Nakama_ja_Nai_to_Yuusha_no_Party_wo_Oidasareta_node_Henkyou_de_Slow_Life_suru_Koto_ni_Shimashita",
+      "mal-id": 44037,
       "nb_musique": 2,
       "musique": [
         {
@@ -21148,7 +21148,7 @@
     {
       "nom": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/51495/Shin_Shinka_no_Mi__Shiranai_Uchi_ni_Kachigumi_Jinsei",
+      "mal-id": 51495,
       "nb_musique": 3,
       "musique": [
         {
@@ -21187,7 +21187,7 @@
     {
       "nom": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38659/Shinchou_Yuusha__Kono_Yuusha_ga_Ore_Tueee_Kuse_ni_Shinchou_Sugiru",
+      "mal-id": 38659,
       "nb_musique": 3,
       "musique": [
         {
@@ -21226,7 +21226,7 @@
     {
       "nom": "Shingeki no Kyojin",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+      "mal-id": 16498,
       "nb_musique": 10,
       "musique": [
         {
@@ -21314,7 +21314,7 @@
     {
       "nom": "Shingeki no Kyojin Season 2",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/25777/Shingeki_no_Kyojin_Season_2",
+      "mal-id": 25777,
       "nb_musique": 6,
       "musique": [
         {
@@ -21374,7 +21374,7 @@
     {
       "nom": "Shingeki no Kyojin Season 3",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3",
+      "mal-id": 35760,
       "nb_musique": 4,
       "musique": [
         {
@@ -21420,7 +21420,7 @@
     {
       "nom": "Shingeki no Kyojin Season 3",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2",
+      "mal-id": 38524,
       "nb_musique": 4,
       "musique": [
         {
@@ -21466,7 +21466,7 @@
     {
       "nom": "Shingeki no Kyojin: The Final Season",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season",
+      "mal-id": 40028,
       "nb_musique": 3,
       "musique": [
         {
@@ -21505,7 +21505,7 @@
     {
       "nom": "Shingeki no Kyojin: The Final Season",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/48583/Shingeki_no_Kyojin__The_Final_Season_Part_2",
+      "mal-id": 48583,
       "nb_musique": 4,
       "musique": [
         {
@@ -21551,7 +21551,7 @@
     {
       "nom": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/51535/Shingeki_no_Kyojin__The_Final_Season_-_Kanketsu-hen",
+      "mal-id": 51535,
       "nb_musique": 3,
       "musique": [
         {
@@ -21590,7 +21590,7 @@
     {
       "nom": "Shinigami Bocchan to Kuro Maid",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/47257/Shinigami_Bocchan_to_Kuro_Maid",
+      "mal-id": 47257,
       "nb_musique": 7,
       "musique": [
         {
@@ -21657,7 +21657,7 @@
     {
       "nom": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/46985/Shinka_no_Mi__Shiranai_Uchi_ni_Kachigumi_Jinsei",
+      "mal-id": 46985,
       "nb_musique": 2,
       "musique": [
         {
@@ -21689,7 +21689,7 @@
     {
       "nom": "Shinmai Maou no Testament",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/23233/Shinmai_Maou_no_Testament",
+      "mal-id": 23233,
       "nb_musique": 2,
       "musique": [
         {
@@ -21721,7 +21721,7 @@
     {
       "nom": "Shinmai Maou no Testament Burst",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/30363/Shinmai_Maou_no_Testament_Burst",
+      "mal-id": 30363,
       "nb_musique": 6,
       "musique": [
         {
@@ -21781,7 +21781,7 @@
     {
       "nom": "Shinmai Renkinjutsushi no Tenpo Keiei",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49849/Shinmai_Renkinjutsushi_no_Tenpo_Keiei",
+      "mal-id": 49849,
       "nb_musique": 2,
       "musique": [
         {
@@ -21813,7 +21813,7 @@
     {
       "nom": "Shinobi no Ittoki",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/51098/Shinobi_no_Ittoki",
+      "mal-id": 51098,
       "nb_musique": 2,
       "musique": [
         {
@@ -21845,7 +21845,7 @@
     {
       "nom": "Shinseiki Evangelion",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+      "mal-id": 30,
       "nb_musique": 23,
       "musique": [
         {
@@ -22024,7 +22024,7 @@
     {
       "nom": "Shokei Shoujo no Virgin Road",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/47162/Shokei_Shoujo_no_Virgin_Road",
+      "mal-id": 47162,
       "nb_musique": 2,
       "musique": [
         {
@@ -22056,7 +22056,7 @@
     {
       "nom": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/33502/Shuumatsu_Nani_Shitemasu_ka_Isogashii_desu_ka_Sukutte_Moratte_Ii_desu_ka",
+      "mal-id": 33502,
       "nb_musique": 8,
       "musique": [
         {
@@ -22130,7 +22130,7 @@
     {
       "nom": "Shuumatsu no Walküre",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/44942",
+      "mal-id": 44942,
       "nb_musique": 2,
       "musique": [
         {
@@ -22162,7 +22162,7 @@
     {
       "nom": "Shuumatsu no Walküre II",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49618",
+      "mal-id": 49618,
       "nb_musique": 3,
       "musique": [
         {
@@ -22201,7 +22201,7 @@
     {
       "nom": "Skip to Loafer",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50416/Skip_to_Loafer",
+      "mal-id": 50416,
       "nb_musique": 2,
       "musique": [
         {
@@ -22233,7 +22233,7 @@
     {
       "nom": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40586/Slime_Taoshite_300-nen_Shiranai_Uchi_ni_Level_Max_ni_Nattemashita",
+      "mal-id": 40586,
       "nb_musique": 5,
       "musique": [
         {
@@ -22286,7 +22286,7 @@
     {
       "nom": "Sonny Boy",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48849/Sonny_Boy",
+      "mal-id": 48849,
       "nb_musique": 5,
       "musique": [
         {
@@ -22339,7 +22339,7 @@
     {
       "nom": "Sono Bisque Doll wa Koi o Suru",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/48736/Sono_Bisque_Doll_wa_Koi_wo_Suru",
+      "mal-id": 48736,
       "nb_musique": 3,
       "musique": [
         {
@@ -22378,7 +22378,7 @@
     {
       "nom": "Soredemo Ayumu wa Yosetekuru",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/45653/Soredemo_Ayumu_wa_Yosetekuru",
+      "mal-id": 45653,
       "nb_musique": 2,
       "musique": [
         {
@@ -22410,7 +22410,7 @@
     {
       "nom": "Special A",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/3470/Special_A",
+      "mal-id": 3470,
       "nb_musique": 9,
       "musique": [
         {
@@ -22491,7 +22491,7 @@
     {
       "nom": "Spy × Family",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50265/Spy_x_Family",
+      "mal-id": 50265,
       "nb_musique": 3,
       "musique": [
         {
@@ -22530,7 +22530,7 @@
     {
       "nom": "Spy × Family",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/50602/Spy_x_Family_Part_2",
+      "mal-id": 50602,
       "nb_musique": 4,
       "musique": [
         {
@@ -22576,7 +22576,7 @@
     {
       "nom": "SSSS.DYNAZENON",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40870/SSSSDynazenon",
+      "mal-id": 40870,
       "nb_musique": 11,
       "musique": [
         {
@@ -22671,7 +22671,7 @@
     {
       "nom": "SSSS.GRIDMAN",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35847/SSSSGridman",
+      "mal-id": 35847,
       "nb_musique": 5,
       "musique": [
         {
@@ -22724,7 +22724,7 @@
     {
       "nom": "Steins;Gate",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/9253/Steins_Gate",
+      "mal-id": 9253,
       "nb_musique": 7,
       "musique": [
         {
@@ -22791,7 +22791,7 @@
     {
       "nom": "Steins;Gate 0",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/30484/Steins_Gate_0",
+      "mal-id": 30484,
       "nb_musique": 11,
       "musique": [
         {
@@ -22886,7 +22886,7 @@
     {
       "nom": "Steins;Gate: Fuka Ryouiki no Déjà vu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/11577/Steins_Gate_Movie__Fuka_Ryouiki_no_D%C3%A9j%C3%A0_vu",
+      "mal-id": 11577,
       "nb_musique": 2,
       "musique": [
         {
@@ -22918,7 +22918,7 @@
     {
       "nom": "Strait Jacket",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/3086/Strait_Jacket",
+      "mal-id": 3086,
       "nb_musique": 3,
       "musique": [
         {
@@ -22957,7 +22957,7 @@
     {
       "nom": "Subarashiki Kono Sekai The Animation",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/42307/Subarashiki_Kono_Sekai_The_Animation",
+      "mal-id": 42307,
       "nb_musique": 5,
       "musique": [
         {
@@ -23010,7 +23010,7 @@
     {
       "nom": "Sugar Apple Fairy Tale",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49980/Sugar_Apple_Fairy_Tale",
+      "mal-id": 49980,
       "nb_musique": 3,
       "musique": [
         {
@@ -23049,7 +23049,7 @@
     {
       "nom": "Suki na Ko ga Megane o Wasureta",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/54234",
+      "mal-id": 54234,
       "nb_musique": 2,
       "musique": [
         {
@@ -23081,7 +23081,7 @@
     {
       "nom": "Suki ni Naru Sono Shunkan o. Kokuhaku Jikkou Iinkai",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/33036/Suki_ni_Naru_Sono_Shunkan_wo_Kokuhaku_Jikkou_Iinkai",
+      "mal-id": 33036,
       "nb_musique": 6,
       "musique": [
         {
@@ -23141,7 +23141,7 @@
     {
       "nom": "Suki tte Ii na yo.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/14289/Suki_tte_Ii_na_yo",
+      "mal-id": 14289,
       "nb_musique": 3,
       "musique": [
         {
@@ -23180,7 +23180,7 @@
     {
       "nom": "Summertime Render",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/47194/Summertime_Render",
+      "mal-id": 47194,
       "nb_musique": 4,
       "musique": [
         {
@@ -23226,7 +23226,7 @@
     {
       "nom": "Sword Art Online",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/11757/Sword_Art_Online",
+      "mal-id": 11757,
       "nb_musique": 4,
       "musique": [
         {
@@ -23272,7 +23272,7 @@
     {
       "nom": "Sword Art Online II",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/21881/Sword_Art_Online_II",
+      "mal-id": 21881,
       "nb_musique": 6,
       "musique": [
         {
@@ -23332,7 +23332,7 @@
     {
       "nom": "Sword Art Online: Alicization",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization",
+      "mal-id": 36474,
       "nb_musique": 7,
       "musique": [
         {
@@ -23399,7 +23399,7 @@
     {
       "nom": "Sword Art Online: Alicization - War of Underworld",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld",
+      "mal-id": 39597,
       "nb_musique": 2,
       "musique": [
         {
@@ -23431,7 +23431,7 @@
     {
       "nom": "Sword Art Online: Alicization - War of Underworld",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/40540/Sword_Art_Online__Alicization_-_War_of_Underworld_2nd_Season",
+      "mal-id": 40540,
       "nb_musique": 3,
       "musique": [
         {
@@ -23470,7 +23470,7 @@
     {
       "nom": "Sword Art Online: Alicization - War of Underworld",
       "id": 2,
-      "lien": "https://myanimelist.net/anime/41341/Sword_Art_Online__Alicization_-_War_of_Underworld_Recap",
+      "mal-id": 41341,
       "nb_musique": 1,
       "musique": [
         {
@@ -23495,7 +23495,7 @@
     {
       "nom": "Sword Art Online: Alicization - War of Underworld Reflection",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40489/Sword_Art_Online__Alicization_-_War_of_Underworld_Reflection",
+      "mal-id": 40489,
       "nb_musique": 1,
       "musique": [
         {
@@ -23520,7 +23520,7 @@
     {
       "nom": "Tantei wa Mou, Shindeiru.",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/46471/Tantei_wa_Mou_Shindeiru",
+      "mal-id": 46471,
       "nb_musique": 5,
       "musique": [
         {
@@ -23573,7 +23573,7 @@
     {
       "nom": "Tate no Yuusha no Nariagari",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari",
+      "mal-id": 35790,
       "nb_musique": 8,
       "musique": [
         {
@@ -23647,7 +23647,7 @@
     {
       "nom": "Tate no Yuusha no Nariagari Season 2",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/40356/Tate_no_Yuusha_no_Nariagari_Season_2",
+      "mal-id": 40356,
       "nb_musique": 3,
       "musique": [
         {
@@ -23686,7 +23686,7 @@
     {
       "nom": "Tengen Toppa Gurren Lagann",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann",
+      "mal-id": 2001,
       "nb_musique": 9,
       "musique": [
         {
@@ -23767,7 +23767,7 @@
     {
       "nom": "Tenki no Ko",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/38826/Tenki_no_Ko",
+      "mal-id": 38826,
       "nb_musique": 7,
       "musique": [
         {
@@ -23834,7 +23834,7 @@
     {
       "nom": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/47159/Tensai_Ouji_no_Akaji_Kokka_Saisei_Jutsu",
+      "mal-id": 47159,
       "nb_musique": 2,
       "musique": [
         {
@@ -23866,7 +23866,7 @@
     {
       "nom": "Tensei Kenja no Isekai Life: Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/47163/Tensei_Kenja_no_Isekai_Life__Dai-2_no_Shokugyou_wo_Ete_Sekai_Saikyou_ni_Narimashita",
+      "mal-id": 47163,
       "nb_musique": 2,
       "musique": [
         {
@@ -23898,7 +23898,7 @@
     {
       "nom": "Tensei Kizoku no Isekai Boukenroku: Jichou o Shiranai Kamigami no Shito",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/52608/Tensei_Kizoku_no_Isekai_Boukenroku__Jichou_wo_Shiranai_Kamigami_no_Shito",
+      "mal-id": 52608,
       "nb_musique": 3,
       "musique": [
         {
@@ -23937,7 +23937,7 @@
     {
       "nom": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/52736/Tensei_Oujo_to_Tensai_Reijou_no_Mahou_Kakumei",
+      "mal-id": 52736,
       "nb_musique": 2,
       "musique": [
         {
@@ -23969,7 +23969,7 @@
     {
       "nom": "Tensei shitara Ken Deshita",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/49891/Tensei_shitara_Ken_deshita",
+      "mal-id": 49891,
       "nb_musique": 2,
       "musique": [
         {
@@ -24001,7 +24001,7 @@
     {
       "nom": "Tensei shitara Slime Datta Ken",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken",
+      "mal-id": 37430,
       "nb_musique": 5,
       "musique": [
         {
@@ -24054,7 +24054,7 @@
     {
       "nom": "Tensei shitara Slime Datta Ken",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/38793/Tensei_shitara_Slime_Datta_Ken_OVA",
+      "mal-id": 38793,
       "nb_musique": 4,
       "musique": [
         {
@@ -24100,7 +24100,7 @@
     {
       "nom": "Tensei shitara Slime Datta Ken",
       "id": 2,
-      "lien": "https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season",
+      "mal-id": 39551,
       "nb_musique": 4,
       "musique": [
         {
@@ -24146,7 +24146,7 @@
     {
       "nom": "Tensei shitara Slime Datta Ken",
       "id": 3,
-      "lien": "https://myanimelist.net/anime/41487/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Part_2",
+      "mal-id": 41487,
       "nb_musique": 3,
       "musique": [
         {
@@ -24185,7 +24185,7 @@
     {
       "nom": "Tensura Nikki: Tensei shitara Slime Datta Ken",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41488/Tensura_Nikki__Tensei_shitara_Slime_Datta_Ken",
+      "mal-id": 41488,
       "nb_musique": 5,
       "musique": [
         {
@@ -24238,7 +24238,7 @@
     {
       "nom": "To LOVE-Ru",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/3455/To_LOVE-Ru",
+      "mal-id": 3455,
       "nb_musique": 7,
       "musique": [
         {
@@ -24305,7 +24305,7 @@
     {
       "nom": "To LOVE-Ru Darkness",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/13663/To_LOVE-Ru_Darkness",
+      "mal-id": 13663,
       "nb_musique": 2,
       "musique": [
         {
@@ -24337,7 +24337,7 @@
     {
       "nom": "To LOVE-Ru Darkness 2nd",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/28979/To_LOVE-Ru_Darkness_2nd",
+      "mal-id": 28979,
       "nb_musique": 2,
       "musique": [
         {
@@ -24369,7 +24369,7 @@
     {
       "nom": "Tokyo Ghoul",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/22319/Tokyo_Ghoul",
+      "mal-id": 22319,
       "nb_musique": 2,
       "musique": [
         {
@@ -24401,7 +24401,7 @@
     {
       "nom": "Tokyo Ghoul √A",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/27899/Tokyo_Ghoul_%E2%88%9AA",
+      "mal-id": 27899,
       "nb_musique": 8,
       "musique": [
         {
@@ -24475,7 +24475,7 @@
     {
       "nom": "Tokyo Ghoul:re",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/36511/Tokyo_Ghoul_re",
+      "mal-id": 36511,
       "nb_musique": 6,
       "musique": [
         {
@@ -24535,7 +24535,7 @@
     {
       "nom": "Tokyo Ghoul:re",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/37799/Tokyo_Ghoul_re_2nd_Season",
+      "mal-id": 37799,
       "nb_musique": 5,
       "musique": [
         {
@@ -24588,7 +24588,7 @@
     {
       "nom": "Tomodachi Game",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50273/Tomodachi_Game",
+      "mal-id": 50273,
       "nb_musique": 2,
       "musique": [
         {
@@ -24620,7 +24620,7 @@
     {
       "nom": "Tonari no Kaibutsu-kun",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/14227/Tonari_no_Kaibutsu-kun",
+      "mal-id": 14227,
       "nb_musique": 2,
       "musique": [
         {
@@ -24652,7 +24652,7 @@
     {
       "nom": "Tondemo Skill de Isekai Hourou Meshi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/53446/Tondemo_Skill_de_Isekai_Hourou_Meshi",
+      "mal-id": 53446,
       "nb_musique": 2,
       "musique": [
         {
@@ -24684,7 +24684,7 @@
     {
       "nom": "Tonikaku Kawaii",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41389/Tonikaku_Kawaii",
+      "mal-id": 41389,
       "nb_musique": 3,
       "musique": [
         {
@@ -24723,7 +24723,7 @@
     {
       "nom": "Toradora!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/4224/Toradora",
+      "mal-id": 4224,
       "nb_musique": 6,
       "musique": [
         {
@@ -24783,7 +24783,7 @@
     {
       "nom": "Trinity Seven",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/25157/Trinity_Seven",
+      "mal-id": 25157,
       "nb_musique": 7,
       "musique": [
         {
@@ -24850,7 +24850,7 @@
     {
       "nom": "Tsuki ga Kirei",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34822/Tsuki_ga_Kirei",
+      "mal-id": 34822,
       "nb_musique": 8,
       "musique": [
         {
@@ -24924,7 +24924,7 @@
     {
       "nom": "Tsuki ga Michibiku Isekai Douchuu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/43523/Tsuki_ga_Michibiku_Isekai_Douchuu",
+      "mal-id": 43523,
       "nb_musique": 4,
       "musique": [
         {
@@ -24970,7 +24970,7 @@
     {
       "nom": "Tsuredure Children",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34902/Tsurezure_Children",
+      "mal-id": 34902,
       "nb_musique": 2,
       "musique": [
         {
@@ -25002,7 +25002,7 @@
     {
       "nom": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34498/Uchiage_Hanabi_Shita_kara_Miru_ka_Yoko_kara_Miru_ka",
+      "mal-id": 34498,
       "nb_musique": 3,
       "musique": [
         {
@@ -25041,7 +25041,7 @@
     {
       "nom": "Uzaki-chan wa Asobitai!",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/41226/Uzaki-chan_wa_Asobitai",
+      "mal-id": 41226,
       "nb_musique": 2,
       "musique": [
         {
@@ -25073,7 +25073,7 @@
     {
       "nom": "Violet Evergarden",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/33352/Violet_Evergarden",
+      "mal-id": 33352,
       "nb_musique": 4,
       "musique": [
         {
@@ -25119,7 +25119,7 @@
     {
       "nom": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/39741/Violet_Evergarden_Gaiden__Eien_to_Jidou_Shuki_Ningyou",
+      "mal-id": 39741,
       "nb_musique": 1,
       "musique": [
         {
@@ -25144,7 +25144,7 @@
     {
       "nom": "Vivy: Fluorite Eye's Song",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song",
+      "mal-id": 46095,
       "nb_musique": 11,
       "musique": [
         {
@@ -25239,7 +25239,7 @@
     {
       "nom": "Yamada-kun to 7-nin no Majo",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/28677/Yamada-kun_to_7-nin_no_Majo",
+      "mal-id": 28677,
       "nb_musique": 2,
       "musique": [
         {
@@ -25271,7 +25271,7 @@
     {
       "nom": "Yamada-kun to 7-nin no Majo",
       "id": 1,
-      "lien": "https://myanimelist.net/anime/24627/Yamada-kun_to_7-nin_no_Majo__Mou_Hitotsu_no_Suzaku-sai",
+      "mal-id": 24627,
       "nb_musique": 5,
       "musique": [
         {
@@ -25324,7 +25324,7 @@
     {
       "nom": "Yamada-kun to Lv999 no Koi o Suru",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/53126/Yamada-kun_to_Lv999_no_Koi_wo_Suru",
+      "mal-id": 53126,
       "nb_musique": 2,
       "musique": [
         {
@@ -25356,7 +25356,7 @@
     {
       "nom": "Yofukashi no Uta",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50346/Yofukashi_no_Uta",
+      "mal-id": 50346,
       "nb_musique": 3,
       "musique": [
         {
@@ -25395,7 +25395,7 @@
     {
       "nom": "Youjo Senki",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/32615/Youjo_Senki",
+      "mal-id": 32615,
       "nb_musique": 4,
       "musique": [
         {
@@ -25441,7 +25441,7 @@
     {
       "nom": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/35507/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e",
+      "mal-id": 35507,
       "nb_musique": 2,
       "musique": [
         {
@@ -25473,7 +25473,7 @@
     {
       "nom": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/51096/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_2nd_Season",
+      "mal-id": 51096,
       "nb_musique": 2,
       "musique": [
         {
@@ -25505,7 +25505,7 @@
     {
       "nom": "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50421/Shi_Cao_Lao_Long_Bei_Guan_Yi_E_Long_Zhi_Ming",
+      "mal-id": 50421,
       "nb_musique": 2,
       "musique": [
         {
@@ -25537,7 +25537,7 @@
     {
       "nom": "Yuru Camp△",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34798/Yuru_Camp%E2%96%B3",
+      "mal-id": 34798,
       "nb_musique": 2,
       "musique": [
         {
@@ -25569,7 +25569,7 @@
     {
       "nom": "Yuusha Party o Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/52046/Yuusha_Party_wo_Tsuihou_sareta_Beast_Tamer_Saikyoushu_no_Nekomimi_Shoujo_to_Deau",
+      "mal-id": 52046,
       "nb_musique": 2,
       "musique": [
         {
@@ -25601,7 +25601,7 @@
     {
       "nom": "Yuusha, Yamemasu",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/50175/Yuusha_Yamemasu",
+      "mal-id": 50175,
       "nb_musique": 3,
       "musique": [
         {
@@ -25640,7 +25640,7 @@
     {
       "nom": "Zero kara Hajimeru Mahou no Sho",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/34176/Zero_kara_Hajimeru_Mahou_no_Sho",
+      "mal-id": 34176,
       "nb_musique": 2,
       "musique": [
         {
@@ -25672,7 +25672,7 @@
     {
       "nom": "Zero no Tsukaima",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/1195/Zero_no_Tsukaima",
+      "mal-id": 1195,
       "nb_musique": 2,
       "musique": [
         {
@@ -25704,7 +25704,7 @@
     {
       "nom": "Zero no Tsukaima: Futatsuki no Kishi",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/1840/Zero_no_Tsukaima__Futatsuki_no_Kishi",
+      "mal-id": 1840,
       "nb_musique": 2,
       "musique": [
         {
@@ -25736,7 +25736,7 @@
     {
       "nom": "Zero no Tsukaima: Princess no Rondo",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/3712/Zero_no_Tsukaima__Princesses_no_Rondo",
+      "mal-id": 3712,
       "nb_musique": 3,
       "musique": [
         {
@@ -25775,7 +25775,7 @@
     {
       "nom": "Zoku Natsume Yuujinchou",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/5300/Zoku_Natsume_Yuujinchou",
+      "mal-id": 5300,
       "nb_musique": 2,
       "musique": [
         {
@@ -25807,7 +25807,7 @@
     {
       "nom": "Zutto Mae kara Suki Deshita. Kokuhaku Jikkou Iinkai",
       "id": 0,
-      "lien": "https://myanimelist.net/anime/31245/Zutto_Mae_kara_Suki_deshita_Kokuhaku_Jikkou_Iinkai",
+      "mal-id": 31245,
       "nb_musique": 6,
       "musique": [
         {

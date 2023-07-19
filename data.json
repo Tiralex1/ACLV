@@ -1,6 +1,6 @@
 {
-  "nb_anime": 498,
-  "nb_musique": 2416,
+  "nb_anime": 499,
+  "nb_musique": 2421,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -19947,6 +19947,59 @@
       "users": {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Rokka no Yuusha",
+      "id": 0,
+      "mal_id": 28497,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Cry for the Truth",
+          "artiste": "MICHI",
+          "lien": "https://nl.catbox.moe/ood3uw.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Black Swallowtail",
+          "artiste": "UROBOROS",
+          "lien": "https://nl.catbox.moe/8u03oq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Secret Sky",
+          "artiste": "MICHI",
+          "lien": "https://nl.catbox.moe/vyyj7g.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Dance in the Fake",
+          "artiste": "Yoko Hikasa",
+          "lien": "https://nl.catbox.moe/foxack.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Nameless Heart",
+          "artiste": "Aoi Yuuki",
+          "lien": "https://nl.catbox.moe/74c061.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 1,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0

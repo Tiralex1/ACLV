@@ -1,6 +1,6 @@
 {
   "nb_anime": 499,
-  "nb_musique": 2421,
+  "nb_musique": 2422,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10831,7 +10831,7 @@
       "nom": "Kaminaki Sekai no Kamisama Katsudou",
       "id": 0,
       "mal_id": 51693,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -10846,6 +10846,13 @@
           "nom": "Steppin' Up Life!",
           "artiste": "Akari Kitou",
           "lien": "https://nl.catbox.moe/8f2xio.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "TOGETHER!!",
+          "artiste": "Akari Kitou",
+          "lien": "https://nl.catbox.moe/59fywn.webm"
         }
       ],
       "genres": [

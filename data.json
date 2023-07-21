@@ -1,6 +1,6 @@
 {
-  "nb_anime": 499,
-  "nb_musique": 2422,
+  "nb_anime": 500,
+  "nb_musique": 2424,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -20657,6 +20657,38 @@
           "L": 0,
           "V": 0,
           "T": 1
+      }
+    },
+    {
+      "nom": "Seija Musou: Salaryman, Isekai de Ikiru Tame ni Ayumu Michi",
+      "id": 0,
+      "mal_id": 53263,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Bug-chan",
+          "artiste": "nasuo☆",
+          "lien": "https://nl.catbox.moe/pg9bm1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "A NEW DAY",
+          "artiste": "Yuki Nakashima",
+          "lien": "https://nl.catbox.moe/ybe6i7.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
       }
     },
     {

@@ -1,6 +1,6 @@
 {
   "nb_anime": 500,
-  "nb_musique": 2424,
+  "nb_musique": 2425,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -11061,7 +11061,7 @@
       "nom": "Kanojo, Okarishimasu",
       "id": 2,
       "mal_id": 53050,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -11069,6 +11069,13 @@
           "nom": "Renai Milli Film",
           "artiste": "halca",
           "lien": "https://nl.catbox.moe/v2aros.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Endroll",
+          "artiste": "Amber's",
+          "lien": "https://nl.catbox.moe/qzn8af.webm"
         }
       ],
       "genres": [

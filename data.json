@@ -1,6 +1,6 @@
 {
-  "nb_anime": 500,
-  "nb_musique": 2425,
+  "nb_anime": 501,
+  "nb_musique": 2428,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -2786,6 +2786,45 @@
           "L": 0,
           "V": 0,
           "T": 1
+      }
+    },
+    {
+      "nom": "Carino Coni",
+      "id": 0,
+      "mal_id": 23721,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Pizza Pasta Pizza no Uta",
+          "artiste": "MAYA & Z",
+          "lien": "https://nl.catbox.moe/lvvoid.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Pizza Pasta Pizza no Uta",
+          "artiste": "Ichiro Mizuki",
+          "lien": "https://nl.catbox.moe/sf7eqd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Pizza Pasta Pizza",
+          "artiste": "Nikkos Bifaro Vincenzo",
+          "lien": "https://nl.catbox.moe/ox0uzp.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 1,
+          "V": 0,
+          "T": 0
       }
     },
     {

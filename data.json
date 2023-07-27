@@ -1,6 +1,6 @@
 {
-  "nb_anime": 501,
-  "nb_musique": 2428,
+  "nb_anime": 504,
+  "nb_musique": 2436,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -9983,6 +9983,45 @@
           "C": 0,
           "L": 0,
           "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Josee to Tora to Sakana-tachi",
+      "id": 0,
+      "mal_id": 40787,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Take Me Far Away",
+          "artiste": "Ai Ichikawa",
+          "lien": "https://nl.catbox.moe/erd28q.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ao no Waltz",
+          "artiste": "Eve",
+          "lien": "https://nl.catbox.moe/q0c5lo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shinkai",
+          "artiste": "Eve",
+          "lien": "https://nl.catbox.moe/aj7jy2.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
           "T": 0
       }
     },
@@ -21117,6 +21156,45 @@
       }
     },
     {
+      "nom": "Serial Experiments Lain",
+      "id": 0,
+      "mal_id": 339,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "DUVET",
+          "artiste": "BOA",
+          "lien": "https://nl.catbox.moe/z6dcvb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tooi Sakebi",
+          "artiste": "Reichi "CHABO" Nakaido",
+          "lien": "https://nl.catbox.moe/6oz080.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kodoku no Signal",
+          "artiste": "Reichi \"CHABO\" Nakaido",
+          "lien": "https://nl.catbox.moe/tzlbvq.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 1
+      }
+    },
+    {
       "nom": "Shadows House",
       "id": 0,
       "mal_id": 43439,
@@ -25953,6 +26031,38 @@
           "C": 0,
           "L": 1,
           "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
+      "id": 0,
+      "mal_id": 54112,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Song of the Dead",
+          "artiste": "KANA-BOON",
+          "lien": "https://nl.catbox.moe/cc4toh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Happiness of the Dead",
+          "artiste": "Shiyui",
+          "lien": "https://nl.catbox.moe/q2aect.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
           "T": 0
       }
     },

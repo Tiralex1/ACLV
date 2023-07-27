@@ -1,6 +1,6 @@
 {
   "nb_anime": 504,
-  "nb_musique": 2436,
+  "nb_musique": 2437,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10909,7 +10909,7 @@
       "nom": "Kaminaki Sekai no Kamisama Katsudou",
       "id": 0,
       "mal_id": 51693,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -10924,6 +10924,13 @@
           "nom": "Steppin' Up Life!",
           "artiste": "Akari Kitou",
           "lien": "https://nl.catbox.moe/8f2xio.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kyuusei Mitama Kyouka",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.moe/ciz60p.webm"
         },
         {
           "type": "Insert Song",

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 538,
-  "nb_musique": 2539,
+  "nb_anime": 558,
+  "nb_musique": 2625,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -14631,6 +14631,52 @@
       }
     },
     {
+      "nom": "Megalobox 2: Nomad",
+      "id": 0,
+      "mal_id": 40729,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "The theme of the NOMAD",
+          "artiste": "mabanua",
+          "lien": "https://nl.catbox.moe/z3m2n4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "El Canto del Colibrí",
+          "artiste": "mabanua",
+          "lien": "https://nl.catbox.moe/79uvft.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Rise Up / Diamond in the Sky",
+          "artiste": "Lyn Inaizumi",
+          "lien": "https://nl.catbox.moe/5j11wg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "El Canto del Colibrí (Chief Ver.)",
+          "artiste": "Miou Tanaka",
+          "lien": "https://nl.catbox.moe/17nehr.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Meikyuu Black Company",
       "id": 0,
       "mal_id": 42340,
@@ -16412,6 +16458,150 @@
       }
     },
     {
+      "nom": "NieR:Automata Ver1.1a",
+      "id": 0,
+      "mal_id": 51105,
+      "nb_musique": 18,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "escalate",
+          "artiste": "Aimer",
+          "lien": "https://nl.catbox.video/o31f13.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Antinomy",
+          "artiste": "amazarashi",
+          "lien": "https://nl.catbox.moe/a6csia.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Weight of the World/English Version(Ver1.1a)",
+          "artiste": "J'Nique Nicole",
+          "lien": "https://nl.catbox.moe/kp48if.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Aimai na Kibou/Hisame",
+          "artiste": "Emi Evans",
+          "lien": "https://nl.catbox.moe/g26jqz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Coronal Kyoumei/Eve ni Naru",
+          "artiste": "Saki Nakae & Shotaro Seo",
+          "lien": "https://nl.catbox.moe/tw05c8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Dare ga Tame no Tatakai",
+          "artiste": "Saki Nakae",
+          "lien": "https://nl.catbox.moe/t62xhr.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Fukuseisareta Machi(Ver1.1a)",
+          "artiste": "Saki Nakae & Shotaro Seo",
+          "lien": "https://nl.catbox.moe/gz1u03.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Houkai no Kyomou/Zenshin(Ver1.1a)",
+          "artiste": "Saki Nakae",
+          "lien": "https://nl.catbox.moe/xq62dd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Inishie no Uta/Shokuzai",
+          "artiste": "Emi Evans",
+          "lien": "https://nl.catbox.moe/o31f13.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kainé/Kusai",
+          "artiste": "Emi Evans",
+          "lien": "https://nl.catbox.moe/583mdp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Nokosareta Basho/Shakou",
+          "artiste": "J'Nique Nicole",
+          "lien": "https://nl.catbox.moe/p1gmsd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Orokashii Heiki:Otsu:Kou",
+          "artiste": "Emi Evans",
+          "lien": "https://nl.catbox.moe/r4dmuh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Pascal",
+          "artiste": "Saki Ishii",
+          "lien": "https://nl.catbox.moe/0zizsc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sajin no Kioku",
+          "artiste": "J'Nique Nicole",
+          "lien": "https://nl.catbox.moe/xu8m8l.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Subete o Hakai Suru Kuroki Kyojin/Kaijuu",
+          "artiste": "NieR:Automata Choir",
+          "lien": "https://nl.catbox.moe/1dv32q.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Toritsuita Goubyou",
+          "artiste": "Nami Nakagawa",
+          "lien": "https://nl.catbox.moe/xiam5k.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Utsukushiki Uta(Ver1.1a)",
+          "artiste": "Emi Evans & J'Nique Nicole",
+          "lien": "https://nl.catbox.moe/6whe80.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yuuen Shisetsu",
+          "artiste": "Emi Evans",
+          "lien": "https://nl.catbox.moe/w90vvw.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Ningen Fushin no Boukensha-tachi ga Sekai o Sukuu You desu",
       "id": 0,
       "mal_id": 49612,
@@ -16515,6 +16705,38 @@
       ],
       "users": {
           "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Noblesse",
+      "id": 0,
+      "mal_id": 41345,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "BREAKING DAWN (Japanese Ver.) Produced by HYDE",
+          "artiste": "J-JUN",
+          "lien": "https://nl.catbox.moe/3vuk5q.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Etoile",
+          "artiste": "OH MY GIRL",
+          "lien": "https://nl.catbox.moe/kqug23.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
           "C": 0,
           "L": 0,
           "V": 0,
@@ -16706,6 +16928,38 @@
           "C": 1,
           "L": 1,
           "V": 1,
+          "T": 0
+      }
+    },
+    {
+      "nom": "One Outs",
+      "id": 0,
+      "mal_id": 5040,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Bury",
+          "artiste": "Pay money To my Pain",
+          "lien": "https://nl.catbox.moe/wmlf63.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Moment",
+          "artiste": "TRIBAL CHAIR",
+          "lien": "https://nl.catbox.video/hnkf1v.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
           "T": 0
       }
     },
@@ -17364,6 +17618,31 @@
       }
     },
     {
+      "nom": "Ookami Kodomo no Ame to Yuki",
+      "id": 0,
+      "mal_id": 12355,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Okaa-san no Uta",
+          "artiste": "Ann Sally",
+          "lien": "https://nl.catbox.moe/9b8q0l.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Ookami Shoujo to Kuro Ouji",
       "id": 0,
       "mal_id": 23673,
@@ -17640,6 +17919,38 @@
       }
     },
     {
+      "nom": "Orient",
+      "id": 0,
+      "mal_id": 45560,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Break out",
+          "artiste": "Da-iCE",
+          "lien": "https://nl.catbox.moe/geju2x.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Naniiro",
+          "artiste": "Wataru Hatano",
+          "lien": "https://nl.catbox.moe/4onlcj.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Osananajimi ga Zettai ni Makenai Love Come",
       "id": 0,
       "mal_id": 43007,
@@ -17779,6 +18090,38 @@
       "users": {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Ousama Game The Animation",
+      "id": 0,
+      "mal_id": 36027,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "FEED THE FIRE",
+          "artiste": "coldrain",
+          "lien": "https://nl.catbox.moe/cjk8bn.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Lost Paradise",
+          "artiste": "Pile",
+          "lien": "https://nl.catbox.moe/fj6y1n.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0
@@ -18281,6 +18624,31 @@
       ],
       "users": {
           "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Penguin Highway",
+      "id": 0,
+      "mal_id": 37407,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Good Night",
+          "artiste": "Hikaru Utada",
+          "lien": "https://nl.catbox.moe/wcvbkw.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
           "C": 0,
           "L": 0,
           "V": 0,
@@ -18827,6 +19195,38 @@
           "L": 0,
           "V": 0,
           "T": 1
+      }
+    },
+    {
+      "nom": "Peter Grill to Kenja no Jikan",
+      "id": 0,
+      "mal_id": 40436,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Tsuranuite Yuuutsu",
+          "artiste": "Yui Ninomiya",
+          "lien": "https://nl.catbox.moe/ni0l84.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yoridokoro",
+          "artiste": "Hilcrhyme",
+          "lien": "https://nl.catbox.moe/xlzlvz.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
       }
     },
     {
@@ -19635,6 +20035,59 @@
       }
     },
     {
+      "nom": "PuraOre! Pride of Orange",
+      "id": 0,
+      "mal_id": 44274,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Fi Oh Fight!",
+          "artiste": "SMILE PRINCESS",
+          "lien": "https://nl.catbox.moe/g380ag.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Orange",
+          "artiste": "May'n",
+          "lien": "https://nl.catbox.moe/ar5nnl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "period",
+          "artiste": "SMILE PRINCESS",
+          "lien": "https://nl.catbox.moe/thlksd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Victory Sunrise",
+          "artiste": "SMILE PRINCESS",
+          "lien": "https://nl.catbox.moe/2qmetu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hare, Nochi Dreaming!￮",
+          "artiste": "SMILE PRINCESS",
+          "lien": "https://nl.catbox.moe/um9emt.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Radiant",
       "id": 0,
       "mal_id": 37202,
@@ -20233,6 +20686,87 @@
       }
     },
     {
+      "nom": "RWBY: Hyousetsu Teikoku",
+      "id": 0,
+      "mal_id": 51381,
+      "nb_musique": 9,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Beyond Selves",
+          "artiste": "Void_Chords feat. L",
+          "lien": "https://nl.catbox.moe/qauxou.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Awake",
+          "artiste": "Saori Hayami",
+          "lien": "https://nl.catbox.moe/v43ohk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Any Moment",
+          "artiste": "Void_Chords feat. L",
+          "lien": "https://nl.catbox.moe/dztbpe.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Capabilities Unseen",
+          "artiste": "Void_Chords feat. L",
+          "lien": "https://nl.catbox.moe/gf22a4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mirror Mirror",
+          "artiste": "Megumi Toyoguchi",
+          "lien": "https://nl.catbox.moe/za7464.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mirror Mirror",
+          "artiste": "Yoko Hikasa",
+          "lien": "https://nl.catbox.moe/z6xkbk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "REALM",
+          "artiste": "Void_Chords feat. nanaha",
+          "lien": "https://nl.catbox.moe/9ks8py.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "The Reflection",
+          "artiste": "Void_Chords feat. L",
+          "lien": "https://nl.catbox.moe/wwshmb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Unbound",
+          "artiste": "Void_Chords feat. nanaha",
+          "lien": "https://nl.catbox.moe/xb71rr.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Ryuu no Haisha",
       "id": 0,
       "mal_id": 34549,
@@ -20334,6 +20868,98 @@
           "A": 0,
           "C": 0,
           "L": 1,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+      "id": 0,
+      "mal_id": 54760,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Golden Ray",
+          "artiste": "Sangatsu no Phantasia",
+          "lien": "https://nl.catbox.moe/4fo1co.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Arrow",
+          "artiste": "Awkmiu",
+          "lien": "https://nl.catbox.moe/vb7pzh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Atashi dake no Nani ka",
+          "artiste": "Yuri Noguchi",
+          "lien": "https://nl.catbox.moe/8078aj.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Sabikui Bisco",
+      "id": 0,
+      "mal_id": 48414,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kaze no Oto sae Kikoenai",
+          "artiste": "JUNNA",
+          "lien": "https://nl.catbox.moe/4r6gcm.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Houkou",
+          "artiste": "Ryouta Suzuki & Natsuki Hanae",
+          "lien": "https://nl.catbox.moe/twjqsk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Houkou",
+          "artiste": "Natsuki Hanae",
+          "lien": "https://nl.catbox.moe/me9w4o.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Buchinuke!!",
+          "artiste": "Takeshi Ueda (AA=)",
+          "lien": "https://nl.catbox.moe/3u15ke.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Fractal",
+          "artiste": "JUNNA",
+          "lien": "https://nl.catbox.moe/fjzhii.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
           "V": 0,
           "T": 0
       }
@@ -20725,6 +21351,102 @@
       "users": {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+      "id": 0,
+      "mal_id": 30187,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Dear answer",
+          "artiste": "TRUE",
+          "lien": "https://nl.catbox.moe/f93ur4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Uchiyoserareta Boukyaku no Zankyou ni",
+          "artiste": "TECHNOBOYS PULCRAFT GREEN-FUND featuring Yuki Otake",
+          "lien": "https://nl.catbox.moe/1my13r.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Sankarea",
+      "id": 0,
+      "mal_id": 11499,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Esoragoto",
+          "artiste": "nano.RIPE",
+          "lien": "https://nl.catbox.moe/ag7r05.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Above your hand",
+          "artiste": "Annabel",
+          "lien": "https://nl.catbox.moe/i4gj7c.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Sankarea",
+      "id": 1,
+      "mal_id": 16694,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Esoragoto",
+          "artiste": "nano.RIPE",
+          "lien": "https://nl.catbox.moe/ag7r05.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Above your hand",
+          "artiste": "Annabel",
+          "lien": "https://nl.catbox.moe/i4gj7c.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0
@@ -22277,6 +22999,52 @@
       }
     },
     {
+      "nom": "Shiroi Suna no Aquatope",
+      "id": 0,
+      "mal_id": 46093,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Tayutae, Nana-iro",
+          "artiste": "ARCANA PROJECT",
+          "lien": "https://nl.catbox.moe/h237ha.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Tomedonai Shiosai ni Boku-tachi wa Nani o Utau Darou ka",
+          "artiste": "ARCANA PROJECT",
+          "lien": "https://nl.catbox.moe/r4y9sk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Gekkai no Yurikago",
+          "artiste": "Mia REGINA",
+          "lien": "https://nl.catbox.moe/qfwq4k.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Shingetsu no Da Capo",
+          "artiste": "Risa Aizawa (Dempagumi.inc)",
+          "lien": "https://nl.catbox.moe/j6g60h.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Shokei Shoujo no Virgin Road",
       "id": 0,
       "mal_id": 47162,
@@ -22383,6 +23151,45 @@
       }
     },
     {
+      "nom": "Shuumatsu no Harem",
+      "id": 0,
+      "mal_id": 41946,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "JUST DO IT",
+          "artiste": "H-el-ical//",
+          "lien": "https://nl.catbox.moe/jhcz0s.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "ENDiNG MiRAGE",
+          "artiste": "EXiNA",
+          "lien": "https://nl.catbox.moe/5f3gh5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "ENDiNG MiRAGE -PiANO ver.-",
+          "artiste": "EXiNA",
+          "lien": "https://nl.catbox.moe/pa7q29.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Shuumatsu no Walküre",
       "id": 0,
       "mal_id": 44942,
@@ -22447,6 +23254,122 @@
       ],
       "users": {
           "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Sin: Nanatsu no Taizai",
+      "id": 0,
+      "mal_id": 33834,
+      "nb_musique": 14,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "My Sweet Maiden",
+          "artiste": "Mia REGINA",
+          "lien": "https://nl.catbox.moe/fjy2vq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Welcome To Our Diabolic Paradise",
+          "artiste": "Mia REGINA",
+          "lien": "https://nl.catbox.moe/cjbdaz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "ASUDEKO",
+          "artiste": "Azusa Tadokoro",
+          "lien": "https://nl.catbox.moe/uhmzf7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "baby now",
+          "artiste": "Chiaki Takahashi",
+          "lien": "https://nl.catbox.moe/wlm27q.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Binetsu na ASUDEKO",
+          "artiste": "Eri Kitamura × Azusa Tadokoro",
+          "lien": "https://nl.catbox.moe/dm78vs.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Binetsu na Dancin'",
+          "artiste": "Eri Kitamura",
+          "lien": "https://nl.catbox.moe/i5vsg5.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Goddamn☆Critical",
+          "artiste": "Azusa Tadokoro",
+          "lien": "https://nl.catbox.moe/ool0xi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Goddamn♡Critical(Lucifer ver)",
+          "artiste": "Eri Kitamura",
+          "lien": "https://nl.catbox.moe/jfzvrw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Levi no Recipe",
+          "artiste": "Akane Fujita",
+          "lien": "https://nl.catbox.moe/6p7awu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mille Himitsu Feuille",
+          "artiste": "Yui Ogura",
+          "lien": "https://nl.catbox.moe/a8w39n.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mou Doomo Punipanya Mode",
+          "artiste": "Ai Kakuma",
+          "lien": "https://nl.catbox.moe/1y25hj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Requiem lullaby",
+          "artiste": "Yoko Hikasa",
+          "lien": "https://nl.catbox.moe/5xtreh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sen no Gekirin",
+          "artiste": "Arisa Sakuraba",
+          "lien": "https://nl.catbox.moe/2gjk7k.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "YES or YES",
+          "artiste": "Shizuka Itou",
+          "lien": "https://nl.catbox.moe/v2n4q7.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
           "C": 0,
           "L": 0,
           "V": 0,
@@ -22532,6 +23455,45 @@
       ],
       "users": {
           "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Somali to Mori no Kamisama",
+      "id": 0,
+      "mal_id": 39575,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Arigatou wa Kocchi no Kotoba",
+          "artiste": "Naotaro Moriyama",
+          "lien": "https://nl.catbox.moe/066kvh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kokoro Somali",
+          "artiste": "Inori Minase",
+          "lien": "https://nl.catbox.moe/ityuqv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Warabe Uta ~Kotonaru Katachi~",
+          "artiste": "Rie Shibata",
+          "lien": "https://nl.catbox.moe/fpt6mm.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
           "C": 0,
           "L": 0,
           "V": 0,

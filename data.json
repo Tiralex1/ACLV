@@ -1,6 +1,6 @@
 {
-  "nb_anime": 523,
-  "nb_musique": 2496,
+  "nb_anime": 534,
+  "nb_musique": 2529,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -23953,6 +23953,52 @@
       }
     },
     {
+      "nom": "Temple",
+      "id": 0,
+      "mal_id": 54275,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Bonnou☆Paradise",
+          "artiste": "Aimi",
+          "lien": "https://nl.catbox.moe/3yfgof.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Oidemase! Mikazuki-dera",
+          "artiste": "Aimi, Yuu Serizawa, Nanami Yamashita, Madoka Asahina, Sumire Uesaka",
+          "lien": "https://nl.catbox.moe/mg9jpb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Itsuka wa Mangetsu no You ni!",
+          "artiste": "Aimi, Yuu Serizawa, Nanami Yamashita",
+          "lien": "https://nl.catbox.moe/8mrzh4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Culture Gap Temptation",
+          "artiste": "Madoka Asahina & Sumire Uesaka",
+          "lien": "https://nl.catbox.moe/44lwbw.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Tengen Toppa Gurren Lagann",
       "id": 0,
       "mal_id": 2001,
@@ -24034,6 +24080,45 @@
       }
     },
     {
+      "nom": "Tengoku Daimakyou",
+      "id": 0,
+      "mal_id": 53393,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "innocent arrogance",
+          "artiste": "BiSH",
+          "lien": "https://nl.catbox.moe/8hwhz5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Dare mo Kare mo Doko mo Nani mo Shiranai",
+          "artiste": "ASOBI Doumei",
+          "lien": "https://nl.catbox.moe/slsrg9.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Dare mo Kare mo Doko mo Nani mo Shiranai (#08 Special Arrange)",
+          "artiste": "ASOBI Doumei",
+          "lien": "https://nl.catbox.moe/x8ah34.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Tenki no Ko",
       "id": 0,
       "mal_id": 38826,
@@ -24098,6 +24183,63 @@
           "L": 0,
           "V": 1,
           "T": 1
+      }
+    },
+    {
+      "nom": "Tenkuu no Shiro Laputa",
+      "id": 0,
+      "mal_id": 513,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimi o Nosete",
+          "artiste": "Azumi Inoue",
+          "lien": "https://nl.catbox.moe/brhp9h.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Tenkuu Shinpan",
+      "id": 0,
+      "mal_id": 43690,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "HON-NO",
+          "artiste": "EMPiRE",
+          "lien": "https://nl.catbox.moe/a6orh4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Watashi no Na wa Blue",
+          "artiste": "Have a Nice Day!",
+          "lien": "https://nl.catbox.moe/p4cpwf.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
       }
     },
     {
@@ -24505,6 +24647,45 @@
       }
     },
     {
+      "nom": "The God of High School",
+      "id": 0,
+      "mal_id": 41353,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Contradiction",
+          "artiste": "KSUKE feat. Tyler Carter",
+          "lien": "https://nl.catbox.moe/y78m04.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "WIN",
+          "artiste": "CIX",
+          "lien": "https://nl.catbox.moe/asvakn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "It's Your Time",
+          "artiste": "Chica",
+          "lien": "https://nl.catbox.moe/k5v9sx.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "To LOVE-Ru",
       "id": 0,
       "mal_id": 3455,
@@ -24630,6 +24811,137 @@
       "users": {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Toji no Miko",
+      "id": 0,
+      "mal_id": 35589,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Save you Save me",
+          "artiste": "Kaede Hondo, Saori Oonishi, Azumi Waki, Hina Kino, Risae Matsuda, Eri Suzuki",
+          "lien": "https://nl.catbox.moe/v2ye3e.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Shinkakei Colors",
+          "artiste": "Kaede Hondo, Saori Oonishi, Azumi Waki, Hina Kino, Risae Matsuda, Eri Suzuki",
+          "lien": "https://nl.catbox.moe/jznamz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kokoro no Memoria",
+          "artiste": "Kaede Hondo, Saori Oonishi, Azumi Waki, Hina Kino, Risae Matsuda, Eri Suzuki",
+          "lien": "https://nl.catbox.moe/wbaorh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ima Kono Mi ga Hateyou Tomo",
+          "artiste": "Kaede Hondo, Saori Oonishi",
+          "lien": "https://nl.catbox.moe/2dqkw5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Mirai Epilogue",
+          "artiste": "Kaede Hondo, Saori Oonishi, Azumi Waki, Hina Kino, Risae Matsuda, Eri Suzuki",
+          "lien": "https://nl.catbox.moe/ck1aoq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Chinkon no Nocturne",
+          "artiste": "Kaede Hondo",
+          "lien": "https://nl.catbox.moe/477l1l.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Toki o Kakeru Shoujo",
+      "id": 0,
+      "mal_id": 2236,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Garnet",
+          "artiste": "Hanako Oku",
+          "lien": "https://nl.catbox.moe/pvswmo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kawaranai Mono",
+          "artiste": "Hanako Oku",
+          "lien": "https://nl.catbox.moe/tbo46m.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Tokyo ESP",
+      "id": 0,
+      "mal_id": 21353,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Tokyo Zero Hearts",
+          "artiste": "Faylan",
+          "lien": "https://openings.moe/video/TokyoESP-OP01-NCBD.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kyuusei Άργυρóϛ",
+          "artiste": "Yousei Teikoku",
+          "lien": "https://openings.moe/video/TokyoESP-ED01-NCBD.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Dark Side of the Light",
+          "artiste": "Faylan",
+          "lien": "https://nl.catbox.moe/lpfsj9.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0
@@ -24855,6 +25167,77 @@
       }
     },
     {
+      "nom": "Tokyo Revengers",
+      "id": 0,
+      "mal_id": 42249,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Cry Baby",
+          "artiste": "Official HIGE DANdism",
+          "lien": "https://nl.catbox.moe/fbfhbw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Koko de Iki o Shite",
+          "artiste": "eill",
+          "lien": "https://nl.catbox.moe/d5y65m.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Tokyo Wonder.",
+          "artiste": "Nakimushi",
+          "lien": "https://nl.catbox.moe/dbjhk6.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Tokyo Revengers: Seiya Kessen-hen",
+      "id": 0,
+      "mal_id": 50608,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "White Noise",
+          "artiste": "Official HIGE DANdism",
+          "lien": "https://nl.catbox.moe/u07fyx.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kizutsukedo, Aishiteru.",
+          "artiste": "TUYU",
+          "lien": "https://nl.catbox.moe/zy2px5.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Tomodachi Game",
       "id": 0,
       "mal_id": 50273,
@@ -24915,6 +25298,52 @@
           "C": 1,
           "L": 0,
           "V": 1,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Tonari no Totoro",
+      "id": 0,
+      "mal_id": 523,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hey, Let's Go",
+          "artiste": "Sonya Isaacs",
+          "lien": "https://nl.catbox.moe/rd2azw.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Sanpo",
+          "artiste": "Azumi Inoue",
+          "lien": "https://nl.catbox.moe/lsdfeu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "My Neighbor Totoro",
+          "artiste": "Sonya Isaacs",
+          "lien": "https://nl.catbox.moe/hpck1l.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tonari no Totoro",
+          "artiste": "Azumi Inoue",
+          "lien": "https://nl.catbox.moe/rialnz.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
           "T": 0
       }
     },

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 534,
-  "nb_musique": 2529,
+  "nb_anime": 538,
+  "nb_musique": 2539,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -23787,6 +23787,102 @@
       }
     },
     {
+      "nom": "Synduality: Noir",
+      "id": 0,
+      "mal_id": 53026,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "RAYTRACER",
+          "artiste": "STEREO DIVE FOUNDATION",
+          "lien": "https://nl.catbox.video/4jnnnb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Eureka",
+          "artiste": "ARCANA PROJECT",
+          "lien": "https://nl.catbox.moe/q79581.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Taifuu no Noruda",
+      "id": 0,
+      "mal_id": 30585,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Arashi no Ato de",
+          "artiste": "Galileo Galilei",
+          "lien": "https://nl.catbox.moe/0q2kc8.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Takt Op.Destiny",
+      "id": 0,
+      "mal_id": 48556,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Takt",
+          "artiste": "ryo (supercell) feat. Mafumafu, gaku",
+          "lien": "https://nl.catbox.moe/a3tco2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "SYMPHONIA",
+          "artiste": "Mika Nakashima",
+          "lien": "https://nl.catbox.moe/e1ninm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "When The Saints Go Marching In",
+          "artiste": "Louis Armstrong",
+          "lien": "https://nl.catbox.moe/vtn4j6.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Tantei wa Mou, Shindeiru.",
       "id": 0,
       "mal_id": 46471,
@@ -23835,6 +23931,52 @@
           "A": 0,
           "C": 0,
           "L": 1,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Tasogare Otome × Amnesia",
+      "id": 0,
+      "mal_id": 12445,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "CHOIR JAIL",
+          "artiste": "Konomi Suzuki",
+          "lien": "https://nl.catbox.moe/f0uo2g.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Calendrier",
+          "artiste": "Aki Okui",
+          "lien": "https://nl.catbox.moe/906mb3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Calendrier -Yuuko-",
+          "artiste": "Yumi Hara",
+          "lien": "https://nl.catbox.moe/g4kdxx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Requiem",
+          "artiste": "Nao Hiiragi",
+          "lien": "https://nl.catbox.moe/v71qmo.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
           "V": 0,
           "T": 0
       }

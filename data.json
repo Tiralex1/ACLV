@@ -1,6 +1,6 @@
 {
-  "nb_anime": 505,
-  "nb_musique": 2439,
+  "nb_anime": 523,
+  "nb_musique": 2496,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -25050,6 +25050,140 @@
       }
     },
     {
+      "nom": "Triage X",
+      "id": 0,
+      "mal_id": 26443,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "triage",
+          "artiste": "Saeko Zougou featuring Nagareda Project",
+          "lien": "https://nl.catbox.moe/yppsco.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Soleil More",
+          "artiste": "Kazutomi Yamamoto",
+          "lien": "https://nl.catbox.moe/uz7axu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "triage",
+          "artiste": "Nagareda Project",
+          "lien": "https://nl.catbox.moe/pz5w4d.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Big Bang LOVE!!",
+          "artiste": "Amina Satou",
+          "lien": "https://nl.catbox.moe/mkl5gk.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Tribe Nine",
+      "id": 0,
+      "mal_id": 49969,
+      "nb_musique": 10,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Strike It Out",
+          "artiste": "MIYAVI",
+          "lien": "https://nl.catbox.moe/djvaap.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Infocus",
+          "artiste": "Void_Chords feat. LIO",
+          "lien": "https://nl.catbox.moe/gpzt6q.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Adachi Dungeon",
+          "artiste": "JUST NIGEL",
+          "lien": "https://nl.catbox.moe/oa25ws.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Battle Cry",
+          "artiste": "TWiN PARADOX",
+          "lien": "https://nl.catbox.moe/160uk9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Battle of Adachi Tribe",
+          "artiste": "JUST NIGEL",
+          "lien": "https://nl.catbox.moe/tuxmqi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "FIRE",
+          "artiste": "NAWABARI",
+          "lien": "https://nl.catbox.moe/p7w1o5.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "GAREKI WAR",
+          "artiste": "PRAISE",
+          "lien": "https://nl.catbox.moe/zdk1hq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Maxim",
+          "artiste": "ROA",
+          "lien": "https://nl.catbox.moe/e76bqa.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Revolving Overdrive",
+          "artiste": "MATZ feat. Foggy-D",
+          "lien": "https://nl.catbox.moe/l6vr8n.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Rise of the Empire",
+          "artiste": "frail",
+          "lien": "https://nl.catbox.moe/2ljyp1.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Trinity Seven",
       "id": 0,
       "mal_id": 25157,
@@ -25237,6 +25371,45 @@
       }
     },
     {
+      "nom": "Tsuki to Laika to Nosferatu",
+      "id": 0,
+      "mal_id": 48471,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hi no Tsuki",
+          "artiste": "ALI PROJECT",
+          "lien": "https://nl.catbox.moe/sdeq73.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Arifureta Itsuka",
+          "artiste": "Chima",
+          "lien": "https://nl.catbox.moe/xngr7q.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "My Beloved",
+          "artiste": "Sarah Àlainn",
+          "lien": "https://nl.catbox.moe/7lb71b.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Tsuredure Children",
       "id": 0,
       "mal_id": 34902,
@@ -25263,6 +25436,38 @@
       "users": {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+      "id": 0,
+      "mal_id": 53379,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "HONEY",
+          "artiste": "Touya Kobayashi",
+          "lien": "https://nl.catbox.moe/994i78.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "sugar",
+          "artiste": "YU-KA",
+          "lien": "https://nl.catbox.moe/d7e1ko.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0
@@ -25308,6 +25513,63 @@
       }
     },
     {
+      "nom": "Umi ga Kikoeru",
+      "id": 0,
+      "mal_id": 743,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Umi ni Naretara",
+          "artiste": "Youko Sakamoto",
+          "lien": "https://nl.catbox.moe/6ll3e4.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Undead Girl Murder Farce",
+      "id": 0,
+      "mal_id": 54790,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Crack-Crack-Crackle",
+          "artiste": "CLASS:y",
+          "lien": "https://nl.catbox.moe/dv6aav.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "reversal",
+          "artiste": "Anna",
+          "lien": "https://nl.catbox.moe/oj1tfq.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Uzaki-chan wa Asobitai!",
       "id": 0,
       "mal_id": 41226,
@@ -25334,6 +25596,98 @@
       "users": {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Vinland Saga",
+      "id": 0,
+      "mal_id": 37521,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "MUKANJYO",
+          "artiste": "Survive Said The Prophet",
+          "lien": "https://nl.catbox.moe/1iocyp.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Dark Crow",
+          "artiste": "MAN WITH A MISSION",
+          "lien": "https://nl.catbox.moe/rpvck8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Torches",
+          "artiste": "Aimer",
+          "lien": "https://nl.catbox.moe/8759a2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Drown",
+          "artiste": "milet",
+          "lien": "https://nl.catbox.moe/pnie8z.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Vinland Saga Season 2",
+      "id": 0,
+      "mal_id": 49387,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "River",
+          "artiste": "Anonymouz",
+          "lien": "https://nl.catbox.moe/d3gz0r.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Paradox",
+          "artiste": "Survive Said The Prophet",
+          "lien": "https://nl.catbox.moe/x4wo2e.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Without Love",
+          "artiste": "LMYK",
+          "lien": "https://nl.catbox.moe/vjxgql.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ember",
+          "artiste": "haju:harmonics",
+          "lien": "https://nl.catbox.moe/588b01.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0
@@ -25383,6 +25737,52 @@
           "L": 0,
           "V": 1,
           "T": 1
+      }
+    },
+    {
+      "nom": "Violet Evergarden",
+      "id": 1,
+      "mal_id": 37095,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Sincerely",
+          "artiste": "TRUE",
+          "lien": "https://files.catbox.moe/ni1bl6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Michishirube",
+          "artiste": "Minori Chihara",
+          "lien": "https://files.catbox.moe/cbrrdr.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Letter",
+          "artiste": "TRUE",
+          "lien": "https://nl.catbox.moe/pps4w0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "The Songstress Aria",
+          "artiste": "TRUE",
+          "lien": "https://nl.catbox.moe/33941j.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
       }
     },
     {
@@ -25506,6 +25906,141 @@
       }
     },
     {
+      "nom": "Watashi no Shiawase na Kekkon",
+      "id": 0,
+      "mal_id": 51552,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Anata no Soba ni.",
+          "artiste": "Riria.",
+          "lien": "https://nl.catbox.moe/ar9ind.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Vita Philosophica",
+          "artiste": "Kashitaro Ito",
+          "lien": "https://nl.catbox.moe/t3cvk1.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "World Trigger",
+      "id": 0,
+      "mal_id": 24405,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "GIRIGIRI",
+          "artiste": "Sonar Pocket",
+          "lien": "https://nl.catbox.moe/mdj33y.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Ashita no Hikari",
+          "artiste": "AAA",
+          "lien": "https://nl.catbox.moe/gzkvql.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Dream Trigger",
+          "artiste": "Pile",
+          "lien": "https://nl.catbox.moe/084l0f.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "World Trigger",
+      "id": 1,
+      "mal_id": 24405,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Dream Trigger",
+          "artiste": "Pile",
+          "lien": "https://nl.catbox.moe/f8orfz.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Yakusoku no Neverland",
+      "id": 0,
+      "mal_id": 37779,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Touch off",
+          "artiste": "UVERworld",
+          "lien": "https://nl.catbox.moe/dpymb3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Zettai Zetsumei",
+          "artiste": "Cö shu Nie",
+          "lien": "https://nl.catbox.moe/i85j22.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Lamp",
+          "artiste": "Cö shu Nie",
+          "lien": "https://nl.catbox.moe/02v815.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Yamada-kun to 7-nin no Majo",
       "id": 0,
       "mal_id": 28677,
@@ -25619,6 +26154,77 @@
           "C": 0,
           "L": 0,
           "V": 1,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Yasuke",
+      "id": 0,
+      "mal_id": 43697,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Black Gold",
+          "artiste": "Flying Lotus ft. Thundercat",
+          "lien": "https://nl.catbox.moe/p84nkv.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "between memories",
+          "artiste": "Flying Lotus, Niki Randa, Thundercat",
+          "lien": "https://nl.catbox.moe/kuhq5g.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Yesterday o Utatte",
+      "id": 0,
+      "mal_id": 39710,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kago no Naka ni Tori",
+          "artiste": "yourness",
+          "lien": "https://nl.catbox.moe/ggyc3l.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Aoibashi",
+          "artiste": "Sayuri",
+          "lien": "https://nl.catbox.moe/7uoalk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Yesterday o Utatte",
+          "artiste": "agehasprings feat. Annyyy (TaNaBaTa)",
+          "lien": "https://nl.catbox.moe/g55znm.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
           "T": 0
       }
     },
@@ -25804,6 +26410,38 @@
       }
     },
     {
+      "nom": "Yumemiru Danshi wa Genjitsushugisha",
+      "id": 0,
+      "mal_id": 53632,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Paraglider",
+          "artiste": "Kaori Ishihara",
+          "lien": "https://nl.catbox.moe/c8sn1g.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "#Yume wa Mijikashi Koiseyo Otome",
+          "artiste": "Akiho Suzumoto",
+          "lien": "https://nl.catbox.moe/o96t2s.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
       "nom": "Yuru Camp△",
       "id": 0,
       "mal_id": 34798,
@@ -25900,6 +26538,59 @@
       ],
       "users": {
           "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Zankyou no Terror",
+      "id": 0,
+      "mal_id": 23283,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Trigger",
+          "artiste": "Yuuki Ozaki(from Galileo Galilei)",
+          "lien": "https://nl.catbox.moe/heu2fw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Dare ka, Umi o.",
+          "artiste": "Aimer",
+          "lien": "https://nl.catbox.moe/vj1tl5.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "22",
+          "artiste": "Ryo Nagano",
+          "lien": "https://nl.catbox.moe/isvwes.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "is",
+          "artiste": "POP ETC",
+          "lien": "https://nl.catbox.moe/yswhuw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "von",
+          "artiste": "Yoko Kanno feat. Arnór Dan",
+          "lien": "https://nl.catbox.moe/yeyvcc.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1
+      ],
+      "users": {
+          "A": 0,
           "C": 0,
           "L": 0,
           "V": 0,
@@ -26035,6 +26726,38 @@
       ],
       "users": {
           "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Zetman",
+      "id": 0,
+      "mal_id": 11837,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "dots and lines",
+          "artiste": "Yo Hitoto loves Mummy-D",
+          "lien": "https://nl.catbox.moe/hwmsw2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tomeru",
+          "artiste": "Yo Hitoto",
+          "lien": "https://nl.catbox.moe/bss57t.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
           "C": 0,
           "L": 0,
           "V": 0,

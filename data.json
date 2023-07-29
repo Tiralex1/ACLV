@@ -1,6 +1,6 @@
 {
-  "nb_anime": 504,
-  "nb_musique": 2437,
+  "nb_anime": 505,
+  "nb_musique": 2439,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -8231,6 +8231,38 @@
       ],
       "genres": [
           1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0
+      }
+    },
+    {
+      "nom": "Hanma Baki: Son of Ogre",
+      "id": 0,
+      "mal_id": 42940,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Treasure Pleasure",
+          "artiste": "GRANRODEO",
+          "lien": "https://nl.catbox.moe/zalha3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Unchained World",
+          "artiste": "GENERATIONS from EXILE TRIBE",
+          "lien": "https://nl.catbox.moe/8kbufz.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
       ],
       "users": {
           "A": 1,

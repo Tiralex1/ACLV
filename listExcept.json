@@ -9,6 +9,30 @@
             ]
         },
         {
+            "songName": "Avid",
+            "artist": "SawanoHiroyuki[nZk]:mizuki",
+            "types": [
+                "ending 1",
+                "ending 2"
+            ]
+        },
+        {
+            "songName": "Voices of the Chord",
+            "artist": "Gemie",
+            "types": [
+                "ending 3",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "THE ANSWER",
+            "artist": "Hiroyuki Sawano feat. Laco",
+            "types": [
+                "insert song 1",
+                "insert song"
+            ]
+        },
+        {
             "songName": "Many Stories-epilogue-",
             "artist": "Chica",
             "types": [
@@ -22,6 +46,14 @@
             "types": [
                 "opening 1",
                 "insert song"
+            ]
+        },
+        {
+            "songName": "Black★Rock Shooter",
+            "artist": "supercell feat. Hatsune Miku",
+            "types": [
+                "opening 1",
+                "ending 2"
             ]
         },
         {

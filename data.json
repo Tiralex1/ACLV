@@ -1,6 +1,6 @@
 {
-  "nb_anime": 578,
-  "nb_musique": 2712,
+  "nb_anime": 579,
+  "nb_musique": 2713,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -122,6 +122,32 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "180-Byou de Kimi no Mimi o Shiawase ni Dekiru ka?",
+      "id": 0,
+      "mal_id": 48858,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Chuchoter",
+          "artiste": "Ayumi.",
+          "lien": "https://nl.catbox.moe/wrqdev.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

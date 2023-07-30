@@ -1,6 +1,6 @@
 {
-  "nb_anime": 666,
-  "nb_musique": 3113,
+  "nb_anime": 683,
+  "nb_musique": 3172,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10276,6 +10276,109 @@
       }
     },
     {
+      "nom": "God Eater",
+      "id": 0,
+      "mal_id": 27631,
+      "nb_musique": 12,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Feed A",
+          "artiste": "OLDCODEX",
+          "lien": "https://nl.catbox.moe/a4b8s9.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kouhai Chi",
+          "artiste": "Go Shiina feat.naomi",
+          "lien": "https://nl.catbox.moe/7arc2p.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Human After All",
+          "artiste": "GHOST ORACLE DRIVE feat. Cento Chihiro Chittiii (BiSH)",
+          "lien": "https://nl.catbox.moe/2eye4s.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "SUNDAY",
+          "artiste": "GHOST ORACLE DRIVE",
+          "lien": "https://nl.catbox.moe/mq4e55.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Broke my stake",
+          "artiste": "GHOST ORACLE DRIVE",
+          "lien": "https://nl.catbox.moe/r84v0n.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Have you ever seen...",
+          "artiste": "GHOST ORACLE DRIVE",
+          "lien": "https://nl.catbox.moe/gsjrb7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Human After All",
+          "artiste": "GHOST ORACLE DRIVE feat. Cento Chihiro Chittiii (BiSH)",
+          "lien": "https://nl.catbox.moe/6o4c7b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Long Way",
+          "artiste": "GHOST ORACLE DRIVE",
+          "lien": "https://nl.catbox.moe/qoa2n0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Maintain Maintain",
+          "artiste": "GHOST ORACLE DRIVE",
+          "lien": "https://nl.catbox.moe/67xvjq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "NO WAY",
+          "artiste": "GHOST ORACLE DRIVE",
+          "lien": "https://nl.catbox.moe/oketw3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "No Way Back -The Path of the Lotus-",
+          "artiste": "Benjamin Franklin",
+          "lien": "https://nl.catbox.moe/n9wa0g.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "SUNDAY",
+          "artiste": "GHOST ORACLE DRIVE",
+          "lien": "https://files.catbox.moe/mq4e55.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Godzilla: S.P",
       "id": 0,
       "mal_id": 43229,
@@ -10313,6 +10416,39 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Golden Boy",
+      "id": 0,
+      "mal_id": 268,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Opening",
+          "artiste": "Joyo Katayanagi",
+          "lien": "https://nl.catbox.moe/wopnxf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "STUDY A GO!! GO!!",
+          "artiste": "Golden Girls",
+          "lien": "https://nl.catbox.moe/fc34vv.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -10560,6 +10696,114 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Great Teacher Onizuka",
+      "id": 0,
+      "mal_id": 245,
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Driver's High",
+          "artiste": "L'Arc~en~Ciel",
+          "lien": "https://nl.catbox.moe/l3yi36.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Hitori no Yoru",
+          "artiste": "Porno Graffitti",
+          "lien": "https://nl.catbox.moe/0lj4ne.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Last Piece",
+          "artiste": "Kirari",
+          "lien": "https://nl.catbox.moe/3ep3fe.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Shizuku",
+          "artiste": "Miwako Okuda",
+          "lien": "https://nl.catbox.moe/zhbmxe.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "CHERISHED MEMORIES",
+          "artiste": "THE HONG KONG KNIFE",
+          "lien": "https://nl.catbox.moe/5jvyj5.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Asadoya Yunta",
+          "artiste": "Nēnēs",
+          "lien": "https://nl.catbox.moe/z5pz0p.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ichiman Anguwa",
+          "artiste": "Nēnēs",
+          "lien": "https://nl.catbox.moe/ddfe17.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Grimms Notes the Animation",
+      "id": 0,
+      "mal_id": 37154,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Innocent Notes",
+          "artiste": "Ayana Taketatsu",
+          "lien": "https://nl.catbox.moe/7kehxe.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Eiyuu no Shihen",
+          "artiste": "DAZBEE",
+          "lien": "https://nl.catbox.moe/c85v3c.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Endless Notes",
+          "artiste": "i☆Ris",
+          "lien": "https://nl.catbox.moe/9698jb.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -11997,6 +12241,32 @@
       }
     },
     {
+      "nom": "Hirune Hime: Shiranai Watashi no Monogatari",
+      "id": 0,
+      "mal_id": 33204,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Daydream Believer",
+          "artiste": "Mitsuki Takahata",
+          "lien": "https://nl.catbox.moe/65qcvg.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erandeiraremasen",
       "id": 0,
       "mal_id": 39468,
@@ -12103,6 +12373,60 @@
       }
     },
     {
+      "nom": "Hori-san to Miyamura-kun",
+      "id": 0,
+      "mal_id": 14753,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shirotsumekusa",
+          "artiste": "Asami Seto",
+          "lien": "https://nl.catbox.moe/d384t1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Shiranai Sekai",
+          "artiste": "Asami Seto",
+          "lien": "https://nl.catbox.moe/h4wm4c.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Himawari",
+          "artiste": "Yoshitsugu Matsuoka",
+          "lien": "https://nl.catbox.moe/m4bwlf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Kiseki",
+          "artiste": "Asami Seto",
+          "lien": "https://nl.catbox.moe/jsiwsb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Yasashii Uta",
+          "artiste": "Asami Seto",
+          "lien": "https://nl.catbox.moe/m38e1p.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Horimiya",
       "id": 0,
       "mal_id": 42897,
@@ -12133,6 +12457,91 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Horimiya: Piece",
+      "id": 0,
+      "mal_id": 54856,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shiawase",
+          "artiste": "Omoinotake",
+          "lien": "https://nl.catbox.moe/pl9aah.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "URL",
+          "artiste": "Ami Sakaguchi",
+          "lien": "https://nl.catbox.moe/jgt3wd.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Hoshi o Ou Kodomo",
+      "id": 0,
+      "mal_id": 9760,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hello Goodbye & Hello",
+          "artiste": "Anri Kumaki",
+          "lien": "https://nl.catbox.moe/8n67wo.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Howl no Ugoku Shiro",
+      "id": 0,
+      "mal_id": 431,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sekai no Yakusoku",
+          "artiste": "Chieko Baisho",
+          "lien": "https://nl.catbox.moe/09p99j.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -12460,6 +12869,60 @@
       }
     },
     {
+      "nom": "Id: Invaded",
+      "id": 0,
+      "mal_id": 40046,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Mr. Fixer",
+          "artiste": "Sou",
+          "lien": "https://nl.catbox.moe/y859wo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Other Side",
+          "artiste": "MIYAVI",
+          "lien": "https://nl.catbox.moe/j6wn6l.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "UP",
+          "artiste": "MIYAVI",
+          "lien": "https://nl.catbox.moe/2kloev.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Butterfly",
+          "artiste": "MIYAVI",
+          "lien": "https://nl.catbox.moe/s3ef55.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Samurai 45",
+          "artiste": "MIYAVI",
+          "lien": "https://nl.catbox.moe/dxir65.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Ijiranaide, Nagatoro-san",
       "id": 0,
       "mal_id": 42361,
@@ -12497,6 +12960,53 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Ikebukuro West Gate Park",
+      "id": 0,
+      "mal_id": 40359,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Needle Knot",
+          "artiste": "THE PINBALLS",
+          "lien": "https://nl.catbox.moe/qwlcvv.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "after song",
+          "artiste": "INNOSENT in FORMAL",
+          "lien": "https://nl.catbox.moe/rp5ok9.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Omou Mama",
+          "artiste": "INNOSENT in FORMAL",
+          "lien": "https://nl.catbox.moe/8gel0h.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Boukyaku no Sora (25th Anniversary Ver.)",
+          "artiste": "Kiyoharu",
+          "lien": "https://nl.catbox.moe/9urk0y.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -12879,6 +13389,39 @@
       }
     },
     {
+      "nom": "Inuyashiki Last Hero",
+      "id": 0,
+      "mal_id": 34542,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "My Hero",
+          "artiste": "MAN WITH A MISSION",
+          "lien": "https://nl.catbox.moe/p0196q.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ai o Oshiete Kureta Kimi e",
+          "artiste": "Qaijff",
+          "lien": "https://nl.catbox.moe/nwty22.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Isekai Cheat Magician",
       "id": 0,
       "mal_id": 37744,
@@ -13015,6 +13558,39 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Isekai Meikyuu de Harem o",
+      "id": 0,
+      "mal_id": 44524,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Oath",
+          "artiste": "Shiori Mikami",
+          "lien": "https://nl.catbox.moe/b3ialt.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shinshi no Torihiki 60-man Nar",
+          "artiste": "Taku Yashiro & Kenta Miyake",
+          "lien": "https://nl.catbox.moe/er7qxt.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -13251,6 +13827,46 @@
       }
     },
     {
+      "nom": "Isekai Shokudou 2",
+      "id": 0,
+      "mal_id": 48804,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Onnaji Kimochi.",
+          "artiste": "Kiyono Yasuno",
+          "lien": "https://nl.catbox.moe/31npcu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Samenai Mahou",
+          "artiste": "Nao Touyama",
+          "lien": "https://nl.catbox.moe/8mu66i.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Boku no Takaramono",
+          "artiste": "Pokapoka Ion",
+          "lien": "https://nl.catbox.moe/1ghwmj.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Isekai wa Smartphone to Tomo ni.",
       "id": 0,
       "mal_id": 35203,
@@ -13370,6 +13986,39 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Ishuzoku Reviewers",
+      "id": 0,
+      "mal_id": 40010,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Ikouze☆Paradise",
+          "artiste": "Junji Majima, Yuusuke Kobayashi, Miyu Tomita",
+          "lien": "https://nl.catbox.moe/8d12lc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hanabira Ondo",
+          "artiste": "Junji Majima, Yuusuke Kobayashi, Miyu Tomita",
+          "lien": "https://nl.catbox.moe/wslkzv.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -13511,6 +14160,93 @@
           "V": 1,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Iwa Kakeru!: Sport Climbing Girls",
+      "id": 0,
+      "mal_id": 41783,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Motto Takaku",
+          "artiste": "Aina Suzuki",
+          "lien": "https://nl.catbox.moe/3eo00v.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "LET'S CLIMB↑",
+          "artiste": "Hanamiya Joshi Climbing-bu",
+          "lien": "https://nl.catbox.moe/z5ux17.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "LET'S CLIMB↑",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.moe/ntrkb8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "LET'S CLIMB↑",
+          "artiste": "Miyu Tomita",
+          "lien": "https://nl.catbox.moe/s0i3p9.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "LET'S CLIMB↑",
+          "artiste": "Yui Ishikawa",
+          "lien": "https://nl.catbox.moe/f2m7hf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "LET'S CLIMB↑",
+          "artiste": "Aina Suzuki",
+          "lien": "https://nl.catbox.moe/xh0ak5.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Iya na Kao Sare Nagara Opantsu Misete Moraitai",
+      "id": 0,
+      "mal_id": 37021,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "NEXT STAGE",
+          "artiste": "Akari Tsuda",
+          "lien": "https://nl.catbox.moe/z603mc.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

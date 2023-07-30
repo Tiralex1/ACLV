@@ -1,6 +1,6 @@
 {
-  "nb_anime": 656,
-  "nb_musique": 3045,
+  "nb_anime": 660,
+  "nb_musique": 3065,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -181,6 +181,130 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "22/7",
+      "id": 0,
+      "mal_id": 40148,
+      "nb_musique": 15,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Muzui",
+          "artiste": "22/7",
+          "lien": "https://nl.catbox.moe/quo6eu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sora no Emerald",
+          "artiste": "22/7",
+          "lien": "https://nl.catbox.moe/1lx500.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "One of them",
+          "artiste": "Nagomi Saijou",
+          "lien": "https://nl.catbox.moe/jgiszs.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Ikirukoto ni Raku ni Naritai",
+          "artiste": "Sally Amaki",
+          "lien": "https://nl.catbox.moe/wmvw9v.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Yume no Fune",
+          "artiste": "Mizuha Kuraoka",
+          "lien": "https://nl.catbox.moe/5sp4c0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Yuutousei ja Tsumaranai",
+          "artiste": "Chiharu Hokaze",
+          "lien": "https://nl.catbox.moe/yzv10n.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Jinsei wa Waltz",
+          "artiste": "Ruri Umino",
+          "lien": "https://nl.catbox.moe/nxvskp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Kanjou Muyouron",
+          "artiste": "Kanae Shirosawa",
+          "lien": "https://nl.catbox.moe/fvos9k.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 8,
+          "nom": "Moonlight",
+          "artiste": "Reina Miyase",
+          "lien": "https://nl.catbox.moe/xbef44.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 9,
+          "nom": "Kodoku wa Kirai ja Nai",
+          "artiste": "Uta Kawase",
+          "lien": "https://nl.catbox.moe/65q5kx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Boku wa Sonzai Shiteinakatta",
+          "artiste": "22/7",
+          "lien": "https://nl.catbox.moe/gfx5za.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Boku wa Sonzai Shiteinakatta",
+          "artiste": "Mei Hanakawa",
+          "lien": "https://nl.catbox.moe/0u28cw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Koi Suru Fortune Cookie",
+          "artiste": "Aimi Tanaka & Ruri Umino",
+          "lien": "https://nl.catbox.moe/7u4y40.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Rikaisha",
+          "artiste": "22/7",
+          "lien": "https://nl.catbox.moe/gulybb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shampoo no Nioi ga Shita",
+          "artiste": "22/7",
+          "lien": "https://nl.catbox.moe/a2ukn4.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -1447,6 +1571,32 @@
       }
     },
     {
+      "nom": "Araiya-san! Ore to Aitsu ga Onnayu de!?",
+      "id": 0,
+      "mal_id": 39337,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Renai☆Sensation",
+          "artiste": "Ringo Aoba & Ayaka Igasaki",
+          "lien": "https://nl.catbox.moe/1bsern.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Arifureta Shokugyou de Sekai Saikyou",
       "id": 0,
       "mal_id": 36882,
@@ -1548,6 +1698,39 @@
       }
     },
     {
+      "nom": "Arte",
+      "id": 0,
+      "mal_id": 40128,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Clover",
+          "artiste": "Maaya Sakamoto",
+          "lien": "https://nl.catbox.moe/dvj37m.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hare Moyou",
+          "artiste": "Kiyono Yasuno",
+          "lien": "https://nl.catbox.moe/36vyn7.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Asobi Asobase",
       "id": 0,
       "mal_id": 37171,
@@ -1611,6 +1794,39 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Ayaka: A Story of Bonds and Wounds",
+      "id": 0,
+      "mal_id": 53428,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "AYAKASHI",
+          "artiste": "angela",
+          "lien": "https://nl.catbox.moe/cj4nvk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Flashback",
+          "artiste": "saji",
+          "lien": "https://nl.catbox.moe/dgtzit.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

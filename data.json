@@ -1,6 +1,6 @@
 {
-  "nb_anime": 592,
-  "nb_musique": 2784,
+  "nb_anime": 600,
+  "nb_musique": 2814,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -8092,6 +8092,46 @@
       }
     },
     {
+      "nom": "Gekijouban Mahouka Koukou no Rettousei: Hoshi o Yobu Shoujo",
+      "id": 0,
+      "mal_id": 32900,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "SPEED STAR",
+          "artiste": "GARNiDELiA",
+          "lien": "https://nl.catbox.moe/bqduz4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "kielo",
+          "artiste": "Nahoko Kakiage",
+          "lien": "https://nl.catbox.moe/ms8zy5.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Revenge of Ballerina",
+          "artiste": "Suzi Kim",
+          "lien": "https://nl.catbox.moe/ugazn3.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Gekijouban Sword Art Online: Ordinal Scale",
       "id": 0,
       "mal_id": 31765,
@@ -15596,6 +15636,53 @@
       }
     },
     {
+      "nom": "Magi: The Labyrinth of Magic",
+      "id": 0,
+      "mal_id": 14513,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "V.I.P",
+          "artiste": "SID",
+          "lien": "https://nl.catbox.moe/mvq8cx.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Matataku Hoshi no Shita de",
+          "artiste": "Porno Graffitti",
+          "lien": "https://nl.catbox.moe/u3ku86.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yubi Bouenkyou",
+          "artiste": "Nogizaka46",
+          "lien": "https://nl.catbox.moe/bg909p.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "The Bravery",
+          "artiste": "supercell",
+          "lien": "https://nl.catbox.moe/9b29sf.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Mahou Shoujo Madoka★Magica",
       "id": 0,
       "mal_id": 9756,
@@ -15783,6 +15870,100 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Mahouka Koukou no Rettousei: Tsuioku-hen",
+      "id": 0,
+      "mal_id": 48375,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ripe Aster",
+          "artiste": "Kairi Yagi",
+          "lien": "https://nl.catbox.moe/5haqg0.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Mahouka Koukou no Yuutousei",
+      "id": 0,
+      "mal_id": 45572,
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "101",
+          "artiste": "Sangatsu no Phantasia",
+          "lien": "https://nl.catbox.moe/9e6pph.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Double Standard",
+          "artiste": "Philosophy no Dance",
+          "lien": "https://nl.catbox.moe/vrmvjs.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Frozen Order",
+          "artiste": "Luna Goami",
+          "lien": "https://nl.catbox.moe/e2t9va.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Glacies",
+          "artiste": "Luna Goami",
+          "lien": "https://nl.catbox.moe/cmp5o0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Small Rendezvous",
+          "artiste": "KOCHO",
+          "lien": "https://nl.catbox.moe/7bc7lh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sucre Girl",
+          "artiste": "KOCHO",
+          "lien": "https://nl.catbox.moe/b8ufij.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Vespertine Bloom",
+          "artiste": "Jennifer Skidmore",
+          "lien": "https://nl.catbox.moe/kpwima.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -16009,6 +16190,46 @@
       }
     },
     {
+      "nom": "Manaria Friends",
+      "id": 0,
+      "mal_id": 31537,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Minna no Omoide",
+          "artiste": "Takashi Watanabe",
+          "lien": "https://nl.catbox.moe/2lgeto.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Rendan",
+          "artiste": "Takashi Watanabe",
+          "lien": "https://nl.catbox.moe/j924nu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Manaria Opera",
+          "artiste": "Nana Mizuki",
+          "lien": "https://nl.catbox.moe/4tgg2r.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Maou Gakuin no Futekigousha",
       "id": 0,
       "mal_id": 40496,
@@ -16119,6 +16340,46 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Maoyuu Maou Yuusha",
+      "id": 0,
+      "mal_id": 14833,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Mukaikaze",
+          "artiste": "YOHKO",
+          "lien": "https://nl.catbox.moe/jhpckx.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Unknown Vision",
+          "artiste": "Akino Arai",
+          "lien": "https://nl.catbox.moe/5soyaa.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Eramoreseramoru",
+          "artiste": "Tokyo Shounen Shoujo Gasshou-tai",
+          "lien": "https://nl.catbox.moe/4c63re.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -16246,6 +16507,107 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Mayonaka no Occult Koumuin",
+      "id": 0,
+      "mal_id": 37964,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "dis-communicate",
+          "artiste": "Jun Fukuyama",
+          "lien": "https://nl.catbox.moe/6uefgt.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yakusoku no Overture",
+          "artiste": "Shunichi Toki",
+          "lien": "https://nl.catbox.moe/4nv7fj.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Megalobox",
+      "id": 0,
+      "mal_id": 36563,
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Bite",
+          "artiste": "LEO Imai",
+          "lien": "https://nl.catbox.moe/9bmkjw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kakatte Koi yo",
+          "artiste": "NakamuraEmi",
+          "lien": "https://nl.catbox.moe/fgny4v.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "The Ending",
+          "artiste": "mabanua",
+          "lien": "https://nl.catbox.moe/u58fqs.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Gearless Joe",
+          "artiste": "COMA-CHI",
+          "lien": "https://nl.catbox.moe/uvdaeq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "The Beast",
+          "artiste": "COMA-CHI",
+          "lien": "https://nl.catbox.moe/21y8u0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "The Slum City",
+          "artiste": "COMA-CHI",
+          "lien": "https://nl.catbox.moe/jpm4ii.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "We are Bangaichi",
+          "artiste": "Michiyo Murase",
+          "lien": "https://nl.catbox.moe/uw2ec8.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

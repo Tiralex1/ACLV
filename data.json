@@ -1,6 +1,6 @@
 {
-  "nb_anime": 605,
-  "nb_musique": 2827,
+  "nb_anime": 609,
+  "nb_musique": 2836,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -8092,6 +8092,32 @@
       }
     },
     {
+      "nom": "Gekijouban Kimetsu no Yaiba: Mugen Ressha-hen",
+      "id": 0,
+      "mal_id": 40456,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Homura",
+          "artiste": "LiSA",
+          "lien": "https://nl.catbox.moe/w0f6i5.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Gekijouban Mahouka Koukou no Rettousei: Hoshi o Yobu Shoujo",
       "id": 0,
       "mal_id": 32900,
@@ -13402,6 +13428,119 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Kimetsu no Yaiba: Katanakaji no Sato-Hen",
+      "id": 0,
+      "mal_id": 51019,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kizuna no Kiseki",
+          "artiste": "MAN WITH A MISSION × milet",
+          "lien": "https://nl.catbox.moe/x3rmrw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Koi Kogare",
+          "artiste": "milet × MAN WITH A MISSION",
+          "lien": "https://nl.catbox.moe/133v5i.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kamado Nezuko no Uta",
+          "artiste": "Go Shiina featuring Nami Nakagawa",
+          "lien": "https://nl.catbox.moe/brleb2.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Kimetsu no Yaiba: Mugen Ressha-hen",
+      "id": 0,
+      "mal_id": 49926,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Akeboshi",
+          "artiste": "LiSA",
+          "lien": "https://nl.catbox.moe/t9p8wo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shirogane",
+          "artiste": "LiSA",
+          "lien": "https://nl.catbox.moe/6r79u2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Homura",
+          "artiste": "LiSA",
+          "lien": "https://files.catbox.moe/w0f6i5.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Kimetsu no Yaiba: Yuukaku-hen",
+      "id": 0,
+      "mal_id": 47778,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Zankyou Sanka",
+          "artiste": "Aimer",
+          "lien": "https://nl.catbox.moe/rrljjp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Asa ga Kuru",
+          "artiste": "Aimer",
+          "lien": "https://nl.catbox.moe/i04bg7.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

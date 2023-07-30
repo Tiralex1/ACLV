@@ -1,6 +1,6 @@
 {
-  "nb_anime": 609,
-  "nb_musique": 2836,
+  "nb_anime": 612,
+  "nb_musique": 2868,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -6210,6 +6210,219 @@
       }
     },
     {
+      "nom": "Dragon Ball",
+      "id": 0,
+      "mal_id": 223,
+      "nb_musique": 10,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Makafushigi Adventure!",
+          "artiste": "Hiroki Takahashi",
+          "lien": "https://nl.catbox.moe/cw29xd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Romantic Ageru yo",
+          "artiste": "Ushio Hashimoto",
+          "lien": "https://nl.catbox.moe/baq7ko.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Aoki Tabibito-tachi",
+          "artiste": "Hiroki Takahashi",
+          "lien": "https://nl.catbox.moe/1xtims.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Dragon Ball Densetsu",
+          "artiste": "Hiroki Takahashi",
+          "lien": "https://nl.catbox.moe/h5p47k.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Fushigi Wonderland",
+          "artiste": "Wonderland Gang",
+          "lien": "https://nl.catbox.moe/yv1ot3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mezase Tenkaichi",
+          "artiste": "Hiroki Takahashi",
+          "lien": "https://nl.catbox.moe/qtnewk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Moeru Heart de Red Ribbon Gun o Yattsukero",
+          "artiste": "Wonderland Gang",
+          "lien": "https://nl.catbox.moe/dcxg12.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Red Ribbon Army",
+          "artiste": "Wonderland Gang",
+          "lien": "https://nl.catbox.moe/4n17qi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Son Goku Song",
+          "artiste": "Masako Nozawa",
+          "lien": "https://nl.catbox.moe/27sp9b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Wolf Hurricane",
+          "artiste": "Toru Furuya",
+          "lien": "https://nl.catbox.moe/t8edjz.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Dragon Ball Super",
+      "id": 0,
+      "mal_id": 30694,
+      "nb_musique": 15,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Chouzetsu☆Dynamic!",
+          "artiste": "Kazuya Yoshii",
+          "lien": "https://nl.catbox.moe/v9acyq.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Genkai Toppa×Survivor",
+          "artiste": "Kiyoshi Hikawa",
+          "lien": "https://nl.catbox.moe/0hyyfq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hello Hello Hello",
+          "artiste": "Good Morning America",
+          "lien": "https://nl.catbox.moe/c3hhge.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Starring Star",
+          "artiste": "KEYTALK",
+          "lien": "https://nl.catbox.moe/aley6e.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Usubeni",
+          "artiste": "LACCO TOWER",
+          "lien": "https://nl.catbox.moe/rzcc5t.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Forever Dreaming",
+          "artiste": "Czecho No Republic",
+          "lien": "https://nl.catbox.moe/19emmc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Yoka Yoka Dance",
+          "artiste": "Batten Shoujo-tai",
+          "lien": "https://nl.catbox.moe/icxrj4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Chao-han MUSIC",
+          "artiste": "Arukara",
+          "lien": "https://nl.catbox.moe/zox7ld.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Aku no Tenshi to Seigi no Akuma",
+          "artiste": "THE COLLECTORS",
+          "lien": "https://nl.catbox.moe/2oqf3l.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 8,
+          "nom": "Boogie Back",
+          "artiste": "Miyu Inoue",
+          "lien": "https://nl.catbox.moe/5lz19z.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 9,
+          "nom": "Haruka",
+          "artiste": "LACCO TOWER",
+          "lien": "https://nl.catbox.moe/5387l0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 10,
+          "nom": "70cm Shihou no Madobe",
+          "artiste": "ROTTENGRAFFTY",
+          "lien": "https://nl.catbox.moe/pwf4eo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 11,
+          "nom": "LAGRIMA",
+          "artiste": "ONEPIXCEL",
+          "lien": "https://nl.catbox.moe/n42vne.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kyuukyoku no Battle",
+          "artiste": "Akira Kushida",
+          "lien": "https://nl.catbox.moe/kriq9x.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Waiwai World",
+          "artiste": "Ado Mizumori feat. Koorogi '73",
+          "lien": "https://nl.catbox.moe/s0ceqy.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Dragon Quest: Dai no Daibouken",
       "id": 0,
       "mal_id": 40906,
@@ -11747,6 +11960,74 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "K-On!",
+      "id": 0,
+      "mal_id": 5680,
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Cagayake! GIRLS",
+          "artiste": "Sakurakou K-On-bu",
+          "lien": "https://nl.catbox.moe/ugu8wv.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Cagayake! GIRLS (5-nin Ver.)",
+          "artiste": "Ho-Kago Tea Time",
+          "lien": "https://nl.catbox.moe/sy1iii.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Don't say "lazy"",
+          "artiste": "Sakurakou K-On-bu",
+          "lien": "https://nl.catbox.moe/7bbw58.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Fude Pen Ball Pen",
+          "artiste": "Ho-Kago Tea Time",
+          "lien": "https://nl.catbox.moe/o09aon.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Fuwa Fuwa Time (5-nin Ver.)",
+          "artiste": "Ho-Kago Tea Time",
+          "lien": "https://nl.catbox.moe/s7kihg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tsubasa o Kudasai",
+          "artiste": "Sakurakou K-On-bu",
+          "lien": "https://nl.catbox.moe/fw8m3q.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Watashi no Koi wa Hotchkiss",
+          "artiste": "Ho-Kago Tea Time",
+          "lien": "https://nl.catbox.moe/o6m009.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

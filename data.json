@@ -1,6 +1,6 @@
 {
-  "nb_anime": 683,
-  "nb_musique": 3172,
+  "nb_anime": 697,
+  "nb_musique": 3211,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1950,6 +1950,53 @@
       }
     },
     {
+      "nom": "Baki",
+      "id": 0,
+      "mal_id": 34443,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "BEASTFUL",
+          "artiste": "GRANRODEO",
+          "lien": "https://nl.catbox.moe/1gq74j.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "The Gong of Knockout",
+          "artiste": "Fear, and Loathing in Las Vegas",
+          "lien": "https://nl.catbox.moe/vzv99k.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "RESOLVE",
+          "artiste": "Azusa Tadokoro",
+          "lien": "https://nl.catbox.moe/llimd5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "BEAUTIFUL BEAST",
+          "artiste": "DEVIL NO ID",
+          "lien": "https://nl.catbox.moe/jkqe79.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Ballroom e Youkoso",
       "id": 0,
       "mal_id": 34636,
@@ -3012,6 +3059,39 @@
           "V": 1,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Blue Period",
+      "id": 0,
+      "mal_id": 46352,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "EVERBLUE",
+          "artiste": "Omoinotake",
+          "lien": "https://nl.catbox.moe/v5xwd8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Replica",
+          "artiste": "mol-74",
+          "lien": "https://nl.catbox.moe/vyukd8.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -5204,6 +5284,107 @@
       }
     },
     {
+      "nom": "Dark Gathering",
+      "id": 0,
+      "mal_id": 52505,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kakuriyo",
+          "artiste": "luz",
+          "lien": "https://nl.catbox.moe/b6t6z0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hai-iro",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.moe/7te9ot.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Darker than Black: Kuro no Keiyakusha",
+      "id": 0,
+      "mal_id": 2025,
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "HOWLING",
+          "artiste": "abingdon boys school",
+          "lien": "https://nl.catbox.moe/1siw79.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Kakusei Heroism ~THE HERO WITHOUT A "NAME"~",
+          "artiste": "An Cafe",
+          "lien": "https://nl.catbox.moe/ntac0z.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tsukiakari",
+          "artiste": "Rie fu",
+          "lien": "https://nl.catbox.moe/j8n8th.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Dreams",
+          "artiste": "HIGH and MIGHTY COLOR",
+          "lien": "https://nl.catbox.moe/9lwdep.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Blend In",
+          "artiste": "James Wendt",
+          "lien": "https://nl.catbox.moe/582zgl.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Deadly Work",
+          "artiste": "James Wendt",
+          "lien": "https://nl.catbox.moe/nfn3ow.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "No One's Home",
+          "artiste": "Mai Yamane",
+          "lien": "https://nl.catbox.moe/lolq5r.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Darker than Black: Ryuusei no Gemini",
       "id": 0,
       "mal_id": 6573,
@@ -5871,6 +6052,72 @@
       }
     },
     {
+      "nom": "Deep Insanity: The Lost Child",
+      "id": 0,
+      "mal_id": 49292,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Inochi no Tomoshibi",
+          "artiste": "Konomi Suzuki",
+          "lien": "https://nl.catbox.moe/6j7usq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shinju-iro no Kakumei",
+          "artiste": "Kashitaro Ito",
+          "lien": "https://nl.catbox.moe/ne8f7u.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Dekiru Neko wa Kyou mo Yuuutsu",
+      "id": 0,
+      "mal_id": 51916,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Ureu Kado ni wa Fuku Kitaru",
+          "artiste": "somei",
+          "lien": "https://nl.catbox.moe/pi2k7u.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hakai Zenya no Koto",
+          "artiste": "asmi",
+          "lien": "https://nl.catbox.moe/e2h69t.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Demi-chan wa Kataritai",
       "id": 0,
       "mal_id": 33988,
@@ -6461,6 +6708,39 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Dolls' Frontline",
+      "id": 0,
+      "mal_id": 46604,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "BAD CANDY",
+          "artiste": "yukaDD(;´∀｀)",
+          "lien": "https://nl.catbox.moe/v7wm2h.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "HORIZON",
+          "artiste": "TEAM SHACHI",
+          "lien": "https://nl.catbox.moe/tx1oee.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -8159,6 +8439,67 @@
       }
     },
     {
+      "nom": "Fate/stay night",
+      "id": 0,
+      "mal_id": 356,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "disillusion",
+          "artiste": "Sachi Tainaka",
+          "lien": "https://nl.catbox.moe/j7twby.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Kirameku Namida wa Hoshi ni",
+          "artiste": "Sachi Tainaka",
+          "lien": "https://nl.catbox.moe/d1boaz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Anata ga Ita Mori",
+          "artiste": "Jyukai",
+          "lien": "https://nl.catbox.moe/0mr1fc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Hikari",
+          "artiste": "Jyukai",
+          "lien": "https://nl.catbox.moe/52v348.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Kimi to no Ashita",
+          "artiste": "Sachi Tainaka",
+          "lien": "https://nl.catbox.moe/0p4b9i.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "La Sola",
+          "artiste": "Hisako Sasaki",
+          "lien": "https://nl.catbox.moe/d9crec.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Fate/Zero",
       "id": 0,
       "mal_id": 10087,
@@ -8999,6 +9340,93 @@
       }
     },
     {
+      "nom": "Gakusen Toshi Asterisk",
+      "id": 0,
+      "mal_id": 30544,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Brand-new World",
+          "artiste": "Shiena Nishizawa",
+          "lien": "https://nl.catbox.moe/kkp6d2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Waiting for the rain",
+          "artiste": "Maaya Sakamoto",
+          "lien": "https://nl.catbox.moe/2aif5r.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ai no Taiyou",
+          "artiste": "Haruka Chisuga",
+          "lien": "https://nl.catbox.moe/wd0a2f.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hold you in the wind",
+          "artiste": "Rasmus Faber feat.Emily McEwan",
+          "lien": "https://nl.catbox.moe/xuu2oy.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Gakusen Toshi Asterisk",
+      "id": 1,
+      "mal_id": 31737,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "The Asterisk War",
+          "artiste": "Shiena Nishizawa",
+          "lien": "https://nl.catbox.moe/taknfj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ai no Uta -words of love-",
+          "artiste": "Haruka Chisuga",
+          "lien": "https://nl.catbox.moe/b61fpy.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Brand-new World",
+          "artiste": "Shiena Nishizawa",
+          "lien": "https://nl.catbox.moe/rypp7j.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Gamers!",
       "id": 0,
       "mal_id": 34280,
@@ -9036,6 +9464,32 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Ganbare Douki-chan",
+      "id": 0,
+      "mal_id": 49605,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Lady Go",
+          "artiste": "Nene Hieda",
+          "lien": "https://nl.catbox.moe/8t1oc4.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -9960,6 +10414,91 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Gensou Sangokushi: Tengen Reishinki",
+      "id": 0,
+      "mal_id": 49514,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "ENISHI",
+          "artiste": "Machico",
+          "lien": "https://nl.catbox.moe/tfh09e.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Uso",
+          "artiste": "LACCO TOWER",
+          "lien": "https://nl.catbox.moe/kxida7.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Getsuyoubi no Tawawa",
+      "id": 0,
+      "mal_id": 34213,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Otome no Tawawa",
+          "artiste": "Sayaka Harada",
+          "lien": "https://nl.catbox.moe/095ye6.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Getsuyoubi no Tawawa 2",
+      "id": 0,
+      "mal_id": 49854,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ai no Katachi",
+          "artiste": "Sayaka Harada",
+          "lien": "https://nl.catbox.moe/x42wxo.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

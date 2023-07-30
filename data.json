@@ -1,6 +1,6 @@
 {
-  "nb_anime": 648,
-  "nb_musique": 3013,
+  "nb_anime": 656,
+  "nb_musique": 3045,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -4663,6 +4663,39 @@
       }
     },
     {
+      "nom": "Dakara Boku wa, H ga Dekinai.",
+      "id": 0,
+      "mal_id": 12549,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Reason why XXX",
+          "artiste": "Sayaka Sasaki",
+          "lien": "https://nl.catbox.moe/t2i2r8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Platinum 17",
+          "artiste": "yozuca*",
+          "lien": "https://nl.catbox.moe/jvm91x.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
       "nom": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
       "id": 0,
       "mal_id": 34103,
@@ -4929,6 +4962,107 @@
       }
     },
     {
+      "nom": "Dareka no Manazashi",
+      "id": 0,
+      "mal_id": 17121,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sore de Ii yo",
+          "artiste": "Kazusa",
+          "lien": "https://nl.catbox.moe/fdixvi.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
+      "nom": "Darker than Black: Ryuusei no Gemini",
+      "id": 0,
+      "mal_id": 6573,
+      "nb_musique": 8,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Tsukiakari no Michishirube",
+          "artiste": "Stereopony",
+          "lien": "https://nl.catbox.moe/mn3gm7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "From Dusk Till Dawn",
+          "artiste": "abingdon boys school",
+          "lien": "https://nl.catbox.moe/777cwe.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Brand New Happiness",
+          "artiste": "Yasushi Ishii",
+          "lien": "https://nl.catbox.moe/x8n3rb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Dive into the 9",
+          "artiste": "Yasushi Ishii",
+          "lien": "https://nl.catbox.moe/49newk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Gekkou Bosatsu no Namida",
+          "artiste": "Yasushi Ishii",
+          "lien": "https://nl.catbox.moe/7m3cn0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kanashiki Yume no Maki",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.moe/rlh7kt.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Soul Fusion",
+          "artiste": "Yasushi Ishii",
+          "lien": "https://nl.catbox.moe/na0xwz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Twinkle Real Star",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.moe/ynocu1.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
       "nom": "Darling in the FranXX",
       "id": 0,
       "mal_id": 35849,
@@ -5026,6 +5160,46 @@
           "A": 0,
           "C": 0,
           "L": 1,
+          "V": 0,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
+      "nom": "Darwin's Game",
+      "id": 0,
+      "mal_id": 38656,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "CHAIN",
+          "artiste": "ASCA",
+          "lien": "https://nl.catbox.moe/3lhp0c.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Alive",
+          "artiste": "Mashiro Ayano",
+          "lien": "https://nl.catbox.moe/em0u48.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sunset Ravens",
+          "artiste": "Daisuke Hasegawa",
+          "lien": "https://nl.catbox.moe/c2vmix.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
           "V": 0,
           "T": 0,
           "Q": 0
@@ -5288,6 +5462,46 @@
       }
     },
     {
+      "nom": "Deadman Wonderland",
+      "id": 0,
+      "mal_id": 6880,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "One Reason",
+          "artiste": "DWB feat. fade",
+          "lien": "https://nl.catbox.moe/ooe835.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shiny Shiny",
+          "artiste": "DWB feat. NIRGILIS",
+          "lien": "https://nl.catbox.moe/nahpca.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Komoriuta",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.moe/b7kqd1.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
       "nom": "Death March kara Hajimaru Isekai Kyousoukyoku",
       "id": 0,
       "mal_id": 34497,
@@ -5433,6 +5647,93 @@
       ],
       "users": {
           "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
+      "nom": "Demi-chan wa Kataritai",
+      "id": 0,
+      "mal_id": 33988,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Original.",
+          "artiste": "TrySail",
+          "lien": "https://nl.catbox.moe/rb7vlv.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Fairy Tale",
+          "artiste": "Sangatsu no Phantasia",
+          "lien": "https://nl.catbox.moe/0ghmf4.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
+      "nom": "Devilman Crybaby",
+      "id": 0,
+      "mal_id": 35120,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "MAN HUMAN",
+          "artiste": "DENKI GROOVE",
+          "lien": "https://nl.catbox.moe/ppkzon.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "D.V.M.N. -Theme From 'DEVILMAN crybaby'-",
+          "artiste": "Kensuke Ushio",
+          "lien": "https://nl.catbox.moe/4djzsh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Judgement",
+          "artiste": "Kensuke Ushio",
+          "lien": "https://nl.catbox.moe/fpbo7a.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Konya dake",
+          "artiste": "Takkyuu to Tabibito",
+          "lien": "https://nl.catbox.moe/chpwzo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Devilman no Uta",
+          "artiste": "Avu-chan",
+          "lien": "https://nl.catbox.moe/bsf6oo.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
           "C": 0,
           "L": 0,
           "V": 0,
@@ -6001,6 +6302,81 @@
       "users": {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
+      "nom": "Dorohedoro",
+      "id": 0,
+      "mal_id": 38668,
+      "nb_musique": 8,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Welcome to Chaos",
+          "artiste": "(K)NoW_NAME:Ayaka Tachibana",
+          "lien": "https://nl.catbox.moe/eqzpzb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Who am I?",
+          "artiste": "(K)NoW_NAME:Ayaka Tachibana & NIKIIE",
+          "lien": "https://nl.catbox.moe/i7swn3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Night SURFING",
+          "artiste": "(K)NoW_NAME:Ayaka Tachibana",
+          "lien": "https://nl.catbox.moe/tugpn2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "D.D.D.D.",
+          "artiste": "(K)NoW_NAME:NIKIIE",
+          "lien": "https://nl.catbox.moe/timams.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Strange Meat Pie",
+          "artiste": "(K)NoW_NAME:Ayaka Tachibana",
+          "lien": "https://nl.catbox.moe/bisix3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "SECONDs FLY",
+          "artiste": "(K)NoW_NAME:NIKIIE",
+          "lien": "https://nl.catbox.moe/i7edi3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "404",
+          "artiste": "(K)NoW_NAME:NIKIIE & AIJ",
+          "lien": "https://nl.catbox.moe/z9xssy.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Dream Kinoko",
+          "artiste": "Kenyuu Horiuchi",
+          "lien": "https://nl.catbox.moe/b39gpi.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0,

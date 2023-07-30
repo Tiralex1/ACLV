@@ -1,6 +1,6 @@
 {
-  "nb_anime": 584,
-  "nb_musique": 2761,
+  "nb_anime": 592,
+  "nb_musique": 2784,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -16329,6 +16329,100 @@
       }
     },
     {
+      "nom": "Mirai Nikki",
+      "id": 0,
+      "mal_id": 10620,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kuusou Mesorogiwi",
+          "artiste": "Yousei Teikoku",
+          "lien": "https://nl.catbox.moe/u9c7qd.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Dead END",
+          "artiste": "Faylan",
+          "lien": "https://nl.catbox.moe/uvh69e.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Blood teller",
+          "artiste": "Faylan",
+          "lien": "https://nl.catbox.moe/exopk5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "filament",
+          "artiste": "Yousei Teikoku",
+          "lien": "https://nl.catbox.moe/6vkmpb.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Miru Tights",
+      "id": 0,
+      "mal_id": 38935,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "True Days",
+          "artiste": "Haruka Tomatsu",
+          "lien": "https://nl.catbox.moe/stw1b2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "True Days",
+          "artiste": "Yoko Hikasa",
+          "lien": "https://nl.catbox.moe/7mqg4j.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "True Days",
+          "artiste": "Aya Suzaki",
+          "lien": "https://nl.catbox.moe/4584tk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "True Days",
+          "artiste": "Haruka Tomatsu, Yoko Hikasa, Aya Suzaki",
+          "lien": "https://nl.catbox.moe/snaoh2.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Mob Psycho 100",
       "id": 0,
       "mal_id": 32182,
@@ -16557,6 +16651,126 @@
       }
     },
     {
+      "nom": "Mononoke-hime",
+      "id": 0,
+      "mal_id": 164,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Mononoke-hime",
+          "artiste": "Yoshikazu Mera",
+          "lien": "https://nl.catbox.moe/pbjtbd.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Monster Musume no Iru Nichijou",
+      "id": 0,
+      "mal_id": 30307,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Saikousoku Fall in Love",
+          "artiste": "Ari Ozawa, Natsuki Aikawa, Sora Amamiya, Haruka Yamazaki, Mayuka Nomura, Sakura Nakamura",
+          "lien": "https://nl.catbox.moe/47i25i.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hey! Smith!!",
+          "artiste": "Smith with MON",
+          "lien": "https://nl.catbox.moe/o3z2sh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Everyday Kemomimi",
+          "artiste": "ANM48",
+          "lien": "https://nl.catbox.moe/rlg81q.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Karitakatta",
+          "artiste": "ANM48",
+          "lien": "https://nl.catbox.moe/ur9g7y.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Koko da yo.",
+          "artiste": "UNDER17",
+          "lien": "https://nl.catbox.moe/01q28z.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Monster Musume no Oisha-san",
+      "id": 0,
+      "mal_id": 40708,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Campanella Hibiku Sora de",
+          "artiste": "ARCANA PROJECT",
+          "lien": "https://nl.catbox.moe/3r9ope.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yasashisa no Namae",
+          "artiste": "Aina Suzuki",
+          "lien": "https://nl.catbox.moe/tpq9hn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Water flows down passages",
+          "artiste": "Shaylee",
+          "lien": "https://nl.catbox.moe/5oa2r9.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Motto To LOVE-Ru",
       "id": 0,
       "mal_id": 9181,
@@ -16601,6 +16815,105 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Mugen no Juunin: Immortal",
+      "id": 0,
+      "mal_id": 39806,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "SURVIVE OF VISION",
+          "artiste": "Kiyoharu",
+          "lien": "https://nl.catbox.moe/39jko1.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Mugen no Juunin Butou-hen",
+          "artiste": "Ningen Isu",
+          "lien": "https://nl.catbox.moe/xjnnyy.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Murenase! Seton Gakuen",
+      "id": 0,
+      "mal_id": 40483,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Gakuen Soukan Zoo",
+          "artiste": "Hina Kino, Haruki Ishiya, Yume Miyamoto, Misaki Kuno, Konomi Kohara, Sora Tokui",
+          "lien": "https://nl.catbox.moe/5nv287.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ookami Blues",
+          "artiste": "Hina Kino",
+          "lien": "https://nl.catbox.moe/lmeuak.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Musaigen no Phantom World",
+      "id": 0,
+      "mal_id": 31442,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Naked Dive",
+          "artiste": "SCREEN mode",
+          "lien": "https://nl.catbox.moe/uxpcz0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Junshin Always",
+          "artiste": "Azusa Tadokoro",
+          "lien": "https://nl.catbox.moe/oxgltb.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

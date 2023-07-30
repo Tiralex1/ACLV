@@ -161,6 +161,22 @@
             ]
         },
         {
+            "songName": "Jigoku no Orphée",
+            "artist": "Freshman Wind Ensemble",
+            "types": [
+                "opening 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Ai o Mitsuketa Basho",
+            "artist": "Freshman Wind Ensemble",
+            "types": [
+                "insert song",
+                "ending 2"
+            ]
+        },
+        {
             "songName": "Homura",
             "artist": "LiSA",
             "types": [

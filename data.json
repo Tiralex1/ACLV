@@ -1,6 +1,6 @@
 {
-  "nb_anime": 635,
-  "nb_musique": 2937,
+  "nb_anime": 648,
+  "nb_musique": 3013,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -8037,6 +8037,130 @@
       }
     },
     {
+      "nom": "Gakuen Mokushiroku: Highschool of the Dead",
+      "id": 0,
+      "mal_id": 8074,
+      "nb_musique": 15,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "HIGHSCHOOL OF THE DEAD",
+          "artiste": "Kishida Kyoudan &THE Akeboshi Rockets",
+          "lien": "https://nl.catbox.moe/63q21z.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimi to Taiyou ga Shinda Hi",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://nl.catbox.moe/kawom0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "color me dark",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://nl.catbox.moe/t671sk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Return to Destiny",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://nl.catbox.moe/aoef8p.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "cold bullet blues",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://nl.catbox.moe/xs0utt.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Memories of days gone by",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://nl.catbox.moe/n6l65a.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Under The Honey Shine",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://nl.catbox.moe/uo3cue.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "fuss fuzz",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://nl.catbox.moe/1rezoo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 8,
+          "nom": "The place of hope",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://nl.catbox.moe/tmh8lw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 9,
+          "nom": "Houseki no Spy",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://nl.catbox.moe/2yuhgi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 10,
+          "nom": "THE last pain",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://nl.catbox.moe/c1tv6h.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 11,
+          "nom": "Hollow Men",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://nl.catbox.moe/8ojqqc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 12,
+          "nom": "The Eternal Song",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://nl.catbox.moe/ivzl39.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Infection",
+          "artiste": "MELL",
+          "lien": "https://nl.catbox.moe/uyotf5.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "O, Spirit",
+          "artiste": "Sayo Fukunaga",
+          "lien": "https://nl.catbox.moe/o0gjq7.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Gamers!",
       "id": 0,
       "mal_id": 34280,
@@ -8241,6 +8365,88 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Gekijouban Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
+      "id": 0,
+      "mal_id": 31989,
+      "nb_musique": 9,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Jigoku no Orphée",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/6nh1os.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "DREAM SOLISTER (Movie Ver.)",
+          "artiste": "TRUE",
+          "lien": "https://nl.catbox.moe/p51iqf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Abarenbou Shougun no Theme",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/jingin.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ai o Mitsuketa Basho",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/fpif8k.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "FUNICULI FUNICULA",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/7d5swo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kaiheitai",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/0ssu52.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Koukyoukyoku Dai 9-ban Hotanchou Sakuhin 95",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/hok2lj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Provence no Kaze",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/vdbuqd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "RYDEEN",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/u5avzf.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -9657,6 +9863,74 @@
       }
     },
     {
+      "nom": "Hachigatsu no Cinderella Nine",
+      "id": 0,
+      "mal_id": 38091,
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Étude",
+          "artiste": "Mewhan",
+          "lien": "https://nl.catbox.moe/lqmarl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Donna Toki mo",
+          "artiste": "Nozomi Nishida, Reina Kondo, Saki Minami, Honoka Inoue",
+          "lien": "https://nl.catbox.moe/9ee4mv.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Nukarumi",
+          "artiste": "Nozomi Nishida, Reina Kondo, Saki Minami, Honoka Inoue",
+          "lien": "https://nl.catbox.moe/cr71t9.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "ALL FOR ONE★",
+          "artiste": "Rika Tachibana, Haruka Shiraishi, Nanami Yamashita, Iori Saeki, Madoka Asahina, Noriko Shibasaki",
+          "lien": "https://nl.catbox.moe/0a9kzj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Sebangou",
+          "artiste": "Nozomi Nishida, Reina Kondo, Saki Minami, Honoka Inoue",
+          "lien": "https://nl.catbox.moe/ph5pcs.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Summer Soul...",
+          "artiste": "Rika Tachibana, Haruka Shiraishi, Nanami Yamashita, Iori Saeki, Madoka Asahina, Noriko Shibasaki",
+          "lien": "https://nl.catbox.moe/dxjb8t.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sekai de Ichiban Atsui Natsu",
+          "artiste": "Nozomi Nishida, Reina Kondo, Saki Minami, Honoka Inoue",
+          "lien": "https://nl.catbox.moe/nr3re8.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Hagure Yuusha no Aesthetica",
       "id": 0,
       "mal_id": 13161,
@@ -9807,6 +10081,154 @@
       }
     },
     {
+      "nom": "Haikyu!!",
+      "id": 0,
+      "mal_id": 20583,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Imagination",
+          "artiste": "SPYAIR",
+          "lien": "https://nl.catbox.moe/bittzk.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Ah Yeah!!",
+          "artiste": "Sukima Switch",
+          "lien": "https://nl.catbox.moe/o8puqg.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tenchi Gaeshi",
+          "artiste": "NICO Touches the Walls",
+          "lien": "https://nl.catbox.moe/bb27f3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "LEO",
+          "artiste": "tacica",
+          "lien": "https://nl.catbox.moe/fk0if1.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Hajime no Ippo",
+      "id": 0,
+      "mal_id": 263,
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "under star",
+          "artiste": "Shocking Lemon",
+          "lien": "https://nl.catbox.moe/yj3g9y.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Inner Light",
+          "artiste": "Shocking Lemon",
+          "lien": "https://nl.catbox.moe/dwpr31.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "TUMBLING DICE",
+          "artiste": "Tsuneo Imahori",
+          "lien": "https://nl.catbox.moe/5mhz0c.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yuuzora no Kami Hikouki",
+          "artiste": "Naoya Mori",
+          "lien": "https://nl.catbox.moe/fz79fu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "360°",
+          "artiste": "Naoya Mori",
+          "lien": "https://nl.catbox.moe/zkqzl0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "ETERNAL LOOP <clear>",
+          "artiste": "SABER TIGER",
+          "lien": "https://nl.catbox.moe/hywvbx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ultra Seven no Uta 99",
+          "artiste": "Isao Sasaki",
+          "lien": "https://nl.catbox.moe/snazmy.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Hakozume: Kouban Joshi no Gyakushuu",
+      "id": 0,
+      "mal_id": 49519,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shiranakya",
+          "artiste": "Riko Azuna",
+          "lien": "https://nl.catbox.moe/k2sami.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Change",
+          "artiste": "nonoc",
+          "lien": "https://nl.catbox.moe/vnz4u3.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Hanma Baki: Son of Ogre",
       "id": 0,
       "mal_id": 42940,
@@ -9837,6 +10259,86 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Harmony",
+      "id": 0,
+      "mal_id": 28211,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ghost of a smile",
+          "artiste": "EGOIST",
+          "lien": "https://nl.catbox.moe/6owicl.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Harukana Receive",
+      "id": 0,
+      "mal_id": 35983,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "FLY two BLUE",
+          "artiste": "Kana Yuuki & Saki Miyashita",
+          "lien": "https://nl.catbox.moe/erizfn.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Mae o Muite!",
+          "artiste": "Chisa Kimura",
+          "lien": "https://nl.catbox.moe/ukoiw3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Wish me luck!!!!",
+          "artiste": "Kana Yuuki, Saki Miyashita, Atsumi Tanezaki, Rie Suegara",
+          "lien": "https://nl.catbox.moe/f4vq6m.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Rise [Vocal version]",
+          "artiste": "Josefine Wassler",
+          "lien": "https://nl.catbox.moe/cv64op.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Home (Is Where The Heart Is) [Vocal version]",
+          "artiste": "Josefine Wassler",
+          "lien": "https://nl.catbox.moe/ygylif.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -9960,6 +10462,112 @@
       }
     },
     {
+      "nom": "Heion Sedai no Idaten-tachi",
+      "id": 0,
+      "mal_id": 42625,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Seija no Koushin",
+          "artiste": "Tatsuya Kitani",
+          "lien": "https://nl.catbox.moe/gmnoki.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Raika",
+          "artiste": "Akari Nanawo",
+          "lien": "https://nl.catbox.moe/4jpkaz.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Helck",
+      "id": 0,
+      "mal_id": 51020,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "It's My Soul",
+          "artiste": "Hiroki Nanami",
+          "lien": "https://nl.catbox.moe/biauz4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Statice",
+          "artiste": "saji",
+          "lien": "https://nl.catbox.moe/a9npyn.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Hello World",
+      "id": 0,
+      "mal_id": 38816,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shinsekai",
+          "artiste": "OKAMOTO'S",
+          "lien": "https://nl.catbox.moe/ab4b44.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Lost Game (Movie ver.)",
+          "artiste": "Nulbarich",
+          "lien": "https://nl.catbox.moe/szsaf6.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yesterday (Movie ver.)",
+          "artiste": "Official HIGE DANdism",
+          "lien": "https://nl.catbox.moe/7ciam2.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto",
       "id": 0,
       "mal_id": 49692,
@@ -10074,6 +10682,177 @@
           "V": 1,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Hibike! Euphonium",
+      "id": 0,
+      "mal_id": 27989,
+      "nb_musique": 12,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "DREAM SOLISTER",
+          "artiste": "TRUE",
+          "lien": "https://nl.catbox.moe/yuzqtm.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tutti!",
+          "artiste": "Kitauji Quartet",
+          "lien": "https://nl.catbox.moe/wa9l7b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Abarenbou Shougun no Theme",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/bpfvaa.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ai o Mitsuketa Basho",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/x0zubp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Dream Solister (Wind Orchestra Ver.)",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/ab6tkx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "FUNICULI FUNICULA",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/wq7ksk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Jigoku no Orphée",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/5y99vj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kaiheitai",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/jgm56c.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Koukyoukyoku Dai 9-ban Hotanchou Sakuhin 95",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/30u922.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mikazuki no Mai",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/b84k7d.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Provence no Kaze",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/r4h3py.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "RYDEEN",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/ordef8.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Hibike! Euphonium 2",
+      "id": 0,
+      "mal_id": 31988,
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Soundscape",
+          "artiste": "TRUE",
+          "lien": "https://nl.catbox.moe/94yyyi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Vivace!",
+          "artiste": "Kitauji Quartet",
+          "lien": "https://nl.catbox.moe/7o8s5x.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Hibike! Euphonium",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/6zxgvs.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Hibike! Euphonium (Last Ver.)",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/frfop0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mikazuki no Mai",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://files.catbox.moe/b84k7d.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Starting the project",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/e9kphr.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Takarajima",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/pdku1m.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

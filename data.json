@@ -1,6 +1,6 @@
 {
-  "nb_anime": 631,
-  "nb_musique": 2926,
+  "nb_anime": 635,
+  "nb_musique": 2937,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -8244,6 +8244,53 @@
       }
     },
     {
+      "nom": "Gekijouban Jujutsu Kaisen 0",
+      "id": 0,
+      "mal_id": 48561,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Greatest Strength",
+          "artiste": "Toft Willingham, Chez, Jessica Gelinas",
+          "lien": "https://nl.catbox.moe/jk1rqa.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sakayume",
+          "artiste": "King Gnu",
+          "lien": "https://nl.catbox.moe/yrf9wv.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ichizu",
+          "artiste": "King Gnu",
+          "lien": "https://nl.catbox.moe/12vyfo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "The Real You",
+          "artiste": "Toft Willingham",
+          "lien": "https://nl.catbox.moe/7v3fdc.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Gekijouban Karakai Jouzu no Takagi-san",
       "id": 0,
       "mal_id": 49722,
@@ -11827,6 +11874,39 @@
       }
     },
     {
+      "nom": "Jigokuraku",
+      "id": 0,
+      "mal_id": 46569,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "W●RK",
+          "artiste": "millennium parade × Ringo Sheena",
+          "lien": "https://nl.catbox.moe/g43wvc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kamihitoe",
+          "artiste": "Uru",
+          "lien": "https://nl.catbox.moe/316238.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Jijou o Shiranai Tenkousei ga Guigui Kuru.",
       "id": 0,
       "mal_id": 53621,
@@ -12033,6 +12113,79 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Jujutsu Kaisen",
+      "id": 1,
+      "mal_id": 51009,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Ao no Sumika",
+          "artiste": "Tatsuya Kitani",
+          "lien": "https://nl.catbox.moe/589lde.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Akari",
+          "artiste": "Soushi Sakiyama",
+          "lien": "https://nl.catbox.moe/whq5z2.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Juuni Taisen",
+      "id": 0,
+      "mal_id": 35076,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Rapture",
+          "artiste": "Panorama Panama Town",
+          "lien": "https://nl.catbox.moe/pjiqao.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Keshin no Juu",
+          "artiste": "Do As Infinity",
+          "lien": "https://nl.catbox.moe/ooe2pb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Silver Moon",
+          "artiste": "Do As Infinity",
+          "lien": "https://nl.catbox.moe/akgofk.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

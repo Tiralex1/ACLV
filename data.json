@@ -1,6 +1,6 @@
 {
   "nb_anime": 697,
-  "nb_musique": 3211,
+  "nb_musique": 3213,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -9390,7 +9390,7 @@
       "nom": "Gakusen Toshi Asterisk",
       "id": 1,
       "mal_id": 31737,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -9412,6 +9412,20 @@
           "nom": "Brand-new World",
           "artiste": "Shiena Nishizawa",
           "lien": "https://nl.catbox.moe/rypp7j.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hold you in the wind",
+          "artiste": "Rasmus Faber feat.Emily McEwan",
+          "lien": "https://nl.catbox.moe/189q4j.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Lonely Feather",
+          "artiste": "Haruka Chisuga",
+          "lien": "https://nl.catbox.moe/x8a0gh.webm"
         }
       ],
       "genres": [

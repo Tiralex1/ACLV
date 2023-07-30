@@ -1,6 +1,6 @@
 {
-  "nb_anime": 612,
-  "nb_musique": 2868,
+  "nb_anime": 631,
+  "nb_musique": 2926,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -8331,6 +8331,79 @@
       }
     },
     {
+      "nom": "Gekijouban Kyoukai no Kanata: I'll Be Here - Kako-hen",
+      "id": 0,
+      "mal_id": 25015,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Daisy",
+          "artiste": "STEREO DIVE FOUNDATION",
+          "lien": "https://nl.catbox.moe/tlyh3c.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ai Yue ni",
+          "artiste": "Annabel",
+          "lien": "https://nl.catbox.moe/pepomw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kyoukai no Kanata",
+          "artiste": "Minori Chihara",
+          "lien": "https://nl.catbox.moe/tyh8r1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mirai no Kioku",
+          "artiste": "Annabel",
+          "lien": "https://nl.catbox.moe/6yn46f.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Gekijouban Kyoukai no Kanata: I'll Be Here - Mirai-hen",
+      "id": 0,
+      "mal_id": 28675,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Aitakatta Sora",
+          "artiste": "Minori Chihara",
+          "lien": "https://nl.catbox.moe/xl7ez9.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Gekijouban Mahouka Koukou no Rettousei: Hoshi o Yobu Shoujo",
       "id": 0,
       "mal_id": 32900,
@@ -12407,6 +12480,39 @@
       }
     },
     {
+      "nom": "Kaifuku Jutsushi no Yarinaoshi",
+      "id": 0,
+      "mal_id": 40750,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Zankoku na Yume to Nemure",
+          "artiste": "Minami Kuribayashi",
+          "lien": "https://nl.catbox.moe/k693yl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yume de Sekai o Kaeru Nara",
+          "artiste": "ARCANA PROJECT",
+          "lien": "https://nl.catbox.moe/d8p3cr.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Kaijin Kaihatsu-bu no Kuroitsu-san",
       "id": 0,
       "mal_id": 49385,
@@ -12792,6 +12898,39 @@
       }
     },
     {
+      "nom": "Kami no Tou",
+      "id": 0,
+      "mal_id": 40221,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "TOP -Japanese ver.-",
+          "artiste": "Stray Kids",
+          "lien": "https://nl.catbox.moe/v5wu34.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "SLUMP -Japanese ver.-",
+          "artiste": "Stray Kids",
+          "lien": "https://nl.catbox.moe/5rav4j.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Kami-tachi ni Hirowareta Otoko",
       "id": 0,
       "mal_id": 41312,
@@ -12822,6 +12961,46 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Kamiarizuki no Kodomo",
+      "id": 0,
+      "mal_id": 41877,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kamiarizuki no Kodomo",
+          "artiste": "miwa",
+          "lien": "https://nl.catbox.moe/6u8k1b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Daydream ~Arishihi no Yume~",
+          "artiste": "miwa",
+          "lien": "https://nl.catbox.moe/pmep7l.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "KANNA",
+          "artiste": "miwa",
+          "lien": "https://nl.catbox.moe/277lpo.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -12869,6 +13048,86 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Kanata no Astra",
+      "id": 0,
+      "mal_id": 39198,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "star*frost",
+          "artiste": "nonoc",
+          "lien": "https://nl.catbox.moe/j9l550.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Glow at the Velocity of Light",
+          "artiste": "Riko Azuna",
+          "lien": "https://nl.catbox.moe/wmtm2w.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Star of Hope",
+          "artiste": "Saori Hayami",
+          "lien": "https://nl.catbox.moe/t25r20.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Astra-gou no Bouken",
+          "artiste": "Saori Hayami",
+          "lien": "https://nl.catbox.moe/0p0817.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Kandagawa Jet Girls",
+      "id": 0,
+      "mal_id": 40196,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "BULLET MERMAID",
+          "artiste": "Yuu Sasahara & Riko Kohara",
+          "lien": "https://nl.catbox.moe/gorncb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "RIVALS",
+          "artiste": "Azusa Tadokoro",
+          "lien": "https://nl.catbox.moe/b6ddzs.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -13428,6 +13687,46 @@
       }
     },
     {
+      "nom": "Katsute Kami Datta Kemono-tachi e",
+      "id": 0,
+      "mal_id": 39199,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Sacrifice",
+          "artiste": "Mafumafu",
+          "lien": "https://nl.catbox.moe/g7cldy.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "HHOOWWLL",
+          "artiste": "Gero×ARAKI",
+          "lien": "https://nl.catbox.moe/6cherp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Beatrice's Lullaby",
+          "artiste": "Saori Hayami",
+          "lien": "https://nl.catbox.moe/mqsfid.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Kawaii dake ja Nai Shikimori-san",
       "id": 0,
       "mal_id": 45613,
@@ -13458,6 +13757,145 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Kaze Tachinu",
+      "id": 0,
+      "mal_id": 16662,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hikoukigumo",
+          "artiste": "Yumi Arai",
+          "lien": "https://nl.catbox.moe/nbplit.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Das gibt's nur einmal",
+          "artiste": "Hideaki Anno & Morio Kazama & Stephen Alpert",
+          "lien": "https://nl.catbox.moe/umt4s9.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Keijo!!!!!!!!",
+      "id": 0,
+      "mal_id": 32686,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "DREAM×SCRAMBLE!",
+          "artiste": "AiRI",
+          "lien": "https://nl.catbox.moe/or2oyh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Fantas/HIP Girlfriends!",
+          "artiste": "Lynn, M・A・O, Kaede Hondo, Saori Oonishi",
+          "lien": "https://nl.catbox.moe/n1rln6.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Keishichou Tokumu-bu Tokushu Kyouaku-han Taisaku-Shitsu Dai-Nana-ka: Tokunana",
+      "id": 0,
+      "mal_id": 39567,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Take On Fever",
+          "artiste": "OLDCODEX",
+          "lien": "https://nl.catbox.moe/r6nwvd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "One Wish",
+          "artiste": "SCREEN mode",
+          "lien": "https://nl.catbox.moe/tlthu8.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Kemurikusa",
+      "id": 0,
+      "mal_id": 37302,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "KEMURIKUSA",
+          "artiste": "nano",
+          "lien": "https://nl.catbox.moe/1l05ao.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "INDETERMINATE UNIVERSE",
+          "artiste": "Yuuyu feat. Kemurikusa",
+          "lien": "https://nl.catbox.moe/iorgsd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "INDETERMINATE UNIVERSE",
+          "artiste": "Yuuyu feat. Kemurikusa & Mikako Komatsu, Tomomi Jiena Sumi, Arisa Kiyoto",
+          "lien": "https://nl.catbox.moe/jvdd0p.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -14295,6 +14733,39 @@
       }
     },
     {
+      "nom": "Kiseijuu: Sei no Kakuritsu",
+      "id": 0,
+      "mal_id": 22535,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Let Me Hear",
+          "artiste": "Fear, and Loathing in Las Vegas",
+          "lien": "https://nl.catbox.moe/spq586.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "IT'S THE RIGHT TIME",
+          "artiste": "Daichi Miura",
+          "lien": "https://nl.catbox.moe/yc1csc.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Knight's & Magic",
       "id": 0,
       "mal_id": 34104,
@@ -14586,6 +15057,88 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Kokoro ga Sakebitagatterun Da.",
+      "id": 0,
+      "mal_id": 28725,
+      "nb_musique": 9,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ima, Hanashitai Dare ka ga Iru",
+          "artiste": "Nogizaka46",
+          "lien": "https://nl.catbox.moe/x50wqg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Akogare no Butoukai",
+          "artiste": "Sora Amamiya & Haruki Ishiya",
+          "lien": "https://nl.catbox.moe/epif3e.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Harmonia",
+          "artiste": "kotringo",
+          "lien": "https://nl.catbox.moe/z41dig.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hikari no Nai Heya",
+          "artiste": "Sora Amamiya feat. Shizuka Ishigami & Rie Takahashi",
+          "lien": "https://nl.catbox.moe/idcj9x.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kokoro ga Sakebidasu ~ Anata no Namae Yobu yo",
+          "artiste": "Kokoro ga Sakebitagatterunda. Cast",
+          "lien": "https://nl.catbox.moe/atoxiy.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Moeagare",
+          "artiste": "Kouhei Amasaki, Makoto Furukawa, Ai Kakuma, Takanori Ooyama, Ayaka Suwa",
+          "lien": "https://nl.catbox.moe/uxi00l.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Over The Rainbow",
+          "artiste": "Natsumi Kiyoura (TWEEDEES)",
+          "lien": "https://nl.catbox.moe/qq10l0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tamago no Naka ni wa Nani ga Aru",
+          "artiste": "Kouki Uchiyama",
+          "lien": "https://nl.catbox.moe/xik1gz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Watashi no Koe",
+          "artiste": "Inori Minase",
+          "lien": "https://nl.catbox.moe/tmk75y.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -15269,6 +15822,32 @@
       }
     },
     {
+      "nom": "Kumo no Mukou, Yakusoku no Basho",
+      "id": 0,
+      "mal_id": 433,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimi no Koe",
+          "artiste": "♡",
+          "lien": "https://nl.catbox.moe/oxapew.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Kunoichi Tsubaki no Mune no Uchi",
       "id": 0,
       "mal_id": 50338,
@@ -15433,6 +16012,114 @@
       }
     },
     {
+      "nom": "Kurokami The Animation",
+      "id": 0,
+      "mal_id": 5079,
+      "nb_musique": 8,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "sympathizer",
+          "artiste": "Minami Kuribayashi",
+          "lien": "https://openings.moe/video/Kurokami-OP01a-NCBD.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "tRANCE",
+          "artiste": "GRANRODEO",
+          "lien": "https://nl.catbox.moe/3ctdgh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Irodori no Nai Sekai",
+          "artiste": "Yousei Teikoku",
+          "lien": "https://openings.moe/video/Kurokami-ED01a-NCBD.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Gekkou no Chigiri",
+          "artiste": "Yousei Teikoku",
+          "lien": "https://openings.moe/video/Kurokami-ED02a-NCBD.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Destrudo",
+          "artiste": "Yousei Teikoku",
+          "lien": "https://nl.catbox.moe/r8chhd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "EXPLODE WITH THE RAGE",
+          "artiste": "Stuart-O",
+          "lien": "https://nl.catbox.moe/efmzgn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "It Is Time Now!",
+          "artiste": "Maki Itou",
+          "lien": "https://nl.catbox.moe/ubv9xv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "LOVE IS -Seasons of fights-",
+          "artiste": "Maki Itou",
+          "lien": "https://nl.catbox.moe/3n86b1.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Kuutei Dragons",
+      "id": 0,
+      "mal_id": 39531,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Gunjou",
+          "artiste": "Yoh Kamiyama",
+          "lien": "https://nl.catbox.moe/ysvycs.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Zettai Reido",
+          "artiste": "Akai Ko-en",
+          "lien": "https://nl.catbox.moe/0sf7f7.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Kuzu no Honkai",
       "id": 0,
       "mal_id": 32949,
@@ -15484,6 +16171,86 @@
           "V": 1,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Kyokou Suiri",
+      "id": 0,
+      "mal_id": 39017,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Mononoke in the Fiction",
+          "artiste": "Uso to Chameleon",
+          "lien": "https://nl.catbox.moe/5kho3h.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "LAST DANCE",
+          "artiste": "Mamoru Miyano",
+          "lien": "https://nl.catbox.moe/azll8p.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kaen Housha-ki to Watashi",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.moe/n2xsp9.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Kyoukai no Kanata",
+      "id": 0,
+      "mal_id": 18153,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kyoukai no Kanata",
+          "artiste": "Minori Chihara",
+          "lien": "https://nl.catbox.moe/917i9b.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Daisy",
+          "artiste": "STEREO DIVE FOUNDATION",
+          "lien": "https://nl.catbox.moe/jqdrtp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yakusoku no Kizuna",
+          "artiste": "Risa Taneda, Minori Chihara, Yuri Yamaoka",
+          "lien": "https://nl.catbox.moe/xot8ff.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

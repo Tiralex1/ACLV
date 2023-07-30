@@ -1,6 +1,6 @@
 {
-  "nb_anime": 600,
-  "nb_musique": 2814,
+  "nb_anime": 605,
+  "nb_musique": 2827,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -15267,6 +15267,39 @@
       }
     },
     {
+      "nom": "Level 1 dakedo Unique Skill de Saikyou desu",
+      "id": 0,
+      "mal_id": 51764,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Chase Me",
+          "artiste": "Nora from Konya, anomachikara",
+          "lien": "https://nl.catbox.moe/a7sa4q.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tambourine no Naru Oka",
+          "artiste": "Airi Miyakawa",
+          "lien": "https://nl.catbox.moe/j4tj9w.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 1,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Liar Liar",
       "id": 0,
       "mal_id": 48633,
@@ -15344,6 +15377,46 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Liz to Aoi Tori",
+      "id": 0,
+      "mal_id": 35677,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "girls,dance,staircase",
+          "artiste": "Yutaka Ono",
+          "lien": "https://nl.catbox.moe/0u8gu1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Songbirds",
+          "artiste": "Homecomings",
+          "lien": "https://nl.catbox.moe/53ge7c.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Liz to Aoi Tori",
+          "artiste": "Freshman Wind Ensemble",
+          "lien": "https://nl.catbox.moe/0etykm.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -15427,6 +15500,39 @@
       }
     },
     {
+      "nom": "Log Horizon: Entaku Houkai",
+      "id": 0,
+      "mal_id": 41109,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Different",
+          "artiste": "BAND-MAID",
+          "lien": "https://nl.catbox.moe/39bvmp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Blue Horizon",
+          "artiste": "Miyu Oshiro",
+          "lien": "https://nl.catbox.moe/qn3vg7.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "LoveCom",
       "id": 0,
       "mal_id": 2034,
@@ -15478,6 +15584,86 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Lv1 Maou to One Room Yuusha",
+      "id": 0,
+      "mal_id": 51458,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "One Room Adventure",
+          "artiste": "MADKID",
+          "lien": "https://nl.catbox.moe/2ewpf2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Mirai=Teleport",
+          "artiste": "Nenne",
+          "lien": "https://nl.catbox.moe/2to7ga.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Lycoris Recoil",
+      "id": 0,
+      "mal_id": 50709,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "ALIVE",
+          "artiste": "ClariS",
+          "lien": "https://nl.catbox.moe/ebkfx8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hana no Tou",
+          "artiste": "Sayuri",
+          "lien": "https://nl.catbox.moe/x734if.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "ALIVE LycoReco Version",
+          "artiste": "ClariS",
+          "lien": "https://nl.catbox.moe/hyqikk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ukiyo Douchuu",
+          "artiste": "Sachiko Watabe",
+          "lien": "https://nl.catbox.moe/a0tzyr.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

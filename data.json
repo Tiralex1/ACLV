@@ -1,6 +1,6 @@
 {
-  "nb_anime": 660,
-  "nb_musique": 3065,
+  "nb_anime": 666,
+  "nb_musique": 3113,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -6600,6 +6600,60 @@
       }
     },
     {
+      "nom": "Dororo",
+      "id": 0,
+      "mal_id": 37520,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kaen",
+          "artiste": "Ziyoou-vachi",
+          "lien": "https://nl.catbox.moe/nguams.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Dororo",
+          "artiste": "ASIAN KUNG-FU GENERATION",
+          "lien": "https://nl.catbox.moe/s6ri20.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sayonara Gokko",
+          "artiste": "amazarashi",
+          "lien": "https://nl.catbox.moe/hjw4hu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Yamiyo",
+          "artiste": "Eve",
+          "lien": "https://nl.catbox.moe/12t1uz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Akai Hana Shiroi Hana",
+          "artiste": "Nana Mizuki",
+          "lien": "https://nl.catbox.moe/t7zgeg.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Dr. Stone",
       "id": 0,
       "mal_id": 38691,
@@ -7421,6 +7475,198 @@
           "V": 1,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Fairy Gone",
+      "id": 0,
+      "mal_id": 39063,
+      "nb_musique": 13,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "KNOCK on the CORE",
+          "artiste": "(K)NoW_NAME:Ayaka Tachibana & AIJ",
+          "lien": "https://nl.catbox.moe/dacv4e.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ash-like Snow",
+          "artiste": "(K)NoW_NAME:NIKIIE",
+          "lien": "https://nl.catbox.moe/90ezsl.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Backtrack",
+          "artiste": "(K)NoW_NAME:AIJ",
+          "lien": "https://nl.catbox.moe/v5swuq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "blowball",
+          "artiste": "(K)NoW_NAME:NIKIIE",
+          "lien": "https://nl.catbox.moe/kdxr1l.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Catastrophe",
+          "artiste": "(K)NoW_NAME:AIJ",
+          "lien": "https://nl.catbox.moe/c1z7dq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Dandelion",
+          "artiste": "(K)NoW_NAME:Ayaka Tachibana",
+          "lien": "https://nl.catbox.moe/sx03wi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Danse Dance",
+          "artiste": "(K)NoW_NAME:NIKIIE",
+          "lien": "https://nl.catbox.moe/1gbwgr.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Echoes",
+          "artiste": "(K)NoW_NAME:Ayaka Tachibana",
+          "lien": "https://nl.catbox.moe/ntxjcc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Forest Gleam",
+          "artiste": "(K)NoW_NAME:NIKIIE",
+          "lien": "https://nl.catbox.moe/27rmfq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Gravitational Collapse",
+          "artiste": "(K)NoW_NAME:AIJ",
+          "lien": "https://nl.catbox.moe/pomdl6.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hertzsprung gap",
+          "artiste": "(K)NoW_NAME:Ayaka Tachibana & NIKIIE",
+          "lien": "https://nl.catbox.moe/yqwruc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Rodeo",
+          "artiste": "(K)NoW_NAME:AIJ",
+          "lien": "https://nl.catbox.moe/g24s35.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Stampede",
+          "artiste": "(K)NoW_NAME:AIJ",
+          "lien": "https://nl.catbox.moe/4qf42x.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Fairy Gone",
+      "id": 1,
+      "mal_id": 39811,
+      "nb_musique": 9,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "STILL STANDING",
+          "artiste": "(K)NoW_NAME:Ayaka Tachibana & NIKIIE & AIJ",
+          "lien": "https://nl.catbox.moe/b48abm.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Stay Gold",
+          "artiste": "(K)NoW_NAME:Ayaka Tachibana",
+          "lien": "https://nl.catbox.moe/wbutpd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bring the light",
+          "artiste": "(K)NoW_NAME:AIJ",
+          "lien": "https://nl.catbox.moe/2lyzj0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Everlast...",
+          "artiste": "(K)NoW_NAME:NIKIIE & AIJ",
+          "lien": "https://nl.catbox.moe/uq2nsj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Flicker",
+          "artiste": "(K)NoW_NAME:Ayaka Tachibana",
+          "lien": "https://nl.catbox.moe/ay9lzw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "GAME",
+          "artiste": "(K)NoW_NAME:Ayaka Tachibana",
+          "lien": "https://nl.catbox.moe/z7219z.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Halo",
+          "artiste": "(K)NoW_NAME:AIJ",
+          "lien": "https://nl.catbox.moe/h8webb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "KNOCK on the CORE",
+          "artiste": "(K)NoW_NAME:Ayaka Tachibana & AIJ",
+          "lien": "https://nl.catbox.moe/posp35.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Red dog chases",
+          "artiste": "(K)NoW_NAME:NIKIIE",
+          "lien": "https://nl.catbox.moe/4vv2lx.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -8957,6 +9203,39 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Gekijouban Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka: Orion no Ya",
+      "id": 0,
+      "mal_id": 37348,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Onaji Sora no Shita de",
+          "artiste": "Yuka Iguchi",
+          "lien": "https://nl.catbox.moe/rdzawc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Gekkyou",
+          "artiste": "sana (sajou no hana)",
+          "lien": "https://nl.catbox.moe/8jk4vl.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {
@@ -10512,6 +10791,177 @@
       ],
       "genres": [
           0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Hagane no Renkinjutsushi",
+      "id": 0,
+      "mal_id": 121,
+      "nb_musique": 9,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Melissa",
+          "artiste": "Porno Graffitti",
+          "lien": "https://nl.catbox.moe/x4cvb9.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "READY STEADY GO",
+          "artiste": "L'Arc~en~Ciel",
+          "lien": "https://nl.catbox.moe/68l30h.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "UNDO",
+          "artiste": "Cool Joke",
+          "lien": "https://nl.catbox.moe/3p6nw2.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 4,
+          "nom": "Rewrite",
+          "artiste": "ASIAN KUNG-FU GENERATION",
+          "lien": "https://nl.catbox.moe/8o44b1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kesenai Tsumi",
+          "artiste": "Nana Kitade",
+          "lien": "https://nl.catbox.moe/h0ik4g.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Tobira no Mukou e",
+          "artiste": "YeLLOW Generation",
+          "lien": "https://nl.catbox.moe/tl12fo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Motherland",
+          "artiste": "Crystal Kay",
+          "lien": "https://nl.catbox.moe/zmq1ei.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "I Will",
+          "artiste": "Sowelu",
+          "lien": "https://nl.catbox.moe/7oozbt.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bratjya",
+          "artiste": "VERA (BEPA)",
+          "lien": "https://nl.catbox.moe/7rcv3r.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Hagane no Renkinjutsushi: Brotherhood",
+      "id": 0,
+      "mal_id": 5114,
+      "nb_musique": 10,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "again",
+          "artiste": "YUI",
+          "lien": "https://nl.catbox.moe/0rxibv.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Hologram",
+          "artiste": "NICO Touches the Walls",
+          "lien": "https://nl.catbox.moe/sieuy4.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "Golden Time Lover",
+          "artiste": "Sukima Switch",
+          "lien": "https://nl.catbox.moe/omqfay.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 4,
+          "nom": "Period",
+          "artiste": "CHEMISTRY",
+          "lien": "https://nl.catbox.moe/rajrns.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 5,
+          "nom": "Rain",
+          "artiste": "SID",
+          "lien": "https://nl.catbox.moe/lasmre.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Uso",
+          "artiste": "SID",
+          "lien": "https://nl.catbox.moe/h1m5i4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "LET IT OUT",
+          "artiste": "Miho Fukuhara",
+          "lien": "https://nl.catbox.moe/rqmy2i.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Tsunaida Te",
+          "artiste": "Lil'B",
+          "lien": "https://nl.catbox.moe/d4hxpx.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Shunkan Sentimental",
+          "artiste": "SCANDAL",
+          "lien": "https://nl.catbox.moe/0wfahg.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "RAY OF LIGHT",
+          "artiste": "Shoko Nakagawa",
+          "lien": "https://nl.catbox.moe/7y1300.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ],
       "users": {
           "A": 0,

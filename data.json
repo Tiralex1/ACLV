@@ -1,6 +1,6 @@
 {
-  "nb_anime": 579,
-  "nb_musique": 2713,
+  "nb_anime": 584,
+  "nb_musique": 2761,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10346,6 +10346,319 @@
       }
     },
     {
+      "nom": "Initial D",
+      "id": 0,
+      "mal_id": 185,
+      "nb_musique": 42,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "around the world",
+          "artiste": "move",
+          "lien": "https://nl.catbox.moe/ghd6r2.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "BREAK IN 2 THE NITE",
+          "artiste": "move",
+          "lien": "https://nl.catbox.moe/revmaz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Rage your dream",
+          "artiste": "m.o.v.e",
+          "lien": "https://nl.catbox.moe/w03rxl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kiseki no Hana",
+          "artiste": "Galla",
+          "lien": "https://nl.catbox.moe/uo2qzv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "BACK ON THE ROCKS",
+          "artiste": "MEGA NRG MAN",
+          "lien": "https://nl.catbox.moe/jxptow.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "BE MY BABE",
+          "artiste": "JILLY",
+          "lien": "https://nl.catbox.moe/7z30y7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "BEAT OF THE RISING SUN",
+          "artiste": "DAVE RODGERS",
+          "lien": "https://nl.catbox.moe/5qcm9e.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "BLACK OUT",
+          "artiste": "OVERLOAD",
+          "lien": "https://nl.catbox.moe/740cbh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "BOOM BOOM JAPAN",
+          "artiste": "DAVE RODGERS",
+          "lien": "https://nl.catbox.moe/64grvd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "BURNING UP FOR YOU",
+          "artiste": "SARA",
+          "lien": "https://nl.catbox.moe/z6vetl.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bust the future wall",
+          "artiste": "move",
+          "lien": "https://nl.catbox.moe/q8wgvp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "DANCE AROUND THE WORLD",
+          "artiste": "DELTA QUEENS",
+          "lien": "https://nl.catbox.moe/tnauns.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "DANCING",
+          "artiste": "VICKY VALE",
+          "lien": "https://nl.catbox.moe/f5f7ni.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "DANCING QUEEN",
+          "artiste": "KING & QUEEN",
+          "lien": "https://nl.catbox.moe/38vj03.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "DON'T STAND SO CLOSE",
+          "artiste": "DR.LOVE",
+          "lien": "https://nl.catbox.moe/7u050b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "DON'T STOP THE MUSIC",
+          "artiste": "LOU GRANT",
+          "lien": "https://nl.catbox.moe/ffejda.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "EVERY BODY'S WARMING",
+          "artiste": "TENSION",
+          "lien": "https://nl.catbox.moe/j7pq33.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "GET ME POWER",
+          "artiste": "MEGA NRG MAN",
+          "lien": "https://nl.catbox.moe/0ngo7a.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "HEARTBEAT",
+          "artiste": "NATHALIE",
+          "lien": "https://nl.catbox.moe/3g9rdm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "I NEED YOUR LOVE",
+          "artiste": "DAVE SIMON",
+          "lien": "https://nl.catbox.moe/8toe03.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "LONELY LOVE",
+          "artiste": "SOPHIE",
+          "lien": "https://nl.catbox.moe/c2cy5o.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "LOST INTO THE NIGHT",
+          "artiste": "ELISA",
+          "lien": "https://nl.catbox.moe/fadiua.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "LOVE & MONEY",
+          "artiste": "ZA-ZA",
+          "lien": "https://nl.catbox.moe/ewzoff.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "LOVE IS IN DANGER",
+          "artiste": "PRISCILLA",
+          "lien": "https://nl.catbox.moe/8gmebz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "MAYBE TONITE",
+          "artiste": "NORMA SHEFFIELD",
+          "lien": "https://nl.catbox.moe/7axtaa.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "MY ONLY STAR",
+          "artiste": "SUSAN BELL",
+          "lien": "https://nl.catbox.moe/swgy07.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "NIGHT & DAY",
+          "artiste": "MR.GROOVE",
+          "lien": "https://nl.catbox.moe/jfqixi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "NIGHT FEVER",
+          "artiste": "DAVE RODGERS & MEGA NRG MAN",
+          "lien": "https://nl.catbox.moe/qbk0dj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "NIGHT OF FIRE",
+          "artiste": "NIKO",
+          "lien": "https://nl.catbox.moe/pjbxlm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "NO ONE SLEEP IN TOKYO",
+          "artiste": "EDO BOYS",
+          "lien": "https://nl.catbox.moe/z5cbfh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "over drive",
+          "artiste": "move",
+          "lien": "https://nl.catbox.moe/rohyj4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "past days ~ reminiscence",
+          "artiste": "move",
+          "lien": "https://nl.catbox.moe/1xtf3v.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "REMEMBER ME",
+          "artiste": "LESLIE PARRISH",
+          "lien": "https://nl.catbox.moe/hepvsi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "ROCK IT DOWN",
+          "artiste": "move",
+          "lien": "https://nl.catbox.moe/28009a.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "RUNNING IN THE '90S",
+          "artiste": "MAX COVERI",
+          "lien": "https://nl.catbox.moe/aejz3k.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "SATURDAY NIGHT FEVER",
+          "artiste": "DAVE RODGERS",
+          "lien": "https://nl.catbox.moe/b7m65h.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "See you, my best love",
+          "artiste": "move",
+          "lien": "https://nl.catbox.moe/rr4f4p.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "SPACE BOY",
+          "artiste": "DAVE RODGERS",
+          "lien": "https://nl.catbox.moe/p22rs7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "STAY",
+          "artiste": "VICTORIA",
+          "lien": "https://nl.catbox.moe/lvovtw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "take me higher",
+          "artiste": "move",
+          "lien": "https://nl.catbox.moe/ib3vfm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Wanna fly to be wild",
+          "artiste": "move",
+          "lien": "https://nl.catbox.moe/99oxh4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "WINGS OF FIRE",
+          "artiste": "Michiko Neya & Yumi Kakazu",
+          "lien": "https://nl.catbox.moe/jz2at1.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Isekai Cheat Magician",
       "id": 0,
       "mal_id": 37744,
@@ -16291,6 +16604,32 @@
       }
     },
     {
+      "nom": "Mushishi",
+      "id": 0,
+      "mal_id": 457,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "The Sore Feet Song",
+          "artiste": "Ally Kerr",
+          "lien": "https://nl.catbox.moe/hi322l.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
       "id": 0,
       "mal_id": 55818,
@@ -16418,6 +16757,39 @@
       }
     },
     {
+      "nom": "My Home Hero",
+      "id": 0,
+      "mal_id": 52092,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Ai no Uta",
+          "artiste": "Chiai Fujikawa",
+          "lien": "https://nl.catbox.moe/0e8zk6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Decided",
+          "artiste": "Dizzy Sunfist",
+          "lien": "https://nl.catbox.moe/06l53i.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
       "nom": "Nakitai Watashi wa Neko o Kaburu",
       "id": 0,
       "mal_id": 41168,
@@ -16455,6 +16827,65 @@
           "V": 1,
           "T": 1,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Nanatsu no Bitoku",
+      "id": 0,
+      "mal_id": 36847,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Psychomachia",
+          "artiste": "Yousei Teikoku",
+          "lien": "https://nl.catbox.moe/6cszfn.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Nanatsu no Maken ga Shihai Suru",
+      "id": 0,
+      "mal_id": 50582,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kenka",
+          "artiste": "Yumemi Kujira feat. Mimizuku & Fukurou",
+          "lien": "https://nl.catbox.moe/1fynov.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Aim",
+          "artiste": "Yumemi Kujira feat. Tsumugi Shachi (from Kiminone)",
+          "lien": "https://nl.catbox.moe/grbxxf.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

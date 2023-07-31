@@ -1,6 +1,6 @@
 {
-  "nb_anime": 697,
-  "nb_musique": 3213,
+  "nb_anime": 698,
+  "nb_musique": 3216,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -18952,6 +18952,46 @@
           "A": 0,
           "C": 0,
           "L": 1,
+          "V": 0,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
+      "nom": "Kubo-san wa Mob o Yurusanai",
+      "id": 0,
+      "mal_id": 51815,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Dramatic ja Nakute mo",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.moe/15pc68.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kasuka de Tashika",
+          "artiste": "DIALOGUE+",
+          "lien": "https://nl.catbox.moe/ss5zvc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Futari ni Shukufuku o",
+          "artiste": "Mion Yano",
+          "lien": "https://nl.catbox.moe/kb0o2a.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 1,
+          "L": 0,
           "V": 0,
           "T": 0,
           "Q": 0

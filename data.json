@@ -1,6 +1,6 @@
 {
-  "nb_anime": 698,
-  "nb_musique": 3216,
+  "nb_anime": 700,
+  "nb_musique": 3238,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1720,6 +1720,39 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
+      }
+    },
+    {
+      "nom": "Ashita Sekai ga Owaru Toshitemo",
+      "id": 0,
+      "mal_id": 38464,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ashita Sekai ga Owaru Toshitemo",
+          "artiste": "Aimyon",
+          "lien": "https://nl.catbox.moe/90x8f6.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ra, no Hanashi",
+          "artiste": "Aimyon",
+          "lien": "https://nl.catbox.moe/pyh7ln.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
       ],
       "users": {
           "A": 0,
@@ -4956,6 +4989,165 @@
           "V": 0,
           "T": 0,
           "Q": 0
+      }
+    },
+    {
+      "nom": "Cyberpunk: Edgerunners",
+      "id": 0,
+      "mal_id": 42310,
+      "nb_musique": 20,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "This Fffire",
+          "artiste": "FRANZ FERDINAND",
+          "lien": "https://nl.catbox.moe/1mzq2e.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "LET YOU DOWN",
+          "artiste": "DAWID PODSIADŁO",
+          "lien": "https://nl.catbox.moe/ug94l3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "ACID BREATHER",
+          "artiste": "MASTIFF",
+          "lien": "https://nl.catbox.moe/ketgyy.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "DOM",
+          "artiste": "ZJEDNOCZENIE SOUNDSYSTEM FEAT. DAMIAN SYJONFAM",
+          "lien": "https://nl.catbox.moe/vl7mtu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "FRIDAY NIGHT FIRE FIGHT",
+          "artiste": "ALIGNS",
+          "lien": "https://nl.catbox.moe/pxz21g.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "HEALTH",
+          "artiste": "MAJOR CRIMES",
+          "lien": "https://nl.catbox.moe/53p67a.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "HISTORY",
+          "artiste": "GAZELLE TWIN",
+          "lien": "https://nl.catbox.moe/qsyk3a.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "I REALLY WANT TO STAY AT YOUR HOUSE",
+          "artiste": "ROSA WALTON (LETS EAT GRANDMA)",
+          "lien": "https://nl.catbox.moe/u0nn59.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "I WILL FOLLOW",
+          "artiste": "SNOT ABUNDANCE",
+          "lien": "https://nl.catbox.moe/acx1fn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "JUST WINE (P.A.F.F. REMIX)",
+          "artiste": "DIEGO CICHY DON FEAT. P.A.F.F.",
+          "lien": "https://nl.catbox.moe/y4vmxc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "KEVIN",
+          "artiste": "ANTIGAMA",
+          "lien": "https://nl.catbox.moe/g6kpoo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "LITTLE STRANGER",
+          "artiste": "DAWID PODSIADŁO",
+          "lien": "https://nl.catbox.moe/05fxkn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "NIE PYTAJ NAS",
+          "artiste": "ZJEDNOCZENIE SOUNDSYSTEM",
+          "lien": "https://nl.catbox.moe/vhynyb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "NIEWAŻNE",
+          "artiste": "DIEGO CICHY DON FEAT. MARTYNA BARANOWSKA",
+          "lien": "https://nl.catbox.moe/kidlr9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "NIGHT CITY ALIENS",
+          "artiste": "THE ARMED",
+          "lien": "https://nl.catbox.moe/h1lcjc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "OUTRO",
+          "artiste": "ZJEDNOCZENIE SOUNDSYSTEM",
+          "lien": "https://nl.catbox.moe/g28bx4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "SIŁA MIKROFONU",
+          "artiste": "ZJEDNOCZENIE SOUNDSYSTEM FEAT. KING GENERAL",
+          "lien": "https://nl.catbox.moe/pw8mlp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "SUSTAIN/DECAY",
+          "artiste": "PIOTR MACIEJEWSKI / DRIVEALONE",
+          "lien": "https://nl.catbox.moe/ac9dck.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "WHERE DID YOUR LOVE GO",
+          "artiste": "DAWID PODSIADŁO",
+          "lien": "https://nl.catbox.moe/tr1n5y.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "WHO'S READY FOR TOMORROW",
+          "artiste": "RAT BOY",
+          "lien": "https://nl.catbox.moe/jknhda.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 1
       }
     },
     {

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 700,
-  "nb_musique": 3238,
+  "nb_anime": 701,
+  "nb_musique": 3246,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -305,6 +305,81 @@
           "V": 0,
           "T": 0,
           "Q": 1
+      }
+    },
+    {
+      "nom": "3-gatsu no Lion",
+      "id": 0,
+      "mal_id": 31646,
+      "nb_musique": 8,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Answer",
+          "artiste": "BUMP OF CHICKEN",
+          "lien": "https://nl.catbox.moe/wcxc8n.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Sayonara Bystander",
+          "artiste": "YUKI",
+          "lien": "https://nl.catbox.moe/v8ae9w.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Fighter",
+          "artiste": "BUMP OF CHICKEN",
+          "lien": "https://nl.catbox.moe/f1ye43.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Nyaa Shougi Ondo",
+          "artiste": "Kana Hanazawa, Ai Kayano, Misaki Kuno",
+          "lien": "https://nl.catbox.moe/odsinq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "orion",
+          "artiste": "Kenshi Yonezu",
+          "lien": "https://nl.catbox.moe/o6yb4b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "En Fermant les Yeux",
+          "artiste": "Nathalie Roudet",
+          "lien": "https://nl.catbox.moe/1529x7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Nyaa Shougi Ondo",
+          "artiste": "Kana Hanazawa, Ai Kayano, Misaki Kuno",
+          "lien": "https://nl.catbox.moe/gxgiax.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Utsusemi Shigure",
+          "artiste": "Sachiko Watabe",
+          "lien": "https://nl.catbox.moe/5i2ozk.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 0,
+          "Q": 0
       }
     },
     {

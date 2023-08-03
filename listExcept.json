@@ -1,6 +1,14 @@
 {
     "listExcept": [
         {
+            "songName": "Nyaa Shougi Ondo",
+            "artist": "Kana Hanazawa, Ai Kayano, Misaki Kuno",
+            "types": [
+                "ending 2",
+                "insert song"
+            ]
+        },
+        {
             "songName": "Daiji na Koto",
             "artist": "Quruli",
             "types": [

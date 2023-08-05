@@ -1355,67 +1355,6 @@
       }
     },
     {
-      "nom": "Ansatsu Kizoku",
-      "id": 0,
-      "mal_id": 47790,
-      "nb_musique": 6,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Dark seeks light",
-          "artiste": "Yui Ninomiya",
-          "lien": "https://nl.catbox.moe/efib5r.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "A Promise",
-          "artiste": "Aira Yuuki",
-          "lien": "https://nl.catbox.moe/o8nczb.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "A Promise",
-          "artiste": "Reina Ueda",
-          "lien": "https://nl.catbox.moe/hafstv.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Amai Yume",
-          "artiste": "Shino Shimoji",
-          "lien": "https://nl.catbox.moe/jxhd0t.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Dazzling",
-          "artiste": "Reina Ueda",
-          "lien": "https://nl.catbox.moe/uusq9c.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "For you",
-          "artiste": "Yuuki Takada",
-          "lien": "https://nl.catbox.moe/uv8vck.webm"
-        }
-      ],
-      "genres": [
-          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0
-      ],
-      "users": {
-          "A": 1,
-          "C": 0,
-          "L": 0,
-          "V": 0,
-          "T": 0,
-          "Q": 0
-      }
-    },
-    {
       "nom": "Ansatsu Kyoushitsu",
       "id": 0,
       "mal_id": 24833,
@@ -9272,86 +9211,6 @@
           "L": 0,
           "V": 0,
           "T": 0,
-          "Q": 0
-      }
-    },
-    {
-      "nom": "Kidou Senshi Gundam: Suisei no Majo",
-      "id": 0,
-      "mal_id": 49828,
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Shukufuku",
-          "artiste": "YOASOBI",
-          "lien": "https://nl.catbox.moe/5m0lxh.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Kimiyo Kedakakuare",
-          "artiste": "Shiyui",
-          "lien": "https://nl.catbox.moe/2nwjpp.webm"
-        }
-      ],
-      "genres": [
-          1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
-      ],
-      "users": {
-          "A": 0,
-          "C": 0,
-          "L": 0,
-          "V": 1,
-          "T": 1,
-          "Q": 0
-      }
-    },
-    {
-      "nom": "Kidou Senshi Gundam: Suisei no Majo",
-      "id": 1,
-      "mal_id": 53199,
-      "nb_musique": 4,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "slash",
-          "artiste": "yama",
-          "lien": "https://nl.catbox.moe/o0yvka.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Red:birthmark",
-          "artiste": "AiNA THE END",
-          "lien": "https://nl.catbox.moe/73ewcs.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Houseki no Hibi",
-          "artiste": "AiNA THE END",
-          "lien": "https://nl.catbox.moe/xwhj67.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 3,
-          "nom": "Shukufuku",
-          "artiste": "YOASOBI",
-          "lien": "https://nl.catbox.moe/9hd0k2.webm"
-        }
-      ],
-      "genres": [
-          1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
-      ],
-      "users": {
-          "A": 0,
-          "C": 0,
-          "L": 0,
-          "V": 1,
-          "T": 1,
           "Q": 0
       }
     },
@@ -17512,6 +17371,86 @@
           "L": 0,
           "V": 0,
           "T": 0,
+          "Q": 0
+      }
+    },
+    {
+      "nom": "Kidou Senshi Gundam: Suisei no Majo",
+      "id": 0,
+      "mal_id": 49828,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shukufuku",
+          "artiste": "YOASOBI",
+          "lien": "https://nl.catbox.moe/5m0lxh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimiyo Kedakakuare",
+          "artiste": "Shiyui",
+          "lien": "https://nl.catbox.moe/2nwjpp.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 1,
+          "Q": 0
+      }
+    },
+    {
+      "nom": "Kidou Senshi Gundam: Suisei no Majo",
+      "id": 1,
+      "mal_id": 53199,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "slash",
+          "artiste": "yama",
+          "lien": "https://nl.catbox.moe/o0yvka.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Red:birthmark",
+          "artiste": "AiNA THE END",
+          "lien": "https://nl.catbox.moe/73ewcs.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Houseki no Hibi",
+          "artiste": "AiNA THE END",
+          "lien": "https://nl.catbox.moe/xwhj67.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Shukufuku",
+          "artiste": "YOASOBI",
+          "lien": "https://nl.catbox.moe/9hd0k2.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 1,
+          "T": 1,
           "Q": 0
       }
     },
@@ -29242,6 +29181,67 @@
       "users": {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
+      "nom": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru",
+      "id": 0,
+      "mal_id": 47790,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Dark seeks light",
+          "artiste": "Yui Ninomiya",
+          "lien": "https://nl.catbox.moe/efib5r.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "A Promise",
+          "artiste": "Aira Yuuki",
+          "lien": "https://nl.catbox.moe/o8nczb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "A Promise",
+          "artiste": "Reina Ueda",
+          "lien": "https://nl.catbox.moe/hafstv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Amai Yume",
+          "artiste": "Shino Shimoji",
+          "lien": "https://nl.catbox.moe/jxhd0t.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Dazzling",
+          "artiste": "Reina Ueda",
+          "lien": "https://nl.catbox.moe/uusq9c.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "For you",
+          "artiste": "Yuuki Takada",
+          "lien": "https://nl.catbox.moe/uv8vck.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 1,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0,

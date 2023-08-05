@@ -169,14 +169,6 @@
             ]
         },
         {
-            "songName": "Shukufuku",
-            "artist": "YOASOBI",
-            "types": [
-                "opening 1",
-                "ending 3"
-            ]
-        },
-        {
             "songName": "Brand-new World",
             "artist": "Shiena Nishizawa",
             "types": [
@@ -294,6 +286,14 @@
             "types": [
                 "opening 1",
                 "ending 1"
+            ]
+        },
+        {
+            "songName": "Shukufuku",
+            "artist": "YOASOBI",
+            "types": [
+                "opening 1",
+                "ending 3"
             ]
         },
         {

@@ -21768,39 +21768,6 @@
       }
     },
     {
-      "nom": "MobSeka",
-      "id": 0,
-      "mal_id": 50461,
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Silent Minority",
-          "artiste": "Kashitaro Ito",
-          "lien": "https://nl.catbox.moe/v7l0l1.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "selfish",
-          "artiste": "Riko Azuna",
-          "lien": "https://nl.catbox.moe/ip12n5.webm"
-        }
-      ],
-      "genres": [
-          1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0
-      ],
-      "users": {
-          "A": 1,
-          "C": 0,
-          "L": 0,
-          "V": 0,
-          "T": 0,
-          "Q": 0
-      }
-    },
-    {
       "nom": "Momokuri",
       "id": 0,
       "mal_id": 30014,
@@ -25391,6 +25358,39 @@
       "users": {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
+      "nom": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+      "id": 0,
+      "mal_id": 50461,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Silent Minority",
+          "artiste": "Kashitaro Ito",
+          "lien": "https://nl.catbox.moe/v7l0l1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "selfish",
+          "artiste": "Riko Azuna",
+          "lien": "https://nl.catbox.moe/ip12n5.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 1,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0,

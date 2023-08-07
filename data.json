@@ -1,6 +1,6 @@
 {
-  "nb_anime": 701,
-  "nb_musique": 3246,
+  "nb_anime": 702,
+  "nb_musique": 3250,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -22180,6 +22180,39 @@
       }
     },
     {
+      "nom": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+      "id": 1,
+      "mal_id": 51179,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "spiral",
+          "artiste": "LONGMAN",
+          "lien": "https://nl.catbox.moe/l9yn0w.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Musubime",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://nl.catbox.moe/41wfrw.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
       "nom": "Mushoku Tensei: Isekai Ittara Honki Dasu",
       "id": 0,
       "mal_id": 39535,
@@ -24266,7 +24299,7 @@
       "nom": "One Piece",
       "id": 0,
       "mal_id": 21,
-      "nb_musique": 60,
+      "nb_musique": 61,
       "musique": [
         {
           "type": "Opening",
@@ -24568,6 +24601,13 @@
           "nom": "ADVENTURE WORLD",
           "artiste": "Delicatessen",
           "lien": "https://nl.catbox.moe/enckpq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 20,
+          "nom": "Raise",
+          "artiste": "Chilli Beans.",
+          "lien": "https://nl.catbox.moe/cmmodr.webm"
         },
         {
           "type": "Insert Song",
@@ -28270,7 +28310,7 @@
       "nom": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
       "id": 0,
       "mal_id": 54760,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -28285,6 +28325,13 @@
           "nom": "Arrow",
           "artiste": "Awkmiu",
           "lien": "https://nl.catbox.moe/vb7pzh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Atarashii Yuuki",
+          "artiste": "Hitomi Owada",
+          "lien": "https://nl.catbox.moe/xflnwt.webm"
         },
         {
           "type": "Insert Song",

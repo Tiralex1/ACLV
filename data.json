@@ -16660,6 +16660,13 @@
           "lien": "https://nl.catbox.moe/juazyf.webm"
         },
         {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ienai",
+          "artiste": "MIMiNARI feat. asmi",
+          "lien": "https://nl.catbox.moe/qs7b8x.webm"
+        },
+        {
           "type": "Insert Song",
           "numero": 0,
           "nom": "DATE",
@@ -16672,13 +16679,6 @@
           "nom": "Favorite Lover",
           "artiste": "Aoi Yuuki, Sora Amamiya, Nao Touyama, Rie Takahashi",
           "lien": "https://nl.catbox.moe/ot2ajx.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Ienai",
-          "artiste": "MIMiNARI feat. asmi",
-          "lien": "https://nl.catbox.moe/qs7b8x.webm"
         },
         {
           "type": "Insert Song",

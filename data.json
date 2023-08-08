@@ -1,6 +1,6 @@
 {
   "nb_anime": 702,
-  "nb_musique": 3250,
+  "nb_musique": 3252,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -2856,7 +2856,7 @@
       "nom": "Blade Runner: Black Lotus",
       "id": 0,
       "mal_id": 38749,
-      "nb_musique": 13,
+      "nb_musique": 15,
       "musique": [
         {
           "type": "Opening",
@@ -2948,6 +2948,20 @@
           "nom": "Perfect Weapon",
           "artiste": "070 Shake",
           "lien": "https://nl.catbox.moe/f1fex9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bye Bye Love",
+          "artiste": "Alessia Cara",
+          "lien": "https://nl.catbox.moe/qxgs3m.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Last Goodbye",
+          "artiste": "Alessia Cara",
+          "lien": "https://nl.catbox.moe/4o7pvw.webm"
         }
       ],
       "genres": [

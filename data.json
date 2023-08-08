@@ -1,6 +1,6 @@
 {
-  "nb_anime": 702,
-  "nb_musique": 3252,
+  "nb_anime": 703,
+  "nb_musique": 3254,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -12861,6 +12861,39 @@
       "users": {
           "A": 0,
           "C": 1,
+          "L": 0,
+          "V": 0,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
+      "nom": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+      "id": 0,
+      "mal_id": 53438,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kyuuseishu",
+          "artiste": "Tsukuyomi",
+          "lien": "https://nl.catbox.moe/dmiyep.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "PRIDE",
+          "artiste": "ChoQMay",
+          "lien": "https://nl.catbox.moe/td75q4.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
           "L": 0,
           "V": 0,
           "T": 0,

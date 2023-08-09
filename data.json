@@ -1,6 +1,6 @@
 {
-  "nb_anime": 703,
-  "nb_musique": 3254,
+  "nb_anime": 704,
+  "nb_musique": 3258,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -34721,6 +34721,53 @@
           "C": 0,
           "L": 0,
           "V": 1,
+          "T": 0,
+          "Q": 0
+      }
+    },
+    {
+      "nom": "Uchuu Patrol Luluco",
+      "id": 0,
+      "mal_id": 32681,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "CRY Max Do Heijitsu",
+          "artiste": "Fujirokkyu (Kari)",
+          "lien": "https://nl.catbox.moe/zfb1v0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Pipo Password",
+          "artiste": "TeddyLoid feat. Bonjour Suzuki",
+          "lien": "https://openings.moe/video/UchuuPatrolLuluco-ED01-NCBD.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Pipo Password Luluco on SILENT PLANET Remix",
+          "artiste": "TeddyLoid feat. Bonjour Suzuki",
+          "lien": "https://nl.catbox.moe/r30pd9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Before my body is dry",
+          "artiste": "Mika Kobayashi & David Whitaker",
+          "lien": "https://nl.catbox.moe/f9mwfq.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
+      ],
+      "users": {
+          "A": 0,
+          "C": 0,
+          "L": 0,
+          "V": 0,
           "T": 0,
           "Q": 0
       }

@@ -1,6 +1,6 @@
 {
   "nb_anime": 704,
-  "nb_musique": 3258,
+  "nb_musique": 3259,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -11237,7 +11237,7 @@
       "nom": "Horimiya: Piece",
       "id": 0,
       "mal_id": 54856,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -11252,6 +11252,13 @@
           "nom": "URL",
           "artiste": "Ami Sakaguchi",
           "lien": "https://nl.catbox.moe/jgt3wd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Dokuro Ninja Konoha",
+          "artiste": "Reina Kondou & Jun Fukuyama",
+          "lien": "https://nl.catbox.moe/or15bz.webm"
         }
       ],
       "genres": [

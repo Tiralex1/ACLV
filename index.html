@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <title>AMQ ACLVTQ</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Parcourir les musiques sur les listes ACLVT présent sur AMQ.">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="index.css" />
+</head>
+<body>
+    <div class="header">
+        <div class="title">&nbsp;AMQ - ACLVTQ</div>
+        <div class="filtre">
+            &nbsp;Filtre :
+            <label for="name_anime"> | Anime : </label><input type="text" value="" id="name_anime" name="nom_anime"/>
+            <label for="type_music"> | Type : </label>
+            <select id="type_music">
+                <option value="">-</option>
+                <option value="Opening">Opening</option>
+                <option value="Ending">Ending</option>
+                <option value="Insert Song">Insert Song</option>
+            </select>
+            <label for="name_music"> | Musique : </label><input type="text" value="" id="name_music"/>
+            <label for="name_artist"> | Artiste(s) : </label><input type="text" value="" id="name_artist"/>
+            <label for="genres"> | Genres : </label>
+            <select id="genres">
+                <option value="">-</option>
+                <option value="0">Action</option>
+                <option value="1">Adventure</option>
+                <option value="2">Comedy</option>
+                <option value="3">Drama</option>
+                <option value="4">Ecchi</option>
+                <option value="5">Fantasy</option>
+                <option value="6">Horror</option>
+                <option value="7">Mahou Shoujo</option>
+                <option value="8">Mecha</option>
+                <option value="9">Music</option>
+                <option value="10">Mystery</option>
+                <option value="11">Psychological</option>
+                <option value="12">Romance</option>
+                <option value="13">Sci-Fi</option>
+                <option value="14">Slice of Life</option>
+                <option value="15">Sports</option>
+                <option value="16">Supernatural</option>
+                <option value="17">Thriller</option>
+            </select>
+            <label for="jointure"> | </label>
+            <select id="jointure">
+                <option value="Union">Union</option>
+                <option value="Intersection">Intersection</option>
+                <option value="Exact">Exact</option>
+            </select>
+            <label for="A"> | A </label><input value="1" type="checkbox" id="A" checked/>
+            <label for="C"> | C </label><input value="1" type="checkbox" id="C" checked/>
+            <label for="L"> | L </label><input value="1" type="checkbox" id="L" checked/>
+            <label for="V"> | V </label><input value="1" type="checkbox" id="V" checked/>
+            <label for="T"> | T </label><input value="1" type="checkbox" id="T" checked/>
+            <label for="Q"> | Q </label><input value="1" type="checkbox" id="Q" checked/>
+        </div>
+        <div>
+            &nbsp;Affichage Lien 
+            <label for="affich_lien1"></label><input type="radio" value="1" name="affich_lien" id="affich_lien1" checked />
+            <label for="affich_lien2"></label><input type="radio" value="2" name="affich_lien" id="affich_lien2" />
+            &nbsp;
+            <label for="lecture_auto">Lecture Automatique</label><input type="checkbox" value="1" id="lecture_auto">
+            |&nbsp;
+            <input type="button" value="Favori" id="favori"/>
+            <input type="button" value="S" id="save"/>
+            <input type="button" value="L" id="load"/>
+            |&nbsp;
+            <input type="button" value="ServeurCatbox : nl" id="AudioChangeServeur">
+        </div>
+    </div>
+    <script src="index.js" defer></script>
+</body>
+</html>

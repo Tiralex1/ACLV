@@ -1,6 +1,6 @@
 {
-  "nb_anime": 704,
-  "nb_musique": 3259,
+  "nb_anime": 705,
+  "nb_musique": 3261,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3136,6 +3136,31 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Boku no Kokoro no Yabai Yatsu",
+      "id": 0,
+      "mal_id": 52578,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shayou",
+          "artiste": "Yorushika",
+          "lien": "https://nl.catbox.moe/rc2fhu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Suu Sentimental",
+          "artiste": "Kohana Lam",
+          "lien": "https://nl.catbox.moe/05ghj0.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {

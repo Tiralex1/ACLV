@@ -1,6 +1,6 @@
 {
   "nb_anime": 705,
-  "nb_musique": 3261,
+  "nb_musique": 3262,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -27485,7 +27485,7 @@
       "nom": "Synduality: Noir",
       "id": 0,
       "mal_id": 53026,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -27500,6 +27500,13 @@
           "nom": "Eureka",
           "artiste": "ARCANA PROJECT",
           "lien": "https://nl.catbox.moe/q79581.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Genwaku Desire",
+          "artiste": "Nagisa Aoyama",
+          "lien": "https://nl.catbox.moe/tza7pg.webm"
         }
       ],
       "genres": [

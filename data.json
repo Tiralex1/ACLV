@@ -1,6 +1,6 @@
 {
-  "nb_anime": 705,
-  "nb_musique": 3262,
+  "nb_anime": 706,
+  "nb_musique": 3264,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -20571,6 +20571,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Okashi na Tensei",
+      "id": 0,
+      "mal_id": 52611,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Brand new day",
+          "artiste": "sana (sajou no hana)",
+          "lien": "https://nl.catbox.moe/obl9ag.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Fuumi Zekka",
+          "artiste": "YuNi",
+          "lien": "https://nl.catbox.moe/u0uyzs.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "nb_anime": 709,
-  "nb_musique": 3268,
+  "nb_musique": 3269,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -24170,7 +24170,7 @@
       "nom": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
       "id": 0,
       "mal_id": 54760,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -24199,6 +24199,13 @@
           "nom": "Atashi dake no Nani ka",
           "artiste": "Yuri Noguchi",
           "lien": "https://nl.catbox.moe/8078aj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bright Way",
+          "artiste": "Yuri Noguchi & Hitomi Owada",
+          "lien": "https://nl.catbox.moe/ehb3w7.webm"
         }
       ],
       "genres": [

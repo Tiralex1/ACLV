@@ -1,6 +1,6 @@
 {
-  "nb_anime": 707,
-  "nb_musique": 3265,
+  "nb_anime": 709,
+  "nb_musique": 3268,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -11486,6 +11486,24 @@
           "nom": "REASON",
           "artiste": "Yuzu",
           "lien": "https://nl.catbox.moe/3j20al.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Hunter x Hunter: The Last Mission",
+      "id": 0,
+      "mal_id": 19951,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hyouri Ittai",
+          "artiste": "Yuzu",
+          "lien": "https://nl.catbox.moe/3dco6f.webm"
         }
       ],
       "genres": [
@@ -25317,6 +25335,31 @@
       ],
       "genres": [
           1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Shingeki no Bahamut: Genesis",
+      "id": 0,
+      "mal_id": 21843,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "EXiSTENCE",
+          "artiste": "SiM",
+          "lien": "https://nl.catbox.moe/kd57ng.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Promised Land",
+          "artiste": "Risa Shimizu",
+          "lien": "https://nl.catbox.moe/mmglc9.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {

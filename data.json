@@ -1,6 +1,6 @@
 {
-  "nb_anime": 706,
-  "nb_musique": 3264,
+  "nb_anime": 707,
+  "nb_musique": 3265,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -11468,6 +11468,24 @@
           "nom": "Hyouri Ittai",
           "artiste": "Yuzu",
           "lien": "https://nl.catbox.moe/ca208v.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Hunter x Hunter: Phantom Rouge",
+      "id": 0,
+      "mal_id": 13271,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "REASON",
+          "artiste": "Yuzu",
+          "lien": "https://nl.catbox.moe/3j20al.webm"
         }
       ],
       "genres": [

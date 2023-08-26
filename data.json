@@ -1,6 +1,6 @@
 {
-  "nb_anime": 709,
-  "nb_musique": 3269,
+  "nb_anime": 710,
+  "nb_musique": 3272,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -8377,6 +8377,31 @@
       ]
     },
     {
+      "nom": "Gedo Senki",
+      "id": 0,
+      "mal_id": 1829,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Toki no Uta",
+          "artiste": "Aoi Teshima",
+          "lien": "https://nl.catbox.moe/opm8m8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Therru no Uta",
+          "artiste": "Aoi Teshima",
+          "lien": "https://nl.catbox.moe/b9dxj2.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Gekijouban Date A Live: Mayuri Judgement",
       "id": 0,
       "mal_id": 24655,
@@ -10727,7 +10752,7 @@
       "nom": "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto",
       "id": 0,
       "mal_id": 49692,
-      "nb_musique": 14,
+      "nb_musique": 15,
       "musique": [
         {
           "type": "Opening",
@@ -10798,6 +10823,13 @@
           "nom": "Hitsuyou Fukaketsu",
           "artiste": "LIP×LIP",
           "lien": "https://nl.catbox.moe/m7zr3p.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Judge☆",
+          "artiste": "LIP×LIP",
+          "lien": "https://nl.catbox.moe/5qexlu.webm"
         },
         {
           "type": "Insert Song",

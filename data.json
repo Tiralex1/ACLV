@@ -1,6 +1,6 @@
 {
   "nb_anime": 710,
-  "nb_musique": 3272,
+  "nb_musique": 3273,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -27610,7 +27610,7 @@
       "nom": "Synduality: Noir",
       "id": 0,
       "mal_id": 53026,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -27632,6 +27632,13 @@
           "nom": "Genwaku Desire",
           "artiste": "Nagisa Aoyama",
           "lien": "https://nl.catbox.moe/tza7pg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "YOU&(A)I",
+          "artiste": "Nagisa Aoyama",
+          "lien": "https://nl.catbox.moe/f03t29.webm"
         }
       ],
       "genres": [

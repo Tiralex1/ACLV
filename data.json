@@ -1,6 +1,6 @@
 {
   "nb_anime": 710,
-  "nb_musique": 3273,
+  "nb_musique": 3275,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -13190,7 +13190,7 @@
       "nom": "Jujutsu Kaisen",
       "id": 1,
       "mal_id": 51009,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -13200,11 +13200,25 @@
           "lien": "https://nl.catbox.moe/589lde.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "SPECIALZ",
+          "artiste": "King Gnu",
+          "lien": "https://nl.catbox.moe/ejyn5z.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Akari",
           "artiste": "Soushi Sakiyama",
           "lien": "https://nl.catbox.moe/whq5z2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "more than words",
+          "artiste": "Hitsujibungaku",
+          "lien": "https://nl.catbox.moe/qhu74k.webm"
         }
       ],
       "genres": [

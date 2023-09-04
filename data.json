@@ -1,6 +1,6 @@
 {
   "nb_anime": 710,
-  "nb_musique": 3275,
+  "nb_musique": 3278,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -14335,7 +14335,7 @@
       "nom": "Kanojo, Okarishimasu",
       "id": 2,
       "mal_id": 53050,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -14350,6 +14350,13 @@
           "nom": "Endroll",
           "artiste": "Amber's",
           "lien": "https://nl.catbox.moe/qzn8af.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Endroll (Ballad Version)",
+          "artiste": "Amber's",
+          "lien": "https://nl.catbox.moe/vd7s1l.webm"
         }
       ],
       "genres": [
@@ -18019,7 +18026,7 @@
       "nom": "Maou Gakuin no Futekigousha II",
       "id": 0,
       "mal_id": 48417,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -18034,6 +18041,13 @@
           "nom": "Esoa",
           "artiste": "Momosumomosu",
           "lien": "https://nl.catbox.moe/vmniax.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Esoa (Ballad ver.)",
+          "artiste": "Momosumomosu",
+          "lien": "https://nl.catbox.moe/lx10dw.webm"
         }
       ],
       "genres": [
@@ -20709,7 +20723,7 @@
       "nom": "One Piece",
       "id": 0,
       "mal_id": 21,
-      "nb_musique": 61,
+      "nb_musique": 62,
       "musique": [
         {
           "type": "Opening",
@@ -20878,6 +20892,13 @@
           "nom": "PAINT",
           "artiste": "I Don't Like Mondays.",
           "lien": "https://nl.catbox.moe/q29ldp.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 25,
+          "nom": "Saikou Toutatsu-ten",
+          "artiste": "SEKAI NO OWARI",
+          "lien": "https://nl.catbox.moe/7ub4ci.webm"
         },
         {
           "type": "Ending",
@@ -26460,7 +26481,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Hana Uta to Mawarimichi",
+          "nom": "Hanauta to Mawarimichi",
           "artiste": "Rikako Aida",
           "lien": "https://nl.catbox.moe/tac4vf.webm"
         }

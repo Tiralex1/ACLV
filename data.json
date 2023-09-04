@@ -1,6 +1,6 @@
 {
-  "nb_anime": 710,
-  "nb_musique": 3278,
+  "nb_anime": 711,
+  "nb_musique": 3280,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -17949,6 +17949,31 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Mamahaha no Tsurego ga Motokano Datta",
+      "id": 0,
+      "mal_id": 49470,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Deneb to Spica",
+          "artiste": "DIALOGUE+",
+          "lien": "https://nl.catbox.moe/srspvr.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Futari Pinocchio",
+          "artiste": "harmoe",
+          "lien": "https://nl.catbox.moe/bpx3dy.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {

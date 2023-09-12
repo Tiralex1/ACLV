@@ -1,6 +1,6 @@
 {
-  "nb_anime": 711,
-  "nb_musique": 3280,
+  "nb_anime": 714,
+  "nb_musique": 3292,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10507,6 +10507,45 @@
       ]
     },
     {
+      "nom": "Hanma Baki: Son of Ogre",
+      "id": 1,
+      "mal_id": 51318,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "The Beast",
+          "artiste": "Wagakki Band",
+          "lien": "https://nl.catbox.moe/k3liyg.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Sarracenia",
+          "artiste": "SKY-HI",
+          "lien": "https://nl.catbox.moe/3p3nmq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "WILDER",
+          "artiste": "UPSTART",
+          "lien": "https://nl.catbox.moe/6gvcev.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Salvia",
+          "artiste": "BE:FIRST",
+          "lien": "https://nl.catbox.moe/hyvh2e.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+      ]
+    },
+    {
       "nom": "Harmony",
       "id": 0,
       "mal_id": 28211,
@@ -17574,6 +17613,59 @@
       ],
       "genres": [
           1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+      ]
+    },
+    {
+      "nom": "Mahou Shoujo Site",
+      "id": 0,
+      "mal_id": 36266,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Changing point",
+          "artiste": "i☆Ris",
+          "lien": "https://nl.catbox.moe/knvfis.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Changing point",
+          "artiste": "Ryusei Nakao",
+          "lien": "https://nl.catbox.moe/khzme6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Zenzen Tomodachi",
+          "artiste": "Haruka Yamazaki",
+          "lien": "https://nl.catbox.moe/alui5p.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "...Watashi dake Mitete♡",
+          "artiste": "Yuu Serizawa",
+          "lien": "https://nl.catbox.moe/2ijzs8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Moshi Anata ga Kieyou tomo",
+          "artiste": "Yuuko Oono",
+          "lien": "https://nl.catbox.moe/mw79hl.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "O・Bo・E・Te・Te",
+          "artiste": "Yuu Serizawa",
+          "lien": "https://nl.catbox.moe/8wwo4f.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -29161,6 +29253,31 @@
           "nom": "Miracle Shopping ~Don Quijote no Theme~",
           "artiste": "Maimi Tanaka",
           "lien": "https://nl.catbox.moe/2ubcu3.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Tonikaku Kawaii",
+      "id": 1,
+      "mal_id": 50307,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Setsuna no Chikai (feat. Tsukasa Yuzaki)",
+          "artiste": "Neko Hacker feat. Akari Kitou",
+          "lien": "https://nl.catbox.moe/dzaeg2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yoru no Katasumi",
+          "artiste": "Akari Kitou",
+          "lien": "https://nl.catbox.moe/iuoddq.webm"
         }
       ],
       "genres": [

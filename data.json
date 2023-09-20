@@ -1,6 +1,6 @@
 {
-  "nb_anime": 714,
-  "nb_musique": 3292,
+  "nb_anime": 715,
+  "nb_musique": 3296,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1008,6 +1008,45 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Amaama to Inazuma",
+      "id": 0,
+      "mal_id": 32828,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Harebare Fanfare",
+          "artiste": "MimimemeMIMI",
+          "lien": "https://nl.catbox.moe/j498uk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Maybe",
+          "artiste": "Brian the Sun",
+          "lien": "https://nl.catbox.moe/i0o2i4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Magic Magigirl",
+          "artiste": "Rikako Yamaguchi",
+          "lien": "https://nl.catbox.moe/oybyqs.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Same no Uta",
+          "artiste": "Rina Endou",
+          "lien": "https://nl.catbox.moe/fzxknb.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {

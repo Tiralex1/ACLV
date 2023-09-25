@@ -1,6 +1,6 @@
 {
-  "nb_anime": 715,
-  "nb_musique": 3296,
+  "nb_anime": 718,
+  "nb_musique": 3314,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -2767,6 +2767,101 @@
       ],
       "genres": [
           1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Bocchi the Rock!",
+      "id": 0,
+      "mal_id": 47917,
+      "nb_musique": 12,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Seishun Complex",
+          "artiste": "Kessoku Band",
+          "lien": "https://nl.catbox.moe/frqozi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Distortion!!",
+          "artiste": "Kessoku Band",
+          "lien": "https://nl.catbox.moe/zka54p.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Karakara",
+          "artiste": "Kessoku Band",
+          "lien": "https://nl.catbox.moe/s11etb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Nani ga Warui",
+          "artiste": "Kessoku Band",
+          "lien": "https://nl.catbox.moe/781hw6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Korogaru Iwa, Kimi ni Asa ga Furu",
+          "artiste": "Kessoku Band",
+          "lien": "https://nl.catbox.moe/e97hs2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "8-gatsu o Yubiori Kazoeru Kimi to Machi de Deaeru Kakuritsu ni Tsuite",
+          "artiste": "Alexandism",
+          "lien": "https://nl.catbox.moe/mybh8f.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ano Band",
+          "artiste": "Kessoku Band",
+          "lien": "https://nl.catbox.moe/xqao00.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Dakishime Magic",
+          "artiste": "AKORINGO",
+          "lien": "https://nl.catbox.moe/epdqw3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Guitar to Kodoku to Aoi Hoshi",
+          "artiste": "Kessoku Band",
+          "lien": "https://nl.catbox.moe/fosmi3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Seiza ni Naretara",
+          "artiste": "Kessoku Band",
+          "lien": "https://nl.catbox.moe/jphrlp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Wasurete Yaranai",
+          "artiste": "Kessoku Band",
+          "lien": "https://nl.catbox.moe/2zdeya.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Watashi dake Yuurei",
+          "artiste": "SICK HACK",
+          "lien": "https://nl.catbox.moe/tivja0.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -6761,6 +6856,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Eiyuu Kyoushitsu",
+      "id": 0,
+      "mal_id": 49894,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Bravery? Naturally?",
+          "artiste": "Kaede Higuchi",
+          "lien": "https://nl.catbox.moe/ipx5td.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Another Self",
+          "artiste": "Akane Kumada",
+          "lien": "https://nl.catbox.moe/4rcyfw.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -22387,6 +22507,45 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Perfect Blue",
+      "id": 0,
+      "mal_id": 437,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Omoide ni Dakarete Ima wa",
+          "artiste": "MISA",
+          "lien": "https://nl.catbox.moe/ni1ssb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "SEASON",
+          "artiste": "M-VOICE",
+          "lien": "https://nl.catbox.moe/tc5ng8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ai no Tenshi",
+          "artiste": "MISA, Emiko Furukawa, Mie Shimizu",
+          "lien": "https://nl.catbox.moe/laa8kb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hitori demo Heiki",
+          "artiste": "Emiko Furukawa & Mie Shimizu",
+          "lien": "https://nl.catbox.moe/hdi6nu.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
       ]
     },
     {

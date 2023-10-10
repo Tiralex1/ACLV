@@ -1,6 +1,6 @@
 {
-  "nb_anime": 719,
-  "nb_musique": 3323,
+  "nb_anime": 720,
+  "nb_musique": 3324,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -713,7 +713,7 @@
           "numero": 0,
           "nom": "Otokomichi Matsuribana",
           "artiste": "TAKUMA",
-          "lien": "https://ladist1.catbox.video/benkj3.webm"
+          "lien": "https://nl.catbox.moe/benkj3.webm"
         }
       ],
       "genres": [
@@ -15635,7 +15635,7 @@
           "numero": 0,
           "nom": "Nantonaku Nantonaku",
           "artiste": "Seiichirou Yamashita, Konomi Tamura, Lynn, Natsumi Fujiwara, Sumire Morohoshi",
-          "lien": "https://ladist1.catbox.video/5va04z.webm"
+          "lien": "https://nl.catbox.moe/5va04z.webm"
         }
       ],
       "genres": [
@@ -19350,7 +19350,7 @@
           "numero": 2,
           "nom": "Beyond fate",
           "artiste": "Mizune Yano",
-          "lien": "https://ladist1.catbox.video/jiu3b1.webm"
+          "lien": "https://nl.catbox.moe/jiu3b1.webm"
         }
       ],
       "genres": [
@@ -27008,6 +27008,24 @@
       ]
     },
     {
+      "nom": "Sousou no Frieren",
+      "id": 0,
+      "mal_id": 52991,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "bliss",
+          "artiste": "milet",
+          "lien": "https://nl.catbox.moe/l7oz0o.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Special A",
       "id": 0,
       "mal_id": 3470,
@@ -27743,42 +27761,42 @@
           "numero": 1,
           "nom": "Kanata Haruka",
           "artiste": "RADWIMPS",
-          "lien": "https://ladist1.catbox.video/6bnirz.webm"
+          "lien": "https://nl.catbox.moe/6bnirz.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "Suzume",
           "artiste": "RADWIMPS feat. Toaka",
-          "lien": "https://ladist1.catbox.video/dp5tbe.webm"
+          "lien": "https://nl.catbox.moe/dp5tbe.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Kenka o Yamete",
           "artiste": "Naoko Kawai",
-          "lien": "https://ladist1.catbox.video/kj5lhm.webm"
+          "lien": "https://nl.catbox.moe/kj5lhm.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Rouge no Dengon",
           "artiste": "Yumi Arai",
-          "lien": "https://ladist1.catbox.video/o0x6c8.webm"
+          "lien": "https://nl.catbox.moe/o0x6c8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "SWEET MEMORIES (Re-Mix Version)",
           "artiste": "Seiko Matsuda",
-          "lien": "https://ladist1.catbox.video/wfygez.webm"
+          "lien": "https://nl.catbox.moe/wfygez.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Yume no Naka e",
           "artiste": "Yosui Inoue",
-          "lien": "https://ladist1.catbox.video/xj7jwo.webm"
+          "lien": "https://nl.catbox.moe/xj7jwo.webm"
         }
       ],
       "genres": [

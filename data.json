@@ -1,6 +1,6 @@
 {
-  "nb_anime": 720,
-  "nb_musique": 3324,
+  "nb_anime": 724,
+  "nb_musique": 3332,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1507,6 +1507,56 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Arknights: Fuyukomori Kaerimichi",
+      "id": 0,
+      "mal_id": 53881,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "ACHE in PULSE",
+          "artiste": "MYTH & ROID",
+          "lien": "https://nl.catbox.moe/d4hcub.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "R.I.P.",
+          "artiste": "ReoNa",
+          "lien": "https://nl.catbox.moe/ymv3d3.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Arknights: Reimei Zensou",
+      "id": 0,
+      "mal_id": 50205,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Alive",
+          "artiste": "ReoNa",
+          "lien": "https://nl.catbox.moe/e50t9t.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "BE ME",
+          "artiste": "Doul",
+          "lien": "https://nl.catbox.moe/x9t7f4.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -3572,6 +3622,31 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Boushoku no Berserk",
+      "id": 0,
+      "mal_id": 53439,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Jekyll & Hyde",
+          "artiste": "EverdreaM",
+          "lien": "https://nl.catbox.moe/6q9kos.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ao no Genseki",
+          "artiste": "EverdreaM",
+          "lien": "https://nl.catbox.moe/iq15wr.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -10645,6 +10720,31 @@
       ],
       "genres": [
           0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Hametsu no Oukoku",
+      "id": 0,
+      "mal_id": 54362,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kieru made",
+          "artiste": "Hana Hope",
+          "lien": "https://nl.catbox.moe/n8qdmu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Prayer",
+          "artiste": "Who-ya Extended",
+          "lien": "https://nl.catbox.moe/wpj3r6.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

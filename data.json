@@ -1,6 +1,6 @@
 {
   "nb_anime": 724,
-  "nb_musique": 3332,
+  "nb_musique": 3335,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -4932,7 +4932,7 @@
       "nom": "Dark Gathering",
       "id": 0,
       "mal_id": 52505,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -4947,6 +4947,13 @@
           "nom": "Hai-iro",
           "artiste": "Kana Hanazawa",
           "lien": "https://nl.catbox.moe/7te9ot.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Intaglio",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.moe/19z92c.webm"
         }
       ],
       "genres": [
@@ -11000,7 +11007,7 @@
       "nom": "Helck",
       "id": 0,
       "mal_id": 51020,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -11010,11 +11017,25 @@
           "lien": "https://nl.catbox.moe/biauz4.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "HELP",
+          "artiste": "Aimi",
+          "lien": "https://nl.catbox.moe/x9ywyf.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Statice",
           "artiste": "saji",
           "lien": "https://nl.catbox.moe/a9npyn.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Hikari",
+          "artiste": "KanoeRana",
+          "lien": "https://nl.catbox.moe/o9vq9t.webm"
         }
       ],
       "genres": [

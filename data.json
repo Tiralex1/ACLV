@@ -1,6 +1,6 @@
 {
-  "nb_anime": 718,
-  "nb_musique": 3314,
+  "nb_anime": 719,
+  "nb_musique": 3323,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -692,7 +692,7 @@
       "nom": "AI no Idenshi",
       "id": 0,
       "mal_id": 53787,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -707,6 +707,13 @@
           "nom": "Wasurenagusa",
           "artiste": "GReeeeN",
           "lien": "https://nl.catbox.moe/dwlmgj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Otokomichi Matsuribana",
+          "artiste": "TAKUMA",
+          "lien": "https://ladist1.catbox.video/benkj3.webm"
         }
       ],
       "genres": [
@@ -15600,7 +15607,7 @@
       "nom": "Kimi wa Houkago Insomnia",
       "id": 0,
       "mal_id": 50796,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -15622,6 +15629,13 @@
           "nom": "Herz",
           "artiste": "Homecomings",
           "lien": "https://nl.catbox.moe/9p0wpq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Nantonaku Nantonaku",
+          "artiste": "Seiichirou Yamashita, Konomi Tamura, Lynn, Natsumi Fujiwara, Sumire Morohoshi",
+          "lien": "https://ladist1.catbox.video/5va04z.webm"
         }
       ],
       "genres": [
@@ -19315,7 +19329,7 @@
       "nom": "Nanatsu no Maken ga Shihai Suru",
       "id": 0,
       "mal_id": 50582,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -19330,6 +19344,13 @@
           "nom": "Aim",
           "artiste": "Yumemi Kujira feat. Tsumugi Shachi (from Kiminone)",
           "lien": "https://nl.catbox.moe/grbxxf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Beyond fate",
+          "artiste": "Mizune Yano",
+          "lien": "https://ladist1.catbox.video/jiu3b1.webm"
         }
       ],
       "genres": [
@@ -27709,6 +27730,59 @@
       ],
       "genres": [
           1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1
+      ]
+    },
+    {
+      "nom": "Suzume no Tojimari",
+      "id": 0,
+      "mal_id": 50594,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kanata Haruka",
+          "artiste": "RADWIMPS",
+          "lien": "https://ladist1.catbox.video/6bnirz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Suzume",
+          "artiste": "RADWIMPS feat. Toaka",
+          "lien": "https://ladist1.catbox.video/dp5tbe.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kenka o Yamete",
+          "artiste": "Naoko Kawai",
+          "lien": "https://ladist1.catbox.video/kj5lhm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Rouge no Dengon",
+          "artiste": "Yumi Arai",
+          "lien": "https://ladist1.catbox.video/o0x6c8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "SWEET MEMORIES (Re-Mix Version)",
+          "artiste": "Seiko Matsuda",
+          "lien": "https://ladist1.catbox.video/wfygez.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yume no Naka e",
+          "artiste": "Yosui Inoue",
+          "lien": "https://ladist1.catbox.video/xj7jwo.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {

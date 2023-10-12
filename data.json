@@ -1,6 +1,6 @@
 {
-  "nb_anime": 724,
-  "nb_musique": 3339,
+  "nb_anime": 738,
+  "nb_musique": 3363,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3625,6 +3625,31 @@
       ]
     },
     {
+      "nom": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-rank ni Natteta",
+      "id": 0,
+      "mal_id": 53494,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Sen",
+          "artiste": "Yoshino Nanjo",
+          "lien": "https://nl.catbox.moe/r93a4t.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "homeward journey",
+          "artiste": "Nagi Yanagi",
+          "lien": "https://nl.catbox.moe/g8nvxu.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Boushoku no Berserk",
       "id": 0,
       "mal_id": 53439,
@@ -5424,6 +5449,31 @@
           "nom": "Iolite",
           "artiste": "Inori Minase",
           "lien": "https://nl.catbox.moe/ar5nc0.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+      ]
+    },
+    {
+      "nom": "Dead Mount Death Play",
+      "id": 1,
+      "mal_id": 54743,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Scrap Art",
+          "artiste": "Inori Minase",
+          "lien": "https://nl.catbox.moe/xa5f4p.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hope",
+          "artiste": "Yuuma Uchida",
+          "lien": "https://nl.catbox.moe/1fzd5p.webm"
         }
       ],
       "genres": [
@@ -9474,6 +9524,31 @@
           "nom": "Though Our Paths May Diverge",
           "artiste": "Mili",
           "lien": "https://nl.catbox.moe/7la5cv.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Goblin Slayer II",
+      "id": 0,
+      "mal_id": 47160,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Entertainment",
+          "artiste": "Mili",
+          "lien": "https://nl.catbox.moe/nafxv3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kasumi no Mukou e",
+          "artiste": "Yuki Nakashima",
+          "lien": "https://nl.catbox.moe/k4k8lm.webm"
         }
       ],
       "genres": [
@@ -13704,6 +13779,31 @@
           "nom": "Darling in the Night",
           "artiste": "Reina Kondo",
           "lien": "https://nl.catbox.moe/l9fdyi.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+      "id": 0,
+      "mal_id": 54595,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "grayscale dominator",
+          "artiste": "OxT",
+          "lien": "https://nl.catbox.moe/v95kan.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Polaris in the Night",
+          "artiste": "Ikumi Hasegawa",
+          "lien": "https://nl.catbox.moe/2qp0hk.webm"
         }
       ],
       "genres": [
@@ -18651,6 +18751,31 @@
       ]
     },
     {
+      "nom": "Me-gumi no Daigo: Kyuukoku no Orange",
+      "id": 0,
+      "mal_id": 53848,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Anthropos",
+          "artiste": "Kanjani∞",
+          "lien": "https://nl.catbox.moe/78c6le.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Perfect World",
+          "artiste": "LMYK",
+          "lien": "https://nl.catbox.moe/2kvwk7.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Megalobox",
       "id": 0,
       "mal_id": 36563,
@@ -22475,6 +22600,31 @@
       ]
     },
     {
+      "nom": "Overtake!",
+      "id": 0,
+      "mal_id": 54301,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Tailwind",
+          "artiste": "Kanae",
+          "lien": "https://nl.catbox.moe/ygnn8m.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Good Luck",
+          "artiste": "Tasuku Hatanaka",
+          "lien": "https://nl.catbox.moe/piozwr.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+      ]
+    },
+    {
       "nom": "Owari no Seraph",
       "id": 0,
       "mal_id": 26243,
@@ -24995,6 +25145,24 @@
       ]
     },
     {
+      "nom": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+      "id": 0,
+      "mal_id": 50664,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Inochibi",
+          "artiste": "Nagi Yanagi",
+          "lien": "https://nl.catbox.moe/9s6j3v.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Saikyou Onmyouji no Isekai Tenseiki",
       "id": 0,
       "mal_id": 50932,
@@ -25741,6 +25909,31 @@
       ],
       "genres": [
           0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+      "id": 0,
+      "mal_id": 52347,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "BROKEN GAMES",
+          "artiste": "FZMZ",
+          "lien": "https://nl.catbox.moe/idl4pj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ace",
+          "artiste": "CHiCO",
+          "lien": "https://nl.catbox.moe/rp64o0.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -26828,6 +27021,24 @@
       ]
     },
     {
+      "nom": "Shy",
+      "id": 0,
+      "mal_id": 53237,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shiny Girl",
+          "artiste": "MindaRyn",
+          "lien": "https://nl.catbox.moe/0xs3c3.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Sin: Nanatsu no Taizai",
       "id": 0,
       "mal_id": 33834,
@@ -27313,6 +27524,31 @@
           "nom": "GOOD DAY",
           "artiste": "(K)NoW_NAME:NIKIIE",
           "lien": "https://nl.catbox.moe/r8pmce.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Spy × Family",
+      "id": 2,
+      "mal_id": 53887,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kura Kura",
+          "artiste": "Ado",
+          "lien": "https://nl.catbox.moe/rbibpd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Todome no Ichigeki",
+          "artiste": "Vaundy feat. Cory Wong",
+          "lien": "https://nl.catbox.moe/lxzvti.webm"
         }
       ],
       "genres": [
@@ -28471,6 +28707,24 @@
       ]
     },
     {
+      "nom": "Tate no Yuusha no Nariagari Season 3",
+      "id": 0,
+      "mal_id": 40357,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "SIN",
+          "artiste": "MADKID",
+          "lien": "https://nl.catbox.moe/u9qumf.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Temple",
       "id": 0,
       "mal_id": 54275,
@@ -29553,6 +29807,31 @@
       ]
     },
     {
+      "nom": "Tokyo Revengers: Tenjiku-hen",
+      "id": 0,
+      "mal_id": 54918,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "White Noise",
+          "artiste": "Official HIGE DANdism",
+          "lien": "https://nl.catbox.moe/epa709.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Say My Name",
+          "artiste": "HEY-SMITH",
+          "lien": "https://nl.catbox.moe/s8gayb.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Tomodachi Game",
       "id": 0,
       "mal_id": 50273,
@@ -30256,6 +30535,24 @@
       ],
       "genres": [
           0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Under Ninja",
+      "id": 0,
+      "mal_id": 49766,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hyper",
+          "artiste": "Kroi",
+          "lien": "https://nl.catbox.moe/melyw8.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -31056,6 +31353,31 @@
       ],
       "genres": [
           1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Yuzuki-san Chi no Yon Kyoudai.",
+      "id": 0,
+      "mal_id": 55153,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Naite Iinda",
+          "artiste": "flumpool",
+          "lien": "https://nl.catbox.moe/kxqrp2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sasakure",
+          "artiste": "Aoi Kubo",
+          "lien": "https://nl.catbox.moe/7b3vx9.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "nb_anime": 724,
-  "nb_musique": 3335,
+  "nb_musique": 3339,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -19247,7 +19247,7 @@
       "nom": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
       "id": 0,
       "mal_id": 55818,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Ending",
@@ -19255,6 +19255,13 @@
           "nom": "Clover",
           "artiste": "Yuiko Ohara",
           "lien": "https://nl.catbox.moe/p10myj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Eien Nare, Asura Oukoku",
+          "artiste": "Itsuki Makiura",
+          "lien": "https://nl.catbox.moe/ujsz0m.webm"
         }
       ],
       "genres": [
@@ -19265,7 +19272,7 @@
       "nom": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
       "id": 1,
       "mal_id": 51179,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -19280,6 +19287,13 @@
           "nom": "Musubime",
           "artiste": "Yuiko Ohara",
           "lien": "https://nl.catbox.moe/41wfrw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Hanaemi",
+          "artiste": "Ai Kayano",
+          "lien": "https://nl.catbox.moe/b0zoew.webm"
         }
       ],
       "genres": [
@@ -27132,8 +27146,22 @@
       "nom": "Sousou no Frieren",
       "id": 0,
       "mal_id": 52991,
-      "nb_musique": 1,
+      "nb_musique": 3,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Yuusha",
+          "artiste": "YOASOBI",
+          "lien": "https://nl.catbox.moe/ba2qq1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Anytime Anywhere",
+          "artiste": "milet",
+          "lien": "https://nl.catbox.moe/42fcom.webm"
+        },
         {
           "type": "Ending",
           "numero": 1,

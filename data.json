@@ -1,6 +1,6 @@
 {
-  "nb_anime": 738,
-  "nb_musique": 3363,
+  "nb_anime": 739,
+  "nb_musique": 3365,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -6500,6 +6500,31 @@
           "nom": "Where Do We Go?",
           "artiste": "OKAMOTO'S",
           "lien": "https://nl.catbox.moe/silt5v.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Dr. Stone: New World",
+      "id": 1,
+      "mal_id": 55644,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Haruka",
+          "artiste": "Ryujin Kiyoshi",
+          "lien": "https://nl.catbox.moe/1omx0p.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Suki ni Shina yo",
+          "artiste": "Anly",
+          "lien": "https://nl.catbox.moe/huk0dd.webm"
         }
       ],
       "genres": [

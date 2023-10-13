@@ -1,6 +1,6 @@
 {
   "nb_anime": 739,
-  "nb_musique": 3365,
+  "nb_musique": 3367,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10883,7 +10883,7 @@
       "nom": "Hanma Baki: Son of Ogre",
       "id": 1,
       "mal_id": 51318,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -10898,6 +10898,13 @@
           "nom": "Sarracenia",
           "artiste": "SKY-HI",
           "lien": "https://nl.catbox.moe/3p3nmq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "WILDER",
+          "artiste": "UPSTART feat. Hiro (MY FIRST STORY)",
+          "lien": "https://nl.catbox.moe/zlqlmp.webm"
         },
         {
           "type": "Ending",
@@ -28735,7 +28742,7 @@
       "nom": "Tate no Yuusha no Nariagari Season 3",
       "id": 0,
       "mal_id": 40357,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -28743,6 +28750,13 @@
           "nom": "SIN",
           "artiste": "MADKID",
           "lien": "https://nl.catbox.moe/u9qumf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Suki ni Natte wa Ikenai Riyuu",
+          "artiste": "Chiai Fujikawa",
+          "lien": "https://nl.catbox.moe/tewpu4.webm"
         }
       ],
       "genres": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 739,
-  "nb_musique": 3367,
+  "nb_anime": 740,
+  "nb_musique": 3369,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -30574,6 +30574,31 @@
       ],
       "genres": [
           0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Undead Unluck",
+      "id": 0,
+      "mal_id": 52741,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "01",
+          "artiste": "Ziyoou-vachi",
+          "lien": "https://nl.catbox.moe/es9fqf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "know me...",
+          "artiste": "Kairi Yagi",
+          "lien": "https://nl.catbox.moe/3zp0ta.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0
       ]
     },
     {

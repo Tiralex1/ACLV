@@ -1,6 +1,6 @@
 {
-  "nb_anime": 740,
-  "nb_musique": 3369,
+  "nb_anime": 745,
+  "nb_musique": 3379,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3352,6 +3352,31 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Bokura no Ameiro Protocol",
+      "id": 0,
+      "mal_id": 55894,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "S9aiR",
+          "artiste": "SennaRin",
+          "lien": "https://nl.catbox.moe/32tbu3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Another Complex",
+          "artiste": "somei",
+          "lien": "https://nl.catbox.moe/pblhxh.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -15225,6 +15250,31 @@
       ]
     },
     {
+      "nom": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai Suru Hanashi",
+      "id": 0,
+      "mal_id": 52990,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Love You Tender!",
+          "artiste": "Maaya Uchida",
+          "lien": "https://nl.catbox.moe/ip1yip.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Aikotoba",
+          "artiste": "AliA",
+          "lien": "https://nl.catbox.moe/32nibs.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Keishichou Tokumu-bu Tokushu Kyouaku-han Taisaku-Shitsu Dai-Nana-ka: Tokunana",
       "id": 0,
       "mal_id": 39567,
@@ -15414,6 +15464,31 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kikansha no Mahou wa Tokubetsu desu",
+      "id": 0,
+      "mal_id": 54852,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "GET BACK",
+          "artiste": "FLOW",
+          "lien": "https://nl.catbox.moe/ans1hr.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "6 o Naderu",
+          "artiste": "Momosumomosu",
+          "lien": "https://nl.catbox.moe/5zf5jo.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -24168,6 +24243,31 @@
       ]
     },
     {
+      "nom": "Potion-danomi de Ikinobimasu!",
+      "id": 0,
+      "mal_id": 54616,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "tailwind",
+          "artiste": "katagiri",
+          "lien": "https://nl.catbox.moe/0m79m1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Love is a potion",
+          "artiste": "harmoe",
+          "lien": "https://nl.catbox.moe/t0qg67.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "PuraOre! Pride of Orange",
       "id": 0,
       "mal_id": 44274,
@@ -24268,6 +24368,31 @@
       ],
       "genres": [
           1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Ragna Crimson",
+      "id": 0,
+      "mal_id": 51297,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "ROAR",
+          "artiste": "ulma sound junction",
+          "lien": "https://nl.catbox.moe/ix3k8k.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Rinkaku",
+          "artiste": "Watashi Kobayashi",
+          "lien": "https://nl.catbox.moe/hiyrfi.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

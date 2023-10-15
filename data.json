@@ -1,6 +1,6 @@
 {
   "nb_anime": 745,
-  "nb_musique": 3379,
+  "nb_musique": 3382,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -19716,7 +19716,7 @@
           "type": "Ending",
           "numero": 2,
           "nom": "Beyond fate",
-          "artiste": "Mizune Yano",
+          "artiste": "Mion Yano",
           "lien": "https://nl.catbox.moe/jiu3b1.webm"
         }
       ],
@@ -19962,7 +19962,7 @@
       "nom": "Naruto",
       "id": 0,
       "mal_id": 20,
-      "nb_musique": 30,
+      "nb_musique": 31,
       "musique": [
         {
           "type": "Opening",
@@ -19984,6 +19984,13 @@
           "nom": "Haruka Kanata",
           "artiste": "ASIAN KUNG-FU GENERATION",
           "lien": "https://nl.catbox.moe/6uutr8.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "Sayonara Sekai",
+          "artiste": "Kishidan",
+          "lien": "https://nl.catbox.moe/c7teej.webm"
         },
         {
           "type": "Opening",
@@ -25305,7 +25312,7 @@
       "nom": "Saihate no Paladin: Tetsusabi no Yama no Ou",
       "id": 0,
       "mal_id": 50664,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -25313,6 +25320,13 @@
           "nom": "Inochibi",
           "artiste": "Nagi Yanagi",
           "lien": "https://nl.catbox.moe/9s6j3v.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Puzzle",
+          "artiste": "KOTOKO",
+          "lien": "https://nl.catbox.moe/3rpm0i.webm"
         }
       ],
       "genres": [
@@ -27691,7 +27705,7 @@
       "nom": "Spy × Family",
       "id": 2,
       "mal_id": 53887,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -27706,6 +27720,13 @@
           "nom": "Todome no Ichigeki",
           "artiste": "Vaundy feat. Cory Wong",
           "lien": "https://nl.catbox.moe/lxzvti.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Little steps",
+          "artiste": "(K)NoW_NAME:NIKIIE",
+          "lien": "https://nl.catbox.moe/q1gwh4.webm"
         }
       ],
       "genres": [

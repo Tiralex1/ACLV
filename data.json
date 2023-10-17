@@ -1,6 +1,6 @@
 {
-  "nb_anime": 745,
-  "nb_musique": 3382,
+  "nb_anime": 747,
+  "nb_musique": 3388,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -328,6 +328,45 @@
           "nom": "Utsusemi Shigure",
           "artiste": "Sachiko Watabe",
           "lien": "https://nl.catbox.moe/5i2ozk.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "3-gatsu no Lion",
+      "id": 1,
+      "mal_id": 35180,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Flag o Tatero",
+          "artiste": "YUKI",
+          "lien": "https://nl.catbox.moe/zm1bub.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Haru ga Kite Bokura",
+          "artiste": "UNISON SQUARE GARDEN",
+          "lien": "https://nl.catbox.moe/uljxqo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Cafune",
+          "artiste": "Brian the Sun",
+          "lien": "https://nl.catbox.moe/qpjp9o.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "I AM STANDING",
+          "artiste": "RUANN",
+          "lien": "https://nl.catbox.moe/hh5ebu.webm"
         }
       ],
       "genres": [
@@ -9972,6 +10011,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Good Night World",
+      "id": 0,
+      "mal_id": 56146,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Black Crack",
+          "artiste": "Kuzuha",
+          "lien": "https://nl.catbox.moe/yx8bwl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "salvia",
+          "artiste": "Nornis",
+          "lien": "https://nl.catbox.moe/ract2z.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
       ]
     },
     {

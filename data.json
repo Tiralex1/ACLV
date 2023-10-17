@@ -1,6 +1,6 @@
 {
   "nb_anime": 747,
-  "nb_musique": 3388,
+  "nb_musique": 3389,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -27259,7 +27259,7 @@
       "nom": "Shy",
       "id": 0,
       "mal_id": 53237,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -27267,6 +27267,13 @@
           "nom": "Shiny Girl",
           "artiste": "MindaRyn",
           "lien": "https://nl.catbox.moe/0xs3c3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shiritai Kimochi",
+          "artiste": "Shino Shimoji & Nao Touyama",
+          "lien": "https://nl.catbox.moe/57g4h4.webm"
         }
       ],
       "genres": [

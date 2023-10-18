@@ -1,6 +1,6 @@
 {
   "nb_anime": 747,
-  "nb_musique": 3389,
+  "nb_musique": 3390,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -13910,7 +13910,7 @@
       "nom": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
       "id": 0,
       "mal_id": 54595,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -13925,6 +13925,13 @@
           "nom": "Polaris in the Night",
           "artiste": "Ikumi Hasegawa",
           "lien": "https://nl.catbox.moe/2qp0hk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Poraris in the Night",
+          "artiste": "Maaya Uchida",
+          "lien": "https://nl.catbox.moe/2qaavb.webm"
         }
       ],
       "genres": [

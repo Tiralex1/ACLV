@@ -1,6 +1,6 @@
 {
   "nb_anime": 747,
-  "nb_musique": 3390,
+  "nb_musique": 3391,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -13922,7 +13922,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Polaris in the Night",
+          "nom": "Poraris in the Night",
           "artiste": "Ikumi Hasegawa",
           "lien": "https://nl.catbox.moe/2qp0hk.webm"
         },
@@ -30829,7 +30829,7 @@
       "nom": "Under Ninja",
       "id": 0,
       "mal_id": 49766,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -30837,6 +30837,13 @@
           "nom": "Hyper",
           "artiste": "Kroi",
           "lien": "https://nl.catbox.moe/melyw8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Himitsu",
+          "artiste": "KOTORI",
+          "lien": "https://nl.catbox.moe/v3yabb.webm"
         }
       ],
       "genres": [

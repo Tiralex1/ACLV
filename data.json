@@ -1,6 +1,6 @@
 {
   "nb_anime": 747,
-  "nb_musique": 3391,
+  "nb_musique": 3392,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -27266,7 +27266,7 @@
       "nom": "Shy",
       "id": 0,
       "mal_id": 53237,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -27281,6 +27281,13 @@
           "nom": "Shiritai Kimochi",
           "artiste": "Shino Shimoji & Nao Touyama",
           "lien": "https://nl.catbox.moe/57g4h4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kimi dake ga Hero",
+          "artiste": "Nao Touyama",
+          "lien": "https://nl.catbox.moe/7oafkk.webm"
         }
       ],
       "genres": [

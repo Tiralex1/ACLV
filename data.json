@@ -1,6 +1,6 @@
 {
-  "nb_anime": 747,
-  "nb_musique": 3392,
+  "nb_anime": 748,
+  "nb_musique": 3403,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10583,7 +10583,7 @@
       "nom": "Hagane no Renkinjutsushi: Brotherhood",
       "id": 0,
       "mal_id": 5114,
-      "nb_musique": 10,
+      "nb_musique": 11,
       "musique": [
         {
           "type": "Opening",
@@ -10654,6 +10654,13 @@
           "nom": "RAY OF LIGHT",
           "artiste": "Shoko Nakagawa",
           "lien": "https://nl.catbox.moe/7y1300.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Trisha's Lullaby",
+          "artiste": "Warsaw Philharmonic Orchestra & Choir",
+          "lien": "https://nl.catbox.moe/a4cjqv.webm"
         }
       ],
       "genres": [
@@ -13910,7 +13917,7 @@
       "nom": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
       "id": 0,
       "mal_id": 54595,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -13932,6 +13939,13 @@
           "nom": "Poraris in the Night",
           "artiste": "Maaya Uchida",
           "lien": "https://nl.catbox.moe/2qaavb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Poraris in the Night",
+          "artiste": "Mayu Minami",
+          "lien": "https://nl.catbox.moe/5ecd26.webm"
         }
       ],
       "genres": [
@@ -17343,6 +17357,38 @@
       ]
     },
     {
+      "nom": "Kusuriya no Hitorigoto",
+      "id": 0,
+      "mal_id": 54492,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hana ni Natte",
+          "artiste": "Ryokuoushoku Shakai",
+          "lien": "https://nl.catbox.moe/qt1puj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Aikotoba",
+          "artiste": "AiNA THE END",
+          "lien": "https://nl.catbox.moe/u74wvd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Omoikaze",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://nl.catbox.moe/tg19e4.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Kuutei Dragons",
       "id": 0,
       "mal_id": 39531,
@@ -18857,7 +18903,7 @@
       "nom": "Mashle: Magic and Muscles",
       "id": 0,
       "mal_id": 52211,
-      "nb_musique": 2,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -18872,6 +18918,34 @@
           "nom": "Shucream Funk",
           "artiste": "Philosophy no Dance",
           "lien": "https://nl.catbox.moe/agka5m.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Block Walk Talk",
+          "artiste": "King Marino",
+          "lien": "https://nl.catbox.moe/db93hh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hazardous Reaction",
+          "artiste": "DxshMusic",
+          "lien": "https://nl.catbox.moe/lshqya.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Serious Steel",
+          "artiste": "Rocco808",
+          "lien": "https://nl.catbox.moe/1jmzpt.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "THE IRON FIST",
+          "artiste": "Rocco808",
+          "lien": "https://nl.catbox.moe/s5wwur.webm"
         }
       ],
       "genres": [
@@ -19322,7 +19396,7 @@
       "nom": "Mononoke-hime",
       "id": 0,
       "mal_id": 164,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Ending",
@@ -19330,6 +19404,13 @@
           "nom": "Mononoke-hime",
           "artiste": "Yoshikazu Mera",
           "lien": "https://nl.catbox.moe/pbjtbd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tatara Fumu Onna-tachi -Eboshi Tatara Uta-",
+          "artiste": "Yoshimi Niikura, Maki Kimura, Satoko Shimonari",
+          "lien": "https://nl.catbox.moe/x4ryi6.webm"
         }
       ],
       "genres": [
@@ -21294,7 +21375,7 @@
       "nom": "Noragami Aragoto",
       "id": 0,
       "mal_id": 30503,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -21309,6 +21390,13 @@
           "nom": "Nirvana",
           "artiste": "Tia",
           "lien": "https://nl.catbox.moe/8pj63d.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Capypa Land ga Matteiru",
+          "artiste": "MOKA☆",
+          "lien": "https://nl.catbox.moe/saf1qf.webm"
         }
       ],
       "genres": [

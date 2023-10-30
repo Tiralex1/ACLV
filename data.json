@@ -1,6 +1,6 @@
 {
   "nb_anime": 748,
-  "nb_musique": 3403,
+  "nb_musique": 3404,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -27354,7 +27354,7 @@
       "nom": "Shy",
       "id": 0,
       "mal_id": 53237,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -27376,6 +27376,13 @@
           "nom": "Kimi dake ga Hero",
           "artiste": "Nao Touyama",
           "lien": "https://nl.catbox.moe/7oafkk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Watashi no Aoi Sora ~As I Am~",
+          "artiste": "Shino Shimoji",
+          "lien": "https://nl.catbox.moe/bq5zfz.webm"
         }
       ],
       "genres": [

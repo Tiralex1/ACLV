@@ -1,6 +1,6 @@
 {
-  "nb_anime": 750,
-  "nb_musique": 3411,
+  "nb_anime": 751,
+  "nb_musique": 3412,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -23767,6 +23767,24 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Ple Ple Pleiades x Kagejitsu!",
+      "id": 0,
+      "mal_id": 57034,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "HHH-PLExKAGE MIX-",
+          "artiste": "OxT",
+          "lien": "https://nl.catbox.moe/69kzbv.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 748,
-  "nb_musique": 3404,
+  "nb_anime": 749,
+  "nb_musique": 3409,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10259,6 +10259,45 @@
       ]
     },
     {
+      "nom": "Gridman Universe",
+      "id": 0,
+      "mal_id": 50587,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "uni-verse",
+          "artiste": "Masayoshi Ooishi",
+          "lien": "https://nl.catbox.moe/8heeoz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "all this metal 2023",
+          "artiste": "Shiro SAGISU featuring Hazel Fernandes",
+          "lien": "https://nl.catbox.moe/cb9jeh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Imperfect",
+          "artiste": "Masayoshi Ooishi",
+          "lien": "https://nl.catbox.moe/wp8kpa.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "UNION",
+          "artiste": "OxT",
+          "lien": "https://nl.catbox.moe/tlqhkm.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Grimms Notes the Animation",
       "id": 0,
       "mal_id": 37154,
@@ -13917,7 +13956,7 @@
       "nom": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
       "id": 0,
       "mal_id": 54595,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -13946,6 +13985,13 @@
           "nom": "Poraris in the Night",
           "artiste": "Mayu Minami",
           "lien": "https://nl.catbox.moe/5ecd26.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Polaris in the Night",
+          "artiste": "Ryouko Maekawa",
+          "lien": "https://nl.catbox.moe/u61p9r.webm"
         }
       ],
       "genres": [

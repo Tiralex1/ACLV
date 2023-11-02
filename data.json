@@ -1,6 +1,6 @@
 {
-  "nb_anime": 749,
-  "nb_musique": 3409,
+  "nb_anime": 750,
+  "nb_musique": 3411,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -29665,6 +29665,31 @@
           "nom": "Hiai",
           "artiste": "Sachiko Watabe",
           "lien": "https://nl.catbox.moe/irinx8.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Tensei Shitara Slime Datta Ken: Coleus no Yume",
+      "id": 0,
+      "mal_id": 54565,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hikari Hanatsu",
+          "artiste": "Takuma Terashima",
+          "lien": "https://nl.catbox.moe/wwdivk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kokoro Travel",
+          "artiste": "Miho Okasaki",
+          "lien": "https://nl.catbox.moe/w5l2sw.webm"
         }
       ],
       "genres": [

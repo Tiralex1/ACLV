@@ -1,6 +1,6 @@
 {
   "nb_anime": 751,
-  "nb_musique": 3412,
+  "nb_musique": 3413,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10262,7 +10262,7 @@
       "nom": "Gridman Universe",
       "id": 0,
       "mal_id": 50587,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Ending",
@@ -10291,6 +10291,13 @@
           "nom": "UNION",
           "artiste": "OxT",
           "lien": "https://nl.catbox.moe/tlqhkm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Heartbeat City",
+          "artiste": "Maaya Uchida",
+          "lien": "https://nl.catbox.moe/mv12rt.webm"
         }
       ],
       "genres": [

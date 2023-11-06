@@ -1,6 +1,6 @@
 {
   "nb_anime": 751,
-  "nb_musique": 3413,
+  "nb_musique": 3415,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -26788,8 +26788,22 @@
       "nom": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
       "id": 0,
       "mal_id": 51535,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Saigo no Kyojin",
+          "artiste": "Linked Horizon",
+          "lien": "https://nl.catbox.moe/z8g1je.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Itterashai",
+          "artiste": "Ai Higuchi",
+          "lien": "https://nl.catbox.moe/elqir4.webm"
+        },
         {
           "type": "Ending",
           "numero": 1,

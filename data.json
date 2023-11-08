@@ -1,6 +1,6 @@
 {
-  "nb_anime": 751,
-  "nb_musique": 3416,
+  "nb_anime": 753,
+  "nb_musique": 3422,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -11692,6 +11692,31 @@
       ],
       "genres": [
           0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1
+      ]
+    },
+    {
+      "nom": "Hikikomari Kyuuketsuki no Monmon",
+      "id": 0,
+      "mal_id": 54103,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Red Liberation",
+          "artiste": "fripSide",
+          "lien": "https://nl.catbox.moe/bjy6wa.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Nemurenai",
+          "artiste": "MIMiNARI feat. Tomori Kusunoki",
+          "lien": "https://nl.catbox.moe/6tmhd5.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -31354,6 +31379,45 @@
       ],
       "genres": [
           1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1
+      ]
+    },
+    {
+      "nom": "Watashi no Oshi wa Akuyaku Reijou.",
+      "id": 0,
+      "mal_id": 53833,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Raise Y/Our Hands!!",
+          "artiste": "Yuu Serizawa & Karin Nanami",
+          "lien": "https://nl.catbox.moe/5xod2z.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "O.C. ~Optimum Combination~",
+          "artiste": "Yuu Serizawa",
+          "lien": "https://nl.catbox.moe/o7whgz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "O.C. ~Optimum Combination~",
+          "artiste": "Karin Nanami",
+          "lien": "https://nl.catbox.moe/ash6r4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "O.C. ~Optimum Combination~",
+          "artiste": "Yuu Serizawa & Karin Nanami",
+          "lien": "https://nl.catbox.moe/78yhwc.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {

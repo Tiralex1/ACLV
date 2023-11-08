@@ -1,6 +1,6 @@
 {
   "nb_anime": 751,
-  "nb_musique": 3415,
+  "nb_musique": 3416,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -19552,7 +19552,7 @@
       "nom": "Motto To LOVE-Ru",
       "id": 0,
       "mal_id": 9181,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -19581,6 +19581,13 @@
           "nom": "Heeeeekkuchi! ~Run Tokidoki, Ren~",
           "artiste": "Fuyuka Oura",
           "lien": "https://nl.catbox.moe/dronik.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "SWITCHngu!",
+          "artiste": "Fuyuka Oura",
+          "lien": "https://nl.catbox.moe/0uiph9.webm"
         }
       ],
       "genres": [

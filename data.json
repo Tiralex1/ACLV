@@ -1,6 +1,6 @@
 {
-  "nb_anime": 753,
-  "nb_musique": 3422,
+  "nb_anime": 754,
+  "nb_musique": 3425,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -21536,6 +21536,38 @@
       ],
       "genres": [
           0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Oban Star-Racers",
+      "id": 0,
+      "mal_id": 1212,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Never Say Never",
+          "artiste": "After Midnight Project",
+          "lien": "https://nl.catbox.moe/6mq2dw.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Chance to shine",
+          "artiste": "Akino",
+          "lien": "https://nl.catbox.moe/dbx3u9.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Waratteta",
+          "artiste": "Sukoshi",
+          "lien": "https://nl.catbox.moe/03pkrp.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
       ]
     },
     {

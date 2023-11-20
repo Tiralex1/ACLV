@@ -1,6 +1,6 @@
 {
   "nb_anime": 754,
-  "nb_musique": 3428,
+  "nb_musique": 3429,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -26859,7 +26859,7 @@
       "nom": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
       "id": 0,
       "mal_id": 51535,
-      "nb_musique": 7,
+      "nb_musique": 8,
       "musique": [
         {
           "type": "Opening",
@@ -26881,6 +26881,13 @@
           "nom": "UNDER THE TREE",
           "artiste": "SiM",
           "lien": "https://nl.catbox.moe/0600u7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Nisen-nen... Moshiku wa... Niman-nen Go no Kimi e...",
+          "artiste": "Linked Horizon",
+          "lien": "https://nl.catbox.moe/juvime.webm"
         },
         {
           "type": "Insert Song",

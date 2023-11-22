@@ -12,7 +12,7 @@
         <div class="title">&nbsp;AMQ - ACLVTQ</div>
         <div class="filtre">
             &nbsp;Filtre :
-            <label for="name_anime"> | Anime : </label><input type="text" value="" id="name_anime" name="nom_anime"/>
+            <label for="name_anime"> | Anime : </label><input type="text" value="" id="name_anime" name="nom_anime" />
             <label for="type_music"> | Type : </label>
             <select id="type_music">
                 <option value="">-</option>
@@ -20,8 +20,8 @@
                 <option value="Ending">Ending</option>
                 <option value="Insert Song">Insert Song</option>
             </select>
-            <label for="name_music"> | Musique : </label><input type="text" value="" id="name_music"/>
-            <label for="name_artist"> | Artiste(s) : </label><input type="text" value="" id="name_artist"/>
+            <label for="name_music"> | Musique : </label><input type="text" value="" id="name_music" />
+            <label for="name_artist"> | Artiste(s) : </label><input type="text" value="" id="name_artist" />
             <label for="genres"> | Genres : </label>
             <select id="genres">
                 <option value="">-</option>
@@ -50,25 +50,28 @@
                 <option value="Intersection">Intersection</option>
                 <option value="Exact">Exact</option>
             </select>
-            <label for="A"> | A </label><input value="1" type="checkbox" id="A" checked/>
-            <label for="C"> | C </label><input value="1" type="checkbox" id="C" checked/>
-            <label for="L"> | L </label><input value="1" type="checkbox" id="L" checked/>
-            <label for="V"> | V </label><input value="1" type="checkbox" id="V" checked/>
-            <label for="T"> | T </label><input value="1" type="checkbox" id="T" checked/>
-            <label for="Q"> | Q </label><input value="1" type="checkbox" id="Q" checked/>
+            <label for="A"> | A </label><input value="1" type="checkbox" id="A" checked />
+            <label for="C"> | C </label><input value="1" type="checkbox" id="C" checked />
+            <label for="L"> | L </label><input value="1" type="checkbox" id="L" checked />
+            <label for="V"> | V </label><input value="1" type="checkbox" id="V" checked />
+            <label for="T"> | T </label><input value="1" type="checkbox" id="T" checked />
+            <label for="Q"> | Q </label><input value="1" type="checkbox" id="Q" checked />
         </div>
         <div>
-            &nbsp;Affichage Lien 
+            &nbsp;Affichage Lien
             <label for="affich_lien1"></label><input type="radio" value="1" name="affich_lien" id="affich_lien1" checked />
             <label for="affich_lien2"></label><input type="radio" value="2" name="affich_lien" id="affich_lien2" />
             &nbsp;
             <label for="lecture_auto">Lecture Automatique</label><input type="checkbox" value="1" id="lecture_auto">
             |&nbsp;
-            <input type="button" value="Favori" id="favori"/>
-            <input type="button" value="Save" id="save"/>
-            <input type="button" value="Load" id="load"/>
+            <input type="button" value="Favori" id="favori" />
+            <input type="button" value="Save" id="save" />
+            <input type="button" value="Load" id="load" />
             |&nbsp;
             <input type="button" value="ServeurCatbox : nl" id="AudioChangeServeur">
+            |&nbsp;
+            <label for="inclusOnHoldDropped">Inclure On Hold et Dropped</label>
+            <input type="checkbox" name="inclusOnHoldDropped" id="inclusOnHoldDropped" checked>
         </div>
     </div>
     <script src="index.js" defer></script>

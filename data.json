@@ -1,6 +1,6 @@
 {
   "nb_anime": 754,
-  "nb_musique": 3429,
+  "nb_musique": 3430,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -13988,7 +13988,7 @@
       "nom": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
       "id": 0,
       "mal_id": 54595,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -14031,6 +14031,13 @@
           "nom": "Everything is Changing",
           "artiste": "Mayu Maeshima",
           "lien": "https://nl.catbox.moe/ripb9m.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Darling in the Night",
+          "artiste": "Shichikage",
+          "lien": "https://nl.catbox.moe/671q0j.webm"
         }
       ],
       "genres": [

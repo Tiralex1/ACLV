@@ -1,6 +1,6 @@
 {
-  "nb_anime": 754,
-  "nb_musique": 3430,
+  "nb_anime": 755,
+  "nb_musique": 3432,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -29271,6 +29271,31 @@
       ],
       "genres": [
           0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+      "id": 0,
+      "mal_id": 52962,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Happy End Princess",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.moe/3yjnwz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Queen of the Night",
+          "artiste": "KanoeRana",
+          "lien": "https://nl.catbox.moe/qp06ad.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "nb_anime": 755,
-  "nb_musique": 3432,
+  "nb_musique": 3433,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -29252,7 +29252,7 @@
       "nom": "Tate no Yuusha no Nariagari Season 3",
       "id": 0,
       "mal_id": 40357,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -29267,6 +29267,13 @@
           "nom": "Suki ni Natte wa Ikenai Riyuu",
           "artiste": "Chiai Fujikawa",
           "lien": "https://nl.catbox.moe/tewpu4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kirakira Cute",
+          "artiste": "Rina Hidaka",
+          "lien": "https://nl.catbox.moe/1v34ki.webm"
         }
       ],
       "genres": [

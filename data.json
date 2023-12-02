@@ -1,6 +1,6 @@
 {
-  "nb_anime": 755,
-  "nb_musique": 3433,
+  "nb_anime": 756,
+  "nb_musique": 3435,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1552,7 +1552,7 @@
       "nom": "Arknights: Fuyukomori Kaerimichi",
       "id": 0,
       "mal_id": 53881,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -1567,6 +1567,13 @@
           "nom": "R.I.P.",
           "artiste": "ReoNa",
           "lien": "https://nl.catbox.moe/ymv3d3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Fleeting Wish",
+          "artiste": "Ayahi Takagaki",
+          "lien": "https://nl.catbox.moe/ynnysz.webm"
         }
       ],
       "genres": [
@@ -20994,6 +21001,24 @@
           "nom": "Takaramono",
           "artiste": "Marina Kawano",
           "lien": "https://nl.catbox.moe/u770y0.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Natsume Yuujinchou: Utsusemi ni Musubu",
+      "id": 0,
+      "mal_id": 36538,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "remember",
+          "artiste": "Uru",
+          "lien": "https://nl.catbox.moe/k5cdve.webm"
         }
       ],
       "genres": [

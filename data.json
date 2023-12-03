@@ -1,6 +1,6 @@
 {
   "nb_anime": 756,
-  "nb_musique": 3435,
+  "nb_musique": 3436,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -28094,7 +28094,7 @@
       "nom": "Spy × Family",
       "id": 2,
       "mal_id": 53887,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -28109,6 +28109,13 @@
           "nom": "Todome no Ichigeki",
           "artiste": "Vaundy feat. Cory Wong",
           "lien": "https://nl.catbox.moe/lxzvti.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Garden",
+          "artiste": "(K)NoW_NAME:NIKIIE",
+          "lien": "https://nl.catbox.moe/2fv70p.webm"
         },
         {
           "type": "Insert Song",

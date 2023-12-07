@@ -1,6 +1,6 @@
 {
   "nb_anime": 756,
-  "nb_musique": 3436,
+  "nb_musique": 3438,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3404,11 +3404,18 @@
       "nom": "Bokura no Ameiro Protocol",
       "id": 0,
       "mal_id": 55894,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
+          "nom": "XAXXERION",
+          "artiste": "Oliver Good",
+          "lien": "https://nl.catbox.video/cl7u7p.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
           "nom": "S9aiR",
           "artiste": "SennaRin",
           "lien": "https://nl.catbox.video/7e8jyr.webm"
@@ -3419,6 +3426,13 @@
           "nom": "Another Complex",
           "artiste": "somei",
           "lien": "https://nl.catbox.video/pblhxh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shining blossoms",
+          "artiste": "Oliver Good",
+          "lien": "https://nl.catbox.video/a4dhvn.webm"
         }
       ],
       "genres": [

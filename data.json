@@ -1,6 +1,6 @@
 {
   "nb_anime": 756,
-  "nb_musique": 3438,
+  "nb_musique": 3439,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -17473,7 +17473,7 @@
       "nom": "Kusuriya no Hitorigoto",
       "id": 0,
       "mal_id": 54492,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -17488,6 +17488,13 @@
           "nom": "Aikotoba",
           "artiste": "AiNA THE END",
           "lien": "https://nl.catbox.video/u74wvd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ashita o Tazunete",
+          "artiste": "XAI",
+          "lien": "https://nl.catbox.video/a9xdzk.webm"
         },
         {
           "type": "Insert Song",

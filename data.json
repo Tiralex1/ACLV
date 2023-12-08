@@ -1,6 +1,6 @@
 {
-  "nb_anime": 756,
-  "nb_musique": 3439,
+  "nb_anime": 757,
+  "nb_musique": 3440,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -14712,6 +14712,24 @@
       ],
       "genres": [
           0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kamiari Algorithm",
+      "id": 0,
+      "mal_id": 48825,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kamiari Algorithm",
+          "artiste": "Masayoshi Ooishi (feat.Riria.)",
+          "lien": "https://nl.catbox.video/bfibwl.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {

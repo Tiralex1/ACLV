@@ -1,6 +1,6 @@
 {
-  "nb_anime": 757,
-  "nb_musique": 3442,
+  "nb_anime": 758,
+  "nb_musique": 3444,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -28572,6 +28572,31 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Subete ga F ni Naru",
+      "id": 0,
+      "mal_id": 28621,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "talking",
+          "artiste": "KANA-BOON",
+          "lien": "https://nl.catbox.video/743ltl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Nana Hitsuji",
+          "artiste": "Scenarioart",
+          "lien": "https://nl.catbox.video/6t47bz.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1
       ]
     },
     {

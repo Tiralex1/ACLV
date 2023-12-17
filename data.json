@@ -1,6 +1,6 @@
 {
-  "nb_anime": 758,
-  "nb_musique": 3444,
+  "nb_anime": 759,
+  "nb_musique": 3450,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -13685,6 +13685,59 @@
       ],
       "genres": [
           0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "JoJo no Kimyou na Bouken",
+      "id": 0,
+      "mal_id": 14719,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "JoJo ~Sono Chi no Sadame~",
+          "artiste": "Hiroaki TOMMY Tominaga",
+          "lien": "https://nl.catbox.video/y17rf7.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "BLOODY STREAM",
+          "artiste": "Coda",
+          "lien": "https://openings.moe/video/JoJoNoKimyouNaBouken-OP02-NCBD.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "ROUNDABOUT",
+          "artiste": "YES",
+          "lien": "https://nl.catbox.video/xzgswj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Il mare eterno nella mia anima",
+          "artiste": "Kohei Yamamoto",
+          "lien": "https://nl.catbox.video/uwc5v2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Propaganda",
+          "artiste": "Tokyo Konsei",
+          "lien": "https://nl.catbox.video/7ov182.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Season",
+          "artiste": "Rie Yatsuka",
+          "lien": "https://nl.catbox.video/en0hge.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {

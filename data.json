@@ -1,6 +1,6 @@
 {
-  "nb_anime": 759,
-  "nb_musique": 3450,
+  "nb_anime": 760,
+  "nb_musique": 3453,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -31354,6 +31354,38 @@
       ],
       "genres": [
           1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Utawarerumono",
+      "id": 0,
+      "mal_id": 856,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Musouka",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/t5bzh7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Madoromi no Rinne",
+          "artiste": "Eri Kawai",
+          "lien": "https://nl.catbox.video/o7fsyj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kimi ga Tame",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/34njnq.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 760,
-  "nb_musique": 3453,
+  "nb_anime": 761,
+  "nb_musique": 3459,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -31382,6 +31382,59 @@
           "nom": "Kimi ga Tame",
           "artiste": "Suara",
           "lien": "https://nl.catbox.video/34njnq.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Utawarerumono: Itsuwari no Kamen",
+      "id": 0,
+      "mal_id": 30901,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Fuantei na Kamisama",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/pbzsm6.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Amakakeru Hoshi",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/yg4voo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yume ka Utsutsu ka",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/46huhp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Hoshi Furu Sora Aogimite",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/o4nx06.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "SADAME",
+          "artiste": "Risa Taneda",
+          "lien": "https://nl.catbox.video/qlqwnf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Nuedori",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/k5qy4k.webm"
         }
       ],
       "genres": [

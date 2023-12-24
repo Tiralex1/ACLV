@@ -1,6 +1,6 @@
 {
-  "nb_anime": 761,
-  "nb_musique": 3459,
+  "nb_anime": 762,
+  "nb_musique": 3463,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -20982,6 +20982,38 @@
       ]
     },
     {
+      "nom": "Natsu e no Tunnel, Sayonara no Deguchi",
+      "id": 0,
+      "mal_id": 50593,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Katappo - Acoustic Version",
+          "artiste": "eill",
+          "lien": "https://nl.catbox.video/zuycpu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Finale.",
+          "artiste": "eill",
+          "lien": "https://nl.catbox.video/85o7ww.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Pre-romance",
+          "artiste": "eill",
+          "lien": "https://nl.catbox.video/qj87qs.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Natsume Yuujinchou",
       "id": 0,
       "mal_id": 4081,
@@ -25744,7 +25776,7 @@
       "nom": "Saihate no Paladin: Tetsusabi no Yama no Ou",
       "id": 0,
       "mal_id": 50664,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -25759,6 +25791,13 @@
           "nom": "Puzzle",
           "artiste": "KOTOKO",
           "lien": "https://nl.catbox.video/3rpm0i.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ryuu-goroshi no Eiyuu no Uta",
+          "artiste": "Eri Suzuki",
+          "lien": "https://nl.catbox.video/dpywf7.webm"
         }
       ],
       "genres": [

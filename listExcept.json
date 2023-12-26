@@ -459,6 +459,46 @@
             ]
         },
         {
+            "songName": "Nuedori",
+            "artist": "Suara",
+            "types": [
+                "ending 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Amakakeru Hoshi",
+            "artist": "Suara",
+            "types": [
+                "insert song",
+                "opening 2"
+            ]
+        },
+        {
+            "songName": "Fuantei na Kamisama",
+            "artist": "Suara",
+            "types": [
+                "insert song",
+                "opening 1"
+            ]
+        },
+        {
+            "songName": "Hoshi Furu Sora Aogimite",
+            "artist": "Suara",
+            "types": [
+                "insert song",
+                "ending 2"
+            ]
+        },
+        {
+            "songName": "Yume ka Utsutsu ka",
+            "artist": "Suara",
+            "types": [
+                "insert song",
+                "ending 1"
+            ]
+        },
+        {
             "songName": "Dream Trigger",
             "artist": "Pile",
             "types": [

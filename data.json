@@ -1,6 +1,6 @@
 {
-  "nb_anime": 762,
-  "nb_musique": 3463,
+  "nb_anime": 763,
+  "nb_musique": 3474,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -31421,6 +31421,94 @@
           "nom": "Kimi ga Tame",
           "artiste": "Suara",
           "lien": "https://nl.catbox.video/34njnq.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Utawarerumono: Futari no Hakuoro",
+      "id": 0,
+      "mal_id": 40590,
+      "nb_musique": 11,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hito Nanda",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/13nqxw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Nuedori",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/h1x5yr.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Hyakunichisou",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/1mjtmp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Musouka 2016",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/b07ei8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Amakakeru Hoshi",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/7ngi1c.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Fuantei na Kamisama",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/01ytta.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hikari",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/gc29hq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hoshi Furu Sora Aogimite",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/dx4g5s.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kimi ga Tame 2016",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/nllynv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Koiyume",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/dv6vr3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yume ka Utsutsu ka",
+          "artiste": "Suara",
+          "lien": "https://nl.catbox.video/lw1zjf.webm"
         }
       ],
       "genres": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 763,
-  "nb_musique": 3474,
+  "nb_anime": 765,
+  "nb_musique": 3476,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3839,6 +3839,24 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Burn the Witch #0.8",
+      "id": 0,
+      "mal_id": 56671,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "PROVE",
+          "artiste": "NiL",
+          "lien": "https://nl.catbox.video/hugdrm.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -28831,6 +28849,24 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Summer Wars",
+      "id": 0,
+      "mal_id": 5681,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Bokura no Natsu no Yume",
+          "artiste": "Tatsuro Yamashita",
+          "lien": "https://nl.catbox.video/1t200o.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
       ]
     },
     {

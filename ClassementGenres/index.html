@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <title>AMQ ACLVTQ - Classement Genres</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Parcourir les musiques sur les listes ACLVT présent sur AMQ.">
+    <link rel="stylesheet" href="../index.css" />
+</head>
+<style>
+    table {
+        width: 50%;
+    }
+    th {
+        text-align: center;
+        padding: 15px;
+        border-width: 1px;
+        border-style: solid;
+        border-color: black;
+    }
+    .num {
+        width: 5%;
+    }
+    .gen {
+        width: 20%;
+    }
+    .nba {
+        width: 10%;
+    }
+    .nbm {
+        width: 10%;
+    }
+    .pca {
+        width: 10%;
+    }
+</style>
+<body>
+    <div class="header">
+        <div class="title">&nbsp;AMQ ACLVTQ - Classement Genres</div><br>
+        <div class="filtre">
+            &nbsp;Filtre :
+            <label for="jointure"> | </label>
+            <select id="jointure">
+                <option value="Union">Union</option>
+                <option value="Intersection">Intersection</option>
+                <option value="Exact">Exact</option>
+            </select>
+            <label for="A"> | A </label><input value="1" type="checkbox" id="A" checked/>
+            <label for="C"> | C </label><input value="1" type="checkbox" id="C" checked/>
+            <label for="L"> | L </label><input value="1" type="checkbox" id="L" checked/>
+            <label for="V"> | V </label><input value="1" type="checkbox" id="V" checked/>
+            <label for="T"> | T </label><input value="1" type="checkbox" id="T" checked/>
+            <label for="Q"> | Q </label><input value="1" type="checkbox" id="Q" checked/>
+            &nbsp;<label for="inclusOnHoldDropped">Inclure On Hold et Dropped</label>
+            <input type="checkbox" name="inclusOnHoldDropped" id="inclusOnHoldDropped" checked>
+        </div>
+    </div>
+    <div id="info">
+    </div>
+    <div>
+        <table id="classement">
+            <tr>
+                <th class="num">N&deg;</th>
+                <th class="gen">Genres</th>
+                <th class="nba">Nb Anime(s)</th>
+                <th class="nbm">Nb Musique(s)</th>
+                <th class="pca">% Anime / Total Anime</th>
+            </tr>
+            <tr>
+                <td class="num">1</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">2</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">3</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">4</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">5</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">6</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">7</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">8</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">9</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">10</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">11</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">12</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">13</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">14</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">15</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">16</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">17</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="num">18</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+    </div>
+    <br>
+    <script src="index.js"></script>
+</body>
+</html>

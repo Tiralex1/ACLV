@@ -1,6 +1,6 @@
 {
-  "nb_anime": 765,
-  "nb_musique": 3476,
+  "nb_anime": 767,
+  "nb_musique": 3479,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1703,6 +1703,24 @@
       ],
       "genres": [
           1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Aura: Maryuuin Kouga Saigo no Tatakai",
+      "id": 0,
+      "mal_id": 14669,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Bokura no Sekai",
+          "artiste": "CooRie",
+          "lien": "https://nl.catbox.video/11awdk.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -21827,6 +21845,31 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Omoi, Omoware, Furi, Furare",
+      "id": 0,
+      "mal_id": 39753,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Gravity",
+          "artiste": "BUMP OF CHICKEN",
+          "lien": "https://nl.catbox.video/3nlcfc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ribbon",
+          "artiste": "BUMP OF CHICKEN",
+          "lien": "https://nl.catbox.video/qb4bok.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {

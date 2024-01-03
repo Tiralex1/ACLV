@@ -1,6 +1,6 @@
 {
   "nb_anime": 767,
-  "nb_musique": 3479,
+  "nb_musique": 3480,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -14105,7 +14105,7 @@
       "nom": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
       "id": 0,
       "mal_id": 54595,
-      "nb_musique": 7,
+      "nb_musique": 8,
       "musique": [
         {
           "type": "Opening",
@@ -14155,6 +14155,13 @@
           "nom": "Darling in the Night",
           "artiste": "Shichikage",
           "lien": "https://nl.catbox.video/671q0j.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "HIGHEST",
+          "artiste": "OxT",
+          "lien": "https://nl.catbox.video/iabnxf.webm"
         }
       ],
       "genres": [

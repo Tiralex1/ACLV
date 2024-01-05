@@ -1,6 +1,6 @@
 {
-  "nb_anime": 767,
-  "nb_musique": 3480,
+  "nb_anime": 770,
+  "nb_musique": 3491,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3839,6 +3839,59 @@
       ],
       "genres": [
           1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Bungo Stray Dogs",
+      "id": 0,
+      "mal_id": 31478,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "TRASH CANDY",
+          "artiste": "GRANRODEO",
+          "lien": "https://nl.catbox.video/ya38xy.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Namae o Yobu yo",
+          "artiste": "Luck Life",
+          "lien": "https://nl.catbox.video/0c71m9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Eye Of The Tiger",
+          "artiste": "Lotus Juice",
+          "lien": "https://nl.catbox.video/0ygq72.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Good For Nothing",
+          "artiste": "Lotus Juice",
+          "lien": "https://nl.catbox.video/ll2yid.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kokoro Furuekeri",
+          "artiste": "Sakai Reishiu",
+          "lien": "https://nl.catbox.video/5hdxan.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Leaping Wings",
+          "artiste": "LaLa Gasshou-dan",
+          "lien": "https://nl.catbox.video/mkr4tj.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -18475,6 +18528,31 @@
       ]
     },
     {
+      "nom": "Mahou Shoujo ni Akogarete",
+      "id": 0,
+      "mal_id": 54722,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "My dream girls",
+          "artiste": "NACHERRY",
+          "lien": "https://nl.catbox.video/8ehypc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Toge Toge Sadistic",
+          "artiste": "Enormita",
+          "lien": "https://nl.catbox.video/s4yyep.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Mahou Shoujo Site",
       "id": 0,
       "mal_id": 36266,
@@ -27985,6 +28063,31 @@
       ]
     },
     {
+      "nom": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranain desu ga.",
+      "id": 0,
+      "mal_id": 53730,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Killer Bars",
+          "artiste": "Hilcrhyme",
+          "lien": "https://nl.catbox.video/bwfw03.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Haze",
+          "artiste": "Anna Suzuki",
+          "lien": "https://nl.catbox.video/6ct4xn.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Somali to Mori no Kamisama",
       "id": 0,
       "mal_id": 39575,
@@ -28123,7 +28226,7 @@
       "nom": "Sousou no Frieren",
       "id": 0,
       "mal_id": 52991,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -28131,6 +28234,13 @@
           "nom": "Yuusha",
           "artiste": "YOASOBI",
           "lien": "https://nl.catbox.video/ba2qq1.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Haru",
+          "artiste": "Yorushika",
+          "lien": "https://nl.catbox.video/3ctu95.webm"
         },
         {
           "type": "Ending",

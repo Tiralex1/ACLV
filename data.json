@@ -1,6 +1,6 @@
 {
   "nb_anime": 769,
-  "nb_musique": 3490,
+  "nb_musique": 3495,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -12329,7 +12329,7 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Dystopia",
-          "artiste": "Sizuk",
+          "artiste": "Sizuk feat. AYAME(from AliA)",
           "lien": "https://nl.catbox.video/tuc59m.webm"
         },
         {
@@ -17629,7 +17629,7 @@
       "nom": "Kusuriya no Hitorigoto",
       "id": 0,
       "mal_id": 54492,
-      "nb_musique": 4,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -17639,11 +17639,25 @@
           "lien": "https://nl.catbox.video/7ofd1i.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Ambivalent",
+          "artiste": "Uru",
+          "lien": "https://nl.catbox.video/86jz91.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Aikotoba",
           "artiste": "AiNA THE END",
           "lien": "https://nl.catbox.video/u74wvd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ai wa Kusuri",
+          "artiste": "wacci",
+          "lien": "https://nl.catbox.video/365auo.webm"
         },
         {
           "type": "Insert Song",
@@ -19307,7 +19321,7 @@
       "nom": "Me-gumi no Daigo: Kyuukoku no Orange",
       "id": 0,
       "mal_id": 53848,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -19322,6 +19336,13 @@
           "nom": "Perfect World",
           "artiste": "LMYK",
           "lien": "https://nl.catbox.video/2kvwk7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "MISSION",
+          "artiste": "Mika Nakashima",
+          "lien": "https://nl.catbox.video/18az8c.webm"
         }
       ],
       "genres": [
@@ -21968,7 +21989,7 @@
       "nom": "One Piece",
       "id": 0,
       "mal_id": 21,
-      "nb_musique": 62,
+      "nb_musique": 64,
       "musique": [
         {
           "type": "Opening",
@@ -22146,6 +22167,13 @@
           "lien": "https://nl.catbox.video/7ub4ci.webm"
         },
         {
+          "type": "Opening",
+          "numero": 26,
+          "nom": "Uuuuus!",
+          "artiste": "Hiroshi Kitadani",
+          "lien": "https://nl.catbox.video/fsfc2w.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Memories",
@@ -22284,6 +22312,13 @@
           "nom": "Raise",
           "artiste": "Chilli Beans.",
           "lien": "https://nl.catbox.video/cmmodr.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 21,
+          "nom": "Dear sunrise",
+          "artiste": "Maki Otsuki",
+          "lien": "https://nl.catbox.video/bvi3dd.webm"
         },
         {
           "type": "Insert Song",

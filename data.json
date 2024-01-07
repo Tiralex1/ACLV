@@ -1,6 +1,6 @@
 {
-  "nb_anime": 773,
-  "nb_musique": 3503,
+  "nb_anime": 774,
+  "nb_musique": 3505,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -24146,6 +24146,31 @@
           "nom": "The Whims of Fate",
           "artiste": "Lyn",
           "lien": "https://nl.catbox.video/i0p8ru.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Persona 5 the Animation: The Day Breakers",
+      "id": 0,
+      "mal_id": 31645,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Wake Up, Get Up, Get Out There",
+          "artiste": "Lyn",
+          "lien": "https://nl.catbox.video/gwyux1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Last Surprise",
+          "artiste": "Lyn",
+          "lien": "https://nl.catbox.video/bekf57.webm"
         }
       ],
       "genres": [

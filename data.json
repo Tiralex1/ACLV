@@ -1,6 +1,6 @@
 {
-  "nb_anime": 769,
-  "nb_musique": 3495,
+  "nb_anime": 773,
+  "nb_musique": 3503,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -12917,6 +12917,31 @@
       ]
     },
     {
+      "nom": "Isekai de Mofumofu Nadenade Suru Tameni Ganbattemasu",
+      "id": 0,
+      "mal_id": 52359,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Cotton Days",
+          "artiste": "Sizuk feat. Kotoha",
+          "lien": "https://nl.catbox.video/xztt2e.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Fuwafuwa party Tsurarete happy",
+          "artiste": "harmoe",
+          "lien": "https://nl.catbox.video/579azm.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
       "id": 0,
       "mal_id": 37210,
@@ -15651,6 +15676,31 @@
       ],
       "genres": [
           1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kekkon Yubiwa Monogatari",
+      "id": 0,
+      "mal_id": 54265,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Lover's Eye",
+          "artiste": "Sizuk feat. AYAME(from AliA)",
+          "lien": "https://nl.catbox.video/rgjy57.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kokoro no Naka",
+          "artiste": "AliA",
+          "lien": "https://nl.catbox.video/wkel3q.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -21833,6 +21883,31 @@
       ]
     },
     {
+      "nom": "Nozomanu Fushi no Boukensha",
+      "id": 0,
+      "mal_id": 51648,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "IMMORTAL",
+          "artiste": "JUVENILE",
+          "lien": "https://nl.catbox.video/gy9yef.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Keep Your Fire Burning",
+          "artiste": "Mao Abe",
+          "lien": "https://nl.catbox.video/2052w0.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Oban Star-Racers",
       "id": 0,
       "mal_id": 1212,
@@ -26025,6 +26100,31 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill Mochi Tank, Yuusha Party o Tsuihou sareru",
+      "id": 0,
+      "mal_id": 56845,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Brave",
+          "artiste": "Ireisu",
+          "lien": "https://nl.catbox.video/k9p4xy.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yume no Naka de",
+          "artiste": "Ireisu",
+          "lien": "https://nl.catbox.video/jb7t6n.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

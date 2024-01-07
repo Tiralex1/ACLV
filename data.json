@@ -1,6 +1,6 @@
 {
-  "nb_anime": 770,
-  "nb_musique": 3491,
+  "nb_anime": 769,
+  "nb_musique": 3490,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1443,24 +1443,6 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
-      ]
-    },
-    {
-      "nom": "Araiya-san! Ore to Aitsu ga Onnayu de!?",
-      "id": 0,
-      "mal_id": 39337,
-      "nb_musique": 1,
-      "musique": [
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Renai☆Sensation",
-          "artiste": "Ringo Aoba & Ayaka Igasaki",
-          "lien": "https://nl.catbox.video/1bsern.webm"
-        }
-      ],
-      "genres": [
-          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {

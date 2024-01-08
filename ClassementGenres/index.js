@@ -69,6 +69,9 @@ class Anime {
         if (!typeof bool === "boolean") throw new Error("illegal Argument (ajouteUser Method in Class Anime)");
         this.#tabUsers.push(bool);
     }
+    resetUsers() {
+        this.#tabUsers = [];
+    }
     ajouteGenre(bool) {
         if (!typeof bool === "boolean") throw new Error("illegal Argument (ajouteGenre Method in Class Anime)");
         this.#tabGenres.push(bool);
@@ -163,9 +166,28 @@ async function genereData(data) {
 }
 
 function setUsersData(data) {
+    loadJsonUsers = data;
     let limitUsers = document.getElementById("inclusOnHoldDropped").checked ? 4 : 2;
     for (let i = 0; i < globalList.getNbAnime; ++i) {
         let A = globalList.getAnime(i);
+        TabStringPseudo.forEach(user => {
+            let ok = false;
+            for (let j = 1; j <= limitUsers && !ok; ++j) {
+                if (data[user][j] != undefined && data[user][j].includes(A.getMalId)) {
+                    ok = true;
+                }
+            }
+            A.ajouteUser(ok);
+        });
+    }
+    filtre();
+}
+
+function modifUsersData(data) {
+    let limitUsers = document.getElementById("inclusOnHoldDropped").checked ? 4 : 2;
+    for (let i = 0; i < globalList.getNbAnime; ++i) {
+        let A = globalList.getAnime(i);
+        A.resetUsers();
         TabStringPseudo.forEach(user => {
             let ok = false;
             for (let j = 1; j <= limitUsers && !ok; ++j) {
@@ -242,6 +264,7 @@ function filtre() {
 const TabStringUsers = ["A", "C", "L", "V", "T", "Q"];
 const TabStringPseudo = ["Tiralex1", "Cycygonzales", "49Leo", "Gyrehio", "tchm", "QGWolfWarrior"];
 const TabGenres = ["Action", "Adventure", "Comedy", "Drama", "Ecchi", "Fantasy", "Horror", "Mahou Shoujo", "Mecha", "Music", "Mystery", "Psychological", "Romance", "Sci-Fi", "Slice of Life", "Sports", "Supernatural", "Thriller"];
+var loadJsonUsers;
 
 let globalList = new ListeAnime();
 let listeFiltre = globalList;
@@ -258,7 +281,7 @@ document.querySelectorAll("input[type='checkbox'], select").forEach(el => {
 });
 
 document.getElementById("inclusOnHoldDropped").addEventListener("click", function () {
-    location.reload();
+    modifUsersData(loadJsonUsers);
 });
 
 resetFiltre();

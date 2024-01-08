@@ -1,6 +1,6 @@
 {
-  "nb_anime": 774,
-  "nb_musique": 3505,
+  "nb_anime": 776,
+  "nb_musique": 3517,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3870,6 +3870,73 @@
           "nom": "Leaping Wings",
           "artiste": "LaLa Gasshou-dan",
           "lien": "https://nl.catbox.video/mkr4tj.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Bungo Stray Dogs",
+      "id": 1,
+      "mal_id": 32867,
+      "nb_musique": 8,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Reason Living",
+          "artiste": "SCREEN mode",
+          "lien": "https://nl.catbox.video/fasdl1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kaze ga Fuku Machi",
+          "artiste": "Luck Life",
+          "lien": "https://nl.catbox.video/txfh4g.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Namae o Yobu yo",
+          "artiste": "Luck Life",
+          "lien": "https://nl.catbox.video/h71o3s.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Dormito Bene",
+          "artiste": "Yuri Shinada",
+          "lien": "https://nl.catbox.video/3bf0gv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Eye Of The Tiger",
+          "artiste": "Lotus Juice",
+          "lien": "https://nl.catbox.video/la96q1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kante",
+          "artiste": "Nahoko Kakiage",
+          "lien": "https://nl.catbox.video/r9knrz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Leaping Wings",
+          "artiste": "LaLa Gasshou-dan",
+          "lien": "https://nl.catbox.video/oe0so7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Scarlet Sky",
+          "artiste": "Kayo Ishu",
+          "lien": "https://nl.catbox.video/rfjbhi.webm"
         }
       ],
       "genres": [
@@ -26845,7 +26912,7 @@
       "nom": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
       "id": 0,
       "mal_id": 52347,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -26855,11 +26922,25 @@
           "lien": "https://nl.catbox.video/idl4pj.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Danger Danger",
+          "artiste": "FZMZ feat. icy",
+          "lien": "https://nl.catbox.video/1kme2x.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Ace",
           "artiste": "CHiCO",
           "lien": "https://nl.catbox.video/rp64o0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Gajumaru ~Heaven in the Rain~",
+          "artiste": "ReoNa",
+          "lien": "https://nl.catbox.video/v37lw1.webm"
         }
       ],
       "genres": [
@@ -26939,6 +27020,31 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita 2nd",
+      "id": 0,
+      "mal_id": 53488,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "routine life",
+          "artiste": "Yui Nishio",
+          "lien": "https://nl.catbox.video/4id553.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Michibiki, Sasagete",
+          "artiste": "JYOCHO",
+          "lien": "https://nl.catbox.video/aqykdr.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

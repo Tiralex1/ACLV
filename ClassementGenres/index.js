@@ -2,8 +2,8 @@ class Music {
     // champs
     #anime; #type; #numero; #nom; #artist; #lien;
     // constructor
-    constructor(anime, type, numero, nom, artist, lien){
-        if (anime instanceof Anime && typeof type === "string" && Number.isInteger(numero) && typeof nom === "string" && typeof artist === "string" && typeof lien === "string"){
+    constructor(anime, type, numero, nom, artist, lien) {
+        if (anime instanceof Anime && typeof type === "string" && Number.isInteger(numero) && typeof nom === "string" && typeof artist === "string" && typeof lien === "string") {
             this.#anime = anime;
             this.#type = type;
             this.#numero = numero;
@@ -27,7 +27,7 @@ class Anime {
     #nom; #id; #mal_id; #tabMusic = []; #tabGenres = []; #tabUsers = [];
     // constructor
     constructor(nom, id, mal_id, html = null) {
-        if (typeof nom === "string" && Number.isInteger(id) && Number.isInteger(mal_id)){
+        if (typeof nom === "string" && Number.isInteger(id) && Number.isInteger(mal_id)) {
             this.#nom = nom;
             this.#id = id;
             this.#mal_id = mal_id;
@@ -37,40 +37,40 @@ class Anime {
     // getters
     get getNom() { return this.#nom; }
     get getId() { return this.#id; }
-    get getLien() { return "https://myanimelist.net/anime/"+this.#mal_id; }
+    get getLien() { return "https://myanimelist.net/anime/" + this.#mal_id; }
     get getMalId() { return this.#mal_id; }
-    getMusic(ind) { 
-        if (!Number.isInteger(ind)) throw new Error ("illegal Argument (getMusic Method in Class Anime)");
-        return this.#tabMusic[ind]; 
+    getMusic(ind) {
+        if (!Number.isInteger(ind)) throw new Error("illegal Argument (getMusic Method in Class Anime)");
+        return this.#tabMusic[ind];
     }
     get getNbMusic() { return this.#tabMusic.length; }
-    getEtatUser(ind) { 
-        if (!Number.isInteger(ind)) throw new Error ("illegal Argument (getEtatUser Method in Class Anime)");
-        return this.#tabUsers[ind]; 
+    getEtatUser(ind) {
+        if (!Number.isInteger(ind)) throw new Error("illegal Argument (getEtatUser Method in Class Anime)");
+        return this.#tabUsers[ind];
     }
     getEtatGenre(ind) {
-        if (!Number.isInteger(ind)) throw new Error ("illegal Argument (getEtatGenre Method in Class Anime)");
-        return this.#tabGenres[ind]; 
+        if (!Number.isInteger(ind)) throw new Error("illegal Argument (getEtatGenre Method in Class Anime)");
+        return this.#tabGenres[ind];
     }
     // méthodes
-    ajouteMusic(music) { 
-        if (!music instanceof Music) throw new Error ("illegal Argument (ajouteMusic Method in Class Anime)");
-        this.#tabMusic.push(music); 
+    ajouteMusic(music) {
+        if (!music instanceof Music) throw new Error("illegal Argument (ajouteMusic Method in Class Anime)");
+        this.#tabMusic.push(music);
     }
-    ajoutePosMusic(music, pos) { 
-        if (!music instanceof Music || !Number.isInteger(pos)) throw new Error ("illegal Argument (ajouteMusic Method in Class Anime)");
-        this.#tabMusic.splice(pos, 0, music); 
+    ajoutePosMusic(music, pos) {
+        if (!music instanceof Music || !Number.isInteger(pos)) throw new Error("illegal Argument (ajouteMusic Method in Class Anime)");
+        this.#tabMusic.splice(pos, 0, music);
     }
-    supprimePosMusic(pos) { 
-        if (!Number.isInteger(pos)) throw new Error ("illegal Argument (supprimePosMusic Method in Class Anime)");
+    supprimePosMusic(pos) {
+        if (!Number.isInteger(pos)) throw new Error("illegal Argument (supprimePosMusic Method in Class Anime)");
         this.#tabMusic.splice(pos, 1);
     }
-    ajouteUser(bool) { 
-        if (!typeof bool === "boolean") throw new Error ("illegal Argument (ajouteUser Method in Class Anime)");
-        this.#tabUsers.push(bool); 
+    ajouteUser(bool) {
+        if (!typeof bool === "boolean") throw new Error("illegal Argument (ajouteUser Method in Class Anime)");
+        this.#tabUsers.push(bool);
     }
     ajouteGenre(bool) {
-        if (!typeof bool === "boolean") throw new Error ("illegal Argument (ajouteGenre Method in Class Anime)");
+        if (!typeof bool === "boolean") throw new Error("illegal Argument (ajouteGenre Method in Class Anime)");
         this.#tabGenres.push(bool);
     }
 }
@@ -108,40 +108,39 @@ async function resetFiltre() {
 
 function listeParGenre(listeAnime, genre) {
     var listeA = new ListeAnime();
-    for (var i = 0 ; i < listeAnime.getNbAnime; ++i){
+    for (var i = 0; i < listeAnime.getNbAnime; ++i) {
         if (listeAnime.getAnime(i).getEtatGenre(genre)) listeA.ajouteAnime(listeAnime.getAnime(i));
     }
     return listeA;
 }
 
-function classementGenres(){
+function classementGenres() {
     let tabClassementGenre = [];
-    for (let i = 0 ; i < TabGenres.length ; ++i){
-        tabClassementGenre.push([TabGenres[i],listeParGenre(listeFiltre, i)]);
+    for (let i = 0; i < TabGenres.length; ++i) {
+        tabClassementGenre.push([TabGenres[i], listeParGenre(listeFiltre, i)]);
     }
-    tabClassementGenre.sort(function(liste1, liste2){
+    tabClassementGenre.sort(function (liste1, liste2) {
         if (liste1[1].getNbAnime != liste2[1].getNbAnime) return liste2[1].getNbAnime - liste1[1].getNbAnime;
         else return liste2[1].getNbMusic - liste1[1].getNbMusic;
     });
     document.querySelector("#info").innerHTML = "&nbsp;Nb Anime: " + listeFiltre.getNbAnime + " | Nb Musique: " + listeFiltre.getNbMusic;
     let tds = document.querySelectorAll("td");
-    for (let i = 0 ; i < tabClassementGenre.length ; ++i){
-        tds[i*5+1].textContent = tabClassementGenre[i][0];
-        tds[i*5+2].textContent = tabClassementGenre[i][1].getNbAnime;
-        tds[i*5+3].textContent = tabClassementGenre[i][1].getNbMusic;
-        tds[i*5+4].textContent = (Math.round((tabClassementGenre[i][1].getNbAnime*100/listeFiltre.getNbAnime)*1000)/1000);
-        //((i+1) + " - " + tabClassementGenre[i][0] + " " + tabClassementGenre[i][1].getNbAnime + " anime(s), " + tabClassementGenre[i][1].getNbMusic + " musique(s) " + Math.round((tabClassementGenre[i][1].getNbAnime*100/listeFiltre.getNbAnime)*1000)/1000 + "%" + "\n");
+    for (let i = 0; i < tabClassementGenre.length; ++i) {
+        tds[i * 5 + 1].textContent = tabClassementGenre[i][0];
+        tds[i * 5 + 2].textContent = tabClassementGenre[i][1].getNbAnime;
+        tds[i * 5 + 3].textContent = tabClassementGenre[i][1].getNbMusic;
+        tds[i * 5 + 4].textContent = (Math.round((tabClassementGenre[i][1].getNbAnime * 100 / listeFiltre.getNbAnime) * 1000) / 1000);
     }
 }
 
-async function lancementData(){
-    await doCorsRequest("get","../data.json", genereData);
+async function lancementData() {
+    await doCorsRequest("get", "../data.json", genereData);
 }
 
-async function doCorsRequest(method, url, funct){
+async function doCorsRequest(method, url, funct) {
     let x = new XMLHttpRequest();
-    x.open(method,url);
-    x.onload = x.onerror = function(){
+    x.open(method, url);
+    x.onload = x.onerror = function () {
         let res = x.responseText;
         res = JSON.parse(res);
         funct(res);
@@ -157,20 +156,20 @@ async function genereData(data) {
             A.ajouteMusic(M);
         });
         let genres = anime.genres;
-        for (let i = 0 ; i < TabGenres.length ; ++i) A.ajouteGenre(genres[i]);
+        for (let i = 0; i < TabGenres.length; ++i) A.ajouteGenre(genres[i]);
         globalList.ajouteAnime(A);
     });
-    doCorsRequest("get","../loadJsonUsers.json", setUsersData);
+    doCorsRequest("get", "../loadJsonUsers.json", setUsersData);
 }
 
-function setUsersData(data){
+function setUsersData(data) {
     let limitUsers = document.getElementById("inclusOnHoldDropped").checked ? 4 : 2;
-    for (let i = 0 ; i < globalList.getNbAnime ; ++i){
+    for (let i = 0; i < globalList.getNbAnime; ++i) {
         let A = globalList.getAnime(i);
         TabStringPseudo.forEach(user => {
             let ok = false;
-            for (let j = 1 ; j <= limitUsers && !ok ; ++j){
-                if (data[user][j] != undefined && data[user][j].includes(A.getMalId)){
+            for (let j = 1; j <= limitUsers && !ok; ++j) {
+                if (data[user][j] != undefined && data[user][j].includes(A.getMalId)) {
                     ok = true;
                 }
             }
@@ -186,7 +185,7 @@ function filtreUsersUnion(listeFiltreAnime, tabUsersVal) {
         var stop = false;
         var j = 0;
         while (j < TabStringUsers.length && !stop) {
-            if(tabUsersVal[j].checked && listeFiltreAnime.getAnime(i).getEtatUser(j)) stop = true;
+            if (tabUsersVal[j].checked && listeFiltreAnime.getAnime(i).getEtatUser(j)) stop = true;
             if (stop) listeA.ajouteAnime(listeFiltreAnime.getAnime(i));
             else j++;
         }
@@ -200,7 +199,7 @@ function filtreUsersIntersection(listeFiltreAnime, tabUsersVal) {
         var stop = false;
         var j = 0;
         while (j < TabStringUsers.length && !stop) {
-            if(tabUsersVal[j].checked && !listeFiltreAnime.getAnime(i).getEtatUser(j)) stop = true;
+            if (tabUsersVal[j].checked && !listeFiltreAnime.getAnime(i).getEtatUser(j)) stop = true;
             else j++;
         }
         if (!stop) listeA.ajouteAnime(listeFiltreAnime.getAnime(i));
@@ -214,7 +213,7 @@ function filtreUsersExact(listeFiltreAnime, tabUsersVal) {
         var stop = false;
         var j = 0;
         while (j < TabStringUsers.length && !stop) {
-            if(tabUsersVal[j].checked != listeFiltreAnime.getAnime(i).getEtatUser(j)) stop = true;
+            if (tabUsersVal[j].checked != listeFiltreAnime.getAnime(i).getEtatUser(j)) stop = true;
             j++;
         }
         if (!stop) listeA.ajouteAnime(listeFiltreAnime.getAnime(i));
@@ -222,15 +221,15 @@ function filtreUsersExact(listeFiltreAnime, tabUsersVal) {
     return listeA;
 }
 
-function checkboxListeModif(tabUsersVal){
-    for (let i = 0 ; i < TabStringUsers.length ; ++i) if (tabUsersVal[i]) return true;
+function checkboxListeModif(tabUsersVal) {
+    for (let i = 0; i < TabStringUsers.length; ++i) if (tabUsersVal[i]) return true;
     return false;
 }
 
 function filtre() {
     let listeFiltreAnime = globalList;
 
-    let tabUsersVal = [A,C,L,V,T,Q];
+    let tabUsersVal = [A, C, L, V, T, Q];
     let val = filtreJointureSelect.value;
     if (val == "Union" && checkboxListeModif(tabUsersVal)) { listeFiltreAnime = filtreUsersUnion(listeFiltreAnime, tabUsersVal); }
     else if (val == "Intersection") { listeFiltreAnime = filtreUsersIntersection(listeFiltreAnime, tabUsersVal); }
@@ -254,11 +253,11 @@ let V = document.getElementById("V");
 let T = document.getElementById("T");
 let Q = document.getElementById("Q");
 
-document.querySelectorAll("input[type='checkbox']").forEach(el => {
+document.querySelectorAll("input[type='checkbox'], select").forEach(el => {
     el.addEventListener("click", () => filtre());
 });
 
-document.getElementById("inclusOnHoldDropped").addEventListener("click", function(){
+document.getElementById("inclusOnHoldDropped").addEventListener("click", function () {
     location.reload();
 });
 

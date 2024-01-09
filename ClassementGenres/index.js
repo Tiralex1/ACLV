@@ -117,10 +117,24 @@ function listeParGenre(listeAnime, genre) {
     return listeA;
 }
 
+function construitObjectStats(object, liste) {
+    for (let i = 0; i < liste.getNbAnime; ++i) {
+        let CurrentAnime = liste.getAnime(i);
+        if (CurrentAnime.getEtatUser(0)) object['A']++;
+        if (CurrentAnime.getEtatUser(1)) object['C']++;
+        if (CurrentAnime.getEtatUser(2)) object['L']++;
+        if (CurrentAnime.getEtatUser(3)) object['V']++;
+        if (CurrentAnime.getEtatUser(4)) object['T']++;
+        if (CurrentAnime.getEtatUser(5)) object['Q']++;
+    }
+    return object;
+}
+
 function classementGenres() {
     let tabClassementGenre = [];
     for (let i = 0; i < TabGenres.length; ++i) {
-        tabClassementGenre.push([TabGenres[i], listeParGenre(listeFiltre, i)]);
+        tabClassementGenre.push([TabGenres[i], listeParGenre(listeFiltre, i), {}]);
+        tabClassementGenre[tabClassementGenre.length - 1][2] = construitObjectStats({ A: 0, C: 0, L: 0, V: 0, T: 0, Q: 0 }, tabClassementGenre[tabClassementGenre.length - 1][1]);
     }
     tabClassementGenre.sort(function (liste1, liste2) {
         if (liste1[1].getNbAnime != liste2[1].getNbAnime) return liste2[1].getNbAnime - liste1[1].getNbAnime;
@@ -129,10 +143,16 @@ function classementGenres() {
     document.querySelector("#info").innerHTML = "&nbsp;Nb Anime: " + listeFiltre.getNbAnime + " | Nb Musique: " + listeFiltre.getNbMusic;
     let tds = document.querySelectorAll("td");
     for (let i = 0; i < tabClassementGenre.length; ++i) {
-        tds[i * 5 + 1].textContent = tabClassementGenre[i][0];
-        tds[i * 5 + 2].textContent = tabClassementGenre[i][1].getNbAnime;
-        tds[i * 5 + 3].textContent = tabClassementGenre[i][1].getNbMusic;
-        tds[i * 5 + 4].textContent = (Math.round((tabClassementGenre[i][1].getNbAnime * 100 / listeFiltre.getNbAnime) * 1000) / 1000);
+        tds[i * 11 + 1].textContent = tabClassementGenre[i][0];
+        tds[i * 11 + 2].textContent = tabClassementGenre[i][1].getNbAnime;
+        tds[i * 11 + 3].textContent = tabClassementGenre[i][1].getNbMusic;
+        tds[i * 11 + 4].textContent = (Math.round((tabClassementGenre[i][1].getNbAnime * 100 / listeFiltre.getNbAnime) * 1000) / 1000);
+        tds[i * 11 + 5].textContent = Math.round(tabClassementGenre[i][2]['A'] / tabClassementGenre[i][1].getNbAnime * 100000) / 1000;
+        tds[i * 11 + 6].textContent = Math.round(tabClassementGenre[i][2]['C'] / tabClassementGenre[i][1].getNbAnime * 100000) / 1000;
+        tds[i * 11 + 7].textContent = Math.round(tabClassementGenre[i][2]['L'] / tabClassementGenre[i][1].getNbAnime * 100000) / 1000;
+        tds[i * 11 + 8].textContent = Math.round(tabClassementGenre[i][2]['V'] / tabClassementGenre[i][1].getNbAnime * 100000) / 1000;
+        tds[i * 11 + 9].textContent = Math.round(tabClassementGenre[i][2]['T'] / tabClassementGenre[i][1].getNbAnime * 100000) / 1000;
+        tds[i * 11 + 10].textContent = Math.round(tabClassementGenre[i][2]['Q'] / tabClassementGenre[i][1].getNbAnime * 100000) / 1000;
     }
 }
 

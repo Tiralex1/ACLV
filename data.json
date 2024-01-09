@@ -1,6 +1,6 @@
 {
-  "nb_anime": 776,
-  "nb_musique": 3517,
+  "nb_anime": 779,
+  "nb_musique": 3523,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -11886,6 +11886,31 @@
       ]
     },
     {
+      "nom": "Hime-sama, "Goumon" no Jikan desu",
+      "id": 0,
+      "mal_id": 55774,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Massakasa Magic!",
+          "artiste": "shallm",
+          "lien": "https://nl.catbox.video/qb1kf4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ashita wa Ashita no Kaze ga Fuku",
+          "artiste": "LEEVELLES",
+          "lien": "https://nl.catbox.video/clxh3e.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Hirune Hime: Shiranai Watashi no Monogatari",
       "id": 0,
       "mal_id": 33204,
@@ -19382,6 +19407,31 @@
       ],
       "genres": [
           1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Mashle: Shinkakusha Kouho Senbatsu Shiken-hen",
+      "id": 0,
+      "mal_id": 55813,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Bling-Bang-Bang-Born",
+          "artiste": "Creepy Nuts",
+          "lien": "https://nl.catbox.video/7yzf44.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tokyo's Way",
+          "artiste": "Shiritsu Ebisu Chugaku",
+          "lien": "https://nl.catbox.video/u9y1ts.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -31591,6 +31641,31 @@
       ],
       "genres": [
           1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Tsuki ga Michibiku Isekai Douchuu Dai Ni Shou",
+      "id": 0,
+      "mal_id": 49889,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Utopia",
+          "artiste": "Keina Suda",
+          "lien": "https://nl.catbox.video/p168kb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ah Jinsei ni Namida Ari",
+          "artiste": "Natsuki Hanae & Kenjiro Tsuda",
+          "lien": "https://nl.catbox.video/xn6mn3.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

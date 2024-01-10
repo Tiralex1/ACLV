@@ -1,6 +1,6 @@
 {
   "nb_anime": 779,
-  "nb_musique": 3523,
+  "nb_musique": 3525,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -19413,7 +19413,7 @@
       "nom": "Mashle: Shinkakusha Kouho Senbatsu Shiken-hen",
       "id": 0,
       "mal_id": 55813,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -19426,8 +19426,22 @@
           "type": "Ending",
           "numero": 1,
           "nom": "Tokyo's Way",
-          "artiste": "Shiritsu Ebisu Chugaku",
+          "artiste": "Shiritsu Ebisu Chuugaku",
           "lien": "https://nl.catbox.video/u9y1ts.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Block Walk Talk",
+          "artiste": "King Marino",
+          "lien": "https://nl.catbox.video/jtej99.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hazardous Reaction",
+          "artiste": "DxshMusic",
+          "lien": "https://nl.catbox.video/n12mhk.webm"
         }
       ],
       "genres": [

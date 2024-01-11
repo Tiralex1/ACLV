@@ -3954,7 +3954,7 @@
           "numero": 1,
           "nom": "TRASH CANDY",
           "artiste": "GRANRODEO",
-          "lien": "https://nl.catbox.video/ya38xy.webm?"
+          "lien": "https://nl.catbox.video/ya38xy.webm"
         },
         {
           "type": "Ending",
@@ -29763,39 +29763,7 @@
     {
       "nom": "Synduality: Noir",
       "id": 0,
-      "mal_id": 7,
-      "nb_musique": 3,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Aire",
-          "artiste": "ARCANA PROJECT",
-          "lien": "https://nl.catbox.video/84ocw5.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Drifters",
-          "artiste": "STEREO DIVE FOUNDATION",
-          "lien": "https://nl.catbox.video/3aen4r.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "YOU&(A)I",
-          "artiste": "Nagisa Aoyama",
-          "lien": "https://nl.catbox.video/wjy27b.webm"
-        }
-      ],
-      "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-      ]
-    },
-    {
-      "nom": "Synduality: Noir",
-      "id": 0,
-      "mal_id": 56731,
+      "mal_id": 53026,
       "nb_musique": 4,
       "musique": [
         {
@@ -29825,6 +29793,38 @@
           "nom": "YOU&(A)I",
           "artiste": "Nagisa Aoyama",
           "lien": "https://nl.catbox.video/f03t29.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Synduality: Noir",
+      "id": 1,
+      "mal_id": 56731,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Aire",
+          "artiste": "ARCANA PROJECT",
+          "lien": "https://nl.catbox.video/84ocw5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Drifters",
+          "artiste": "STEREO DIVE FOUNDATION",
+          "lien": "https://nl.catbox.video/3aen4r.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "YOU&(A)I",
+          "artiste": "Nagisa Aoyama",
+          "lien": "https://nl.catbox.video/wjy27b.webm"
         }
       ],
       "genres": [
@@ -32684,7 +32684,7 @@
           "numero": 2,
           "nom": "Kuchizuke Diamond",
           "artiste": "WEAVER",
-          "lien": "https://nl.catbox.video/cn4qdl.webm?"
+          "lien": "https://files.catbox.video/cn4qdl.webm"
         },
         {
           "type": "Ending",

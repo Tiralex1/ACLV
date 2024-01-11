@@ -1,6 +1,6 @@
 {
-  "nb_anime": 779,
-  "nb_musique": 3525,
+  "nb_anime": 784,
+  "nb_musique": 3536,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3937,6 +3937,31 @@
           "nom": "Scarlet Sky",
           "artiste": "Kayo Ishu",
           "lien": "https://nl.catbox.video/rfjbhi.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Bungo Stray Dogs: Hitori Ayumu",
+      "id": 0,
+      "mal_id": 33071,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "TRASH CANDY",
+          "artiste": "GRANRODEO",
+          "lien": "https://nl.catbox.video/ya38xy.webm?"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Namae o Yobu yo",
+          "artiste": "Luck Life",
+          "lien": "https://nl.catbox.video/qog4fn.webm"
         }
       ],
       "genres": [
@@ -13439,6 +13464,31 @@
       ]
     },
     {
+      "nom": "Ishura",
+      "id": 0,
+      "mal_id": 54449,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shura ni Otoshite",
+          "artiste": "sajou no hana",
+          "lien": "https://nl.catbox.video/teit6z.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hakka",
+          "artiste": "Konomi Suzuki",
+          "lien": "https://nl.catbox.video/dvng15.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Ishuzoku Reviewers",
       "id": 0,
       "mal_id": 40010,
@@ -13773,6 +13823,31 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Jaku-Chara Tomozaki-kun 2nd Stage",
+      "id": 0,
+      "mal_id": 50803,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Easy? Hard? Shikashite Susume!",
+          "artiste": "DIALOGUE+",
+          "lien": "https://nl.catbox.video/hlyqyk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Dare ka ja Nai kara",
+          "artiste": "DIALOGUE+",
+          "lien": "https://nl.catbox.video/5u81md.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -29688,7 +29763,39 @@
     {
       "nom": "Synduality: Noir",
       "id": 0,
-      "mal_id": 53026,
+      "mal_id": 7,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Aire",
+          "artiste": "ARCANA PROJECT",
+          "lien": "https://nl.catbox.video/84ocw5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Drifters",
+          "artiste": "STEREO DIVE FOUNDATION",
+          "lien": "https://nl.catbox.video/3aen4r.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "YOU&(A)I",
+          "artiste": "Nagisa Aoyama",
+          "lien": "https://nl.catbox.video/wjy27b.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Synduality: Noir",
+      "id": 0,
+      "mal_id": 56731,
       "nb_musique": 4,
       "musique": [
         {
@@ -32577,7 +32684,7 @@
           "numero": 2,
           "nom": "Kuchizuke Diamond",
           "artiste": "WEAVER",
-          "lien": "https://files.catbox.video/cn4qdl.webm"
+          "lien": "https://nl.catbox.video/cn4qdl.webm?"
         },
         {
           "type": "Ending",
@@ -32806,6 +32913,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+      "id": 0,
+      "mal_id": 51180,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Minor Piece",
+          "artiste": "ZAQ",
+          "lien": "https://nl.catbox.video/f6f85o.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Konse Daikakumei",
+          "artiste": "Yui Ninomiya",
+          "lien": "https://nl.catbox.video/8p3j68.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

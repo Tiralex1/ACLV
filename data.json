@@ -1,6 +1,6 @@
 {
-  "nb_anime": 784,
-  "nb_musique": 3536,
+  "nb_anime": 786,
+  "nb_musique": 3539,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -7161,6 +7161,31 @@
       ]
     },
     {
+      "nom": "Dungeon Meshi",
+      "id": 0,
+      "mal_id": 52701,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Sleep Walking Orchestra",
+          "artiste": "BUMP OF CHICKEN",
+          "lien": "https://nl.catbox.video/xmuzrt.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Party!!",
+          "artiste": "Ryokuoushoku Shakai",
+          "lien": "https://nl.catbox.video/05vq0f.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Edens Zero",
       "id": 0,
       "mal_id": 42192,
@@ -13485,7 +13510,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -13847,7 +13872,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -19191,6 +19216,24 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Majo to Yajuu",
+      "id": 0,
+      "mal_id": 52816,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Soumonka",
+          "artiste": "Sokoninaru",
+          "lien": "https://nl.catbox.video/g3srj4.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -32937,7 +32980,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
       ]
     },
     {

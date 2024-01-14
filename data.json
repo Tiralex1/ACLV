@@ -1,6 +1,6 @@
 {
-  "nb_anime": 786,
-  "nb_musique": 3539,
+  "nb_anime": 789,
+  "nb_musique": 3545,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3799,6 +3799,31 @@
       ]
     },
     {
+      "nom": "Bucchigiri?!",
+      "id": 0,
+      "mal_id": 55358,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Sesame",
+          "artiste": "Kroi",
+          "lien": "https://nl.catbox.video/x39qt6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Love Je t'aime",
+          "artiste": "Mahiru Coda",
+          "lien": "https://nl.catbox.video/l8aq69.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Buddy Daddies",
       "id": 0,
       "mal_id": 53411,
@@ -4334,6 +4359,31 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Chiyu Mahou no Machigatta Tsukaikata",
+      "id": 0,
+      "mal_id": 49613,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Cure",
+          "artiste": "waterweed",
+          "lien": "https://nl.catbox.video/bfsvou.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Green jade",
+          "artiste": "ChouCho",
+          "lien": "https://nl.catbox.video/b0lnlg.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -23040,6 +23090,31 @@
       ],
       "genres": [
           1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Ore dake Level Up na Ken",
+      "id": 0,
+      "mal_id": 52299,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "LEveL",
+          "artiste": "SawanoHiroyuki[nZk]:TOMORROW X TOGETHER",
+          "lien": "https://nl.catbox.video/o4mj2m.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "request",
+          "artiste": "krage",
+          "lien": "https://nl.catbox.video/3wl513.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

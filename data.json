@@ -1,6 +1,6 @@
 {
   "nb_anime": 789,
-  "nb_musique": 3545,
+  "nb_musique": 3547,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -25432,7 +25432,7 @@
       "nom": "Ragna Crimson",
       "id": 0,
       "mal_id": 51297,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -25442,11 +25442,25 @@
           "lien": "https://nl.catbox.video/ix3k8k.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Kannousei Liberation",
+          "artiste": "saji",
+          "lien": "https://nl.catbox.video/28mrjv.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Rinkaku",
           "artiste": "Watashi Kobayashi",
           "lien": "https://nl.catbox.video/hiyrfi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Sora ni Shime Yuu",
+          "artiste": "Watashi Kobayashi",
+          "lien": "https://nl.catbox.video/h6shn5.webm"
         }
       ],
       "genres": [

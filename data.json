@@ -1,6 +1,6 @@
 {
   "nb_anime": 789,
-  "nb_musique": 3547,
+  "nb_musique": 3548,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -31900,7 +31900,7 @@
       "nom": "Tsuki ga Michibiku Isekai Douchuu Dai Ni Shou",
       "id": 0,
       "mal_id": 49889,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -31915,6 +31915,13 @@
           "nom": "Ah Jinsei ni Namida Ari",
           "artiste": "Natsuki Hanae & Kenjiro Tsuda",
           "lien": "https://nl.catbox.video/xn6mn3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "My Factor",
+          "artiste": "Kent Itou",
+          "lien": "https://nl.catbox.video/iix9d6.webm"
         }
       ],
       "genres": [

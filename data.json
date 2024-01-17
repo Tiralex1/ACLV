@@ -1,6 +1,6 @@
 {
-  "nb_anime": 789,
-  "nb_musique": 3548,
+  "nb_anime": 790,
+  "nb_musique": 3551,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1029,6 +1029,38 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou de wa Arimasen",
+      "id": 0,
+      "mal_id": 54837,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "LOVE or HATE?",
+          "artiste": "Mayu Maeshima",
+          "lien": "https://nl.catbox.video/mgrfuu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Suki ga Rebechi",
+          "artiste": "Rina Hidaka & Fairouz Ai",
+          "lien": "https://nl.catbox.video/4srg59.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ray of Light",
+          "artiste": "HaNaTan",
+          "lien": "https://nl.catbox.video/erknf4.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -25250,7 +25282,7 @@
           "type": "Ending",
           "numero": 2,
           "nom": "Fuusen Hikou",
-          "artiste": "Kento Itou & Ryuichi Kijima",
+          "artiste": "Kent Itou & Ryuichi Kijima",
           "lien": "https://nl.catbox.video/bkrktx.webm"
         },
         {
@@ -25278,7 +25310,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Bansaku neender",
-          "artiste": "Kento Itou & Ryuichi Kijima",
+          "artiste": "Kent Itou & Ryuichi Kijima",
           "lien": "https://nl.catbox.video/nx0xbd.webm"
         },
         {
@@ -25292,7 +25324,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Popuko ni Sauce",
-          "artiste": "Kento Itou & Ryuichi Kijima",
+          "artiste": "Kent Itou & Ryuichi Kijima",
           "lien": "https://nl.catbox.video/xlv73h.webm"
         }
       ],

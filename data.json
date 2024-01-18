@@ -1,6 +1,6 @@
 {
-  "nb_anime": 790,
-  "nb_musique": 3551,
+  "nb_anime": 791,
+  "nb_musique": 3553,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -19852,6 +19852,31 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Metallic Rouge",
+      "id": 0,
+      "mal_id": 54794,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Rouge",
+          "artiste": "YU-KA",
+          "lien": "https://nl.catbox.video/ub78vk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Scarlet",
+          "artiste": "DAZBEE",
+          "lien": "https://nl.catbox.video/rq0udy.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

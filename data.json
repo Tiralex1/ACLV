@@ -1,6 +1,6 @@
 {
-  "nb_anime": 791,
-  "nb_musique": 3553,
+  "nb_anime": 792,
+  "nb_musique": 3558,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -19304,7 +19304,7 @@
       "nom": "Majo to Yajuu",
       "id": 0,
       "mal_id": 52816,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -19312,6 +19312,13 @@
           "nom": "Soumonka",
           "artiste": "Sokoninaru",
           "lien": "https://nl.catbox.video/g3srj4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hikari no Trill",
+          "artiste": "Yoshino Nanjo",
+          "lien": "https://nl.catbox.video/7nh2ti.webm"
         }
       ],
       "genres": [
@@ -19674,6 +19681,31 @@
       ]
     },
     {
+      "nom": "Mato Seihei no Slave",
+      "id": 0,
+      "mal_id": 50392,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Yume no Ito",
+          "artiste": "Akari Kitou",
+          "lien": "https://nl.catbox.video/a67giv.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "CHA∞IN",
+          "artiste": "Maaya Uchida",
+          "lien": "https://nl.catbox.video/4hsql7.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Mayonaka no Occult Koumuin",
       "id": 0,
       "mal_id": 37964,
@@ -19876,7 +19908,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -32185,7 +32217,7 @@
       "nom": "Undead Unluck",
       "id": 0,
       "mal_id": 52741,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -32195,11 +32227,25 @@
           "lien": "https://nl.catbox.video/es9fqf.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Love Call",
+          "artiste": "Shiyui",
+          "lien": "https://nl.catbox.video/elz5dw.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "know me...",
           "artiste": "Kairi Yagi",
           "lien": "https://nl.catbox.video/5cq1es.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kono Ai ni Kanau Mon wa Nai",
+          "artiste": "OKAMOTO'S",
+          "lien": "https://nl.catbox.video/5bi5gb.webm"
         }
       ],
       "genres": [

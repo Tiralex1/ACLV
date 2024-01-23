@@ -1,6 +1,6 @@
 {
   "nb_anime": 794,
-  "nb_musique": 3581,
+  "nb_musique": 3582,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -19957,7 +19957,7 @@
       "nom": "Metallic Rouge",
       "id": 0,
       "mal_id": 54794,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -19972,6 +19972,13 @@
           "nom": "Scarlet",
           "artiste": "DAZBEE",
           "lien": "https://nl.catbox.video/rq0udy.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Falling Starlight and Moonlight",
+          "artiste": "Celiena Ann",
+          "lien": "https://nl.catbox.video/13zcdy.webm"
         }
       ],
       "genres": [

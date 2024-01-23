@@ -1,6 +1,6 @@
 {
-  "nb_anime": 792,
-  "nb_musique": 3558,
+  "nb_anime": 794,
+  "nb_musique": 3581,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3994,6 +3994,73 @@
           "nom": "Scarlet Sky",
           "artiste": "Kayo Ishu",
           "lien": "https://nl.catbox.video/rfjbhi.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Bungo Stray Dogs: Dead Apple",
+      "id": 0,
+      "mal_id": 34944,
+      "nb_musique": 8,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Deadly Drive",
+          "artiste": "GRANRODEO",
+          "lien": "https://nl.catbox.video/8m7aic.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Bokura",
+          "artiste": "Luck Life",
+          "lien": "https://nl.catbox.video/o66ogo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Dear Prince",
+          "artiste": "Kayo Ishu",
+          "lien": "https://nl.catbox.video/r13muu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Le Cheval Noir",
+          "artiste": "Yuri Shinada",
+          "lien": "https://nl.catbox.video/j6uu8r.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mein Prinz",
+          "artiste": "Yuri Shinada",
+          "lien": "https://nl.catbox.video/zk2hmz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Nestiio",
+          "artiste": "Nahoko Kakiage",
+          "lien": "https://nl.catbox.video/k8hh9f.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Reason Living",
+          "artiste": "SCREEN mode",
+          "lien": "https://nl.catbox.video/3fwsce.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Wake Up Call",
+          "artiste": "Lotus Juice",
+          "lien": "https://nl.catbox.video/dle8op.webm"
         }
       ],
       "genres": [
@@ -24461,6 +24528,122 @@
       ],
       "genres": [
           0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Persona 4 the Golden Animation",
+      "id": 0,
+      "mal_id": 24075,
+      "nb_musique": 15,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shadow World",
+          "artiste": "Shihoko Hirata",
+          "lien": "https://nl.catbox.video/ol6auq.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Next Chance to Move On",
+          "artiste": "Shihoko Hirata",
+          "lien": "https://nl.catbox.video/ddfe7g.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "key plus words",
+          "artiste": "Shihoko Hirata feat. Yumi Kawamura",
+          "lien": "https://nl.catbox.video/xnr533.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Dazzling Smile",
+          "artiste": "Shihoko Hirata",
+          "lien": "https://nl.catbox.video/vq4vxl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Subete no Hito no Tamashii no Uta",
+          "artiste": "Tomoko Komiya",
+          "lien": "https://nl.catbox.video/txypu0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Dazzling Smile",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.video/symvak.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Never More",
+          "artiste": "Shihoko Hirata",
+          "lien": "https://nl.catbox.video/cvuxyy.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Falling into Right Places",
+          "artiste": "Shihoko Hirata",
+          "lien": "https://nl.catbox.video/wsabdt.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Just Like the Wind",
+          "artiste": "Shihoko Hirata",
+          "lien": "https://nl.catbox.video/d3c5oz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "My eyes only",
+          "artiste": "Shihoko Hirata",
+          "lien": "https://nl.catbox.video/piccqa.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Reach Out To The Truth -First Battle-",
+          "artiste": "Shihoko Hirata",
+          "lien": "https://nl.catbox.video/8lsgvx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Signs Of Love [Reincarnation ver.]",
+          "artiste": "Shihoko Hirata",
+          "lien": "https://nl.catbox.video/8fx59f.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Time To Make History",
+          "artiste": "Shihoko Hirata",
+          "lien": "https://nl.catbox.video/qoopup.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "True story",
+          "artiste": "Rie Kugimiya & Kana Hanazawa",
+          "lien": "https://nl.catbox.video/1702qz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ying Yang",
+          "artiste": "Shihoko Hirata & Lotus Juice",
+          "lien": "https://nl.catbox.video/dj6xym.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1
       ]
     },
     {

@@ -81,6 +81,14 @@
             ]
         },
         {
+            "songName": "Reason Living",
+            "artist": "SCREEN mode",
+            "types": [
+                "opening 1",
+                "insert song"
+            ]
+        },
+        {
             "songName": "Sparkling Daydream",
             "artist": "ZAQ",
             "types": [
@@ -392,6 +400,22 @@
             "types": [
                 "opening 1",
                 "insert song"
+            ]
+        },
+        {
+            "songName": "key plus words",
+            "artist": "Shihoko Hirata feat. Yumi Kawamura",
+            "types": [
+                "opening 4",
+                "opening 3"
+            ]
+        },
+        {
+            "songName": "Never More",
+            "artist": "Shihoko Hirata",
+            "types": [
+                "ending 5",
+                "ending 4"
             ]
         },
         {

@@ -1,6 +1,6 @@
 {
   "nb_anime": 794,
-  "nb_musique": 3582,
+  "nb_musique": 3584,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -19957,7 +19957,7 @@
       "nom": "Metallic Rouge",
       "id": 0,
       "mal_id": 54794,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -19972,6 +19972,20 @@
           "nom": "Scarlet",
           "artiste": "DAZBEE",
           "lien": "https://nl.catbox.video/rq0udy.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Crimson Lightning",
+          "artiste": "Toft Willingham",
+          "lien": "https://nl.catbox.video/an66j8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Crimson Lightning~Action",
+          "artiste": "Toft Willingham",
+          "lien": "https://nl.catbox.video/mf6pyo.webm"
         },
         {
           "type": "Insert Song",

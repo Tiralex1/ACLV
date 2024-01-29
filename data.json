@@ -1,6 +1,6 @@
 {
   "nb_anime": 794,
-  "nb_musique": 3584,
+  "nb_musique": 3585,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -18020,7 +18020,7 @@
       "nom": "Kusuriya no Hitorigoto",
       "id": 0,
       "mal_id": 54492,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -18063,6 +18063,13 @@
           "nom": "Omoikaze",
           "artiste": "Yuiko Ohara",
           "lien": "https://nl.catbox.video/tg19e4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Secchuuka",
+          "artiste": "Kanako Kishi",
+          "lien": "https://nl.catbox.video/x4m0to.webm"
         }
       ],
       "genres": [

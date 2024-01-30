@@ -1,6 +1,6 @@
 {
-  "nb_anime": 794,
-  "nb_musique": 3585,
+  "nb_anime": 795,
+  "nb_musique": 3587,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -33416,6 +33416,31 @@
       ],
       "genres": [
           0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Yubisaki to Renren",
+      "id": 0,
+      "mal_id": 55866,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Yuki no Ne",
+          "artiste": "Novelbright",
+          "lien": "https://nl.catbox.video/d9db1h.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "snowspring",
+          "artiste": "ChoQMay",
+          "lien": "https://nl.catbox.video/dygyly.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {

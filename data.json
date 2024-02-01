@@ -1,6 +1,6 @@
 {
   "nb_anime": 795,
-  "nb_musique": 3587,
+  "nb_musique": 3591,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3834,7 +3834,7 @@
       "nom": "Bucchigiri?!",
       "id": 0,
       "mal_id": 55358,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -3849,6 +3849,13 @@
           "nom": "Love Je t'aime",
           "artiste": "Mahiru Coda",
           "lien": "https://nl.catbox.video/l8aq69.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "God Mode",
+          "artiste": "BALLISTIK BOYZ from EXILE TRIBE",
+          "lien": "https://nl.catbox.video/n7oa3x.webm"
         }
       ],
       "genres": [
@@ -14003,7 +14010,7 @@
       "nom": "Jaku-Chara Tomozaki-kun 2nd Stage",
       "id": 0,
       "mal_id": 50803,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -14018,6 +14025,13 @@
           "nom": "Dare ka ja Nai kara",
           "artiste": "DIALOGUE+",
           "lien": "https://nl.catbox.video/5u81md.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Friend Fanfare",
+          "artiste": "DIALOGUE+",
+          "lien": "https://nl.catbox.video/b0lp05.webm"
         }
       ],
       "genres": [
@@ -19964,7 +19978,7 @@
       "nom": "Metallic Rouge",
       "id": 0,
       "mal_id": 54794,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -20000,6 +20014,13 @@
           "nom": "Falling Starlight and Moonlight",
           "artiste": "Celeina Ann",
           "lien": "https://nl.catbox.video/13zcdy.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Falling Starlight and Moonlight",
+          "artiste": "Mizuki Kamata",
+          "lien": "https://nl.catbox.video/q8ptep.webm"
         }
       ],
       "genres": [
@@ -33372,7 +33393,7 @@
       "nom": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
       "id": 0,
       "mal_id": 51180,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -33387,6 +33408,13 @@
           "nom": "Konse Daikakumei",
           "artiste": "Yui Ninomiya",
           "lien": "https://nl.catbox.video/8p3j68.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Fixer",
+          "artiste": "Yui Ninomiya",
+          "lien": "https://nl.catbox.video/6n8jrt.webm"
         }
       ],
       "genres": [

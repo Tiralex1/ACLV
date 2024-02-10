@@ -8117,7 +8117,7 @@
         }
       ],
       "genres": [
-          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -23273,7 +23273,7 @@
       ]
     },
     {
-      "nom": "Ore dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou",
+      "nom": "Ore dake Haireru Kakushi Dungeon",
       "id": 0,
       "mal_id": 41899,
       "nb_musique": 2,

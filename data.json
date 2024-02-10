@@ -19652,7 +19652,7 @@
       ]
     },
     {
-      "nom": "Mashle: Magic and Muscles",
+      "nom": "Mashle",
       "id": 0,
       "mal_id": 52211,
       "nb_musique": 6,
@@ -19720,7 +19720,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Tokyo's Way",
+          "nom": "Tokyo's Way!",
           "artiste": "Shiritsu Ebisu Chuugaku",
           "lien": "https://nl.catbox.video/u9y1ts.webm"
         },
@@ -30890,7 +30890,7 @@
           "type": "Ending",
           "numero": 1,
           "nom": "Nana-iro no Enogu de",
-          "artiste": "7LAND",
+          "artiste": "Nanaland",
           "lien": "https://nl.catbox.video/fslbnl.webm"
         },
         {

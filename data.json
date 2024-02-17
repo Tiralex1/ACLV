@@ -1,6 +1,6 @@
 {
-  "nb_anime": 795,
-  "nb_musique": 3591,
+  "nb_anime": 797,
+  "nb_musique": 3596,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -106,6 +106,38 @@
       ],
       "genres": [
           1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "16bit Sensation: Another Layer",
+      "id": 0,
+      "mal_id": 54041,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "65535",
+          "artiste": "Shoko Nakagawa",
+          "lien": "https://nl.catbox.video/kixwaf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Link ~past and future~",
+          "artiste": "Aoi Koga",
+          "lien": "https://nl.catbox.video/3z9w1d.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Connect",
+          "artiste": "ClariS",
+          "lien": "https://nl.catbox.video/54aonn.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -18034,7 +18066,7 @@
       "nom": "Kusuriya no Hitorigoto",
       "id": 0,
       "mal_id": 54492,
-      "nb_musique": 7,
+      "nb_musique": 8,
       "musique": [
         {
           "type": "Opening",
@@ -18084,6 +18116,13 @@
           "nom": "Secchuuka",
           "artiste": "Kanako Kishi",
           "lien": "https://nl.catbox.video/x4m0to.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Soukuu no Honoo",
+          "artiste": "Daichi Takenaka",
+          "lien": "https://nl.catbox.video/ag65xl.webm"
         }
       ],
       "genres": [
@@ -30058,6 +30097,24 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Sword Art Online the Movie: Progressive - Kuraki Yuuyami no Scherzo",
+      "id": 0,
+      "mal_id": 50275,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shinzou",
+          "artiste": "Eir Aoi",
+          "lien": "https://nl.catbox.video/6zgu95.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {

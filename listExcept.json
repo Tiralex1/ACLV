@@ -1,6 +1,14 @@
 {
     "listExcept": [
         {
+            "songName": "Connect",
+            "artist": "ClariS",
+            "types": [
+                "insert song",
+                "opening 1"
+            ]
+        },
+        {
             "songName": "Nyaa Shougi Ondo",
             "artist": "Kana Hanazawa, Ai Kayano, Misaki Kuno",
             "types": [

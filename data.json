@@ -1,6 +1,6 @@
 {
   "nb_anime": 797,
-  "nb_musique": 3596,
+  "nb_musique": 3598,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3866,7 +3866,7 @@
       "nom": "Bucchigiri?!",
       "id": 0,
       "mal_id": 55358,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -3885,9 +3885,23 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "E-NERGY BOYS",
+          "artiste": "DA PUMP",
+          "lien": "https://nl.catbox.video/pio3w6.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "God Mode",
           "artiste": "BALLISTIK BOYZ from EXILE TRIBE",
           "lien": "https://nl.catbox.video/n7oa3x.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sutegoro",
+          "artiste": "KDH & Novel Core",
+          "lien": "https://nl.catbox.video/dbv3w2.webm"
         }
       ],
       "genres": [

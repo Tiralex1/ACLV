@@ -1,6 +1,6 @@
 {
   "nb_anime": 797,
-  "nb_musique": 3598,
+  "nb_musique": 3599,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -20031,7 +20031,7 @@
       "nom": "Metallic Rouge",
       "id": 0,
       "mal_id": 54794,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -20074,6 +20074,13 @@
           "nom": "Falling Starlight and Moonlight",
           "artiste": "Mizuki Kamata",
           "lien": "https://nl.catbox.video/q8ptep.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "I Seek the Voice",
+          "artiste": "Lanux",
+          "lien": "https://nl.catbox.video/npw8ty.webm"
         }
       ],
       "genres": [

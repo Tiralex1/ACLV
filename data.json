@@ -1,6 +1,6 @@
 {
-  "nb_anime": 798,
-  "nb_musique": 3603,
+  "nb_anime": 799,
+  "nb_musique": 3605,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1118,6 +1118,31 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Alice to Therese no Maboroshi Koujou",
+      "id": 0,
+      "mal_id": 49303,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shinon",
+          "artiste": "Miyuki Nakajima",
+          "lien": "https://nl.catbox.video/szc6bq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kamisama ga Orite Kuru Yoru",
+          "artiste": "Kaori Kawamura",
+          "lien": "https://nl.catbox.video/m3purs.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 799,
-  "nb_musique": 3605,
+  "nb_anime": 801,
+  "nb_musique": 3609,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -7575,7 +7575,39 @@
     {
       "nom": "Elfen Lied",
       "id": 0,
-      "mal_id": 226,
+      "mal_id": 7,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "LILIUM",
+          "artiste": "Kumiko Noma",
+          "lien": "https://nl.catbox.video/t0vii7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "be your girl",
+          "artiste": "Chieko Kawabe",
+          "lien": "https://nl.catbox.video/em4xv0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "LILIUM ~saint version~",
+          "artiste": "GRIFFIN Chorus",
+          "lien": "https://nl.catbox.video/2zhru4.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Elfen Lied",
+      "id": 0,
+      "mal_id": 376,
       "nb_musique": 3,
       "musique": [
         {
@@ -12235,6 +12267,24 @@
       ],
       "genres": [
           1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Honobono Log",
+      "id": 0,
+      "mal_id": 33241,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "morning",
+          "artiste": "Ame no Parade",
+          "lien": "https://nl.catbox.video/hr31fn.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {

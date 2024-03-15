@@ -7606,7 +7606,7 @@
     },
     {
       "nom": "Elfen Lied",
-      "id": 0,
+      "id": 1,
       "mal_id": 376,
       "nb_musique": 3,
       "musique": [
@@ -7615,14 +7615,14 @@
           "numero": 1,
           "nom": "LILIUM",
           "artiste": "Kumiko Noma",
-          "lien": "https://nl.catbox.video/t0vii7.webm"
+          "lien": "https://nl.catbox.video/t0vii7.webm?"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "be your girl",
           "artiste": "Chieko Kawabe",
-          "lien": "https://nl.catbox.video/em4xv0.webm"
+          "lien": "https://nl.catbox.video/em4xv0.webm?"
         },
         {
           "type": "Insert Song",

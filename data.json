@@ -1,6 +1,6 @@
 {
   "nb_anime": 801,
-  "nb_musique": 3609,
+  "nb_musique": 3613,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -8791,7 +8791,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Kirakiraboshi",
-          "artiste": "Saori Hayami",
+          "artiste": "Saori Hayami & Tomo Muranaka",
           "lien": "https://nl.catbox.video/h7mgg5.webm"
         },
         {
@@ -14475,7 +14475,7 @@
       "nom": "Jujutsu Kaisen",
       "id": 1,
       "mal_id": 51009,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -14504,6 +14504,13 @@
           "nom": "more than words",
           "artiste": "Hitsujibungaku",
           "lien": "https://nl.catbox.video/qhu74k.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Saikouchou☆JUMPING!",
+          "artiste": "Tomoyo Kurosawa",
+          "lien": "https://nl.catbox.video/t18bow.webm"
         }
       ],
       "genres": [
@@ -19099,7 +19106,7 @@
       "nom": "Mahou Shoujo ni Akogarete",
       "id": 0,
       "mal_id": 54722,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -19112,8 +19119,15 @@
           "type": "Ending",
           "numero": 1,
           "nom": "Toge Toge Sadistic",
-          "artiste": "Enormita",
+          "artiste": "Fuuka Izumi, Aoi Koga, Shiori Sugiura",
           "lien": "https://nl.catbox.video/s4yyep.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Toge Toge Sadistic",
+          "artiste": "Fuuka Izumi, Aoi Koga, Shiori Sugiura, Yuuka Aisaka, Mayuko Kazuma",
+          "lien": "https://nl.catbox.video/puq16o.webm"
         },
         {
           "type": "Insert Song",
@@ -23077,7 +23091,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "BADEND MUSICAL",
-          "artiste": "Mami Koyama",
+          "artiste": "Mami Koyama & Homies",
           "lien": "https://nl.catbox.video/jibvqp.webm"
         },
         {
@@ -24791,7 +24805,7 @@
           "type": "Ending",
           "numero": 2,
           "nom": "Subete no Hito no Tamashii no Uta",
-          "artiste": "Tomoko Komiya",
+          "artiste": "Haruko Komiya",
           "lien": "https://nl.catbox.video/txypu0.webm"
         },
         {
@@ -30448,7 +30462,7 @@
       "nom": "Synduality: Noir",
       "id": 1,
       "mal_id": 56731,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -30467,9 +30481,23 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Daydream",
+          "artiste": "Haruka Shiraishi & Aoi Koga",
+          "lien": "https://nl.catbox.video/0hvkuu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "YOU&(A)I",
           "artiste": "Nagisa Aoyama",
           "lien": "https://nl.catbox.video/wjy27b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Your Song",
+          "artiste": "Nagisa Aoyama & Aoi Koga",
+          "lien": "https://nl.catbox.video/zkdcak.webm"
         }
       ],
       "genres": [
@@ -33369,7 +33397,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "ding! ging! dong!",
+          "nom": "ding!ging!dong!",
           "artiste": "Choujougenshou-bu",
           "lien": "https://nl.catbox.video/k7dpn6.webm"
         }

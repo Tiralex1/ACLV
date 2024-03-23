@@ -1,6 +1,6 @@
 {
   "nb_anime": 803,
-  "nb_musique": 3623,
+  "nb_musique": 3624,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -18194,7 +18194,7 @@
       "nom": "Kusuriya no Hitorigoto",
       "id": 0,
       "mal_id": 54492,
-      "nb_musique": 8,
+      "nb_musique": 9,
       "musique": [
         {
           "type": "Opening",
@@ -18230,6 +18230,13 @@
           "nom": "Asu o Tazunete",
           "artiste": "XAI",
           "lien": "https://nl.catbox.video/a9xdzk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Omoi Saku Toki",
+          "artiste": "Ema Aoi",
+          "lien": "https://ladist1.catbox.video/0mcrh9.webm"
         },
         {
           "type": "Insert Song",

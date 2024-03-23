@@ -459,6 +459,14 @@
             ]
         },
         {
+            "songName": "Mata ne",
+            "artist": "saya",
+            "types": [
+                "ending 2",
+                "insert song"
+            ]
+        },
+        {
             "songName": "Hacking to the Gate",
             "artist": "Kanako Itou",
             "types": [
@@ -576,6 +584,14 @@
             "types": [
                 "ending 2",
                 "insert song"
+            ]
+        },
+        {
+            "songName": "Caste Room",
+            "artist": "ZAQ",
+            "types": [
+                "opening 1",
+                "ending 3"
             ]
         }
     ]

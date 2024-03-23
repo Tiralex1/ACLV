@@ -1,6 +1,6 @@
 {
-  "nb_anime": 801,
-  "nb_musique": 3613,
+  "nb_anime": 803,
+  "nb_musique": 3623,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -18763,6 +18763,31 @@
       ]
     },
     {
+      "nom": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu o Mankitsu Suru",
+      "id": 0,
+      "mal_id": 56352,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Another Birthday",
+          "artiste": "Shunichi Toki",
+          "lien": "https://nl.catbox.video/8rhhde.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kienai",
+          "artiste": "THE BINARY",
+          "lien": "https://nl.catbox.video/snk2z1.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "LoveCom",
       "id": 0,
       "mal_id": 2034,
@@ -23126,7 +23151,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Kyuujitsu no Houritsu",
-          "artiste": "Yuuko Tachibana",
+          "artiste": "Uko Tachibana",
           "lien": "https://nl.catbox.video/0kyrwm.webm"
         },
         {
@@ -29226,6 +29251,66 @@
       ]
     },
     {
+      "nom": "Sora yori mo Tooi Basho",
+      "id": 0,
+      "mal_id": 35839,
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "The Girls Are Alright!",
+          "artiste": "saya",
+          "lien": "https://nl.catbox.video/inta28.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Koko kara, Koko kara",
+          "artiste": "Inori Minase, Kana Hanazawa, Yuka Iguchi, Saori Hayami",
+          "lien": "https://nl.catbox.video/d56hsd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Mata ne",
+          "artiste": "saya",
+          "lien": "https://nl.catbox.video/4b7tjq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Haruka Tooku",
+          "artiste": "saya",
+          "lien": "https://nl.catbox.video/m0zi28.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mata ne",
+          "artiste": "saya",
+          "lien": "https://nl.catbox.video/3slf9x.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "One Step",
+          "artiste": "Inori Minase, Kana Hanazawa, Yuka Iguchi, Saori Hayami",
+          "lien": "https://nl.catbox.video/ihxe1n.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sora o Miagete",
+          "artiste": "saya",
+          "lien": "https://nl.catbox.video/hj9j9h.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Soredemo Ayumu wa Yosetekuru",
       "id": 0,
       "mal_id": 45653,
@@ -33613,7 +33698,7 @@
       "nom": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
       "id": 0,
       "mal_id": 51180,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -33635,6 +33720,13 @@
           "nom": "Fixer",
           "artiste": "Yui Ninomiya",
           "lien": "https://nl.catbox.video/6n8jrt.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Caste Room",
+          "artiste": "ZAQ",
+          "lien": "https://nl.catbox.video/glykl7.webm"
         }
       ],
       "genres": [

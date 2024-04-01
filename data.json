@@ -1,6 +1,6 @@
 {
   "nb_anime": 803,
-  "nb_musique": 3624,
+  "nb_musique": 3628,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -18235,7 +18235,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Omoi Saku Toki",
-          "artiste": "Ema Aoi",
+          "artiste": "Aoiema.",
           "lien": "https://ladist1.catbox.video/0mcrh9.webm"
         },
         {
@@ -23521,7 +23521,7 @@
       "nom": "Ore dake Level Up na Ken",
       "id": 0,
       "mal_id": 52299,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -23536,6 +23536,20 @@
           "nom": "request",
           "artiste": "krage",
           "lien": "https://nl.catbox.video/3wl513.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "4eVR",
+          "artiste": "Laco, mpi, Benjamin",
+          "lien": "https://nl.catbox.video/0xd17s.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "DARK ARIA",
+          "artiste": "XAI",
+          "lien": "https://nl.catbox.video/cpkzl6.webm"
         }
       ],
       "genres": [
@@ -27010,7 +27024,7 @@
       "nom": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill Mochi Tank, Yuusha Party o Tsuihou sareru",
       "id": 0,
       "mal_id": 56845,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -27025,6 +27039,13 @@
           "nom": "Yume no Naka de",
           "artiste": "Ireisu",
           "lien": "https://nl.catbox.video/jb7t6n.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Trace of Lightning",
+          "artiste": "Ireisu",
+          "lien": "https://nl.catbox.video/m3n1tl.webm"
         }
       ],
       "genres": [
@@ -30515,7 +30536,7 @@
       "nom": "Synduality: Noir",
       "id": 0,
       "mal_id": 53026,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -30530,6 +30551,13 @@
           "nom": "Eureka",
           "artiste": "ARCANA PROJECT",
           "lien": "https://nl.catbox.video/q79581.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Daydream",
+          "artiste": "Nagisa Aoyama",
+          "lien": "https://nl.catbox.video/bwix8o.webm"
         },
         {
           "type": "Insert Song",

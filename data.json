@@ -1,6 +1,6 @@
 {
   "nb_anime": 803,
-  "nb_musique": 3628,
+  "nb_musique": 3630,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -32561,7 +32561,7 @@
       "nom": "Tsuki ga Michibiku Isekai Douchuu Dai Ni Shou",
       "id": 0,
       "mal_id": 49889,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -32569,6 +32569,13 @@
           "nom": "Utopia",
           "artiste": "Keina Suda",
           "lien": "https://nl.catbox.video/p168kb.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Reversal",
+          "artiste": "syudou",
+          "lien": "https://nl.catbox.video/tzd5lt.webm"
         },
         {
           "type": "Ending",
@@ -32583,6 +32590,13 @@
           "nom": "My Factor",
           "artiste": "Kent Itou",
           "lien": "https://nl.catbox.video/iix9d6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Joushiki Hazure Human",
+          "artiste": "Kaori Maeda",
+          "lien": "https://nl.catbox.video/0jrsbc.webm"
         }
       ],
       "genres": [

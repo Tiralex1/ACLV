@@ -1,6 +1,6 @@
 {
   "nb_anime": 803,
-  "nb_musique": 3630,
+  "nb_musique": 3631,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -18194,7 +18194,7 @@
       "nom": "Kusuriya no Hitorigoto",
       "id": 0,
       "mal_id": 54492,
-      "nb_musique": 9,
+      "nb_musique": 10,
       "musique": [
         {
           "type": "Opening",
@@ -18230,6 +18230,13 @@
           "nom": "Asu o Tazunete",
           "artiste": "XAI",
           "lien": "https://nl.catbox.video/a9xdzk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hototogisu",
+          "artiste": "Houko Kuwashima",
+          "lien": "https://nl.catbox.video/zntkpm.webm"
         },
         {
           "type": "Insert Song",

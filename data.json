@@ -1,6 +1,6 @@
 {
   "nb_anime": 806,
-  "nb_musique": 3637,
+  "nb_musique": 3639,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -7391,7 +7391,7 @@
       "nom": "Dungeon Meshi",
       "id": 0,
       "mal_id": 52701,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -7401,11 +7401,25 @@
           "lien": "https://nl.catbox.video/xmuzrt.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Unmei",
+          "artiste": "sumika",
+          "lien": "https://nl.catbox.video/6crwrr.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Party!!",
           "artiste": "Ryokuoushoku Shakai",
           "lien": "https://nl.catbox.video/05vq0f.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kirakira no Hai",
+          "artiste": "Regal Lily",
+          "lien": "https://nl.catbox.video/hutpty.webm"
         }
       ],
       "genres": [

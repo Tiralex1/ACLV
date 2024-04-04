@@ -1,6 +1,6 @@
 {
-  "nb_anime": 803,
-  "nb_musique": 3631,
+  "nb_anime": 806,
+  "nb_musique": 3637,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -23475,6 +23475,31 @@
       ]
     },
     {
+      "nom": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+      "id": 0,
+      "mal_id": 51122,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Tabi no Yukue",
+          "artiste": "Hana Hope",
+          "lien": "https://nl.catbox.video/mf1thi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Andante",
+          "artiste": "ClariS",
+          "lien": "https://nl.catbox.video/3re8hq.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Orange",
       "id": 0,
       "mal_id": 32729,
@@ -26059,6 +26084,31 @@
       ],
       "genres": [
           1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Re:Monster",
+      "id": 0,
+      "mal_id": 56690,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Into the Fire",
+          "artiste": "CHANSUNG(2PM) & AK-69 feat.CHANGMIN(2AM)",
+          "lien": "https://nl.catbox.video/pa9k58.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sadame",
+          "artiste": "EverdreaM",
+          "lien": "https://nl.catbox.video/s39sk7.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -31275,6 +31325,31 @@
       ],
       "genres": [
           0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Tensei Shitara Dainana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu",
+      "id": 0,
+      "mal_id": 53516,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kyunrious",
+          "artiste": "Kaede Higuchi",
+          "lien": "https://nl.catbox.video/3ttqno.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Happy no Hiketsu",
+          "artiste": "Akane Kumada",
+          "lien": "https://nl.catbox.video/64ky39.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {

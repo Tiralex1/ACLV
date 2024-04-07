@@ -1,6 +1,6 @@
 {
   "nb_anime": 811,
-  "nb_musique": 3649,
+  "nb_musique": 3650,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -27962,7 +27962,7 @@
       "nom": "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita 2nd",
       "id": 0,
       "mal_id": 53488,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -27977,6 +27977,13 @@
           "nom": "Michibiki, Sasagete",
           "artiste": "JYOCHO",
           "lien": "https://nl.catbox.video/aqykdr.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Iki o Suu Koko de Suu Ikiteku",
+          "artiste": "Yui Nishio",
+          "lien": "https://nl.catbox.video/uzx2w4.webm"
         }
       ],
       "genres": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 806,
-  "nb_musique": 3639,
+  "nb_anime": 811,
+  "nb_musique": 3649,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -2061,6 +2061,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0
+      ]
+    },
+    {
+      "nom": "Bartender: Kami no Glass",
+      "id": 0,
+      "mal_id": 53407,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Stardust Memory",
+          "artiste": "Takaya Kawasaki",
+          "lien": "https://nl.catbox.video/jgg56d.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Spica",
+          "artiste": "Mone Kamishiraishi",
+          "lien": "https://nl.catbox.video/7dwo7c.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -12244,7 +12269,7 @@
       "nom": "Hime-sama, \"Goumon\" no Jikan desu",
       "id": 0,
       "mal_id": 55774,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -12259,6 +12284,13 @@
           "nom": "Ashita wa Ashita no Kaze ga Fuku",
           "artiste": "LEEVELLES",
           "lien": "https://nl.catbox.video/clxh3e.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yasashii Sekai no Komoriuta",
+          "artiste": "Mai Nakahara",
+          "lien": "https://nl.catbox.video/gkrgwi.webm"
         }
       ],
       "genres": [
@@ -31548,6 +31580,31 @@
       ]
     },
     {
+      "nom": "Tensei shitara Slime Datta Ken",
+      "id": 4,
+      "mal_id": 53580,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "PEACEKEEPER",
+          "artiste": "STEREO DIVE FOUNDATION",
+          "lien": "https://nl.catbox.video/164as3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Believer",
+          "artiste": "Rin Kurusu",
+          "lien": "https://nl.catbox.video/2b9lr5.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Tensei shitara Slime Datta Ken: Coleus no Yume",
       "id": 0,
       "mal_id": 54565,
@@ -32230,6 +32287,31 @@
       ],
       "genres": [
           0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Tonari no Youkai-san",
+      "id": 0,
+      "mal_id": 51461,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Obake Himawari",
+          "artiste": "Pii",
+          "lien": "https://nl.catbox.video/z5xjbi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Iro no Naka",
+          "artiste": "Aoi Kubo",
+          "lien": "https://nl.catbox.video/j2mp9p.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -33484,6 +33566,31 @@
       ]
     },
     {
+      "nom": "Wind Breaker",
+      "id": 0,
+      "mal_id": 54900,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Zettai Reido",
+          "artiste": "natori",
+          "lien": "https://nl.catbox.video/oa4oin.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Muteki",
+          "artiste": "Young Kee",
+          "lien": "https://nl.catbox.video/v3z0jz.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "World Trigger",
       "id": 0,
       "mal_id": 24405,
@@ -33748,6 +33855,24 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Yoru no Kurage wa Oyogenai",
+      "id": 0,
+      "mal_id": 54839,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Colorful Moonlight (Guitar Arrange ver.)",
+          "artiste": "JELEE",
+          "lien": "https://nl.catbox.video/qadhfg.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

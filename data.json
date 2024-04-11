@@ -1,6 +1,6 @@
 {
   "nb_anime": 813,
-  "nb_musique": 3655,
+  "nb_musique": 3656,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -11617,7 +11617,7 @@
       "nom": "Harmony",
       "id": 0,
       "mal_id": 28211,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Ending",
@@ -11625,6 +11625,13 @@
           "nom": "Ghost of a smile",
           "artiste": "EGOIST",
           "lien": "https://nl.catbox.video/6owicl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "harmony",
+          "artiste": "Takashi Otsuki, Yong Ok Chon, Ai Usuki, Eri Sawae, Sakiko Shibata, Noriko Kitamura, Eriko Ikeda, Miho Morinaga, Yuka Onishi, Ryusei Koshiro, Daisuke Kuroda, Chikashi Handa, Hirohisa Sannohe, Hidekazu Ishizaki, Tatsuhiko Kitagawa, Takashi Aoyama",
+          "lien": "https://nl.catbox.video/5jpz6k.webm"
         }
       ],
       "genres": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 811,
-  "nb_musique": 3650,
+  "nb_anime": 813,
+  "nb_musique": 3655,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -23904,6 +23904,38 @@
       ]
     },
     {
+      "nom": "Otome Game no Hametsu Flag Shika Nai Akuyaku Reijou ni Tensei Shiteshimatta...",
+      "id": 0,
+      "mal_id": 38555,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Otome no Route wa Hitotsu ja Nai!",
+          "artiste": "angela",
+          "lien": "https://nl.catbox.video/ya1x18.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "BAD END",
+          "artiste": "Shouta Aoi",
+          "lien": "https://nl.catbox.video/hzaalc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kimi no Kage, Orange no Sora",
+          "artiste": "angela",
+          "lien": "https://nl.catbox.video/te8605.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
       "id": 0,
       "mal_id": 50461,
@@ -33046,6 +33078,31 @@
       ],
       "genres": [
           1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Unnamed Memory",
+      "id": 0,
+      "mal_id": 53835,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Yobigoe",
+          "artiste": "Tei",
+          "lien": "https://nl.catbox.video/5i6iz4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "blan_",
+          "artiste": "Arika",
+          "lien": "https://nl.catbox.video/3wu8xf.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

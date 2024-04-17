@@ -1,6 +1,6 @@
 {
-  "nb_anime": 813,
-  "nb_musique": 3656,
+  "nb_anime": 818,
+  "nb_musique": 3668,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -2085,7 +2085,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -16375,6 +16375,31 @@
       ]
     },
     {
+      "nom": "Kenka Dokugaku",
+      "id": 0,
+      "mal_id": 58080,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Wild Boy",
+          "artiste": "MA55IVE THE RAMPAGE",
+          "lien": "https://nl.catbox.video/ns7b49.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Viral Hack",
+          "artiste": "Crab Kani Club",
+          "lien": "https://nl.catbox.video/z7h55b.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Kidou Senshi Gundam: Suisei no Majo",
       "id": 0,
       "mal_id": 49828,
@@ -19361,6 +19386,24 @@
       ]
     },
     {
+      "nom": "Mahouka Koukou no Rettousei 3rd Season",
+      "id": 0,
+      "mal_id": 50713,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shouted Serenade",
+          "artiste": "LiSA",
+          "lien": "https://nl.catbox.video/t1q2yp.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Mahouka Koukou no Rettousei: Raihousha-hen",
       "id": 0,
       "mal_id": 40497,
@@ -20841,6 +20884,31 @@
           "nom": "Hanaemi",
           "artiste": "Ai Kayano",
           "lien": "https://nl.catbox.video/b0zoew.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+      "id": 2,
+      "mal_id": 55888,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "On the Frontline",
+          "artiste": "hitorie",
+          "lien": "https://nl.catbox.video/acaih5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Mamoritai Mono",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://nl.catbox.video/7cr94h.webm"
         }
       ],
       "genres": [
@@ -23606,7 +23674,7 @@
       "nom": "Ore dake Level Up na Ken",
       "id": 0,
       "mal_id": 52299,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -23628,6 +23696,13 @@
           "nom": "4eVR",
           "artiste": "Laco, mpi, Benjamin",
           "lien": "https://nl.catbox.video/0xd17s.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "[Solo-Leveling]SymphonicSuite-Lv.8",
+          "artiste": "Hannah Grace",
+          "lien": "https://nl.catbox.video/tve6u2.webm"
         },
         {
           "type": "Insert Song",
@@ -27795,6 +27870,31 @@
       ]
     },
     {
+      "nom": "Sentai Daishikkaku",
+      "id": 0,
+      "mal_id": 53770,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Jikai Yokoku",
+          "artiste": "Tatsuya Kitani",
+          "lien": "https://nl.catbox.video/f17jgx.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Seikai wa Iranai",
+          "artiste": "Akari Nanawo",
+          "lien": "https://nl.catbox.video/bnptkj.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Serial Experiments Lain",
       "id": 0,
       "mal_id": 339,
@@ -31647,7 +31747,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -31719,6 +31819,31 @@
       ],
       "genres": [
           0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "The Fable",
+      "id": 0,
+      "mal_id": 55911,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Professionalism",
+          "artiste": "ALI feat. Hannya",
+          "lien": "https://nl.catbox.video/5pdy8j.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Odd Numbers",
+          "artiste": "Umeda Cypher",
+          "lien": "https://nl.catbox.video/t5b6zx.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -32357,7 +32482,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
       ]
     },
     {
@@ -33109,7 +33234,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -33658,7 +33783,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -33932,8 +34057,22 @@
       "nom": "Yoru no Kurage wa Oyogenai",
       "id": 0,
       "mal_id": 54839,
-      "nb_musique": 1,
+      "nb_musique": 3,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Irodori",
+          "artiste": "KanoeRana",
+          "lien": "https://nl.catbox.video/7hkup5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "1-nichi wa 25-jikan.",
+          "artiste": "Anna Tsurushima",
+          "lien": "https://nl.catbox.video/skqkzi.webm"
+        },
         {
           "type": "Insert Song",
           "numero": 0,
@@ -33943,7 +34082,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

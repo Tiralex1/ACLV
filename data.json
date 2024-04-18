@@ -1,6 +1,6 @@
 {
-  "nb_anime": 818,
-  "nb_musique": 3668,
+  "nb_anime": 819,
+  "nb_musique": 3670,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -17692,6 +17692,31 @@
       ],
       "genres": [
           0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kono Subarashii Sekai ni Shukufuku o! 3",
+      "id": 0,
+      "mal_id": 49458,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Growing Up",
+          "artiste": "Machico",
+          "lien": "https://nl.catbox.video/en4rhc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ano Hi no Mama no Bokura",
+          "artiste": "Sora Amamiya, Rie Takahashi, Ai Kayano",
+          "lien": "https://nl.catbox.video/ozi2wh.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

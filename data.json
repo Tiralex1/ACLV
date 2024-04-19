@@ -1,6 +1,6 @@
 {
-  "nb_anime": 819,
-  "nb_musique": 3670,
+  "nb_anime": 821,
+  "nb_musique": 3673,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -15067,6 +15067,31 @@
       ]
     },
     {
+      "nom": "Kaii to Otome to Kamikakushi",
+      "id": 0,
+      "mal_id": 54199,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hazard Symbol",
+          "artiste": "yuyu",
+          "lien": "https://nl.catbox.video/eium5p.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Akaku Somete Shinzou",
+          "artiste": "Nonoka Obuchi",
+          "lien": "https://nl.catbox.video/e5obd9.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Kaijin Kaihatsu-bu no Kuroitsu-san",
       "id": 0,
       "mal_id": 49385,
@@ -17716,7 +17741,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -18192,6 +18217,24 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Kurayukaba",
+      "id": 0,
+      "mal_id": 56553,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Naisho no Uta",
+          "artiste": "Charan-Po-Rantan",
+          "lien": "https://nl.catbox.video/wjkx8e.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

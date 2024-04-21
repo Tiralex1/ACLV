@@ -1,6 +1,6 @@
 {
-  "nb_anime": 821,
-  "nb_musique": 3673,
+  "nb_anime": 826,
+  "nb_musique": 3683,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -14639,7 +14639,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Fuwa Fuwa Time (5-nin Ver.)",
+          "nom": "Fuwa Fuwa Time",
           "artiste": "Ho-Kago Tea Time",
           "lien": "https://nl.catbox.video/s7kihg.webm"
         },
@@ -15156,6 +15156,31 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kaijuu 8-gou",
+      "id": 0,
+      "mal_id": 52588,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Abyss",
+          "artiste": "YUNGBLUD",
+          "lien": "https://nl.catbox.video/6woolu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Nobody",
+          "artiste": "ONEREPUBLIC",
+          "lien": "https://nl.catbox.video/n38jlx.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -16993,6 +17018,31 @@
       ]
     },
     {
+      "nom": "Kimi wa Kanata",
+      "id": 0,
+      "mal_id": 41379,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shunkan Dramatic",
+          "artiste": "saji",
+          "lien": "https://nl.catbox.video/9ji5fi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kimi ni.",
+          "artiste": "Honoka Matsumoto",
+          "lien": "https://nl.catbox.video/6ncvn3.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "KimiUso",
       "id": 0,
       "mal_id": 23273,
@@ -18217,6 +18267,42 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Kurage no Shokudou",
+      "id": 0,
+      "mal_id": 29301,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shiosai",
+          "artiste": "CustomiZ",
+          "lien": "https://nl.catbox.video/67ghxr.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kuramerukagari",
+      "id": 0,
+      "mal_id": 57478,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Bokura no Hakoniwa",
+          "artiste": "Masayoshi Ooishi",
+          "lien": "https://nl.catbox.video/dw5z0z.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -19457,7 +19543,7 @@
       "nom": "Mahouka Koukou no Rettousei 3rd Season",
       "id": 0,
       "mal_id": 50713,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -19465,6 +19551,13 @@
           "nom": "Shouted Serenade",
           "artiste": "LiSA",
           "lien": "https://nl.catbox.video/t1q2yp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "recall",
+          "artiste": "Kairi Yagi",
+          "lien": "https://nl.catbox.video/pf9fku.webm"
         }
       ],
       "genres": [
@@ -27498,6 +27591,31 @@
       ]
     },
     {
+      "nom": "Sasayaku You ni Koi o Utau",
+      "id": 0,
+      "mal_id": 54233,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Follow your arrows",
+          "artiste": "SSGIRLS",
+          "lien": "https://nl.catbox.video/diyt7o.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Giftee",
+          "artiste": "Hana Shimano",
+          "lien": "https://nl.catbox.video/1rek9j.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Scarlet Nexus",
       "id": 0,
       "mal_id": 48492,
@@ -34125,7 +34243,7 @@
       "nom": "Yoru no Kurage wa Oyogenai",
       "id": 0,
       "mal_id": 54839,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -34140,6 +34258,13 @@
           "nom": "1-nichi wa 25-jikan.",
           "artiste": "Anna Tsurushima",
           "lien": "https://nl.catbox.video/skqkzi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Saikyou Girl",
+          "artiste": "JELEE",
+          "lien": "https://nl.catbox.video/4qfcrv.webm"
         },
         {
           "type": "Insert Song",

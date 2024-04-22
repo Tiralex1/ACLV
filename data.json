@@ -1,6 +1,6 @@
 {
-  "nb_anime": 826,
-  "nb_musique": 3683,
+  "nb_anime": 827,
+  "nb_musique": 3688,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10085,6 +10085,45 @@
       ],
       "genres": [
           0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Girls Band Cry",
+      "id": 0,
+      "mal_id": 55102,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Zattou, Bokura no Machi",
+          "artiste": "TOGENASHI TOGEARI",
+          "lien": "https://nl.catbox.video/kcckpk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Dare ni mo Narenai Watashi Dakara",
+          "artiste": "TOGENASHI TOGEARI",
+          "lien": "https://nl.catbox.video/tl2bnb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Koe Naki Sakana",
+          "artiste": "Shin Kawasaki (Kari)",
+          "lien": "https://nl.catbox.video/juoeda.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sora no Hako",
+          "artiste": "Rina, Yuuri",
+          "lien": "https://nl.catbox.video/sn007y.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -27594,7 +27633,7 @@
       "nom": "Sasayaku You ni Koi o Utau",
       "id": 0,
       "mal_id": 54233,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -27609,6 +27648,13 @@
           "nom": "Giftee",
           "artiste": "Hana Shimano",
           "lien": "https://nl.catbox.video/1rek9j.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Humming Love",
+          "artiste": "SSGIRLS",
+          "lien": "https://nl.catbox.video/kat41u.webm"
         }
       ],
       "genres": [

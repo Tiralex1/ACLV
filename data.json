@@ -1,6 +1,6 @@
 {
-  "nb_anime": 827,
-  "nb_musique": 3688,
+  "nb_anime": 828,
+  "nb_musique": 3693,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3962,7 +3962,7 @@
       "nom": "Buddy Daddies",
       "id": 0,
       "mal_id": 53411,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -3977,6 +3977,13 @@
           "nom": "My Plan",
           "artiste": "DURDN",
           "lien": "https://nl.catbox.video/8633u8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Don't say good bye",
+          "artiste": "Nanako Mori",
+          "lien": "https://nl.catbox.video/l285md.webm"
         }
       ],
       "genres": [
@@ -21094,7 +21101,7 @@
       "nom": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
       "id": 2,
       "mal_id": 55888,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -21109,6 +21116,13 @@
           "nom": "Mamoritai Mono",
           "artiste": "Yuiko Ohara",
           "lien": "https://nl.catbox.video/7cr94h.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Tsubasa",
+          "artiste": "Shion Wakayama",
+          "lien": "https://nl.catbox.video/7ccpoe.webm"
         }
       ],
       "genres": [
@@ -23894,7 +23908,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "4eVR",
-          "artiste": "Laco, mpi, Benjamin",
+          "artiste": "Benjamin & mpi, Laco",
           "lien": "https://nl.catbox.video/0xd17s.webm"
         },
         {
@@ -32111,6 +32125,31 @@
       ]
     },
     {
+      "nom": "The New Gate",
+      "id": 0,
+      "mal_id": 57100,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Sekai o Inuite",
+          "artiste": "Sou",
+          "lien": "https://nl.catbox.video/hyik7c.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kanataboshi",
+          "artiste": "Miho Okasaki",
+          "lien": "https://nl.catbox.video/uxejba.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "To LOVE-Ru",
       "id": 0,
       "mal_id": 3455,
@@ -34289,7 +34328,7 @@
       "nom": "Yoru no Kurage wa Oyogenai",
       "id": 0,
       "mal_id": 54839,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -34311,6 +34350,13 @@
           "nom": "Saikyou Girl",
           "artiste": "JELEE",
           "lien": "https://nl.catbox.video/4qfcrv.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Tsuki no Ondo",
+          "artiste": "JELEE",
+          "lien": "https://nl.catbox.video/g9epxu.webm"
         },
         {
           "type": "Insert Song",

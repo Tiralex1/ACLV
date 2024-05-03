@@ -1,6 +1,6 @@
 {
-  "nb_anime": 828,
-  "nb_musique": 3693,
+  "nb_anime": 829,
+  "nb_musique": 3705,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1916,6 +1916,59 @@
       ]
     },
     {
+      "nom": "Bakemonogatari",
+      "id": 0,
+      "mal_id": 5081,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "staple stable",
+          "artiste": "Chiwa Saito",
+          "lien": "https://nl.catbox.video/zyjq8p.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Kaerimichi",
+          "artiste": "Emiri Katou",
+          "lien": "https://nl.catbox.video/skz47e.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "ambivalent world",
+          "artiste": "Miyuki Sawashiro",
+          "lien": "https://nl.catbox.video/mk2qp5.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 4,
+          "nom": "Renai Circulation",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.video/aayyhe.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 5,
+          "nom": "sugar sweet nightmare",
+          "artiste": "Yui Horie",
+          "lien": "https://nl.catbox.video/xumczq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimi no Shiranai Monogatari",
+          "artiste": "supercell",
+          "lien": "https://nl.catbox.video/52jn4w.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Baki",
       "id": 0,
       "mal_id": 34443,
@@ -2287,7 +2340,7 @@
       "nom": "Black Bullet",
       "id": 0,
       "mal_id": 20787,
-      "nb_musique": 4,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -2313,9 +2366,30 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Crisis Point",
+          "artiste": "Our Special Choir",
+          "lien": "https://nl.catbox.video/bsjdub.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Mirai*Girl",
           "artiste": "Tenchuu Girls",
           "lien": "https://nl.catbox.video/kzs3ve.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Monolith -the impregnable-",
+          "artiste": "Our Special Choir",
+          "lien": "https://nl.catbox.video/x2eg41.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tokyo 2021 -alterna-",
+          "artiste": "Our Special Choir",
+          "lien": "https://nl.catbox.video/388lmw.webm"
         }
       ],
       "genres": [
@@ -31077,7 +31151,7 @@
       "nom": "Synduality: Noir",
       "id": 1,
       "mal_id": 56731,
-      "nb_musique": 5,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -31097,8 +31171,22 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Daydream",
+          "artiste": "Aoi Koga",
+          "lien": "https://nl.catbox.video/kf98kh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Daydream",
           "artiste": "Haruka Shiraishi & Aoi Koga",
           "lien": "https://nl.catbox.video/0hvkuu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Genwaku Desire",
+          "artiste": "Aoi Koga",
+          "lien": "https://nl.catbox.video/smisn6.webm"
         },
         {
           "type": "Insert Song",
@@ -34328,7 +34416,7 @@
       "nom": "Yoru no Kurage wa Oyogenai",
       "id": 0,
       "mal_id": 54839,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -34364,6 +34452,13 @@
           "nom": "Colorful Moonlight (Guitar Arrange ver.)",
           "artiste": "JELEE",
           "lien": "https://nl.catbox.video/qadhfg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "lovely weather",
+          "artiste": "Sunflower Dolls",
+          "lien": "https://nl.catbox.video/u21uhn.webm"
         }
       ],
       "genres": [

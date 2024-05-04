@@ -1,6 +1,6 @@
 {
-  "nb_anime": 829,
-  "nb_musique": 3705,
+  "nb_anime": 830,
+  "nb_musique": 3712,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -2120,7 +2120,7 @@
       "nom": "Bartender: Kami no Glass",
       "id": 0,
       "mal_id": 53407,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -2135,6 +2135,13 @@
           "nom": "Spica",
           "artiste": "Mone Kamishiraishi",
           "lien": "https://nl.catbox.video/7dwo7c.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Swallow",
+          "artiste": "Oreo Reona (Gacharic Spin)",
+          "lien": "https://nl.catbox.video/8i0qas.webm"
         }
       ],
       "genres": [
@@ -10172,7 +10179,7 @@
       "nom": "Girls Band Cry",
       "id": 0,
       "mal_id": 55102,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -10194,6 +10201,13 @@
           "nom": "Koe Naki Sakana",
           "artiste": "Shin Kawasaki (Kari)",
           "lien": "https://nl.catbox.video/juoeda.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shikai no Sumi Kuchiru Oto",
+          "artiste": "Shin Kawasaki (Kari)",
+          "lien": "https://nl.catbox.video/vbdc8r.webm"
         },
         {
           "type": "Insert Song",
@@ -19663,7 +19677,7 @@
       "nom": "Mahouka Koukou no Rettousei 3rd Season",
       "id": 0,
       "mal_id": 50713,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -19678,6 +19692,13 @@
           "nom": "recall",
           "artiste": "Kairi Yagi",
           "lien": "https://nl.catbox.video/pf9fku.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Snow Noir",
+          "artiste": "Sangatsu no Phantasia",
+          "lien": "https://nl.catbox.video/b5tf0n.webm"
         }
       ],
       "genres": [
@@ -22817,6 +22838,45 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Nisemonogatari",
+      "id": 0,
+      "mal_id": 11597,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Futakotome",
+          "artiste": "Chiwa Saito",
+          "lien": "https://nl.catbox.video/ukp39u.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "marshmallow justice",
+          "artiste": "Eri Kitamura",
+          "lien": "https://nl.catbox.video/ka11j5.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "Platinum Disco",
+          "artiste": "Yuka Iguchi",
+          "lien": "https://nl.catbox.video/hk2h3z.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Naisho no Hanashi",
+          "artiste": "ClariS",
+          "lien": "https://nl.catbox.video/k15eo0.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0
       ]
     },
     {

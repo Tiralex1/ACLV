@@ -1,6 +1,6 @@
 {
-  "nb_anime": 830,
-  "nb_musique": 3712,
+  "nb_anime": 831,
+  "nb_musique": 3714,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3486,6 +3486,31 @@
       ],
       "genres": [
           1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Boku no Hero Academia",
+      "id": 6,
+      "mal_id": 54789,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Ta ga Tame",
+          "artiste": "TK from Ling Tosite Sigure",
+          "lien": "https://nl.catbox.video/51upgw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tsubomi",
+          "artiste": "Omoinotake",
+          "lien": "https://nl.catbox.video/zmp3jx.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

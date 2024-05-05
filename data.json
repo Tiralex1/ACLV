@@ -1,6 +1,6 @@
 {
   "nb_anime": 831,
-  "nb_musique": 3714,
+  "nb_musique": 3715,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -34501,7 +34501,7 @@
       "nom": "Yoru no Kurage wa Oyogenai",
       "id": 0,
       "mal_id": 54839,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -34530,6 +34530,13 @@
           "nom": "Tsuki no Ondo",
           "artiste": "JELEE",
           "lien": "https://nl.catbox.video/g9epxu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Shibuya Aquarium",
+          "artiste": "JELEE",
+          "lien": "https://nl.catbox.video/dxezuq.webm"
         },
         {
           "type": "Insert Song",

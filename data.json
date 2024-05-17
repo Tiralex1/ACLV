@@ -1,6 +1,6 @@
 {
   "nb_anime": 831,
-  "nb_musique": 3715,
+  "nb_musique": 3718,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10204,7 +10204,7 @@
       "nom": "Girls Band Cry",
       "id": 0,
       "mal_id": 55102,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -10233,6 +10233,13 @@
           "nom": "Shikai no Sumi Kuchiru Oto",
           "artiste": "Shin Kawasaki (Kari)",
           "lien": "https://nl.catbox.video/vbdc8r.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shikai no Sumi Kuchiru Oto",
+          "artiste": "Shin Kawasaki (Kari)×beni-shouga",
+          "lien": "https://nl.catbox.video/pfo3bd.webm"
         },
         {
           "type": "Insert Song",
@@ -15321,7 +15328,7 @@
       "nom": "Kaijuu 8-gou",
       "id": 0,
       "mal_id": 52588,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -15336,6 +15343,13 @@
           "nom": "Nobody",
           "artiste": "ONEREPUBLIC",
           "lien": "https://nl.catbox.video/n38jlx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Scream",
+          "artiste": "Yuta Bandoh feat. (sic)boy",
+          "lien": "https://nl.catbox.video/c9cobz.webm"
         }
       ],
       "genres": [
@@ -19556,7 +19570,7 @@
           "type": "Ending",
           "numero": 2,
           "nom": "Toge Toge Sadistic",
-          "artiste": "Fuuka Izumi, Aoi Koga, Shiori Sugiura, Yuuka Aisaka, Mayuko Kazuma",
+          "artiste": "Fuuka Izumi, Aoi Koga, Shiori Sugiura, Yuuka Aisaka, Minami Tsuda",
           "lien": "https://nl.catbox.video/puq16o.webm"
         },
         {
@@ -23972,7 +23986,7 @@
       "nom": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
       "id": 0,
       "mal_id": 51122,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -23987,6 +24001,13 @@
           "nom": "Andante",
           "artiste": "ClariS",
           "lien": "https://nl.catbox.video/3re8hq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Merchant Meets The Wise Wolf",
+          "artiste": "Elspeth Bawden",
+          "lien": "https://nl.catbox.video/b1t0h1.webm"
         }
       ],
       "genres": [

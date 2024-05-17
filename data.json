@@ -1,6 +1,6 @@
 {
-  "nb_anime": 831,
-  "nb_musique": 3718,
+  "nb_anime": 834,
+  "nb_musique": 3725,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -16853,6 +16853,24 @@
           "nom": "Kazoku no Omoide",
           "artiste": "Nami Nakagawa",
           "lien": "https://nl.catbox.video/u8oqou.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Kimetsu no Yaiba: Hashira Geiko-hen",
+      "id": 0,
+      "mal_id": 55701,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Mugen",
+          "artiste": "MY FIRST STORY×HYDE",
+          "lien": "https://nl.catbox.video/3fa2xg.webm"
         }
       ],
       "genres": [
@@ -34249,6 +34267,70 @@
       ],
       "genres": [
           1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Wonder Egg Priority",
+      "id": 0,
+      "mal_id": 43299,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Sudachi no Uta",
+          "artiste": "Anemoneria",
+          "lien": "https://nl.catbox.video/bdnr0h.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Life is Cider",
+          "artiste": "Anemoneria",
+          "lien": "https://nl.catbox.video/vy9c3f.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Colorful",
+          "artiste": "mito",
+          "lien": "https://nl.catbox.video/41ar5r.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1
+      ]
+    },
+    {
+      "nom": "Wonder Egg Priority",
+      "id": 1,
+      "mal_id": 48614,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Sudachi no Uta",
+          "artiste": "Anemoneria",
+          "lien": "https://nl.catbox.video/bdnr0h.webm?"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Life is Cider",
+          "artiste": "Anemoneria",
+          "lien": "https://nl.catbox.video/vy9c3f.webm?"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "anemos",
+          "artiste": "Anemoneria",
+          "lien": "https://nl.catbox.video/hgzors.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1
       ]
     },
     {

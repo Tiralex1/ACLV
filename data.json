@@ -1,6 +1,6 @@
 {
-  "nb_anime": 834,
-  "nb_musique": 3725,
+  "nb_anime": 836,
+  "nb_musique": 3736,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -23774,6 +23774,105 @@
       ],
       "genres": [
           1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "One Piece Film: Gold",
+      "id": 0,
+      "mal_id": 31490,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "GOLD & JIVE ~ SILVER OCEAN",
+          "artiste": "Hikari Mitsushima & Kazuhiro Yamaji",
+          "lien": "https://nl.catbox.video/d2xwam.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ikari o Kure yo",
+          "artiste": "GLIM SPANKY",
+          "lien": "https://nl.catbox.video/k1cojr.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Funky Shiro Suit",
+          "artiste": "Ray Dorsey",
+          "lien": "https://nl.catbox.video/s9i7tf.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "One Piece Film: Red",
+      "id": 0,
+      "mal_id": 50410,
+      "nb_musique": 8,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shinjidai",
+          "artiste": "Ado",
+          "lien": "https://nl.catbox.video/uwbwsc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kaze no Yukue",
+          "artiste": "Ado",
+          "lien": "https://nl.catbox.video/uo69w4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Gyakkou",
+          "artiste": "Ado",
+          "lien": "https://nl.catbox.video/mqyl1y.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kaze no Yukue (Child Ver.)",
+          "artiste": "Ado",
+          "lien": "https://nl.catbox.video/x85emz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sekai no Tsuzuki",
+          "artiste": "Ado",
+          "lien": "https://nl.catbox.video/hf0me7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tot Musica",
+          "artiste": "Ado",
+          "lien": "https://nl.catbox.video/e77uw7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Utakata Lullaby",
+          "artiste": "Ado",
+          "lien": "https://nl.catbox.video/2nbanw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Watashi wa Saikyou",
+          "artiste": "Ado",
+          "lien": "https://nl.catbox.video/nq2ben.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

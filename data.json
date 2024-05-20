@@ -1,6 +1,6 @@
 {
-  "nb_anime": 836,
-  "nb_musique": 3736,
+  "nb_anime": 837,
+  "nb_musique": 3740,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10204,7 +10204,7 @@
       "nom": "Girls Band Cry",
       "id": 0,
       "mal_id": 55102,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -10226,6 +10226,13 @@
           "nom": "Koe Naki Sakana",
           "artiste": "Shin Kawasaki (Kari)",
           "lien": "https://nl.catbox.video/juoeda.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Na mo Naki Nani mo Kamo",
+          "artiste": "TOGENASHI TOGEARI",
+          "lien": "https://nl.catbox.video/wddt2h.webm"
         },
         {
           "type": "Insert Song",
@@ -16863,7 +16870,7 @@
       "nom": "Kimetsu no Yaiba: Hashira Geiko-hen",
       "id": 0,
       "mal_id": 55701,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -16871,6 +16878,13 @@
           "nom": "Mugen",
           "artiste": "MY FIRST STORY×HYDE",
           "lien": "https://nl.catbox.video/3fa2xg.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Tokoshie",
+          "artiste": "HYDE×MY FIRST STORY",
+          "lien": "https://nl.catbox.video/mep89q.webm"
         }
       ],
       "genres": [
@@ -22571,6 +22585,31 @@
       ],
       "genres": [
           1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Nekomonogatari (Kuro)",
+      "id": 0,
+      "mal_id": 15689,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "perfect slumbers",
+          "artiste": "Yui Horie",
+          "lien": "https://nl.catbox.video/hgkt35.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kieru daydream",
+          "artiste": "Marina Kawano",
+          "lien": "https://nl.catbox.video/mcv0u6.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0
       ]
     },
     {

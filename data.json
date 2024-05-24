@@ -1,6 +1,6 @@
 {
-  "nb_anime": 837,
-  "nb_musique": 3741,
+  "nb_anime": 839,
+  "nb_musique": 3746,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3614,6 +3614,38 @@
           "nom": "Suu Sentimental",
           "artiste": "Kohana Lam",
           "lien": "https://nl.catbox.video/z7hgxh.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Boku no Kokoro no Yabai Yatsu",
+      "id": 1,
+      "mal_id": 55690,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Boku wa...",
+          "artiste": "Atarayo",
+          "lien": "https://nl.catbox.video/nzt5qc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Koishiteru Jibun Sura Aiserunda",
+          "artiste": "Kohana Lam",
+          "lien": "https://nl.catbox.video/tv6z19.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Shayou",
+          "artiste": "Yorushika",
+          "lien": "https://nl.catbox.video/4um6um.webm"
         }
       ],
       "genres": [
@@ -31485,6 +31517,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Taimadou Gakuen 35 Shiken Shoutai",
+      "id": 0,
+      "mal_id": 24133,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Embrace Blade",
+          "artiste": "Afilia Saga",
+          "lien": "https://nl.catbox.video/i7xefo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Calling my Twilight",
+          "artiste": "Kanako Itou",
+          "lien": "https://nl.catbox.video/fn4mep.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {

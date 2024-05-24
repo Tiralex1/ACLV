@@ -1,6 +1,6 @@
 {
   "nb_anime": 837,
-  "nb_musique": 3740,
+  "nb_musique": 3741,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -34386,7 +34386,7 @@
       "nom": "Wind Breaker",
       "id": 0,
       "mal_id": 54900,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -34401,6 +34401,13 @@
           "nom": "Muteki",
           "artiste": "Young Kee",
           "lien": "https://nl.catbox.video/v3z0jz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Higher I'll Go",
+          "artiste": "Ryo Takahashi feat. Foggy-D",
+          "lien": "https://nl.catbox.video/umwdni.webm"
         }
       ],
       "genres": [

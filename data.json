@@ -1,6 +1,6 @@
 {
   "nb_anime": 839,
-  "nb_musique": 3746,
+  "nb_musique": 3747,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -34806,7 +34806,7 @@
       "nom": "Yoru no Kurage wa Oyogenai",
       "id": 0,
       "mal_id": 54839,
-      "nb_musique": 7,
+      "nb_musique": 8,
       "musique": [
         {
           "type": "Opening",
@@ -34842,6 +34842,13 @@
           "nom": "Shibuya Aquarium",
           "artiste": "JELEE",
           "lien": "https://nl.catbox.video/dxezuq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ao Isshoku",
+          "artiste": "JELEE",
+          "lien": "https://nl.catbox.video/1qe5pu.webm"
         },
         {
           "type": "Insert Song",

@@ -1,6 +1,6 @@
 {
   "nb_anime": 839,
-  "nb_musique": 3747,
+  "nb_musique": 3748,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -7785,7 +7785,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -14938,7 +14938,7 @@
       "nom": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
       "id": 0,
       "mal_id": 54595,
-      "nb_musique": 8,
+      "nb_musique": 9,
       "musique": [
         {
           "type": "Opening",
@@ -14995,6 +14995,13 @@
           "nom": "HIGHEST",
           "artiste": "OxT",
           "lien": "https://nl.catbox.video/iabnxf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Aloha Ipolani",
+          "artiste": "Daisuke Nakanishi",
+          "lien": "https://nl.catbox.video/dc674b.webm"
         }
       ],
       "genres": [

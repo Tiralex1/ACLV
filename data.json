@@ -1,6 +1,6 @@
 {
-  "nb_anime": 839,
-  "nb_musique": 3748,
+  "nb_anime": 840,
+  "nb_musique": 3749,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -30910,6 +30910,24 @@
       ],
       "genres": [
           0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Suki Demo Kirai na Amanojaku",
+      "id": 0,
+      "mal_id": 58449,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Uso ja Nai",
+          "artiste": "Zutto Mayonaka de Iinoni.",
+          "lien": "https://nl.catbox.video/uo26aj.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {

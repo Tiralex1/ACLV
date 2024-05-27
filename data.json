@@ -1,6 +1,6 @@
 {
   "nb_anime": 840,
-  "nb_musique": 3749,
+  "nb_musique": 3750,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -15374,7 +15374,7 @@
       "nom": "Kaijuu 8-gou",
       "id": 0,
       "mal_id": 52588,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -15396,6 +15396,13 @@
           "nom": "Scream",
           "artiste": "Yuta Bandoh feat. (sic)boy",
           "lien": "https://nl.catbox.video/c9cobz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Warcry",
+          "artiste": "Yuta Bandou feat. Taiiku Okazaki",
+          "lien": "https://nl.catbox.video/vw11ja.webm"
         }
       ],
       "genres": [

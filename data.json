@@ -1,6 +1,6 @@
 {
-  "nb_anime": 840,
-  "nb_musique": 3750,
+  "nb_anime": 842,
+  "nb_musique": 3754,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -19356,6 +19356,31 @@
       ]
     },
     {
+      "nom": "Lv2 kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
+      "id": 0,
+      "mal_id": 56923,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Danna-sama to no Love Love Love Song",
+          "artiste": "Rie Kugimiya",
+          "lien": "https://nl.catbox.video/f40soa.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Utopia Gaku Gairon",
+          "artiste": "DIALOGUE+",
+          "lien": "https://nl.catbox.video/8kj3tx.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Lycoris Recoil",
       "id": 0,
       "mal_id": 50709,
@@ -32177,6 +32202,31 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Tensei Kizoku, Kantei Skill de Nariagaru",
+      "id": 0,
+      "mal_id": 55265,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Blue Days",
+          "artiste": "TRUE",
+          "lien": "https://nl.catbox.video/nj1ur2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Finally",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.video/zgmzja.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

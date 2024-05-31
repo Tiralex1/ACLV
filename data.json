@@ -1,6 +1,6 @@
 {
   "nb_anime": 842,
-  "nb_musique": 3754,
+  "nb_musique": 3756,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -19819,7 +19819,7 @@
       "nom": "Mahouka Koukou no Rettousei 3rd Season",
       "id": 0,
       "mal_id": 50713,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -19841,6 +19841,13 @@
           "nom": "Snow Noir",
           "artiste": "Sangatsu no Phantasia",
           "lien": "https://nl.catbox.video/b5tf0n.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Shion no Hanataba o",
+          "artiste": "ASCA",
+          "lien": "https://nl.catbox.video/ttk3as.webm"
         }
       ],
       "genres": [
@@ -30948,7 +30955,7 @@
       "nom": "Suki Demo Kirai na Amanojaku",
       "id": 0,
       "mal_id": 58449,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Ending",
@@ -30956,6 +30963,13 @@
           "nom": "Uso ja Nai",
           "artiste": "Zutto Mayonaka de Iinoni.",
           "lien": "https://nl.catbox.video/uo26aj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Blues in the Closet",
+          "artiste": "Zutto Mayonaka de Iinoni.",
+          "lien": "https://nl.catbox.video/vw6l31.webm"
         }
       ],
       "genres": [

@@ -1,6 +1,6 @@
 {
   "nb_anime": 842,
-  "nb_musique": 3756,
+  "nb_musique": 3757,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -28061,7 +28061,7 @@
       "nom": "Sasayaku You ni Koi o Utau",
       "id": 0,
       "mal_id": 54233,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -28076,6 +28076,13 @@
           "nom": "Giftee",
           "artiste": "Hana Shimano",
           "lien": "https://nl.catbox.video/1rek9j.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Meritocracy",
+          "artiste": "Lorelai",
+          "lien": "https://nl.catbox.video/2peg3n.webm"
         },
         {
           "type": "Insert Song",

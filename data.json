@@ -1620,7 +1620,32 @@
       ]
     },
     {
-      "nom": "Arknights: Fuyukomori Kaerimichi",
+      "nom": "Arknights: Reimei Zensou",
+      "id": 0,
+      "mal_id": 50205,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Alive",
+          "artiste": "ReoNa",
+          "lien": "https://nl.catbox.video/e50t9t.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "BE ME",
+          "artiste": "Doul",
+          "lien": "https://nl.catbox.video/x9t7f4.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Arknights: Touin Kiro/Perish in Frost",
       "id": 0,
       "mal_id": 53881,
       "nb_musique": 3,
@@ -1645,31 +1670,6 @@
           "nom": "Fleeting Wish",
           "artiste": "Ayahi Takagaki",
           "lien": "https://nl.catbox.video/ynnysz.webm"
-        }
-      ],
-      "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-      ]
-    },
-    {
-      "nom": "Arknights: Reimei Zensou",
-      "id": 0,
-      "mal_id": 50205,
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Alive",
-          "artiste": "ReoNa",
-          "lien": "https://nl.catbox.video/e50t9t.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "BE ME",
-          "artiste": "Doul",
-          "lien": "https://nl.catbox.video/x9t7f4.webm"
         }
       ],
       "genres": [
@@ -18769,7 +18769,7 @@
           "numero": 0,
           "nom": "Omoi Saku Toki",
           "artiste": "Aoiema.",
-          "lien": "https://ladist1.catbox.video/0mcrh9.webm"
+          "lien": "https://nl.catbox.video/0mcrh9.webm"
         },
         {
           "type": "Insert Song",
@@ -33337,7 +33337,7 @@
           "numero": 1,
           "nom": "Hey, Let's Go",
           "artiste": "Sonya Isaacs",
-          "lien": "https://nl.catbox.video/rd2azw.webm"
+          "lien": "https://nl.catbox.video/sp49il.webm"
         },
         {
           "type": "Opening",
@@ -33358,7 +33358,7 @@
           "numero": 1,
           "nom": "Tonari no Totoro",
           "artiste": "Azumi Inoue",
-          "lien": "https://nl.catbox.video/rialnz.webm"
+          "lien": "https://nl.catbox.video/nj67fv.webm"
         }
       ],
       "genres": [

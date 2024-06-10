@@ -1,6 +1,6 @@
 {
-  "nb_anime": 842,
-  "nb_musique": 3757,
+  "nb_anime": 845,
+  "nb_musique": 3770,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -2284,6 +2284,31 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Benriya Saitou-san, Isekai ni Iku",
+      "id": 0,
+      "mal_id": 50854,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "kaleidoscope",
+          "artiste": "Teary Planet",
+          "lien": "https://nl.catbox.video/tkwyme.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hidamari no Saido",
+          "artiste": "konoco",
+          "lien": "https://nl.catbox.video/11cx3v.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -11748,6 +11773,24 @@
       ]
     },
     {
+      "nom": "Hana to Alice Satsujin Jiken",
+      "id": 0,
+      "mal_id": 27969,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "fish in the pool",
+          "artiste": "Hec to Pascal",
+          "lien": "https://nl.catbox.video/tkdoht.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Hanma Baki: Son of Ogre",
       "id": 0,
       "mal_id": 42940,
@@ -21040,6 +21083,87 @@
       ],
       "genres": [
           0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Monogatari Series Second Season",
+      "id": 0,
+      "mal_id": 17074,
+      "nb_musique": 10,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "chocolate insomnia",
+          "artiste": "Yui Horie",
+          "lien": "https://nl.catbox.video/9a0kew.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "happy bite",
+          "artiste": "Emiri Katou",
+          "lien": "https://nl.catbox.video/pj1ii8.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "Mousou♥Express",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.video/3su5rd.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 4,
+          "nom": "white lies",
+          "artiste": "Hiroaki Miyakoshi & Shigeru Yamada (Tokyo Konsei Gasshou-dan)",
+          "lien": "https://nl.catbox.video/rk4pq9.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 5,
+          "nom": "fast love",
+          "artiste": "Chiwa Saito",
+          "lien": "https://nl.catbox.video/9c7836.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 6,
+          "nom": "Kogarashi Sentiment",
+          "artiste": "Chiwa Saito & Shinichiro Miki",
+          "lien": "https://nl.catbox.video/freyju.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ai o Utae",
+          "artiste": "Luna Haruna",
+          "lien": "https://nl.catbox.video/ul07ok.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kimi no Shiranai Monogatari",
+          "artiste": "supercell",
+          "lien": "https://nl.catbox.video/fz7en5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Sono Koe o Oboeteru",
+          "artiste": "Marina Kawano",
+          "lien": "https://nl.catbox.video/bnpmfn.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "snowdrop",
+          "artiste": "Luna Haruna × Marina Kawano",
+          "lien": "https://nl.catbox.video/zl7atp.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0
       ]
     },
     {

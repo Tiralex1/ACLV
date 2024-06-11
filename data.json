@@ -1,6 +1,6 @@
 {
-  "nb_anime": 845,
-  "nb_musique": 3770,
+  "nb_anime": 846,
+  "nb_musique": 3772,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -20349,6 +20349,31 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Maou no Ore ga Dorei Elf o Yome ni Shitanda ga, Dou Medereba Ii?",
+      "id": 0,
+      "mal_id": 53434,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Wakaranai Ai",
+          "artiste": "The Brow Beat",
+          "lien": "https://nl.catbox.video/wmjg8i.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Blue Star",
+          "artiste": "Sayaka Yamamoto",
+          "lien": "https://nl.catbox.video/ypcwnl.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "nb_anime": 846,
-  "nb_musique": 3772,
+  "nb_musique": 3773,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10261,7 +10261,7 @@
       "nom": "Girls Band Cry",
       "id": 0,
       "mal_id": 55102,
-      "nb_musique": 7,
+      "nb_musique": 8,
       "musique": [
         {
           "type": "Opening",
@@ -10290,6 +10290,13 @@
           "nom": "Na mo Naki Nani mo Kamo",
           "artiste": "TOGENASHI TOGEARI",
           "lien": "https://nl.catbox.video/wddt2h.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sayonara Ano Hi no Melody",
+          "artiste": "Dou",
+          "lien": "https://nl.catbox.video/y1le1w.webm"
         },
         {
           "type": "Insert Song",

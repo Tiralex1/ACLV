@@ -1,6 +1,6 @@
 {
-  "nb_anime": 846,
-  "nb_musique": 3773,
+  "nb_anime": 847,
+  "nb_musique": 3778,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3090,6 +3090,52 @@
       ],
       "genres": [
           1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Bobobo-bo Bo-bobo",
+      "id": 0,
+      "mal_id": 1050,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "WILD CHALLENGER",
+          "artiste": "JINDOU",
+          "lien": "https://nl.catbox.video/f18l9b.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Baka Survivor",
+          "artiste": "Ulfuls",
+          "lien": "https://nl.catbox.video/6fs1uw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shiawase",
+          "artiste": "Mani☆Laba",
+          "lien": "https://nl.catbox.video/xiik00.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kirai Tune",
+          "artiste": "FREENOTE",
+          "lien": "https://nl.catbox.video/qkt9cr.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "H.P.S.J.",
+          "artiste": "mihimaruGT",
+          "lien": "https://nl.catbox.video/5yknl6.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
       ]
     },
     {

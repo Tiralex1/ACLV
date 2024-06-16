@@ -1,6 +1,6 @@
 {
-  "nb_anime": 847,
-  "nb_musique": 3778,
+  "nb_anime": 850,
+  "nb_musique": 3810,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10307,7 +10307,7 @@
       "nom": "Girls Band Cry",
       "id": 0,
       "mal_id": 55102,
-      "nb_musique": 8,
+      "nb_musique": 12,
       "musique": [
         {
           "type": "Opening",
@@ -10326,9 +10326,30 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Cycle Of Sorrow",
+          "artiste": "Diamond Dust",
+          "lien": "https://nl.catbox.video/gedzbf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "ETERNAL FLAME ~Sora no Hako~",
+          "artiste": "Diamond Dust",
+          "lien": "https://nl.catbox.video/kr4dsx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Koe Naki Sakana",
           "artiste": "Shin Kawasaki (Kari)",
           "lien": "https://nl.catbox.video/juoeda.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kuuhaku to Catharsis",
+          "artiste": "TOGENASHI TOGEARI",
+          "lien": "https://nl.catbox.video/5jq59p.webm"
         },
         {
           "type": "Insert Song",
@@ -10357,6 +10378,13 @@
           "nom": "Shikai no Sumi Kuchiru Oto",
           "artiste": "Shin Kawasaki (Kari)×beni-shouga",
           "lien": "https://nl.catbox.video/pfo3bd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sora no Hako",
+          "artiste": "Diamond Dust",
+          "lien": "https://nl.catbox.video/n38lxo.webm"
         },
         {
           "type": "Insert Song",
@@ -19381,6 +19409,150 @@
       ]
     },
     {
+      "nom": "Love Live! School Idol Project",
+      "id": 0,
+      "mal_id": 15051,
+      "nb_musique": 19,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Bokura wa Ima no Naka de",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/fz6n6f.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Susume→Tomorrow",
+          "artiste": "Emi Nitta, Aya Uchida, Suzuko Mimori",
+          "lien": "https://nl.catbox.video/7hbwng.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kitto Seishun ga Kikoeru",
+          "artiste": "Emi Nitta, Aya Uchida, Suzuko Mimori",
+          "lien": "https://nl.catbox.video/hffdjc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Kitto Seishun ga Kikoeru",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/ot8wl1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Kitto Seishun ga Kikoeru",
+          "artiste": "Riho Iida, Pile, Yurika Kubo",
+          "lien": "https://nl.catbox.video/wtqb3v.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Kitto Seishun ga Kikoeru",
+          "artiste": "Sora Tokui",
+          "lien": "https://nl.catbox.video/pns2db.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Kitto Seishun ga Kikoeru",
+          "artiste": "Emi Nitta, Aya Uchida, Suzuko Mimori, Riho Iida, Pile, Yurika Kubo, Sora Tokui",
+          "lien": "https://nl.catbox.video/l4ismy.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Kitto Seishun ga Kikoeru",
+          "artiste": "Yoshino Nanjo, Aina Kusuda",
+          "lien": "https://nl.catbox.video/qzs90j.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 8,
+          "nom": "Kitto Seishun ga Kikoeru",
+          "artiste": "Aya Uchida",
+          "lien": "https://nl.catbox.video/qaxsah.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 9,
+          "nom": "Kitto Seishun ga Kikoeru",
+          "artiste": "Emi Nitta",
+          "lien": "https://nl.catbox.video/1nj1d1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Aishiteru Banzai!",
+          "artiste": "Pile",
+          "lien": "https://nl.catbox.video/of0io5.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bokura no LIVE Kimi to no LIFE",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/pcaphv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kore kara no Someday",
+          "artiste": "Emi Nitta, Aya Uchida, Suzuko Mimori, Riho Iida, Pile, Yurika Kubo, Sora Tokui",
+          "lien": "https://nl.catbox.video/fff848.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "No brand girls",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/doueq8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Private Wars",
+          "artiste": "A-RISE",
+          "lien": "https://nl.catbox.video/14swry.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "START:DASH!!",
+          "artiste": "Emi Nitta, Aya Uchida, Suzuko Mimori",
+          "lien": "https://nl.catbox.video/bidu83.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "START:DASH!!",
+          "artiste": "Pile",
+          "lien": "https://nl.catbox.video/qxumng.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "START:DASH!!",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/7nhevw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Wonder zone",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/1ccrd3.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "LoveCom",
       "id": 0,
       "mal_id": 2034,
@@ -28299,6 +28471,24 @@
       ]
     },
     {
+      "nom": "Sayoasa",
+      "id": 0,
+      "mal_id": 35851,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Viātor",
+          "artiste": "rionos",
+          "lien": "https://nl.catbox.video/2vht5x.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Scarlet Nexus",
       "id": 0,
       "mal_id": 48492,
@@ -30394,6 +30584,73 @@
       ],
       "genres": [
           0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Sora no Aosa o Shiru Hito yo",
+      "id": 0,
+      "mal_id": 39569,
+      "nb_musique": 8,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Aoi",
+          "artiste": "Aimyon",
+          "lien": "https://nl.catbox.video/mgvsba.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Akai Sweet Pea",
+          "artiste": "Seiko Matsuda",
+          "lien": "https://nl.catbox.video/dzp6jf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Aoi no Hikigatari",
+          "artiste": "Shion Wakayama",
+          "lien": "https://nl.catbox.video/ujnpn9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Gandhara",
+          "artiste": "Godiego",
+          "lien": "https://nl.catbox.video/soagti.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Gandhara (Aoi Version)",
+          "artiste": "Shion Wakayama",
+          "lien": "https://nl.catbox.video/38b9ja.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Gandhara (Band Version)",
+          "artiste": "Yuuto Uemura",
+          "lien": "https://nl.catbox.video/ylozkb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sora no Aosa o Shiru Hito yo",
+          "artiste": "Aimyon",
+          "lien": "https://nl.catbox.video/4zbsf9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yatte Kimashita Iro Otoko ~Dankichi to Hai! Cheese~",
+          "artiste": "Ken Matsudaira",
+          "lien": "https://nl.catbox.video/fb5kuv.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0
       ]
     },
     {

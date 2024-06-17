@@ -1,6 +1,6 @@
 {
-  "nb_anime": 850,
-  "nb_musique": 3810,
+  "nb_anime": 851,
+  "nb_musique": 3812,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -11869,6 +11869,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Hanamonogatari",
+      "id": 0,
+      "mal_id": 21855,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "the last day of my adolescence",
+          "artiste": "Miyuki Sawashiro",
+          "lien": "https://nl.catbox.video/kv0k83.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "shirushi",
+          "artiste": "Marina Kawano",
+          "lien": "https://nl.catbox.video/bz8luk.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0
       ]
     },
     {

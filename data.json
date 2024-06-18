@@ -1,6 +1,6 @@
 {
-  "nb_anime": 851,
-  "nb_musique": 3812,
+  "nb_anime": 852,
+  "nb_musique": 3834,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -19571,6 +19571,171 @@
           "nom": "Wonder zone",
           "artiste": "μ's",
           "lien": "https://nl.catbox.video/1ccrd3.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Love Live! School Idol Project",
+      "id": 1,
+      "mal_id": 19111,
+      "nb_musique": 22,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Sore wa Boku-tachi no Kiseki",
+          "artiste": "μ's",
+          "lien": "https://openings.moe/video/LoveLive!S2-OP01-NCBD.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Donna Toki mo Zutto",
+          "artiste": "Yoshino Nanjo, Aina Kusuda, Sora Tokui",
+          "lien": "https://openings.moe/video/LoveLive%21S2-ED01a-NCBD.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Donna Toki mo Zutto",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/xpbkbz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Donna Toki mo Zutto",
+          "artiste": "Sora Tokui",
+          "lien": "https://openings.moe/video/LoveLive%21S2-ED01c-NCBD.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Donna Toki mo Zutto",
+          "artiste": "Riho Iida",
+          "lien": "https://openings.moe/video/LoveLive%21S2-ED01d-NCBD.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Donna Toki mo Zutto",
+          "artiste": "Riho Iida, Pile, Yurika Kubo",
+          "lien": "https://openings.moe/video/LoveLive%21S2-ED01e-NCBD.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Donna Toki mo Zutto",
+          "artiste": "Emi Nitta, Aya Uchida, Suzuko Mimori",
+          "lien": "https://openings.moe/video/LoveLive%21S2-ED01f-NCBD.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Donna Toki mo Zutto",
+          "artiste": "Yoshino Nanjo, Pile, Aina Kusuda",
+          "lien": "https://openings.moe/video/LoveLive%21S2-ED01g-NCBD.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 8,
+          "nom": "Donna Toki mo Zutto",
+          "artiste": "Emi Nitta",
+          "lien": "https://nl.catbox.video/r0d3tc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 9,
+          "nom": "Oh,Love&Peace!",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/222iv1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Aishiteru Banzai! (Piano Mix)",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/h296au.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bokura wa Ima no Naka de",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/muz9fm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Dancing stars on me!",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/956632.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Happy maker!",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/i80nkl.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "KiRa-KiRa Sensation!",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/5l8bmp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Koremade no Love Live! ~Musical ver.~",
+          "artiste": "μ's, Marie Miyake, Nozomi Yamamoto, Sayuri Hara",
+          "lien": "https://nl.catbox.video/p0siho.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Love wing bell",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/k02pil.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Private Wars",
+          "artiste": "A-RISE",
+          "lien": "https://nl.catbox.video/5i25uv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shocking Party",
+          "artiste": "A-RISE",
+          "lien": "https://nl.catbox.video/0th4v1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Snow halation",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/3y42q1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Susume→Tomorrow",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/4l1lge.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yume no Tobira",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/lggd7o.webm"
         }
       ],
       "genres": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 852,
-  "nb_musique": 3834,
+  "nb_anime": 853,
+  "nb_musique": 3836,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -34412,6 +34412,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Tsukimonogatari",
+      "id": 0,
+      "mal_id": 28025,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Orange Mint",
+          "artiste": "Saori Hayami",
+          "lien": "https://nl.catbox.video/6t9viu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "border",
+          "artiste": "ClariS",
+          "lien": "https://nl.catbox.video/a81fru.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {

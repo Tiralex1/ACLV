@@ -1,6 +1,6 @@
 {
-  "nb_anime": 854,
-  "nb_musique": 3841,
+  "nb_anime": 856,
+  "nb_musique": 3861,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -18348,6 +18348,94 @@
       ]
     },
     {
+      "nom": "Koyomimonogatari",
+      "id": 0,
+      "mal_id": 32268,
+      "nb_musique": 11,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "perfect slumbers",
+          "artiste": "Yui Horie",
+          "lien": "https://nl.catbox.video/4civpo.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "staple stable",
+          "artiste": "Chiwa Saito",
+          "lien": "https://nl.catbox.video/m9bu75.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "Kaerimichi",
+          "artiste": "Emiri Katou",
+          "lien": "https://nl.catbox.video/2bldwh.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 4,
+          "nom": "ambivalent world",
+          "artiste": "Miyuki Sawashiro",
+          "lien": "https://nl.catbox.video/b8p1sw.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 5,
+          "nom": "Renai Circulation",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.video/v21sk1.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 6,
+          "nom": "marshmallow justice",
+          "artiste": "Eri Kitamura",
+          "lien": "https://nl.catbox.video/qxf4jk.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 7,
+          "nom": "Platinum Disco",
+          "artiste": "Yuka Iguchi",
+          "lien": "https://nl.catbox.video/a7zcx7.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 8,
+          "nom": "decent black",
+          "artiste": "Kaori Mizuhashi",
+          "lien": "https://nl.catbox.video/qnt01z.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 9,
+          "nom": "mein schatz",
+          "artiste": "mito",
+          "lien": "https://nl.catbox.video/f4wxb1.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 10,
+          "nom": "Orange Mint",
+          "artiste": "Saori Hayami",
+          "lien": "https://nl.catbox.video/7zhp2q.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "whiz",
+          "artiste": "TrySail",
+          "lien": "https://nl.catbox.video/e6zg7c.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Kremlin",
       "id": 0,
       "mal_id": 15389,
@@ -33180,7 +33268,7 @@
       "nom": "Tensei shitara Slime Datta Ken",
       "id": 4,
       "mal_id": 53580,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -33195,6 +33283,13 @@
           "nom": "Believer",
           "artiste": "Rin Kurusu",
           "lien": "https://nl.catbox.video/2b9lr5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Miracle soup",
+          "artiste": "MindaRyn",
+          "lien": "https://nl.catbox.video/q3j4qf.webm"
         }
       ],
       "genres": [
@@ -34604,6 +34699,73 @@
       ],
       "genres": [
           1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Uma Musume: Pretty Derby",
+      "id": 0,
+      "mal_id": 35249,
+      "nb_musique": 8,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Make debut!",
+          "artiste": "Azumi Waki, Marika Kohno, Machico, Ayaka Ohashi, Chisa Kimura, Hitomi Ueda, Saori Oonishi",
+          "lien": "https://nl.catbox.video/rt56h2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Grow Up Shine!",
+          "artiste": "Azumi Waki, Marika Kohno, Machico, Ayaka Ohashi, Chisa Kimura, Hitomi Ueda, Saori Oonishi",
+          "lien": "https://nl.catbox.video/9egnoo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Arigatou, Kamisama",
+          "artiste": "Azumi Waki",
+          "lien": "https://nl.catbox.video/3d4e1j.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Silent Star",
+          "artiste": "Marika Kohno",
+          "lien": "https://nl.catbox.video/r26e7r.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Find My Only Way",
+          "artiste": "Spica",
+          "lien": "https://nl.catbox.video/px13cw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Uma Pyoi Densetsu",
+          "artiste": "Uma Musume",
+          "lien": "https://nl.catbox.video/s1hqs7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Nana-iro no Keshiki",
+          "artiste": "Marika Kohno",
+          "lien": "https://nl.catbox.video/c4nj9p.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Special Record!",
+          "artiste": "Yui Kondou, Tomoyo Takayanagi, Spica, Rigil (without Yuka Ootsubo)",
+          "lien": "https://nl.catbox.video/0cymtd.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "nb_anime": 856,
-  "nb_musique": 3861,
+  "nb_musique": 3863,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -17307,7 +17307,7 @@
       "nom": "Kimi o Aishita Hitori no Boku e",
       "id": 0,
       "mal_id": 49835,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Ending",
@@ -17322,6 +17322,13 @@
           "nom": "Kumo o Kou",
           "artiste": "Keina Suda",
           "lien": "https://nl.catbox.video/79guna.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Summer Daydream",
+          "artiste": "Saucy Dog",
+          "lien": "https://nl.catbox.video/mvwr0k.webm"
         }
       ],
       "genres": [
@@ -33268,7 +33275,7 @@
       "nom": "Tensei shitara Slime Datta Ken",
       "id": 4,
       "mal_id": 53580,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -33276,6 +33283,13 @@
           "nom": "PEACEKEEPER",
           "artiste": "STEREO DIVE FOUNDATION",
           "lien": "https://nl.catbox.video/164as3.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Renacer Serenade",
+          "artiste": "Momoiro Clover Z",
+          "lien": "https://nl.catbox.video/iqoq8w.webm"
         },
         {
           "type": "Ending",

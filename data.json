@@ -1,6 +1,6 @@
 {
-  "nb_anime": 853,
-  "nb_musique": 3836,
+  "nb_anime": 854,
+  "nb_musique": 3841,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -25592,6 +25592,52 @@
       ],
       "genres": [
           1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Owarimonogatari",
+      "id": 0,
+      "mal_id": 31181,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "decent black",
+          "artiste": "Kaori Mizuhashi",
+          "lien": "https://nl.catbox.video/t695nw.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "mathemagics",
+          "artiste": "Marina Inoue",
+          "lien": "https://nl.catbox.video/ac8nam.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "Yuudachi Houteishiki",
+          "artiste": "Marina Inoue",
+          "lien": "https://nl.catbox.video/my1lg6.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 4,
+          "nom": "mein schatz",
+          "artiste": "mito",
+          "lien": "https://nl.catbox.video/5t3sn8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sayonara no Yukue",
+          "artiste": "Alisa Takigawa",
+          "lien": "https://nl.catbox.video/gxskty.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0
       ]
     },
     {

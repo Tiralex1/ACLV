@@ -1,6 +1,6 @@
 {
-  "nb_anime": 856,
-  "nb_musique": 3863,
+  "nb_anime": 859,
+  "nb_musique": 3873,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -17630,6 +17630,42 @@
       ]
     },
     {
+      "nom": "Kizumonogatari II: Nekketsu-hen",
+      "id": 0,
+      "mal_id": 31757,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "étoile et toi",
+          "artiste": "Clémentine",
+          "lien": "https://nl.catbox.video/nlpbny.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Kizumonogatari III: Reiketsu-hen",
+      "id": 0,
+      "mal_id": 31758,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "étoile et toi [édition le blanc]",
+          "artiste": "Clémentine & Ainhoa",
+          "lien": "https://nl.catbox.video/ujlz28.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Knight's & Magic",
       "id": 0,
       "mal_id": 34104,
@@ -34776,6 +34812,73 @@
           "nom": "Special Record!",
           "artiste": "Yui Kondou, Tomoyo Takayanagi, Spica, Rigil (without Yuka Ootsubo)",
           "lien": "https://nl.catbox.video/0cymtd.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0
+      ]
+    },
+    {
+      "nom": "Uma Musume: Pretty Derby Season 2",
+      "id": 0,
+      "mal_id": 42941,
+      "nb_musique": 8,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Yume o Kakeru!",
+          "artiste": "Azumi Waki, Marika Kohno, Machico, Ayaka Ohashi, Chisa Kimura, Hitomi Ueda, Saori Oonishi",
+          "lien": "https://nl.catbox.video/4rihvd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "winning the soul",
+          "artiste": "Machico",
+          "lien": "https://nl.catbox.video/3nid8a.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Komorebi no Yell",
+          "artiste": "Machico & Saori Oonishi",
+          "lien": "https://nl.catbox.video/ozt1re.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Sasayaka na Inori",
+          "artiste": "Manaka Iwami",
+          "lien": "https://nl.catbox.video/qbeufq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Negai no Katachi",
+          "artiste": "Machico",
+          "lien": "https://nl.catbox.video/3h3z9l.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Uma Pyoi Densetsu",
+          "artiste": "Uma Musume 2",
+          "lien": "https://nl.catbox.video/2qi9gk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Koi wa Derby☆",
+          "artiste": "Machico",
+          "lien": "https://nl.catbox.video/kw1ei5.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yume o Kakeru!",
+          "artiste": "Machico, Yui Kondou, Kaori Maeda",
+          "lien": "https://nl.catbox.video/exvlse.webm"
         }
       ],
       "genres": [

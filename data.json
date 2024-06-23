@@ -1,6 +1,6 @@
 {
   "nb_anime": 859,
-  "nb_musique": 3873,
+  "nb_musique": 3874,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -35908,7 +35908,7 @@
       "nom": "Yoru no Kurage wa Oyogenai",
       "id": 0,
       "mal_id": 54839,
-      "nb_musique": 8,
+      "nb_musique": 9,
       "musique": [
         {
           "type": "Opening",
@@ -35965,6 +35965,13 @@
           "nom": "lovely weather",
           "artiste": "Sunflower Dolls",
           "lien": "https://nl.catbox.video/u21uhn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shinkai Yuuei",
+          "artiste": "JELEE",
+          "lien": "https://nl.catbox.video/r2keoh.webm"
         }
       ],
       "genres": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 862,
-  "nb_musique": 3883,
+  "nb_anime": 863,
+  "nb_musique": 3890,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -19899,6 +19899,66 @@
           "nom": "Yume no Tobira",
           "artiste": "μ's",
           "lien": "https://nl.catbox.video/lggd7o.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Love Live! The School Idol Movie",
+      "id": 0,
+      "mal_id": 24997,
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Boku-tachi wa Hitotsu no Hikari",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/6ed4ik.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "?←HEARTBEAT",
+          "artiste": "Yoshino Nanjo, Aina Kusuda, Sora Tokui",
+          "lien": "https://nl.catbox.video/l5wuch.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Angelic Angel",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/si5r6o.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "As Time Goes By",
+          "artiste": "Minami Takayama",
+          "lien": "https://nl.catbox.video/wyg6fo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Future style",
+          "artiste": "Emi Nitta, Aya Uchida, Suzuko Mimori",
+          "lien": "https://nl.catbox.video/vo572b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hello, Hoshi o Kazoete",
+          "artiste": "Riho Iida, Pile, Yurika Kubo",
+          "lien": "https://nl.catbox.video/sqncf9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "SUNNY DAY SONG",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/vkld22.webm"
         }
       ],
       "genres": [

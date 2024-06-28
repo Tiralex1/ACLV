@@ -1,6 +1,6 @@
 {
-  "nb_anime": 859,
-  "nb_musique": 3874,
+  "nb_anime": 862,
+  "nb_musique": 3883,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -14099,6 +14099,31 @@
       ]
     },
     {
+      "nom": "Isekai Suicide Squad",
+      "id": 0,
+      "mal_id": 55848,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Another World",
+          "artiste": "Tomoyasu Hotei",
+          "lien": "https://nl.catbox.video/6z9yhl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Go-Getters",
+          "artiste": "Mori Calliope",
+          "lien": "https://nl.catbox.video/arxqsa.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Isekai wa Smartphone to Tomo ni.",
       "id": 0,
       "mal_id": 35203,
@@ -15523,7 +15548,7 @@
       "nom": "Kaijuu 8-gou",
       "id": 0,
       "mal_id": 52588,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -15538,6 +15563,13 @@
           "nom": "Nobody",
           "artiste": "ONEREPUBLIC",
           "lien": "https://nl.catbox.video/n38jlx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Never Break Down",
+          "artiste": "Yuta Bandoh feat. LEO Imai",
+          "lien": "https://nl.catbox.video/pn6dyw.webm"
         },
         {
           "type": "Insert Song",
@@ -25769,6 +25801,45 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Owarimonogatari",
+      "id": 1,
+      "mal_id": 35247,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "terminal terminal",
+          "artiste": "Emiri Katou",
+          "lien": "https://nl.catbox.video/u0txfl.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "dreamy date drive",
+          "artiste": "Chiwa Saito",
+          "lien": "https://nl.catbox.video/5po6qb.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "dark cherry mystery",
+          "artiste": "Kaori Mizuhashi",
+          "lien": "https://nl.catbox.video/nmg5ha.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "SHIORI",
+          "artiste": "ClariS",
+          "lien": "https://nl.catbox.video/ew0dso.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -36489,6 +36560,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Zoku Owarimonogatari",
+      "id": 0,
+      "mal_id": 36999,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "07734",
+          "artiste": "Satoru Kosaki, mito feat. Hiroshi Kamiya",
+          "lien": "https://nl.catbox.video/nevm46.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "azure",
+          "artiste": "TrySail",
+          "lien": "https://nl.catbox.video/lpmez7.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {

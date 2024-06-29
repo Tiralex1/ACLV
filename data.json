@@ -1,6 +1,6 @@
 {
-  "nb_anime": 863,
-  "nb_musique": 3890,
+  "nb_anime": 864,
+  "nb_musique": 3910,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10307,7 +10307,7 @@
       "nom": "Girls Band Cry",
       "id": 0,
       "mal_id": 55102,
-      "nb_musique": 12,
+      "nb_musique": 13,
       "musique": [
         {
           "type": "Opening",
@@ -10392,6 +10392,13 @@
           "nom": "Sora no Hako",
           "artiste": "Rina, Yuuri",
           "lien": "https://nl.catbox.video/sn007y.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Unmei no Hana",
+          "artiste": "TOGENASHI TOGEARI",
+          "lien": "https://nl.catbox.video/jscduc.webm"
         }
       ],
       "genres": [
@@ -19899,6 +19906,150 @@
           "nom": "Yume no Tobira",
           "artiste": "μ's",
           "lien": "https://nl.catbox.video/lggd7o.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Love Live! School Idol Project Sunshine!!",
+      "id": 0,
+      "mal_id": 32526,
+      "nb_musique": 19,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Aozora Jumping Heart",
+          "artiste": "Aqours",
+          "lien": "https://nl.catbox.video/qdvphr.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yume Kataru yori Yume Utaou",
+          "artiste": "Anju Inami, Rikako Aida, Shuka Saitou",
+          "lien": "https://nl.catbox.video/8d36tf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Yume Kataru yori Yume Utaou",
+          "artiste": "Aqours",
+          "lien": "https://nl.catbox.video/k1rd79.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Yume Kataru yori Yume Utaou",
+          "artiste": "Kanako Takatsuki & Ai Furihata",
+          "lien": "https://nl.catbox.video/4yqefj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Yume Kataru yori Yume Utaou",
+          "artiste": "Aika Kobayashi",
+          "lien": "https://nl.catbox.video/ne6ayj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Yume Kataru yori Yume Utaou",
+          "artiste": "Nanaka Suwa, Arisa Komiya, Aina Suzuki",
+          "lien": "https://nl.catbox.video/j5u19n.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Yume Kataru yori Yume Utaou",
+          "artiste": "Aika Kobayashi, Kanako Takatsuki, Ai Furihata",
+          "lien": "https://nl.catbox.video/2odvjw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Yume Kataru yori Yume Utaou",
+          "artiste": "Anju Inami, Rikako Aida, Shuka Saitou, Aika Kobayashi, Kanako Takatsuki, Ai Furihata",
+          "lien": "https://nl.catbox.video/dtukdk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 8,
+          "nom": "Yume Kataru yori Yume Utaou",
+          "artiste": "Anju Inami & Rikako Aida",
+          "lien": "https://nl.catbox.video/o90u5l.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 9,
+          "nom": "Yume Kataru yori Yume Utaou",
+          "artiste": "Shuka Saitou",
+          "lien": "https://nl.catbox.video/tkvpf9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Daisuki Dattara Daijoubu!",
+          "artiste": "Anju Inami, Rikako Aida, Shuka Saitou",
+          "lien": "https://nl.catbox.video/6e734m.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kimeta yo Hand in Hand",
+          "artiste": "Anju Inami, Rikako Aida, Shuka Saitou",
+          "lien": "https://nl.catbox.video/fblt4c.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mijuku DREAMER",
+          "artiste": "Aqours",
+          "lien": "https://nl.catbox.video/xjn5d2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "MIRAI TICKET",
+          "artiste": "Aqours",
+          "lien": "https://nl.catbox.video/a1rz0k.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Omoi yo Hitotsu ni Nare",
+          "artiste": "Anju Inami, Nanaka Suwa, Arisa Komiya, Shuka Saitou, Aika Kobayashi, Kanako Takatsuki, Aina Suzuki, Ai Furihata",
+          "lien": "https://nl.catbox.video/5fnbz2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "SELF CONTROL!!",
+          "artiste": "Saint Snow",
+          "lien": "https://nl.catbox.video/y3ujgx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "START:DASH!!",
+          "artiste": "μ's",
+          "lien": "https://nl.catbox.video/ehalrv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yume de Yozora o Terashitai",
+          "artiste": "Anju Inami, Rikako Aida, Shuka Saitou, Aika Kobayashi, Kanako Takatsuki, Ai Furihata",
+          "lien": "https://nl.catbox.video/75pr24.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yume no Tobira",
+          "artiste": "Rikako Aida",
+          "lien": "https://nl.catbox.video/lt9dsg.webm"
         }
       ],
       "genres": [

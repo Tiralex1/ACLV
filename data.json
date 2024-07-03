@@ -25254,7 +25254,7 @@
           "numero": 1,
           "nom": "request",
           "artiste": "krage",
-          "lien": "https://nl.catbox.video/3wl513.webm"
+          "lien": "https://nl.catbox.video/9mpaog.webm"
         },
         {
           "type": "Insert Song",
@@ -33384,7 +33384,7 @@
       ]
     },
     {
-      "nom": "Tensei Shitara Dainana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu",
+      "nom": "Tensei shitara Dainana Ouji Datta node, Kimamani Majutsu o Kiwamemasu",
       "id": 0,
       "mal_id": 53516,
       "nb_musique": 2,
@@ -33405,7 +33405,7 @@
         }
       ],
       "genres": [
-          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -34810,7 +34810,7 @@
       ]
     },
     {
-      "nom": "Tsuki ga Michibiku Isekai Douchuu Dai Ni Shou",
+      "nom": "Tsuki ga Michibiku Isekai Douchuu Dai Ni Maku",
       "id": 0,
       "mal_id": 49889,
       "nb_musique": 5,

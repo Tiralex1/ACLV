@@ -1,6 +1,6 @@
 {
   "nb_anime": 868,
-  "nb_musique": 3926,
+  "nb_musique": 3928,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -25215,7 +25215,7 @@
       "nom": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
       "id": 0,
       "mal_id": 51122,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -25225,11 +25225,25 @@
           "lien": "https://nl.catbox.video/mf1thi.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Sign",
+          "artiste": "Aimer",
+          "lien": "https://nl.catbox.video/6t38ab.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Andante",
           "artiste": "ClariS",
           "lien": "https://nl.catbox.video/3re8hq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ringo to Kimi",
+          "artiste": "Neriame",
+          "lien": "https://nl.catbox.video/cwe9bs.webm"
         },
         {
           "type": "Insert Song",

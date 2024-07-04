@@ -1,6 +1,6 @@
 {
-  "nb_anime": 864,
-  "nb_musique": 3910,
+  "nb_anime": 868,
+  "nb_musique": 3926,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -74,6 +74,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "\"Oshi no Ko\"",
+      "id": 1,
+      "mal_id": 55791,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Fatal",
+          "artiste": "GEMN",
+          "lien": "https://nl.catbox.video/phezp6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Burning",
+          "artiste": "Hitsujibungaku",
+          "lien": "https://nl.catbox.video/92wx5p.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -4313,6 +4338,38 @@
           "nom": "Scarlet Sky",
           "artiste": "Kayo Ishu",
           "lien": "https://nl.catbox.video/rfjbhi.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Bungo Stray Dogs",
+      "id": 2,
+      "mal_id": 38003,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Setsuna no Ai",
+          "artiste": "GRANRODEO",
+          "lien": "https://nl.catbox.video/6mc12q.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Lily",
+          "artiste": "Luck Life",
+          "lien": "https://nl.catbox.video/fzuv0a.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "WRIGHT LEFT",
+          "artiste": "SCREEN mode",
+          "lien": "https://nl.catbox.video/ot4hzv.webm"
         }
       ],
       "genres": [
@@ -30921,6 +30978,31 @@
       ]
     },
     {
+      "nom": "Shy",
+      "id": 1,
+      "mal_id": 57567,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "WILLSHINE",
+          "artiste": "PassCode",
+          "lien": "https://nl.catbox.video/dz9gwm.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Soba ni Iru yo",
+          "artiste": "Shino Shimoji & Nao Touyama",
+          "lien": "https://nl.catbox.video/ci0mq6.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Sin: Nanatsu no Taizai",
       "id": 0,
       "mal_id": 33834,
@@ -35168,6 +35250,80 @@
       ]
     },
     {
+      "nom": "Uma Musume: Pretty Derby Season 3",
+      "id": 0,
+      "mal_id": 53526,
+      "nb_musique": 9,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Soshite Minna no",
+          "artiste": "Hinaki Yano, Hina Tachibana, Sayumi Suzushiro, Yuuko Natsuyoshi, MAKIKO, Akina",
+          "lien": "https://nl.catbox.video/eur9tk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Lost Shine",
+          "artiste": "Hinaki Yano",
+          "lien": "https://nl.catbox.video/17f3cy.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Akogare Challenge Dash!!",
+          "artiste": "Hinaki Yano, Azumi Waki, Marika Kohno, Machico, Ayaka Ohashi, Chisa Kimura, Hitomi Ueda, Saori Oonishi",
+          "lien": "https://nl.catbox.video/bjps8i.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Sora no Hohoemikata",
+          "artiste": "Hinaki Yano",
+          "lien": "https://nl.catbox.video/u3ofir.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Yume no Kotae",
+          "artiste": "Hina Tachibana",
+          "lien": "https://nl.catbox.video/yqwnuw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Ambitious World",
+          "artiste": "Hina Tachibana & Hinaki Yano",
+          "lien": "https://nl.catbox.video/lyocvl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Uma Pyoi Densetsu",
+          "artiste": "Uma Musume 3",
+          "lien": "https://nl.catbox.video/fpxo6v.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hikari no Ushirosugata",
+          "artiste": "Yuuko Natsuyoshi",
+          "lien": "https://nl.catbox.video/zardy9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Soshite Minna no",
+          "artiste": "Hinaki Yano & Yuuko Natsuyoshi",
+          "lien": "https://nl.catbox.video/bmvf0r.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0
+      ]
+    },
+    {
       "nom": "Umi ga Kikoeru",
       "id": 0,
       "mal_id": 743,
@@ -36239,7 +36395,7 @@
           "numero": 0,
           "nom": "Colorful Moonlight (Guitar Arrange ver.)",
           "artiste": "JELEE",
-          "lien": "https://nl.catbox.video/qadhfg.webm"
+          "lien": "https://nl.catbox.video/wacqux.webm"
         },
         {
           "type": "Insert Song",

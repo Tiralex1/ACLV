@@ -1,6 +1,6 @@
 {
-  "nb_anime": 877,
-  "nb_musique": 3943,
+  "nb_anime": 878,
+  "nb_musique": 3947,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -17614,6 +17614,24 @@
       ]
     },
     {
+      "nom": "Kimi-tachi wa Dou Ikiru ka",
+      "id": 0,
+      "mal_id": 36699,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Chikyuugi",
+          "artiste": "Kenshi Yonezu",
+          "lien": "https://nl.catbox.video/3xc3ac.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "KimiUso",
       "id": 0,
       "mal_id": 23273,
@@ -27238,7 +27256,7 @@
       "nom": "Pocket Monsters",
       "id": 0,
       "mal_id": 527,
-      "nb_musique": 29,
+      "nb_musique": 30,
       "musique": [
         {
           "type": "Opening",
@@ -27414,6 +27432,13 @@
           "nom": "Goodbye",
           "artiste": "Rachael Lillis",
           "lien": "https://nl.catbox.video/l090m4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kaze to Issho ni",
+          "artiste": "Sachiko Kobayashi",
+          "lien": "https://nl.catbox.video/svr4b1.webm"
         },
         {
           "type": "Insert Song",
@@ -33985,7 +34010,7 @@
       "nom": "The Fable",
       "id": 0,
       "mal_id": 55911,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -33995,11 +34020,25 @@
           "lien": "https://nl.catbox.video/5pdy8j.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Switch",
+          "artiste": "Umeda Cypher",
+          "lien": "https://nl.catbox.video/ck02k4.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Odd Numbers",
           "artiste": "Umeda Cypher",
           "lien": "https://nl.catbox.video/t5b6zx.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "BEYOND",
+          "artiste": "ALI feat. MaRI",
+          "lien": "https://nl.catbox.video/48yonh.webm"
         }
       ],
       "genres": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 868,
-  "nb_musique": 3928,
+  "nb_anime": 877,
+  "nb_musique": 3943,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -98,7 +98,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -206,6 +206,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0
+      ]
+    },
+    {
+      "nom": "2.5-jigen no Ririsa",
+      "id": 0,
+      "mal_id": 53802,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shutter Chance",
+          "artiste": "Meychan",
+          "lien": "https://nl.catbox.video/ejjarg.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Watch Me",
+          "artiste": "Kaori Maeda・Akari Kitou",
+          "lien": "https://nl.catbox.video/dubb6i.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -7882,6 +7907,24 @@
       ],
       "genres": [
           1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Elf-san wa Yaserarenai.",
+      "id": 0,
+      "mal_id": 57845,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Minna DE Diet",
+          "artiste": "Ayasa Ito",
+          "lien": "https://nl.catbox.video/duqj61.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -15942,6 +15985,31 @@
       ]
     },
     {
+      "nom": "Kami no Tou: Ouji no Kikan",
+      "id": 0,
+      "mal_id": 52635,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "RISE UP",
+          "artiste": "NiziU",
+          "lien": "https://nl.catbox.video/cqn9rf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "BELIEVE",
+          "artiste": "NiziU",
+          "lien": "https://nl.catbox.video/f2heam.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Kami-tachi ni Hirowareta Otoko",
       "id": 0,
       "mal_id": 41312,
@@ -22038,6 +22106,24 @@
       ]
     },
     {
+      "nom": "Monogatari Series: Off & Monster Season",
+      "id": 0,
+      "mal_id": 57864,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "UNDEAD",
+          "artiste": "YOASOBI",
+          "lien": "https://nl.catbox.video/dk39g6.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Mononoke-hime",
       "id": 0,
       "mal_id": 164,
@@ -23978,6 +24064,31 @@
           "nom": "Yuuen Shisetsu",
           "artiste": "Emi Evans",
           "lien": "https://nl.catbox.video/w90vvw.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "NieR:Automata Ver1.1a",
+      "id": 1,
+      "mal_id": 56063,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Black Box",
+          "artiste": "LiSA",
+          "lien": "https://nl.catbox.video/mrie4l.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hai to Inori",
+          "artiste": "GEMS COMPANY",
+          "lien": "https://nl.catbox.video/sjwoqp.webm"
         }
       ],
       "genres": [
@@ -29827,6 +29938,31 @@
       ]
     },
     {
+      "nom": "Shikanoko Nokonoko Koshitantan",
+      "id": 0,
+      "mal_id": 58426,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shika-iro Days",
+          "artiste": "Shika-bu",
+          "lien": "https://nl.catbox.video/x2usnd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shika Senbei no Uta",
+          "artiste": "Megumi Han & Saki Fujita",
+          "lien": "https://nl.catbox.video/hk0n3r.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Shikkakumon no Saikyou Kenja",
       "id": 0,
       "mal_id": 47161,
@@ -30794,6 +30930,31 @@
       ],
       "genres": [
           1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Shoushimin Series",
+      "id": 0,
+      "mal_id": 57810,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Sweet Memory",
+          "artiste": "Eve",
+          "lien": "https://nl.catbox.video/m8rl0w.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "I Tokenai",
+          "artiste": "ammo",
+          "lien": "https://nl.catbox.video/5iz9tn.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -33750,6 +33911,31 @@
       ]
     },
     {
+      "nom": "Tensui no Sakuna-hime",
+      "id": 0,
+      "mal_id": 58357,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Harebare!",
+          "artiste": "Ikimono-gakari",
+          "lien": "https://nl.catbox.video/mr93ku.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "ORIGAMI",
+          "artiste": "Little Glee Monster",
+          "lien": "https://nl.catbox.video/54qsga.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Tensura Nikki: Tensei shitara Slime Datta Ken",
       "id": 0,
       "mal_id": 41488,
@@ -36169,6 +36355,24 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1
+      ]
+    },
+    {
+      "nom": "Yama no Susume",
+      "id": 0,
+      "mal_id": 14355,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Staccato Days",
+          "artiste": "Yuka Iguchi & Kana Asumi",
+          "lien": "https://nl.catbox.video/hno1wp.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {

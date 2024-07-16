@@ -1,6 +1,6 @@
 {
-  "nb_anime": 881,
-  "nb_musique": 3956,
+  "nb_anime": 882,
+  "nb_musique": 3965,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3146,7 +3146,7 @@
       "nom": "Bobobo-bo Bo-bobo",
       "id": 0,
       "mal_id": 1050,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -3182,6 +3182,13 @@
           "nom": "H.P.S.J.",
           "artiste": "mihimaruGT",
           "lien": "https://nl.catbox.video/5yknl6.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Magical☆Girl Denbo-chan no Theme",
+          "artiste": "Mariko Kouda",
+          "lien": "https://nl.catbox.video/x3nuz5.webm"
         }
       ],
       "genres": [
@@ -5405,13 +5412,6 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "HEALTH",
-          "artiste": "MAJOR CRIMES",
-          "lien": "https://nl.catbox.video/53p67a.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
           "nom": "HISTORY",
           "artiste": "GAZELLE TWIN",
           "lien": "https://nl.catbox.video/qsyk3a.webm"
@@ -5450,6 +5450,13 @@
           "nom": "LITTLE STRANGER",
           "artiste": "DAWID PODSIADŁO",
           "lien": "https://nl.catbox.video/05fxkn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "MAJOR CRIMES",
+          "artiste": "HEALTH",
+          "lien": "https://nl.catbox.video/53p67a.webm"
         },
         {
           "type": "Insert Song",
@@ -17038,7 +17045,7 @@
       "nom": "Kenka Dokugaku",
       "id": 0,
       "mal_id": 58080,
-      "nb_musique": 2,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -17053,6 +17060,34 @@
           "nom": "Viral Hack",
           "artiste": "Crab Kani Club",
           "lien": "https://nl.catbox.video/z7h55b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Cockfight",
+          "artiste": "Yutaka Yamada feat. R Reed",
+          "lien": "https://nl.catbox.video/agoc0h.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Definitely Won't Work",
+          "artiste": "Yutaka Yamada feat. Vivek Mehmi",
+          "lien": "https://nl.catbox.video/9sylld.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "I'm Not a Loser",
+          "artiste": "Yutaka Yamada feat. Frank Bentley",
+          "lien": "https://nl.catbox.video/iw9ev8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Viral Hit",
+          "artiste": "Yutaka Yamada feat. Bobby John",
+          "lien": "https://nl.catbox.video/wrnb1d.webm"
         }
       ],
       "genres": [
@@ -24228,6 +24263,31 @@
       ]
     },
     {
+      "nom": "Ninja Kamui",
+      "id": 0,
+      "mal_id": 56285,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Vengeance",
+          "artiste": "coldrain",
+          "lien": "https://nl.catbox.video/enacm6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Eye Openers",
+          "artiste": "Jessica Gelinas",
+          "lien": "https://nl.catbox.video/3nmn7u.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Nisemonogatari",
       "id": 0,
       "mal_id": 11597,
@@ -25006,7 +25066,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Bone To Be Wild",
+          "nom": "Bone to be wild",
           "artiste": "Cho",
           "lien": "https://nl.catbox.video/7k6h8b.webm"
         },
@@ -25041,7 +25101,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "New World",
+          "nom": "NEW WORLD",
           "artiste": "Cho",
           "lien": "https://nl.catbox.video/dvyj0f.webm"
         },
@@ -27345,7 +27405,7 @@
       "nom": "Pocket Monsters",
       "id": 0,
       "mal_id": 527,
-      "nb_musique": 30,
+      "nb_musique": 32,
       "musique": [
         {
           "type": "Opening",
@@ -27532,6 +27592,13 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Lucky Lucky",
+          "artiste": "Shinichiro Miki",
+          "lien": "https://nl.catbox.video/1kend4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Mama no Daiji na Pokemon",
           "artiste": "Yui Horie",
           "lien": "https://nl.catbox.video/mvid3f.webm"
@@ -27549,6 +27616,13 @@
           "nom": "Oyasumi Boku no Pikachu",
           "artiste": "Rica Matsumoto",
           "lien": "https://nl.catbox.video/rlx74w.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Pokemon Ieru ka neo?",
+          "artiste": "Imakuni?, Chiu Yan, Shiro Suzuki",
+          "lien": "https://nl.catbox.video/mwusu4.webm"
         },
         {
           "type": "Insert Song",

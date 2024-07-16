@@ -1,6 +1,6 @@
 {
-  "nb_anime": 878,
-  "nb_musique": 3947,
+  "nb_anime": 881,
+  "nb_musique": 3956,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3613,7 +3613,7 @@
       "nom": "Boku no Hero Academia",
       "id": 6,
       "mal_id": 54789,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -3623,11 +3623,25 @@
           "lien": "https://nl.catbox.video/51upgw.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Curtain Call",
+          "artiste": "Yuuri",
+          "lien": "https://nl.catbox.video/6kf5zk.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Tsubomi",
           "artiste": "Omoinotake",
           "lien": "https://nl.catbox.video/zmp3jx.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Rokutousei",
+          "artiste": "ZARAME",
+          "lien": "https://nl.catbox.video/ewglme.webm"
         }
       ],
       "genres": [
@@ -7913,14 +7927,28 @@
       "nom": "Elf-san wa Yaserarenai.",
       "id": 0,
       "mal_id": 57845,
-      "nb_musique": 1,
+      "nb_musique": 3,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Fried☆Pride",
+          "artiste": "REAL AKIBA BOYZ loves Kasumi Taguchi & AiRyA from REAL AKIBA BAND",
+          "lien": "https://nl.catbox.video/wi2tfd.webm"
+        },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Minna DE Diet",
           "artiste": "Ayasa Ito",
           "lien": "https://nl.catbox.video/duqj61.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Minna DE Diet",
+          "artiste": "Ayasa Ito, Rena Hasegawa, Miyu Kubota",
+          "lien": "https://nl.catbox.video/fw6sy8.webm"
         }
       ],
       "genres": [
@@ -8608,6 +8636,31 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Fairy Tail: 100-nen Quest",
+      "id": 0,
+      "mal_id": 49785,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Story",
+          "artiste": "Da-iCE",
+          "lien": "https://nl.catbox.video/ehylul.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tomo yo Koko de Sayonara da",
+          "artiste": "Boku ga Mitakatta Aozora",
+          "lien": "https://nl.catbox.video/y1gtbg.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -14149,6 +14202,24 @@
       ]
     },
     {
+      "nom": "Isekai Shikkaku",
+      "id": 0,
+      "mal_id": 52367,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shura Nikki",
+          "artiste": "Kashitaro Ito",
+          "lien": "https://nl.catbox.video/l75pa7.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Isekai Shokudou",
       "id": 0,
       "mal_id": 34012,
@@ -16006,7 +16077,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -21153,6 +21224,24 @@
       ],
       "genres": [
           1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Make Heroine ga Ousugiru!",
+      "id": 0,
+      "mal_id": 57524,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "LOVE2000",
+          "artiste": "Hikaru Toono",
+          "lien": "https://nl.catbox.video/de2srq.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -29984,7 +30073,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -31181,7 +31270,7 @@
       "nom": "Shy",
       "id": 1,
       "mal_id": 57567,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -31196,6 +31285,13 @@
           "nom": "Soba ni Iru yo",
           "artiste": "Shino Shimoji & Nao Touyama",
           "lien": "https://nl.catbox.video/ci0mq6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Tsukikage",
+          "artiste": "Kotori Koiwai",
+          "lien": "https://nl.catbox.video/4tp09k.webm"
         }
       ],
       "genres": [

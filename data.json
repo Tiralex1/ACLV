@@ -1,6 +1,6 @@
 {
-  "nb_anime": 882,
-  "nb_musique": 3965,
+  "nb_anime": 884,
+  "nb_musique": 3987,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -320,7 +320,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Boku wa Sonzai Shiteinakatta",
-          "artiste": "Mei Hanakawa",
+          "artiste": "Uta Kawase",
           "lien": "https://nl.catbox.video/0u28cw.webm"
         },
         {
@@ -1827,6 +1827,31 @@
       ]
     },
     {
+      "nom": "Atri: My Dear Moments",
+      "id": 0,
+      "mal_id": 53128,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Ano Hikari",
+          "artiste": "Nogizaka46",
+          "lien": "https://nl.catbox.video/vubmbh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "YES to NO no Ma ni",
+          "artiste": "22/7",
+          "lien": "https://nl.catbox.video/y094cw.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Aura: Maryuuin Kouga Saigo no Tatakai",
       "id": 0,
       "mal_id": 14669,
@@ -2164,6 +2189,101 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0
+      ]
+    },
+    {
+      "nom": "BanG Dream! It's MyGO!!!!!",
+      "id": 0,
+      "mal_id": 54959,
+      "nb_musique": 12,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hitoshizuku",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://nl.catbox.video/zc6m87.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shiori",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://nl.catbox.video/jvy1ng.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ave Mujica",
+          "artiste": "Ave Mujica",
+          "lien": "https://nl.catbox.video/qzvtj3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Haruhikage",
+          "artiste": "CRYCHIC",
+          "lien": "https://nl.catbox.video/5trsxr.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Haruhikage MyGO!!!!! ver.",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://nl.catbox.video/2f3yc0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Here, the world!",
+          "artiste": "sumimi",
+          "lien": "https://nl.catbox.video/wz9wc2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mayoi Uta",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://nl.catbox.video/qr4fga.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Melody",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://nl.catbox.video/2zczdu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ningen ni Naritai Uta Piano ver.",
+          "artiste": "Kanon Takao",
+          "lien": "https://nl.catbox.video/elnm60.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sasanqua",
+          "artiste": "Afterglow",
+          "lien": "https://nl.catbox.video/qkrvh3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shuwarin☆Drea~min",
+          "artiste": "Pastel*Palettes",
+          "lien": "https://nl.catbox.video/hta8qj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Utakotoba",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://nl.catbox.video/xkwt6e.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -7934,7 +8054,7 @@
       "nom": "Elf-san wa Yaserarenai.",
       "id": 0,
       "mal_id": 57845,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -7956,6 +8076,13 @@
           "nom": "Minna DE Diet",
           "artiste": "Ayasa Ito, Rena Hasegawa, Miyu Kubota",
           "lien": "https://nl.catbox.video/fw6sy8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Minna DE Diet",
+          "artiste": "Ayasa Ito, Rena Hasegawa, Miyu Kubota, Ayaka Fukuhara, Sora Tokui",
+          "lien": "https://nl.catbox.video/lcc9xi.webm"
         }
       ],
       "genres": [
@@ -14212,7 +14339,7 @@
       "nom": "Isekai Shikkaku",
       "id": 0,
       "mal_id": 52367,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -14220,6 +14347,13 @@
           "nom": "Shura Nikki",
           "artiste": "Kashitaro Ito",
           "lien": "https://nl.catbox.video/l75pa7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sayonara, Subarashiki Sekai yo",
+          "artiste": "Mayu Maeshima",
+          "lien": "https://nl.catbox.video/2bs0cz.webm"
         }
       ],
       "genres": [
@@ -19128,7 +19262,7 @@
       "nom": "Kurayukaba",
       "id": 0,
       "mal_id": 56553,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Ending",
@@ -19136,6 +19270,13 @@
           "nom": "Naisho no Uta",
           "artiste": "Charan-Po-Rantan",
           "lien": "https://nl.catbox.video/wjkx8e.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kirameku Seiza",
+          "artiste": "Katsuhiko Haida",
+          "lien": "https://nl.catbox.video/dzose9.webm"
         }
       ],
       "genres": [
@@ -21265,8 +21406,15 @@
       "nom": "Make Heroine ga Ousugiru!",
       "id": 0,
       "mal_id": 57524,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Tsuyogaru Girl",
+          "artiste": "BotchiBoromaru feat. Mossa (from Necry Talkie)",
+          "lien": "https://nl.catbox.video/bvbamc.webm"
+        },
         {
           "type": "Ending",
           "numero": 1,
@@ -22251,8 +22399,15 @@
       "nom": "Monogatari Series: Off & Monster Season",
       "id": 0,
       "mal_id": 57864,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "caramel ribbon cursetard",
+          "artiste": "Kana Hanazawa・Saori Hayami",
+          "lien": "https://nl.catbox.video/ibszmc.webm"
+        },
         {
           "type": "Ending",
           "numero": 1,
@@ -24183,7 +24338,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Subete o Hakai Suru Kuroki Kyojin/Kaijuu",
-          "artiste": "NieR:Automata Choir",
+          "artiste": "Nami Nakagawa",
           "lien": "https://nl.catbox.video/1dv32q.webm"
         },
         {
@@ -36392,7 +36547,7 @@
       "nom": "Wind Breaker",
       "id": 0,
       "mal_id": 54900,
-      "nb_musique": 3,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -36411,9 +36566,30 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "A Starting Sign",
+          "artiste": "Ryo Takahashi feat. Foggy-D",
+          "lien": "https://nl.catbox.video/pme2h6.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Call My Name",
+          "artiste": "Ryo Takahashi feat. Foggy-D & Zachary Fitzgerald",
+          "lien": "https://nl.catbox.video/o7t9od.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Higher I'll Go",
           "artiste": "Ryo Takahashi feat. Foggy-D",
-          "lien": "https://nl.catbox.video/umwdni.webm"
+          "lien": "https://nl.catbox.video/8vjo3q.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Stronger",
+          "artiste": "Ryo Takahashi feat. Zachary Fitzgerald & Foggy-D",
+          "lien": "https://nl.catbox.video/t3v4j1.webm"
         }
       ],
       "genres": [
@@ -36620,7 +36796,7 @@
           "numero": 1,
           "nom": "ding!ging!dong!",
           "artiste": "Erushi",
-          "lien": "https://nl.catbox.video/r1oc9p.webm"
+          "lien": "https://nl.catbox.video/37y1er.webm"
         },
         {
           "type": "Opening",

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 884,
-  "nb_musique": 3987,
+  "nb_anime": 885,
+  "nb_musique": 3992,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1842,7 +1842,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "YES to NO no Ma ni",
+          "nom": "YES to NO no Aida ni",
           "artiste": "22/7",
           "lien": "https://nl.catbox.video/y094cw.webm"
         }
@@ -15775,7 +15775,7 @@
       "nom": "Kaii to Otome to Kamikakushi",
       "id": 0,
       "mal_id": 54199,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -15790,6 +15790,20 @@
           "nom": "Akaku Somete Shinzou",
           "artiste": "Nonoka Obuchi",
           "lien": "https://nl.catbox.video/e5obd9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Occhokochoi Bushi",
+          "artiste": "MOKA☆",
+          "lien": "https://nl.catbox.video/4vrqgo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yell Okutteru",
+          "artiste": "Saya Aizawa",
+          "lien": "https://nl.catbox.video/0m4cay.webm"
         }
       ],
       "genres": [
@@ -22071,6 +22085,38 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Military!",
+      "id": 0,
+      "mal_id": 26085,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Militarism! M870ver.",
+          "artiste": "Nao Touyama",
+          "lien": "https://nl.catbox.video/h0h0gd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Militarism! M700ver.",
+          "artiste": "Ayane Sakura",
+          "lien": "https://nl.catbox.video/emwkfm.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Militarism! Microgun ver.",
+          "artiste": "Inori Minase",
+          "lien": "https://nl.catbox.video/emeeev.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

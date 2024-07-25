@@ -1,6 +1,6 @@
 {
-  "nb_anime": 885,
-  "nb_musique": 3992,
+  "nb_anime": 886,
+  "nb_musique": 3998,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -36800,6 +36800,59 @@
           "nom": "Staccato Days",
           "artiste": "Yuka Iguchi & Kana Asumi",
           "lien": "https://nl.catbox.video/hno1wp.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Yama no Susume Second Season",
+      "id": 0,
+      "mal_id": 21435,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Natsu-iro Present",
+          "artiste": "Yuka Iguchi, Kana Asumi, Yoko Hikasa, Yui Ogura",
+          "lien": "https://nl.catbox.video/f6nesz.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Mainichi Koharu Biyori",
+          "artiste": "Yuka Iguchi & Kana Asumi",
+          "lien": "https://nl.catbox.video/9bny86.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tinkling Smile",
+          "artiste": "Yui Ogura",
+          "lien": "https://nl.catbox.video/81a8zm.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Staccato Days",
+          "artiste": "Yuka Iguchi & Kana Asumi",
+          "lien": "https://nl.catbox.video/eo9diz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Cocoiro Rainbow",
+          "artiste": "Kyoko Narumi",
+          "lien": "https://nl.catbox.video/k5qetg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Gakujin no Uta",
+          "artiste": "Yuka Iguchi & Kana Asumi & Yoko Hikasa & Yui Ogura",
+          "lien": "https://nl.catbox.video/vk5vzl.webm"
         }
       ],
       "genres": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 886,
-  "nb_musique": 3998,
+  "nb_anime": 885,
+  "nb_musique": 3996,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -29620,31 +29620,6 @@
           "nom": "Above your hand",
           "artiste": "Annabel",
           "lien": "https://nl.catbox.video/i4gj7c.webm"
-        }
-      ],
-      "genres": [
-          0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
-      ]
-    },
-    {
-      "nom": "Sankarea",
-      "id": 1,
-      "mal_id": 16694,
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Esoragoto",
-          "artiste": "nano.RIPE",
-          "lien": "https://nl.catbox.video/ag7r05.webm?"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Above your hand",
-          "artiste": "Annabel",
-          "lien": "https://nl.catbox.video/i4gj7c.webm?"
         }
       ],
       "genres": [

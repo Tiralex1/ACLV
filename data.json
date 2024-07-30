@@ -1,6 +1,6 @@
 {
-  "nb_anime": 885,
-  "nb_musique": 3996,
+  "nb_anime": 889,
+  "nb_musique": 4007,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -8054,7 +8054,7 @@
       "nom": "Elf-san wa Yaserarenai.",
       "id": 0,
       "mal_id": 57845,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -8083,6 +8083,13 @@
           "nom": "Minna DE Diet",
           "artiste": "Ayasa Ito, Rena Hasegawa, Miyu Kubota, Ayaka Fukuhara, Sora Tokui",
           "lien": "https://nl.catbox.video/lcc9xi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Minna DE Diet",
+          "artiste": "Ayasa Ito, Rena Hasegawa, Miyu Kubota, Ayaka Fukuhara, Sora Tokui, Madoka Asahina, Aya Uchida",
+          "lien": "https://nl.catbox.video/4wpvin.webm"
         }
       ],
       "genres": [
@@ -18273,6 +18280,38 @@
       ]
     },
     {
+      "nom": "Koi wa Futago de Warikirenai",
+      "id": 0,
+      "mal_id": 55996,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Parallel na Heart",
+          "artiste": "Maaya Uchida",
+          "lien": "https://nl.catbox.video/qogk3w.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Honey Citron -Strings Arrange-",
+          "artiste": "Moeha Nochimoto & Maaya Uchida",
+          "lien": "https://nl.catbox.video/oiuszc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Honey Citron",
+          "artiste": "Moeha Nochimoto & Maaya Uchida",
+          "lien": "https://nl.catbox.video/womg9v.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Kokoro Connect",
       "id": 0,
       "mal_id": 11887,
@@ -21592,6 +21631,31 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Maou-gun Saikyou no Majutsushi wa Ningen Datta",
+      "id": 0,
+      "mal_id": 57876,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Ctrl C",
+          "artiste": "KOHTA YAMAMOTO feat. Shun Ikegai",
+          "lien": "https://nl.catbox.video/4855bx.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "I still",
+          "artiste": "KOHTA YAMAMOTO feat. Maya Akechi",
+          "lien": "https://nl.catbox.video/zjfehk.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -25826,6 +25890,31 @@
           "nom": "DARK ARIA",
           "artiste": "XAI",
           "lien": "https://nl.catbox.video/cpkzl6.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Ore wa Subete o \"Parry\" Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+      "id": 0,
+      "mal_id": 57058,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "AMBITION",
+          "artiste": "Anna Suzuki",
+          "lien": "https://nl.catbox.video/s62snj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "No Gifted",
+          "artiste": "Utahime Dream Allstars",
+          "lien": "https://nl.catbox.video/y7hi0f.webm"
         }
       ],
       "genres": [
@@ -31011,6 +31100,31 @@
       ]
     },
     {
+      "nom": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru",
+      "id": 0,
+      "mal_id": 54913,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kouya ni Sake yo Boukensha-tachi",
+          "artiste": "Akira Kushida",
+          "lien": "https://nl.catbox.video/iyu3vh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sagashi Mono",
+          "artiste": "Chiai Fujikawa",
+          "lien": "https://nl.catbox.video/aazmsm.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Shinmai Renkinjutsushi no Tenpo Keiei",
       "id": 0,
       "mal_id": 49849,
@@ -31520,7 +31634,7 @@
       "nom": "Shy",
       "id": 1,
       "mal_id": 57567,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -31542,6 +31656,13 @@
           "nom": "Tsukikage",
           "artiste": "Kotori Koiwai",
           "lien": "https://nl.catbox.video/4tp09k.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Bokura no Love & Peace",
+          "artiste": "Ayumu Murase",
+          "lien": "https://nl.catbox.video/gyzys7.webm"
         }
       ],
       "genres": [

@@ -91,6 +91,17 @@ class ListeAnime {
         this.#tabAnime.push(anime);
         this.#nbMusic += anime.getNbMusic;
     }
+    getClassementNbMusique() {
+        let tab = this.#tabAnime;
+        tab.sort((a, b) => {
+            return b.getNbMusic - a.getNbMusic;
+        });
+        console.log(tab);
+    }
+}
+
+ListeAnime.prototype.getClassementNbMusique = function () {
+
 }
 
 function correctString(str) {

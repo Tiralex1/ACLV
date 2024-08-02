@@ -1,6 +1,6 @@
 {
   "nb_anime": 889,
-  "nb_musique": 4007,
+  "nb_musique": 4000,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -17896,7 +17896,7 @@
       "nom": "KimiUso",
       "id": 0,
       "mal_id": 23273,
-      "nb_musique": 17,
+      "nb_musique": 10,
       "musique": [
         {
           "type": "Opening",
@@ -17936,20 +17936,6 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Ballade No. 1 in G minor, Op. 23",
-          "artiste": "Frédéric Chopin",
-          "lien": "https://nl.catbox.video/zx6qh6.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Clair de Lune",
-          "artiste": "Claude Debussy",
-          "lien": "https://nl.catbox.video/p5cjrz.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
           "nom": "For you ~Tsuki no Hikari ga Furisosogu Terasu",
           "artiste": "ENA",
           "lien": "https://nl.catbox.video/rjdif2.webm"
@@ -17981,41 +17967,6 @@
           "nom": "My Truth ~Rondo Capriccioso",
           "artiste": "ENA",
           "lien": "https://nl.catbox.video/l4weu6.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Piano Sonata No. 14, 3rd movement",
-          "artiste": "Ludwig Van Beethoven",
-          "lien": "https://nl.catbox.video/1401ca.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Violin & Piano Sonata No. 9 (Kreutzer Sonata)",
-          "artiste": "Ludwig Van Beethoven",
-          "lien": "https://nl.catbox.video/vdmx53.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Étude Op. 25 No. 11 (Winter Wind)",
-          "artiste": "Frédéric Chopin",
-          "lien": "https://nl.catbox.video/5rp3vf.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Étude Op. 25 No. 5",
-          "artiste": "Frédéric Chopin",
-          "lien": "https://nl.catbox.video/v4psxf.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Étude Révolutionnaire Op. 10 No.12",
-          "artiste": "Frédéric Chopin",
-          "lien": "https://nl.catbox.video/9whjvf.webm"
         }
       ],
       "genres": [

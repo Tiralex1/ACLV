@@ -1,6 +1,6 @@
 {
-  "nb_anime": 889,
-  "nb_musique": 4000,
+  "nb_anime": 890,
+  "nb_musique": 4005,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -16446,6 +16446,38 @@
       ]
     },
     {
+      "nom": "Kanojo mo Kanojo Season 2",
+      "id": 0,
+      "mal_id": 53040,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Dramatic ni Koi Shitai",
+          "artiste": "Hikari Codama",
+          "lien": "https://nl.catbox.video/3gekq0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Forira",
+          "artiste": "ClariS",
+          "lien": "https://nl.catbox.video/756ftb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Umi",
+          "artiste": "Hikari Codama",
+          "lien": "https://nl.catbox.video/dwpffg.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Kanojo to Kanojo no Neko: Everything Flows",
       "id": 0,
       "mal_id": 32491,
@@ -17200,7 +17232,7 @@
       "nom": "Kenka Dokugaku",
       "id": 0,
       "mal_id": 58080,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -17215,6 +17247,13 @@
           "nom": "Viral Hack",
           "artiste": "Crab Kani Club",
           "lien": "https://nl.catbox.video/z7h55b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Angry At Myself",
+          "artiste": "Yutaka Yamada feat. Ashley Yoon",
+          "lien": "https://nl.catbox.video/pnohdm.webm"
         },
         {
           "type": "Insert Song",
@@ -35552,7 +35591,7 @@
       "nom": "Tsuki ga Michibiku Isekai Douchuu Dai Ni Maku",
       "id": 0,
       "mal_id": 49889,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -35588,6 +35627,13 @@
           "nom": "Joushiki Hazure Human",
           "artiste": "Kaori Maeda",
           "lien": "https://nl.catbox.video/0jrsbc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Ah Jinsei ni Namida Ari",
+          "artiste": "Ayane Sakura & Akari Kitou",
+          "lien": "https://nl.catbox.video/7z91l0.webm"
         }
       ],
       "genres": [

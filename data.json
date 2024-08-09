@@ -1,6 +1,6 @@
 {
-  "nb_anime": 890,
-  "nb_musique": 4005,
+  "nb_anime": 892,
+  "nb_musique": 4009,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10214,6 +10214,31 @@
       ]
     },
     {
+      "nom": "Gekijouban Spy × Family: Code: White",
+      "id": 0,
+      "mal_id": 53888,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hikari no Ato",
+          "artiste": "Gen Hoshino",
+          "lien": "https://nl.catbox.video/z3c2w2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "SOULSOUP",
+          "artiste": "Official HIGE DANdism",
+          "lien": "https://nl.catbox.video/3e2c9x.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Gekijouban Sword Art Online: Ordinal Scale",
       "id": 0,
       "mal_id": 31765,
@@ -12433,6 +12458,31 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete o Juurin Suru made",
+      "id": 0,
+      "mal_id": 57892,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hazure",
+          "artiste": "Chogakusei",
+          "lien": "https://nl.catbox.video/pntjp6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "pray",
+          "artiste": "Hakubi",
+          "lien": "https://nl.catbox.video/e0ne7b.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

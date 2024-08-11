@@ -1,6 +1,6 @@
 {
-  "nb_anime": 892,
-  "nb_musique": 4009,
+  "nb_anime": 893,
+  "nb_musique": 4038,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -8054,7 +8054,7 @@
       "nom": "Elf-san wa Yaserarenai.",
       "id": 0,
       "mal_id": 57845,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -8090,6 +8090,13 @@
           "nom": "Minna DE Diet",
           "artiste": "Ayasa Ito, Rena Hasegawa, Miyu Kubota, Ayaka Fukuhara, Sora Tokui, Madoka Asahina, Aya Uchida",
           "lien": "https://nl.catbox.video/4wpvin.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Minna DE Diet",
+          "artiste": "Ayasa Ito, Rena Hasegawa, Miyu Kubota, Ayaka Fukuhara, Sora Tokui, Madoka Asahina, Aya Uchida, Kotori Koiwai, Yuka Iguchi, Kaori Maeda, Aino Shimada",
+          "lien": "https://nl.catbox.video/8wx42c.webm"
         }
       ],
       "genres": [
@@ -14826,6 +14833,94 @@
       ]
     },
     {
+      "nom": "Ixion Saga DT",
+      "id": 0,
+      "mal_id": 14765,
+      "nb_musique": 11,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "DT Suteru",
+          "artiste": "Golden Ixion Bomber DT",
+          "lien": "https://nl.catbox.video/j4qi7v.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "DT Suteru (Kon Ver.)",
+          "artiste": "Golden Ixion Bomber DT",
+          "lien": "https://nl.catbox.video/sh2pwm.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Let's Go ED",
+          "artiste": "Golden Ixion Bomber DT",
+          "lien": "https://nl.catbox.video/q778cw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Let's Go ED (Erec Ver.)",
+          "artiste": "Golden Ixion Bomber DT",
+          "lien": "https://nl.catbox.video/hrw2sj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "DT Ondo",
+          "artiste": "DT Goikkou",
+          "lien": "https://nl.catbox.video/pejeba.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "○○Tama",
+          "artiste": "Hiroshi Kamiya",
+          "lien": "https://nl.catbox.video/noqdws.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "DT",
+          "artiste": "Takuya Eguchi",
+          "lien": "https://nl.catbox.video/brda37.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Stand Up! ED",
+          "artiste": "ED Goikkou",
+          "lien": "https://nl.catbox.video/at5js6.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Docchitsukazu no Dynamite",
+          "artiste": "Jun Fukuyama",
+          "lien": "https://nl.catbox.video/vmzivf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kedamono no Uta",
+          "artiste": "Yoshimasa Hosoya",
+          "lien": "https://nl.catbox.video/xmkt0p.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Nyami",
+          "artiste": "Kazuya Nakai",
+          "lien": "https://nl.catbox.video/nkrazo.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Iya na Kao Sare Nagara Opantsu Misete Moraitai",
       "id": 0,
       "mal_id": 37021,
@@ -21499,7 +21594,7 @@
       "nom": "Make Heroine ga Ousugiru!",
       "id": 0,
       "mal_id": 57524,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -21514,6 +21609,13 @@
           "nom": "LOVE2000",
           "artiste": "Hikaru Toono",
           "lien": "https://nl.catbox.video/de2srq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "CRAZY FOR YOU",
+          "artiste": "Shion Wakayama",
+          "lien": "https://nl.catbox.video/3z4au7.webm"
         }
       ],
       "genres": [
@@ -22873,7 +22975,7 @@
       "nom": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
       "id": 2,
       "mal_id": 55888,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -22895,6 +22997,13 @@
           "nom": "Tsubasa",
           "artiste": "Shion Wakayama",
           "lien": "https://nl.catbox.video/7ccpoe.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Kage Kurabe no Uta",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://nl.catbox.video/3kc4q6.webm"
         }
       ],
       "genres": [
@@ -23559,7 +23668,7 @@
       "nom": "Naruto Shippuuden",
       "id": 0,
       "mal_id": 1735,
-      "nb_musique": 61,
+      "nb_musique": 62,
       "musique": [
         {
           "type": "Opening",
@@ -23987,6 +24096,13 @@
           "nom": "Bijuu Kazoe Uta",
           "artiste": "Junko Takeuchi",
           "lien": "https://nl.catbox.video/js5re4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Otakebi",
+          "artiste": "Yusuke",
+          "lien": "https://nl.catbox.video/txxs0l.webm"
         }
       ],
       "genres": [
@@ -24384,7 +24500,7 @@
       "nom": "NieR:Automata Ver1.1a",
       "id": 0,
       "mal_id": 51105,
-      "nb_musique": 18,
+      "nb_musique": 20,
       "musique": [
         {
           "type": "Opening",
@@ -24459,6 +24575,13 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Kengenshita Ibutsu",
+          "artiste": "Nami Nakagawa",
+          "lien": "https://nl.catbox.video/amkrdx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Nokosareta Basho/Shakou",
           "artiste": "J'Nique Nicole",
           "lien": "https://nl.catbox.video/p1gmsd.webm"
@@ -24501,6 +24624,13 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Umaredezuru Ishi/Kono Mama ja Dame",
+          "artiste": "Shotaro Seo",
+          "lien": "https://nl.catbox.video/0ok4d9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Utsukushiki Uta(Ver1.1a)",
           "artiste": "Emi Evans & J'Nique Nicole",
           "lien": "https://nl.catbox.video/6whe80.webm"
@@ -24521,7 +24651,7 @@
       "nom": "NieR:Automata Ver1.1a",
       "id": 1,
       "mal_id": 56063,
-      "nb_musique": 2,
+      "nb_musique": 11,
       "musique": [
         {
           "type": "Opening",
@@ -24536,6 +24666,69 @@
           "nom": "Hai to Inori",
           "artiste": "GEMS COMPANY",
           "lien": "https://nl.catbox.video/sjwoqp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Dare ga Tame no Tatakai",
+          "artiste": "Saki Nakae",
+          "lien": "https://nl.catbox.video/fh6obi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Houkai no Kyomou",
+          "artiste": "Nami Nakagawa & Shotaro Seo",
+          "lien": "https://nl.catbox.video/gcndi3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kaeranai Koe",
+          "artiste": "Emi Evans",
+          "lien": "https://nl.catbox.video/ad3s92.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Nokosareta Basho/Shakou",
+          "artiste": "J'Nique Nicole",
+          "lien": "https://nl.catbox.video/3e8494.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Obaa-chan/Hakai",
+          "artiste": "Nami Nakagawa & Shotaro Seo",
+          "lien": "https://nl.catbox.video/ujard0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Odayaka na Nemuri",
+          "artiste": "Emi Evans",
+          "lien": "https://nl.catbox.video/lv8z90.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Orokashii Heiki:Otsu:Kou",
+          "artiste": "Emi Evans",
+          "lien": "https://nl.catbox.video/ftif2j.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Soukyoku no Akumu",
+          "artiste": "Nami Nakagawa",
+          "lien": "https://nl.catbox.video/4uyo5b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Subete o Hakai Suru Kuroki Kyojin/Kaijuu",
+          "artiste": "Nami Nakagawa",
+          "lien": "https://nl.catbox.video/f5epp6.webm"
         }
       ],
       "genres": [
@@ -29759,7 +29952,7 @@
       "nom": "Sasayaku You ni Koi o Utau",
       "id": 0,
       "mal_id": 54233,
-      "nb_musique": 4,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -29785,9 +29978,23 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Giftee ~(SSGIRLS Ver.)~",
+          "artiste": "SSGIRLS",
+          "lien": "https://nl.catbox.video/myjmep.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Humming Love",
           "artiste": "SSGIRLS",
           "lien": "https://nl.catbox.video/kat41u.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sunny Spot",
+          "artiste": "SSGIRLS",
+          "lien": "https://nl.catbox.video/0e0u0f.webm"
         }
       ],
       "genres": [
@@ -32180,7 +32387,7 @@
       "nom": "Sousou no Frieren",
       "id": 0,
       "mal_id": 52991,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -32209,6 +32416,13 @@
           "nom": "bliss",
           "artiste": "milet",
           "lien": "https://nl.catbox.video/as6rwg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "bliss",
+          "artiste": "milet",
+          "lien": "https://nl.catbox.video/wq97sv.webm"
         }
       ],
       "genres": [

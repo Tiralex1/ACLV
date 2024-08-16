@@ -1,6 +1,6 @@
 {
-  "nb_anime": 893,
-  "nb_musique": 4038,
+  "nb_anime": 894,
+  "nb_musique": 4048,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -12963,7 +12963,7 @@
       "nom": "Hikikomari Kyuuketsuki no Monmon",
       "id": 0,
       "mal_id": 54103,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -12978,6 +12978,13 @@
           "nom": "Nemurenai",
           "artiste": "MIMiNARI feat. Tomori Kusunoki",
           "lien": "https://nl.catbox.video/oopech.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hajimari no Yokan",
+          "artiste": "Nami Nakagawa",
+          "lien": "https://nl.catbox.video/a7owpw.webm"
         }
       ],
       "genres": [
@@ -31881,7 +31888,7 @@
       "nom": "Shy",
       "id": 1,
       "mal_id": 57567,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -31910,6 +31917,13 @@
           "nom": "Bokura no Love & Peace",
           "artiste": "Ayumu Murase",
           "lien": "https://nl.catbox.video/gyzys7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Ulybka",
+          "artiste": "Mamiko Noto",
+          "lien": "https://nl.catbox.video/qfommy.webm"
         }
       ],
       "genres": [
@@ -35009,6 +35023,73 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+      "id": 0,
+      "mal_id": 54744,
+      "nb_musique": 8,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "1-ban Kagayaku Hoshi",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/ogvug0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Gakuen Tengoku",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/5wo08q.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kawaikute Gomen",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/9135yp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Omoide ga Ippai",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/t6g46b.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Hare Hare Yukai",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/mj3yqa.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Chiisana Koi no Uta",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/qkw94v.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Himitsu no Kotoba",
+          "artiste": "Sumire Uesaka×KAF",
+          "lien": "https://nl.catbox.video/33ggy0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Love Story wa Totsuzen ni",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/br80r7.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {

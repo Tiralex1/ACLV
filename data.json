@@ -1,6 +1,6 @@
 {
-  "nb_anime": 894,
-  "nb_musique": 4048,
+  "nb_anime": 901,
+  "nb_musique": 4068,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1698,7 +1698,7 @@
       "nom": "Arknights: Touin Kiro/Perish in Frost",
       "id": 0,
       "mal_id": 53881,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -1720,6 +1720,13 @@
           "nom": "Fleeting Wish",
           "artiste": "Ayahi Takagaki",
           "lien": "https://nl.catbox.video/ynnysz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Lullabye",
+          "artiste": "Ayahi Takagaki",
+          "lien": "https://nl.catbox.video/ygzq43.webm"
         }
       ],
       "genres": [
@@ -1830,7 +1837,7 @@
       "nom": "Atri: My Dear Moments",
       "id": 0,
       "mal_id": 53128,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -1845,6 +1852,13 @@
           "nom": "YES to NO no Aida ni",
           "artiste": "22/7",
           "lien": "https://nl.catbox.video/y094cw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Dear Moments",
+          "artiste": "Hikaru Akao",
+          "lien": "https://nl.catbox.video/pyjhms.webm"
         }
       ],
       "genres": [
@@ -4728,6 +4742,49 @@
       ]
     },
     {
+      "nom": "Cencoroll",
+      "id": 0,
+      "mal_id": 3087,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "LOVE & ROLL",
+          "artiste": "supercell",
+          "lien": "https://nl.catbox.video/o2xaso.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Cencoroll Connect",
+      "id": 0,
+      "mal_id": 9488,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "#Love",
+          "artiste": "supercell feat. Ann, gaku",
+          "lien": "https://nl.catbox.video/0d8cbq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Nanairo night",
+          "artiste": "supercell feat. Ann",
+          "lien": "https://nl.catbox.video/w7nmby.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Centaur no Nayami",
       "id": 0,
       "mal_id": 34525,
@@ -6367,6 +6424,31 @@
       ],
       "genres": [
           0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Date A Live V",
+      "id": 0,
+      "mal_id": 52196,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Paradoxes",
+          "artiste": "Miyu Tomita",
+          "lien": "https://nl.catbox.video/vb113e.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hitohira",
+          "artiste": "sweet ARMS",
+          "lien": "https://nl.catbox.video/g7jgrf.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -8054,7 +8136,7 @@
       "nom": "Elf-san wa Yaserarenai.",
       "id": 0,
       "mal_id": 57845,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -8097,6 +8179,13 @@
           "nom": "Minna DE Diet",
           "artiste": "Ayasa Ito, Rena Hasegawa, Miyu Kubota, Ayaka Fukuhara, Sora Tokui, Madoka Asahina, Aya Uchida, Kotori Koiwai, Yuka Iguchi, Kaori Maeda, Aino Shimada",
           "lien": "https://nl.catbox.video/8wx42c.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Minna DE Diet",
+          "artiste": "Demo Tabe-tai",
+          "lien": "https://nl.catbox.video/a7bb9b.webm"
         }
       ],
       "genres": [
@@ -15520,6 +15609,24 @@
       ]
     },
     {
+      "nom": "Kagami no Kojou",
+      "id": 0,
+      "mal_id": 51116,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Merry-Go-Round",
+          "artiste": "Yuuri",
+          "lien": "https://nl.catbox.video/omlbw9.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Kage no Jitsuryokusha ni Naritakute!",
       "id": 0,
       "mal_id": 48316,
@@ -21109,7 +21216,7 @@
       "nom": "Mahou Shoujo Site",
       "id": 0,
       "mal_id": 36266,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -21138,6 +21245,13 @@
           "nom": "...Watashi dake Mitete♡",
           "artiste": "Yuu Serizawa",
           "lien": "https://nl.catbox.video/2ijzs8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kibou no Asa",
+          "artiste": "Yukari Miyajima (Suginami Jidou Gasshou-dan)",
+          "lien": "https://nl.catbox.video/x3fw1w.webm"
         },
         {
           "type": "Insert Song",
@@ -27804,6 +27918,38 @@
       ]
     },
     {
+      "nom": "Peter Grill to Kenja no Jikan: Super Extra",
+      "id": 0,
+      "mal_id": 50348,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kurenazumu Yakusoku",
+          "artiste": "Isekaijoucho",
+          "lien": "https://nl.catbox.video/yazk5c.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Koigokoro",
+          "artiste": "Hilcrhyme",
+          "lien": "https://nl.catbox.video/y51wnt.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Heroines no Theme",
+          "artiste": "Yuu Souma & Kurumi Sakamoto",
+          "lien": "https://nl.catbox.video/tlm6vc.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Plastic Memories",
       "id": 0,
       "mal_id": 27775,
@@ -31888,7 +32034,7 @@
       "nom": "Shy",
       "id": 1,
       "mal_id": 57567,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -31924,6 +32070,13 @@
           "nom": "Ulybka",
           "artiste": "Mamiko Noto",
           "lien": "https://nl.catbox.video/qfommy.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Angel In Black",
+          "artiste": "Sayumi Suzushiro",
+          "lien": "https://nl.catbox.video/l6wyh7.webm"
         }
       ],
       "genres": [
@@ -33280,6 +33433,31 @@
       ],
       "genres": [
           1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1
+      ]
+    },
+    {
+      "nom": "Super Cub",
+      "id": 0,
+      "mal_id": 40685,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Mahou no Kaze",
+          "artiste": "Akane Kumada",
+          "lien": "https://nl.catbox.video/ivpqww.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Haru e no Dengon",
+          "artiste": "Yuki Yomichi, Ayaka Nanase, Natsumi Hioka",
+          "lien": "https://nl.catbox.video/o0snwc.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -35029,7 +35207,7 @@
       "nom": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
       "id": 0,
       "mal_id": 54744,
-      "nb_musique": 8,
+      "nb_musique": 9,
       "musique": [
         {
           "type": "Opening",
@@ -35086,6 +35264,13 @@
           "nom": "Love Story wa Totsuzen ni",
           "artiste": "Sumire Uesaka",
           "lien": "https://nl.catbox.video/br80r7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 8,
+          "nom": "CHE.R.RY",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/nhj772.webm"
         }
       ],
       "genres": [
@@ -36224,6 +36409,38 @@
           "nom": "Special Record!",
           "artiste": "Yui Kondou, Tomoyo Takayanagi, Spica, Rigil (without Yuka Ootsubo)",
           "lien": "https://nl.catbox.video/0cymtd.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0
+      ]
+    },
+    {
+      "nom": "Uma Musume: Pretty Derby - Road to the Top",
+      "id": 0,
+      "mal_id": 51761,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Glorious Moment!",
+          "artiste": "Kanna Nakamura, Hitomi Sasaki, Sora Tokui",
+          "lien": "https://nl.catbox.video/dh946k.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Uma Pyoi Densetsu",
+          "artiste": "Kanna Nakamura, Hitomi Sasaki, Sora Tokui, Misaki Watada, Yuu Sasahara, Yukina Shuto, Manaka Iwami, Tomoyo Takayanagi",
+          "lien": "https://nl.catbox.video/fkfqoo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ichibanboshi ga Kakeru Sora",
+          "artiste": "Kanna Nakamura, Hitomi Sasaki, Sora Tokui",
+          "lien": "https://nl.catbox.video/qg7lq9.webm"
         }
       ],
       "genres": [

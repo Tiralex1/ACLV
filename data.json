@@ -1,6 +1,6 @@
 {
   "nb_anime": 901,
-  "nb_musique": 4068,
+  "nb_musique": 4067,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -15552,7 +15552,7 @@
       "nom": "K-On!",
       "id": 0,
       "mal_id": 5680,
-      "nb_musique": 7,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -15588,13 +15588,6 @@
           "nom": "Fuwa Fuwa Time",
           "artiste": "Ho-Kago Tea Time",
           "lien": "https://nl.catbox.video/s7kihg.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Tsubasa o Kudasai",
-          "artiste": "Sakurakou K-On-bu",
-          "lien": "https://nl.catbox.video/fw8m3q.webm"
         },
         {
           "type": "Insert Song",
@@ -35425,7 +35418,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Invincible",
-          "artiste": "Yosh",
+          "artiste": "yosh",
           "lien": "https://nl.catbox.video/plwqnx.webm"
         },
         {

@@ -1,6 +1,6 @@
 {
   "nb_anime": 901,
-  "nb_musique": 4066,
+  "nb_musique": 4074,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -15347,7 +15347,7 @@
       "nom": "Josee to Tora to Sakana-tachi",
       "id": 0,
       "mal_id": 40787,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -15362,6 +15362,20 @@
           "nom": "Ao no Waltz",
           "artiste": "Eve",
           "lien": "https://nl.catbox.video/q0c5lo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Aquatic Fantasy",
+          "artiste": "Evan Call",
+          "lien": "https://nl.catbox.video/uiasaw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "On This Christmas Night",
+          "artiste": "Evan Call",
+          "lien": "https://nl.catbox.video/n30vc4.webm"
         },
         {
           "type": "Insert Song",
@@ -21698,10 +21712,10 @@
       ]
     },
     {
-      "nom": "Make Heroine ga Ousugiru!",
+      "nom": "Make Heroine ga Oosugiru!",
       "id": 0,
       "mal_id": 57524,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -21723,6 +21737,13 @@
           "nom": "CRAZY FOR YOU",
           "artiste": "Shion Wakayama",
           "lien": "https://nl.catbox.video/3z4au7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "feel my soul",
+          "artiste": "Momoka Terasawa",
+          "lien": "https://nl.catbox.video/n7xmvv.webm"
         }
       ],
       "genres": [
@@ -24758,7 +24779,7 @@
       "nom": "NieR:Automata Ver1.1a",
       "id": 1,
       "mal_id": 56063,
-      "nb_musique": 11,
+      "nb_musique": 12,
       "musique": [
         {
           "type": "Opening",
@@ -24836,6 +24857,13 @@
           "nom": "Subete o Hakai Suru Kuroki Kyojin/Kaijuu",
           "artiste": "Nami Nakagawa",
           "lien": "https://nl.catbox.video/f5epp6.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Toritsuita Goubyou",
+          "artiste": "Nami Nakagawa",
+          "lien": "https://nl.catbox.video/3ehrkl.webm"
         }
       ],
       "genres": [
@@ -32020,7 +32048,7 @@
       "nom": "Shy",
       "id": 1,
       "mal_id": 57567,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -32063,6 +32091,13 @@
           "nom": "Angel In Black",
           "artiste": "Sayumi Suzushiro",
           "lien": "https://nl.catbox.video/l6wyh7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "One Day A Boy",
+          "artiste": "Shinichiro Miki",
+          "lien": "https://nl.catbox.video/3j1dc3.webm"
         }
       ],
       "genres": [
@@ -35193,7 +35228,7 @@
       "nom": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
       "id": 0,
       "mal_id": 54744,
-      "nb_musique": 9,
+      "nb_musique": 12,
       "musique": [
         {
           "type": "Opening",
@@ -35257,6 +35292,27 @@
           "nom": "CHE.R.RY",
           "artiste": "Sumire Uesaka",
           "lien": "https://nl.catbox.video/nhj772.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 9,
+          "nom": "World is Mine",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/zi5z6k.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 10,
+          "nom": "Koi no Uta",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/wd6w9z.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 11,
+          "nom": "Kimagure Romantic",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/w5tvuu.webm"
         }
       ],
       "genres": [

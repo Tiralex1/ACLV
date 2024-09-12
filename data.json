@@ -1,6 +1,6 @@
 {
-  "nb_anime": 902,
-  "nb_musique": 4085,
+  "nb_anime": 903,
+  "nb_musique": 4089,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -20082,6 +20082,45 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Layton Mystery Tanteisha: Katri no Nazotoki File",
+      "id": 0,
+      "mal_id": 37023,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Change!",
+          "artiste": "Kana Adachi",
+          "lien": "https://nl.catbox.video/v8cquv.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "blooming",
+          "artiste": "Rei Yasuda",
+          "lien": "https://nl.catbox.video/vd8leo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Daijoubu",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://nl.catbox.video/6frwo0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ashita mo, Sekai wa Mawaru kara.",
+          "artiste": "J☆Dee'Z",
+          "lien": "https://nl.catbox.video/01o6hf.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 901,
-  "nb_musique": 4074,
+  "nb_anime": 902,
+  "nb_musique": 4085,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -10577,6 +10577,94 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Genjitsu no Yohane: Sunshine in the Mirror",
+      "id": 0,
+      "mal_id": 52214,
+      "nb_musique": 11,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Genjitsu Mysterium",
+          "artiste": "Aqours",
+          "lien": "https://nl.catbox.video/wcykcv.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimi no Tame Boku no Tame",
+          "artiste": "Aqours",
+          "lien": "https://nl.catbox.video/8j4v4j.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Be as one!!!",
+          "artiste": "Arisa Komiya, Ai Furihata, Anju Inami",
+          "lien": "https://nl.catbox.video/ay2cjn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Far far away",
+          "artiste": "Aika Kobayashi",
+          "lien": "https://nl.catbox.video/pk5a9q.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Far far away (Audition ver.)",
+          "artiste": "Aika Kobayashi",
+          "lien": "https://nl.catbox.video/jv71nb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Forever U & I",
+          "artiste": "Aika Kobayashi",
+          "lien": "https://nl.catbox.video/zwx703.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "GIRLS!!",
+          "artiste": "Aika Kobayashi",
+          "lien": "https://nl.catbox.video/yyt51e.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hey, dear my friends",
+          "artiste": "Aika Kobayashi, Rikako Aida, Aina Suzuki",
+          "lien": "https://nl.catbox.video/ul3pda.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "La La Yuuki no Uta",
+          "artiste": "Arisa Komiya, Ai Furihata, Anju Inami, Kanako Takatsuki, Shuka Saitou, Nanaka Suwa, Aika Kobayashi, Rikako Aida, Aina Suzuki",
+          "lien": "https://nl.catbox.video/sa7bvm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "R・E・P",
+          "artiste": "Kanako Takatsuki, Shuka Saitou, Nanaka Suwa",
+          "lien": "https://nl.catbox.video/h6677u.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Wonder sea breeze",
+          "artiste": "Aika Kobayashi, Kanako Takatsuki, Arisa Komiya, Ai Furihata, Anju Inami, Shuka Saitou, Nanaka Suwa, Rikako Aida, Aina Suzuki",
+          "lien": "https://nl.catbox.video/u121i1.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {

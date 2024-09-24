@@ -1,6 +1,6 @@
 {
   "nb_anime": 903,
-  "nb_musique": 4089,
+  "nb_musique": 4093,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -8136,7 +8136,7 @@
       "nom": "Elf-san wa Yaserarenai.",
       "id": 0,
       "mal_id": 57845,
-      "nb_musique": 7,
+      "nb_musique": 8,
       "musique": [
         {
           "type": "Opening",
@@ -8172,6 +8172,13 @@
           "nom": "Minna DE Diet",
           "artiste": "Ayasa Ito, Rena Hasegawa, Miyu Kubota, Ayaka Fukuhara, Sora Tokui, Madoka Asahina, Aya Uchida",
           "lien": "https://nl.catbox.video/4wpvin.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Minna DE Diet",
+          "artiste": "Ayasa Ito, Rena Hasegawa, Miyu Kubota, Ayaka Fukuhara, Sora Tokui, Madoka Asahina, Aya Uchida, Kotori Koiwai, Yuka Iguchi",
+          "lien": "https://nl.catbox.video/elzk3g.webm"
         },
         {
           "type": "Ending",
@@ -32175,7 +32182,7 @@
       "nom": "Shy",
       "id": 1,
       "mal_id": 57567,
-      "nb_musique": 7,
+      "nb_musique": 9,
       "musique": [
         {
           "type": "Opening",
@@ -32225,6 +32232,20 @@
           "nom": "One Day A Boy",
           "artiste": "Shinichiro Miki",
           "lien": "https://nl.catbox.video/3j1dc3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Tsukikage ~Mangetsu ver.~",
+          "artiste": "Kotori Koiwai & Hitomi Ueda",
+          "lien": "https://nl.catbox.video/xchmj8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shiny Girl (Shy Cover)",
+          "artiste": "Shino Shimoji",
+          "lien": "https://nl.catbox.video/tfhbn9.webm"
         }
       ],
       "genres": [
@@ -35355,7 +35376,7 @@
       "nom": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
       "id": 0,
       "mal_id": 54744,
-      "nb_musique": 12,
+      "nb_musique": 13,
       "musique": [
         {
           "type": "Opening",
@@ -35440,6 +35461,13 @@
           "nom": "Kimagure Romantic",
           "artiste": "Sumire Uesaka",
           "lien": "https://nl.catbox.video/w5tvuu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 12,
+          "nom": "Hana mo Yoi",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/gtgptz.webm"
         }
       ],
       "genres": [

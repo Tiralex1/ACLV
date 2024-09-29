@@ -1,6 +1,6 @@
 {
   "nb_anime": 903,
-  "nb_musique": 4093,
+  "nb_musique": 4098,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -212,7 +212,7 @@
       "nom": "2.5-jigen no Ririsa",
       "id": 0,
       "mal_id": 53802,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -222,11 +222,25 @@
           "lien": "https://nl.catbox.video/ejjarg.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Tsugihagi no Tsubasa",
+          "artiste": "Soraru",
+          "lien": "https://nl.catbox.video/9n7bjv.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Watch Me",
           "artiste": "Kaori Maeda・Akari Kitou",
           "lien": "https://nl.catbox.video/dubb6i.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Release Sigh",
+          "artiste": "Kaori Maeda・Akari Kitou・Sayumi Suzushiro・Sayumi Watabe",
+          "lien": "https://nl.catbox.video/k1fxg2.webm"
         }
       ],
       "genres": [
@@ -19113,28 +19127,28 @@
           "numero": 2,
           "nom": "Natsusaki Koihanabi",
           "artiste": "Ayaka Suwa & Risa Kubota",
-          "lien": "https://nl.catbox.video/de8byj.webm"
+          "lien": "https://nl.catbox.video/wwidtf.webm"
         },
         {
           "type": "Ending",
           "numero": 3,
           "nom": "Akanezora, Kimi Mau Kouyou no Sanpomichi",
           "artiste": "Ai Kakuma & Manami Numakura",
-          "lien": "https://nl.catbox.video/4txud4.webm"
+          "lien": "https://nl.catbox.video/nqu29m.webm"
         },
         {
           "type": "Ending",
           "numero": 4,
           "nom": "Yukihana Kirameku Ieji nite",
           "artiste": "Sawako Hata & Yuuko Oono",
-          "lien": "https://nl.catbox.video/dymcw7.webm"
+          "lien": "https://nl.catbox.video/wvpca7.webm"
         },
         {
           "type": "Ending",
           "numero": 5,
           "nom": "Shiji Kusa no Yukari",
           "artiste": "Yuuko Oono",
-          "lien": "https://nl.catbox.video/txmuy8.webm"
+          "lien": "https://nl.catbox.video/pw5cre.webm"
         }
       ],
       "genres": [
@@ -22913,7 +22927,7 @@
       "nom": "Monogatari Series: Off & Monster Season",
       "id": 0,
       "mal_id": 57864,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -22921,6 +22935,13 @@
           "nom": "caramel ribbon cursetard",
           "artiste": "Kana Hanazawa・Saori Hayami",
           "lien": "https://nl.catbox.video/ibszmc.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Banshi no Theme",
+          "artiste": "mito (clammbon)",
+          "lien": "https://nl.catbox.video/43d5io.webm"
         },
         {
           "type": "Ending",
@@ -35021,7 +35042,7 @@
       "nom": "Tensui no Sakuna-hime",
       "id": 0,
       "mal_id": 58357,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -35036,6 +35057,20 @@
           "nom": "ORIGAMI",
           "artiste": "Little Glee Monster",
           "lien": "https://nl.catbox.video/54qsga.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yanato Taue Uta -Kaminagi-",
+          "artiste": "Saya Asakura",
+          "lien": "https://nl.catbox.video/du7ynk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yanato Taue Uta -Matsuri-",
+          "artiste": "Wagaya no Minasan",
+          "lien": "https://nl.catbox.video/9nqdw6.webm"
         }
       ],
       "genres": [

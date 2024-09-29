@@ -1,6 +1,6 @@
 {
-  "nb_anime": 903,
-  "nb_musique": 4098,
+  "nb_anime": 908,
+  "nb_musique": 4109,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -9477,6 +9477,31 @@
       ],
       "genres": [
           0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Fumetsu no Anata e",
+      "id": 0,
+      "mal_id": 41025,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "PINK BLOOD",
+          "artiste": "Hikaru Utada",
+          "lien": "https://nl.catbox.video/grzr0o.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Mediator",
+          "artiste": "Masashi Hamauzu",
+          "lien": "https://nl.catbox.video/enpgua.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -23720,6 +23745,77 @@
       ]
     },
     {
+      "nom": "Nande Koko ni Sensei ga!?",
+      "id": 0,
+      "mal_id": 38397,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Bon♡Kyuu♡Bon wa Kare no Mono♡",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/0hro0z.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ringo-iro Memories",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/dytj1u.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ringo-iro Memories",
+          "artiste": "Yuuko Gotou",
+          "lien": "https://nl.catbox.video/wfbo4r.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Ringo-iro Memories",
+          "artiste": "Shizuka Ishigami & Yuuko Gotou",
+          "lien": "https://nl.catbox.video/htwwqe.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Ringo-iro Memories",
+          "artiste": "Nozomi Yamamoto",
+          "lien": "https://nl.catbox.video/4xzqu9.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Nande Koko ni Sensei ga!?",
+      "id": 1,
+      "mal_id": 39689,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Bon♡Kyuu♡Bon wa Kare no Mono♡",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://nl.catbox.video/mcf9cy.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ringo-iro Memories",
+          "artiste": "Sumire Uesaka, Yuuko Gotou, Shizuka Ishigami, Nozomi Yamamoto",
+          "lien": "https://nl.catbox.video/kkqzlb.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Naruto",
       "id": 0,
       "mal_id": 20,
@@ -30960,6 +31056,24 @@
       ]
     },
     {
+      "nom": "Shika no Ou: Yuna to Yakusoku no Tabi",
+      "id": 0,
+      "mal_id": 38015,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "One Reason",
+          "artiste": "milet",
+          "lien": "https://nl.catbox.video/29rrlz.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Shikanoko Nokonoko Koshitantan",
       "id": 0,
       "mal_id": 58426,
@@ -30982,6 +31096,24 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Shikioriori",
+      "id": 0,
+      "mal_id": 37396,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "WALK",
+          "artiste": "Vickeblanka",
+          "lien": "https://nl.catbox.video/dirxem.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {

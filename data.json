@@ -1,6 +1,6 @@
 {
   "nb_anime": 908,
-  "nb_musique": 4109,
+  "nb_musique": 4110,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -23748,7 +23748,7 @@
       "nom": "Nande Koko ni Sensei ga!?",
       "id": 0,
       "mal_id": 38397,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -23770,6 +23770,13 @@
           "nom": "Ringo-iro Memories",
           "artiste": "Yuuko Gotou",
           "lien": "https://nl.catbox.video/wfbo4r.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Ringo-iro Memories",
+          "artiste": "Shizuka Ishigami",
+          "lien": "https://nl.catbox.video/u7frsr.webm"
         },
         {
           "type": "Ending",

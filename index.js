@@ -1,1 +1,936 @@
-var loadJsonUsers; function correctString(e) { var t = e.replace("<", "&lt"); return t.replace(">", "&gt") } function createSimpleNode(e, t, i = "") { let n = document.createElement(e); for (let r in "" !== i && (n.innerHTML = i), t) n[r] = t[r]; return n } function charger(e) { e.style.display = "" } function decharger(e) { e.style.display = "none" } let falseTd = createSimpleNode("td", {}, "&#10025;"); class HTMLMusic { #a; #b; #c = []; constructor(e, t) { if (!e instanceof Music || !t instanceof HTMLAnime) throw Error("Illegal Argument (constructor HTMLMusic)"); this.#a = t; let i = createSimpleNode("td", { className: "favo" }, "&#10025;"); i.addEventListener("click", function () { modifFav(e.getAnime, e, i.innerHTML == falseTd.innerHTML), i.innerHTML = i.innerHTML == falseTd.innerHTML ? "&#9733;" : "&#10025;" }), this.#c.push(i), this.#c.push(createSimpleNode("td", { className: "nom_anime" }, e.getAnime.getNom)), this.#c.push(createSimpleNode("td", { className: "type_music" }, e.getType)), this.#c.push(createSimpleNode("td", { className: "numero_music" }, e.getNumero)), this.#c.push(createSimpleNode("td", { className: "nom_music" }, e.getNom)), this.#c.push(createSimpleNode("td", { className: "nom_artist" }, e.getArtist)); let n = createSimpleNode("a", { href: e.getLien, target: "_blank" }, "Lien"), r = createSimpleNode("br", {}), s = createSimpleNode("button", { style: "background-color : transparent; border : transparent;" }, "&#9658;"); s.addEventListener("click", async function () { clickAudio(e.getLien.replace(serveurCatbox[0], serveurCatbox[serveurCatboxChoice]), s) }); let a = createSimpleNode("td", { className: "lien" }); a.appendChild(n), a.appendChild(r), a.appendChild(s), this.#c.push(a), this.#b = document.createElement("tr"), this.#c.forEach(e => { this.#b.appendChild(e) }) } get getHTMLAnime() { return this.#a } get getTr() { return this.#b } getTd(e) { return this.#c[e] } setBackground(e) { this.#b.style.backgroundColor = e } } class Music { #d; #e; #f; #g; #h; #i; #j; constructor(e, t, i, n, r, s) { if (e instanceof Anime && "string" == typeof t && Number.isInteger(i) && "string" == typeof n && "string" == typeof r && "string" == typeof s) this.#d = e, this.#e = t, this.#f = i, this.#g = n, this.#h = r, this.#i = s; else throw Error("Illegal Argument (constructor Music)") } get getAnime() { return this.#d } get getType() { return this.#e } get getNom() { return this.#g } get getNumero() { return this.#f } get getArtist() { return this.#h } get getLien() { return this.#i } get getHtml() { return this.#j } setHTML(e) { if (!e instanceof HTMLMusic) throw Error("Illegal Argument (setHTML HTMLAnime)"); this.#j = e } } class HTMLAnime { #b; #k = []; constructor(e) { if (!e instanceof Anime) throw Error("Illegal Argument (constructor HTMLAnime)"); this.#b = createSimpleNode("tr", { className: "grey" }); let t = createSimpleNode("td", { colSpan: "7" }); this.#b.appendChild(t); let i = createSimpleNode("div", { className: "tete" }); t.appendChild(i); let n; "2" == ModeAffichLien ? (n = createSimpleNode("div", { className: "_1 grey" }, "<abbr class='info' title='" + this.getHtmlGenres(e) + "'>&#9432;</abbr>&ensp;" + e.getNom + "&ensp;")).appendChild(createSimpleNode("a", { href: e.getLien, target: "_blank", style: "color : darkblue;" }, "&#9032;")) : (n = createSimpleNode("div", { className: "_1 grey" }, "<abbr class='info' title='" + this.getHtmlGenres(e) + "'>&#9432;</abbr>&ensp;")).appendChild(createSimpleNode("a", { href: e.getLien, target: "_blank" }, e.getNom)), i.appendChild(n); for (var r = 0; r < TabStringUsers.length; r++) { let s = createSimpleNode("div", { className: "_" + (r + 2) + (e.getEtatUser(r) ? " watch" : " no-watch") }, TabStringUsers[r]); i.appendChild(s) } for (let a = 0; a < e.getNbMusic; ++a) { let o = new HTMLMusic(e.getMusic(a), this); this.#k.push(o), e.getMusic(a).setHTML(o) } } get getTr() { return this.#b } get getTabTrMusic() { let e = []; return this.#k.forEach(t => { e.push(t.getTr) }), e } getHtmlGenres(e) { let t = ""; for (let i = 0; i < TabGenres.length; ++i)e.getEtatGenre(i) && (t += TabGenres[i] + "\n"); return t.trim() } setBackground(e) { this.#k.forEach(t => { t.setBackground(e) }) } dechargerAll() { decharger(this.#b), this.#k.forEach(e => { decharger(e.getTr) }) } } class Anime { #g; #l; #m; #n = []; #o = []; #p = []; #j; constructor(e, t, i, n = null) { if ("string" == typeof e && Number.isInteger(t) && Number.isInteger(i)) this.#g = e, this.#l = t, this.#m = i, null !== n && (this.#j = n); else throw Error("Illegal Argument (constructor Anime)") } get getNom() { return this.#g } get getId() { return this.#l } get getLien() { return "https://myanimelist.net/anime/" + this.#m } get getMalId() { return this.#m } getMusic(e) { if (!Number.isInteger(e)) throw Error("illegal Argument (getMusic Method in Class Anime)"); return this.#n[e] } get getNbMusic() { return this.#n.length } getEtatUser(e) { if (!Number.isInteger(e)) throw Error("illegal Argument (getEtatUser Method in Class Anime)"); return this.#p[e] } getEtatGenre(e) { if (!Number.isInteger(e)) throw Error("illegal Argument (getEtatGenre Method in Class Anime)"); return this.#o[e] } get getHtml() { return this.#j } generateHTML() { this.#j = new HTMLAnime(this) } ajouteMusic(e) { if (!e instanceof Music) throw Error("illegal Argument (ajouteMusic Method in Class Anime)"); this.#n.push(e) } ajoutePosMusic(e, t) { if (!e instanceof Music || !Number.isInteger(t)) throw Error("illegal Argument (ajouteMusic Method in Class Anime)"); this.#n.splice(t, 0, e) } supprimePosMusic(e) { if (!Number.isInteger(e)) throw Error("illegal Argument (supprimePosMusic Method in Class Anime)"); this.#n.splice(e, 1) } ajouteUser(e) { this.#p.push(e) } resetUsers() { this.#p = [] } ajouteGenre(e) { this.#o.push(e) } copieUsers(e) { if (!e instanceof Anime) throw Error("illegal Argument (copieUsers Method in Class Anime)"); for (var t = 0; t < TabStringUsers.length; ++t)this.ajouteUser(e.getEtatUser(t)) } copieGenres(e) { if (!e instanceof Anime) throw Error("illegal Argument (copieGenres Method in Class Anime)"); for (var t = 0; t < TabGenres.length; ++t)this.ajouteUser(e.getEtatGenre(t)) } } class ListeAnime { #q = []; #r = 0; get getNbAnime() { return this.#q.length } get getNbMusic() { return this.#r } getAnime(e) { return this.#q[e] } generateHTML() { this.#q.forEach(e => { e.generateHTML() }) } ajouteAnime(e) { if (!e instanceof Anime) throw Error("Illegal Argument (ajouteAnime Method in Class ListeAnime)"); this.#q.push(e), this.#r += e.getNbMusic } ajoutePosAnime(e, t) { if (!e instanceof Anime || !Number.isInteger(t)) throw Error("Illegal Argument (ajoutePosAnime Method in Class ListeAnime)"); this.#q.splice(t, 0, e), this.#r += e.getNbMusic } ajoutePosMusic(e, t, i) { if (!t instanceof Music || !Number.isInteger(e) || !Number.isInteger(i)) throw Error("Illegal Argument (ajoutePosMusic Method in Class ListeAnime)"); this.#r++, this.#q[e].ajoutePosMusic(t, i) } supprimePosAnime(e) { if (!Number.isInteger(e)) throw Error("Illegal Argument (supprimePosAnime Method in Class ListeAnime)"); this.#q.splice(e, 1) } supprimePosMusic(e, t) { if (!Number.isInteger(e) || !Number.isInteger(t)) throw Error("Illegal Argument (supprimePosMusic Method in Class ListeAnime)"); this.#q[e].supprimePosMusic(t), this.#r-- } dechargerAllHtml() { this.#q.forEach(e => { e.getHtml.dechargerAll() }) } } async function setupListenersFiltrage() { document.querySelectorAll("input[type='checkbox'], select").forEach(e => { "lecture_auto" != e.id && "inclusOnHoldDropped" != e.id && e.addEventListener("change", async function () { filtre() }) }), document.querySelectorAll("input[type='text']").forEach(e => { e.addEventListener("input", async function () { filtre() }) }), document.querySelector("#favori").addEventListener("click", async function () { affichFav() }), document.querySelector("#save").addEventListener("click", async function () { saveFav() }), document.querySelector("#load").addEventListener("click", async function () { loadFav() }), document.addEventListener("scroll", async function () { if (nbAffich != HTMLTab.length && window.scrollY >= nbPixelAvantUpdate) { for (let e = nbAffich; e < (nbAffich + 100 < HTMLTab.length ? nbAffich + 100 : HTMLTab.length); ++e)charger(HTMLTab[e]); nbPixelAvantUpdate = Math.ceil(120 + (Math.ceil((nbAffich = nbAffich + 100 < HTMLTab.length ? nbAffich + 100 : HTMLTab.length) / 100) - 1) * 6e3 + 6e3 * (3 / 4)) } }), AudioActuel.addEventListener("ended", function () { if (clickAudio.button.click(), lectureAutomatique) { let e = chercheNextBouton(clickAudio.button); null != e && e.click() } }), inputLectureAuto.addEventListener("click", async function () { lectureAutomatique = !lectureAutomatique }), document.querySelectorAll("input[type='radio']").forEach(e => { e.addEventListener("change", async function () { modifModeAffich() }) }), document.getElementById("AudioChangeServeur").addEventListener("click", function (e) { AudioActuel.paused || clickAudio.button.click(), ++serveurCatboxChoice >= serveurCatbox.length && (serveurCatboxChoice = 0), AudioActuel.src = "", e.target.value = "ServeurCatbox : " + serveurCatbox[serveurCatboxChoice] }), document.getElementById("inclusOnHoldDropped").addEventListener("click", function () { modifUsersData(loadJsonUsers) }) } async function lancementData() { doCorsRequest("get", "data.json", genereData) } async function doCorsRequest(e, t, i) { let n = new XMLHttpRequest; n.open(e, t), n.onload = n.onerror = function () { let e = n.responseText; i(e = JSON.parse(e)) }, n.send() } function genereData(e) { e.anime.forEach(e => { let t = new Anime(correctString(e.nom), e.id, e.mal_id); e.musique.forEach(e => { let i = new Music(t, e.type, e.numero, correctString(e.nom), correctString(e.artiste), e.lien); t.ajouteMusic(i) }); let i = e.genres; for (let n = 0; n < TabGenres.length; ++n)t.ajouteGenre(i[n]); globalList.ajouteAnime(t) }), doCorsRequest("get", "loadJsonUsers.json", setUsersData) } function setUsersData(e) { loadJsonUsers = e; let t = document.getElementById("inclusOnHoldDropped").checked ? 4 : 2; for (let i = 0; i < globalList.getNbAnime; ++i) { let n = globalList.getAnime(i); TabStringPseudo.forEach(i => { let r = !1; for (let s = 1; s <= t && !r; ++s)void 0 != e[i][s] && e[i][s].includes(n.getMalId) && (r = !0); n.ajouteUser(r) }) } globalList.generateHTML(), setupAffich(), setupFav(fav, favori), loadAdditionalData() } function modifUsersData(e) { let t = document.getElementById("inclusOnHoldDropped").checked ? 4 : 2; for (let i = 0; i < globalList.getNbAnime; ++i) { let n = globalList.getAnime(i); n.resetUsers(), TabStringPseudo.forEach(i => { let r = !1; for (let s = 1; s <= t && !r; ++s)void 0 != e[i][s] && e[i][s].includes(n.getMalId) && (r = !0); n.ajouteUser(r) }) } filtre() } function genereTabTr(e, t = !0) { let i = [], n = AlternateColor1; for (let r = 0; r < e.getNbAnime; ++r) { e.getAnime(r).getHtml.setBackground(n), n = n == AlternateColor1 ? AlternateColor2 : AlternateColor1, t && i.push(e.getAnime(r).getHtml.getTr); for (let s = 0; s < e.getAnime(r).getNbMusic; ++s)i.push(e.getAnime(r).getMusic(s).getHtml.getTr) } return i } function setupAffich() { let e = document.createElement("div"); e.id = "info"; let t = document.createElement("table"); t.id = "AnimeMusicList", HTMLTab = genereTabTr(globalList); for (let i = 100; i < HTMLTab.length; ++i)decharger(HTMLTab[i]); nbPixelAvantUpdate = Math.ceil(120 + (Math.ceil((nbAffich = HTMLTab.length < 100 ? HTMLTab.length : 100) / 100) - 1) * 6e3 + 6e3 * (3 / 4)); for (let n = 0; n < HTMLTab.length; ++n)t.appendChild(HTMLTab[n]); e.innerHTML = "&nbsp;Nb Anime: " + globalList.getNbAnime + " | Nb Musique: " + globalList.getNbMusic, document.body.appendChild(e), document.body.appendChild(t), filtre() } function affichFiltr() { clickAudioStop(); document.getElementById("info").innerHTML = "&nbsp;Nb Anime: " + listeFiltre.getNbAnime + " | Nb Musique: " + listeFiltre.getNbMusic, HTMLTab = genereTabTr(listeFiltre, !AffichageFavori); for (let e = 100; e < HTMLTab.length; ++e)decharger(HTMLTab[e]); nbPixelAvantUpdate = Math.ceil(120 + (Math.ceil((nbAffich = HTMLTab.length < 100 ? HTMLTab.length : 100) / 100) - 1) * 6e3 + 6e3 * (3 / 4)); for (let t = 0; t < nbAffich; ++t)charger(HTMLTab[t]) } function filtreNomAnime(e, t) { for (var i = new ListeAnime, n = 0; n < e.getNbAnime; ++n)e.getAnime(n).getNom.toLowerCase().includes(t.toLowerCase()) ? i.ajouteAnime(e.getAnime(n)) : e.getAnime(n).getHtml.dechargerAll(); return i } function filtreTypeMusic(e, t) { for (var i = new ListeAnime, n = 0; n < e.getNbAnime; ++n) { for (var r = e.getAnime(n), s = new Anime(r.getNom, r.getId, r.getMalId, r.getHtml), a = 0; a < r.getNbMusic; ++a)r.getMusic(a).getType == t ? s.ajouteMusic(r.getMusic(a)) : decharger(e.getAnime(n).getMusic(a).getHtml.getTr); s.copieUsers(r), s.copieGenres(r), s.getNbMusic > 0 ? i.ajouteAnime(s) : decharger(e.getAnime(n).getHtml.getTr) } return i } function filtreNomMusic(e, t) { for (var i = new ListeAnime, n = 0; n < e.getNbAnime; ++n) { for (var r = e.getAnime(n), s = new Anime(r.getNom, r.getId, r.getMalId, r.getHtml), a = 0; a < r.getNbMusic; ++a)r.getMusic(a).getNom.toLowerCase().includes(t.toLowerCase()) ? s.ajouteMusic(r.getMusic(a)) : decharger(e.getAnime(n).getMusic(a).getHtml.getTr); s.copieUsers(r), s.copieGenres(r), s.getNbMusic > 0 ? i.ajouteAnime(s) : decharger(e.getAnime(n).getHtml.getTr) } return i } function filtreNomArtistMusic(e, t) { for (var i = new ListeAnime, n = 0; n < e.getNbAnime; ++n) { for (var r = e.getAnime(n), s = new Anime(r.getNom, r.getId, r.getMalId, r.getHtml), a = 0; a < r.getNbMusic; ++a)r.getMusic(a).getArtist.toLowerCase().includes(t.toLowerCase()) ? s.ajouteMusic(r.getMusic(a)) : decharger(e.getAnime(n).getMusic(a).getHtml.getTr); s.copieUsers(r), s.copieGenres(r), s.getNbMusic > 0 ? i.ajouteAnime(s) : decharger(e.getAnime(n).getHtml.getTr) } return i } function filtreUsersUnion(e, t) { for (var i = new ListeAnime, n = 0; n < e.getNbAnime; ++n) { for (var r = !1, s = 0; s < TabStringUsers.length && !r;)t[s].checked && e.getAnime(n).getEtatUser(s) && (r = !0), r ? i.ajouteAnime(e.getAnime(n)) : s++; r || e.getAnime(n).getHtml.dechargerAll() } return i } function filtreUsersIntersection(e, t) { for (var i = new ListeAnime, n = 0; n < e.getNbAnime; ++n) { for (var r = !1, s = 0; s < TabStringUsers.length && !r;)t[s].checked && !e.getAnime(n).getEtatUser(s) ? r = !0 : s++; r ? e.getAnime(n).getHtml.dechargerAll() : i.ajouteAnime(e.getAnime(n)) } return i } function filtreUsersExact(e, t) { for (var i = new ListeAnime, n = 0; n < e.getNbAnime; ++n) { for (var r = !1, s = 0; s < TabStringUsers.length && !r;)t[s].checked != e.getAnime(n).getEtatUser(s) && (r = !0), s++; r ? e.getAnime(n).getHtml.dechargerAll() : i.ajouteAnime(e.getAnime(n)) } return i } function filtreGenres(e, t) { for (var i = new ListeAnime, n = 0; n < e.getNbAnime; ++n)e.getAnime(n).getEtatGenre(t) ? i.ajouteAnime(e.getAnime(n)) : e.getAnime(n).getHtml.dechargerAll(); return i } function checkboxListeModif(e) { for (let t = 0; t < TabStringUsers.length; ++t)if (e[t]) return !0; return !1 } function filtre() { let e = globalList; AffichageFavori = !1; let t = correctString(filtreNomAnimeInput.value); "" != t && (e = filtreNomAnime(e, t)), "" != (t = filtreTypeMusicSelect.value) && (e = filtreTypeMusic(e, t)), "" != (t = correctString(filtreNomMusicInput.value)) && (e = filtreNomMusic(e, t)), "" != (t = correctString(filtreNomArtistInput.value)) && (e = filtreNomArtistMusic(e, t)), "" != (t = correctString(filtreGenresSelect.value)) && (e = filtreGenres(e, parseInt(t))); let i = [A, C, L, V, T, Q]; "Union" == (t = filtreJointureSelect.value) && checkboxListeModif(i) ? e = filtreUsersUnion(e, i) : "Intersection" == t ? e = filtreUsersIntersection(e, i) : "Exact" == t && (e = filtreUsersExact(e, i)), listeFiltre = e, affichFiltr() } async function resetFiltre() { "2" == ModeAffichLien && (AffichLien2.checked = !0), filtreNomAnimeInput.value = "", filtreTypeMusicSelect.value = "", filtreNomMusicInput.value = "", filtreNomArtistInput.value = "", filtreJointureSelect.value = "Union", A.checked = !0, C.checked = !0, L.checked = !0, V.checked = !0, T.checked = !0, Q.checked = !0, filtreGenresSelect.value = "" } function chercheNextBouton(e) { let t = e.parentElement.parentElement.nextElementSibling; for (; null != t && (t.classList.contains("grey") || "none" == t.style.display);)t = t.nextElementSibling; return null != t ? t.querySelector("button") : HTMLTab.length > 0 ? HTMLTab[0].classList.contains("grey") ? HTMLTab[1].querySelector("button") : HTMLTab[0].querySelector("button") : null } function clickAudio(e, t) { AudioActuel.src != e ? (AudioActuel.pause(), void 0 !== clickAudio.button && (clickAudio.button.innerHTML = "&#9658;"), AudioActuel.src = e, AudioActuel.play(), t.innerHTML = "&#9208;", stateAudio = 1) : 1 == stateAudio ? (AudioActuel.pause(), t.innerHTML = "&#9658;", stateAudio = 0) : (AudioActuel.play(), t.innerHTML = "&#9208;", stateAudio = 1), clickAudio.button = t } function clickAudioStop() { void 0 != clickAudio.button && (clickAudio.button.innerHTML = "&#9658", clickAudio.button = void 0, AudioActuel.pause(), stateAudio = 0) } function modifModeAffich() { ModeAffichLien = AffichLien1.checked ? AffichLien1.value : AffichLien2.value, localStorage.setItem("modeAffichLien", ModeAffichLien), location.reload() } async function setupFavori() { if (localStorage.getItem("favori")) { favori = localStorage.getItem("favori").split("|"); for (var e = 0; e < favori.length;)favori[e] = favori[e].replace("catbox.moe", "catbox.video"), favori[e].startsWith("https://") ? e++ : favori.splice(e, 1); let t = favori.join("|"); localStorage.setItem("favori", t) } else localStorage.setItem("favori", favori) } async function saveFav() { let e = document.createElement("a"); var t = prompt("Nom du fichier : ", "SaveFav.txt"); null == t && (t = "saveFav.txt"), e.download = t, e.href = "data:text/plain," + localStorage.getItem("favori"), document.body.appendChild(e), e.click(), document.body.removeChild(e) } async function loadFav() { let e = document.createElement("input"); e.type = "file", e.onchange = function () { let t = e.files[0], i = new FileReader; i.onload = e => { localStorage.setItem("favori", e.target.result), location.reload() }, i.readAsText(t) }, document.body.appendChild(e), e.click(), document.body.removeChild(e) } async function sauvegardeFav() { for (var e = [], t = 0; t < fav.getNbAnime; ++t)for (var i = 0; i < fav.getAnime(t).getNbMusic; ++i)e.push(fav.getAnime(t).getMusic(i).getLien); var n = e.join("|"); localStorage.setItem("favori", n) } function posAnime(e, t) { if (0 == t.getNbAnime) return -1; for (var i, n = 0, r = t.getNbAnime; n < r;)i = Math.trunc((n + r) / 2), t.getAnime(i).getNom.toLowerCase() > e.getNom.toLowerCase() ? r = i : t.getAnime(i).getNom.toLowerCase() < e.getNom.toLowerCase() ? n = i + 1 : t.getAnime(i).getId > e.getId ? r = i : t.getAnime(i).getId < e.getId ? n = i + 1 : (n = i, r = i); return n } function posMusic(e, t, i) { for (var n = 0, r = 0; r < i.getNbMusic; ++r) { if (e.getLien == i.getMusic(r).getLien) return n; n < t.getNbMusic && t.getMusic(n).getLien == i.getMusic(r).getLien && n++ } return -1 } function identiqueAnime(e, t) { return e.getNom == t.getNom && e.getId == t.getId } async function ajoutFav(e, t) { var i = posAnime(e, fav); if (-1 != i && i != fav.getNbAnime && identiqueAnime(fav.getAnime(i), e)) { var n = posMusic(t, fav.getAnime(i), e); n > -1 && fav.ajoutePosMusic(i, t, n) } else { var r = new Anime(e.getNom, e.getId, e.getMalId, e.getHtml); r.ajouteMusic(t), fav.ajoutePosAnime(r, i) } } async function suppFav(e, t) { var i = posAnime(e, fav), n = posMusic(t, fav.getAnime(i), fav.getAnime(i)); fav.supprimePosMusic(i, n), 0 == fav.getAnime(i).getNbMusic && fav.supprimePosAnime(i) } function modifFav(e, t, i) { i ? ajoutFav(e, t) : suppFav(e, t), AffichageFavori && (AffichageFavori = !AffichageFavori, affichFav()), sauvegardeFav() } function setupFav(e, t) { if (0 == t.length) return; let i = 0; for (let n = 0; n < globalList.getNbAnime && i < t.length; ++n) { let r = new Anime(globalList.getAnime(n).getNom, globalList.getAnime(n).getId, globalList.getAnime(n).getMalId, globalList.getAnime(n).getHtml); for (let s = 0; s < globalList.getAnime(n).getNbMusic && i < t.length; ++s)globalList.getAnime(n).getMusic(s).getLien == t[i] && (r.ajouteMusic(globalList.getAnime(n).getMusic(s)), globalList.getAnime(n).getMusic(s).getHtml.getTd(0).innerHTML = "&#9733;", i++); r.getNbMusic > 0 && e.ajouteAnime(r) } fav.getNbMusic != favori.length && repareFav() } async function affichFav() { resetFiltre(), AffichageFavori ? (AffichageFavori = !1, listeFiltre = globalList) : (AffichageFavori = !0, listeFiltre = fav), globalList.dechargerAllHtml(), affichFiltr() } function chercheMusique(e) { for (let t = 0; t < globalList.getNbAnime; ++t)for (let i = 0; i < globalList.getAnime(t).getNbMusic; ++i)if (globalList.getAnime(t).getMusic(i).getLien == e) return globalList.getAnime(t).getMusic(i); return null } function repareFav() { let e = 0; for (let t = 0; t < favori.length; ++t) { let i = chercheMusique(favori[t]); null == i ? e++ : i.getHtml.getTd(0).innerHTML == falseTd.innerHTML && ajoutFav(i.getAnime, i) } if (fav.getNbMusic != favori.length - e) throw Error("repareFav don't working"); sauvegardeFav(), location.reload() } async function setScoreUsers(e) { if (void 0 !== e) for (let t = 0; t < globalList.getNbAnime; ++t) { let i = globalList.getAnime(t); if (void 0 !== e[i.getMalId]) { let n = 2; TabStringUsers.forEach(t => { if (void 0 !== e[i.getMalId].scores[t] && 0 != e[i.getMalId].scores[t]) { let r = i.getHtml.getTr.querySelector("._" + n); r.innerHTML += "<br/>" + e[i.getMalId].scores[t], r.style.padding = "5px" } n++ }) } } } async function loadJson(e, t) { let i = new XMLHttpRequest; i.open(e, t), i.onload = i.onerror = function () { let e = i.responseText; setScoreUsers(e = JSON.parse(e)) }, i.send() } async function loadAdditionalData() { try { loadJson("get", "https://aclvt.tchm.dev/additional-data.json") } catch (e) { console.log(e) } } Object.seal(HTMLMusic), Object.seal(Music), Object.seal(HTMLAnime), Object.seal(Anime), Object.seal(ListeAnime); const TabStringUsers = ["A", "C", "L", "V", "T", "Q"], TabStringPseudo = ["Tiralex1", "Cycygonzales", "49Leo", "Gyrehio", "tchm", "QGWolfWarrior"], TabGenres = ["Action", "Adventure", "Comedy", "Drama", "Ecchi", "Fantasy", "Horror", "Mahou Shoujo", "Mecha", "Music", "Mystery", "Psychological", "Romance", "Sci-Fi", "Slice of Life", "Sports", "Supernatural", "Thriller"]; let globalList = new ListeAnime, fav = new ListeAnime, listeFiltre = globalList, AlternateColor1 = "lightgreen", AlternateColor2 = "lightcoral", HTMLTab, nbAffich = 0, nbPixelAvantUpdate = 120, filtreNomAnimeInput = document.getElementById("name_anime"), filtreTypeMusicSelect = document.getElementById("type_music"), filtreNomMusicInput = document.getElementById("name_music"), filtreNomArtistInput = document.getElementById("name_artist"), filtreJointureSelect = document.getElementById("jointure"), A = document.getElementById("A"), C = document.getElementById("C"), L = document.getElementById("L"), V = document.getElementById("V"), T = document.getElementById("T"), Q = document.getElementById("Q"), filtreGenresSelect = document.getElementById("genres"), AudioActuel = new Audio(""), stateAudio = 0, inputLectureAuto = document.querySelector("#lecture_auto"), lectureAutomatique = inputLectureAuto.checked, serveurCatbox = ["nl.catbox.video", "ladist1.catbox.video"], serveurCatboxChoice = 0; document.getElementById("AudioChangeServeur").value = "ServeurCatbox : " + serveurCatbox[serveurCatboxChoice]; let AffichLien1 = document.getElementById("affich_lien1"), AffichLien2 = document.getElementById("affich_lien2"), ModeAffichLien = "1"; localStorage.getItem("modeAffichLien") ? ModeAffichLien = localStorage.getItem("modeAffichLien") : localStorage.setItem("modeAffichLien", ModeAffichLien); let AffichageFavori = !1, favori = []; !async function () { resetFiltre().then(() => setupFavori()).then(() => lancementData()).then(() => setupListenersFiltrage()) }();
+function correctString(str) {
+    var string = str.replace("<", "&lt");
+    string = string.replace(">", "&gt");
+    return string;
+}
+
+function createSimpleNode(type, options, innerHTML = "") {
+    let node = document.createElement(type);
+    if (innerHTML !== "") node.innerHTML = innerHTML;
+    for (let opt in options) node[opt] = options[opt];
+    return node;
+}
+
+function charger(tr) {
+    tr.style.display = "";
+}
+function decharger(tr) {
+    tr.style.display = "none";
+}
+
+// ------------------------------Class-------------------------------------------------------------------------------------------------------------------------------//
+let falseTd = createSimpleNode("td", {}, "&#10025;");
+
+class HTMLMusic {
+    // champs
+    #htmlAnime; #tr; #tds = [];
+    // constructor
+    constructor(music, htmlAnime) {
+        if (!music instanceof Music || !htmlAnime instanceof HTMLAnime) throw new Error("Illegal Argument (constructor HTMLMusic)");
+        this.#htmlAnime = htmlAnime;
+        let tdFavo = createSimpleNode("td", { "className": "favo" }, "&#10025;");
+        tdFavo.addEventListener("click", function () {
+            modifFav(music.getAnime, music, tdFavo.innerHTML == falseTd.innerHTML);
+            tdFavo.innerHTML = tdFavo.innerHTML == falseTd.innerHTML ? "&#9733;" : "&#10025;";
+        });
+        this.#tds.push(tdFavo);
+        this.#tds.push(createSimpleNode("td", { "className": "nom_anime" }, music.getAnime.getNom));
+        this.#tds.push(createSimpleNode("td", { "className": "type_music" }, music.getType));
+        this.#tds.push(createSimpleNode("td", { "className": "numero_music" }, music.getNumero));
+        this.#tds.push(createSimpleNode("td", { "className": "nom_music" }, music.getNom));
+        this.#tds.push(createSimpleNode("td", { "className": "nom_artist" }, music.getArtist));
+        let a = createSimpleNode("a", { "href": music.getLien, "target": "_blank" }, "Lien");
+        let br = createSimpleNode("br", {});
+        let button = createSimpleNode("button", { "style": "background-color : transparent; border : transparent;" }, "&#9658;");
+        button.addEventListener("click", async function () {
+            clickAudio(music.getLien.replace(serveurCatbox[0], serveurCatbox[serveurCatboxChoice]), button);
+        });
+        let tdLien = createSimpleNode("td", { "className": "lien" });
+        tdLien.appendChild(a);
+        tdLien.appendChild(br);
+        tdLien.appendChild(button);
+        this.#tds.push(tdLien);
+        this.#tr = document.createElement("tr");
+        this.#tds.forEach(td => {
+            this.#tr.appendChild(td);
+        });
+    }
+    // getters
+    get getHTMLAnime() { return this.#htmlAnime; }
+    get getTr() { return this.#tr; }
+    getTd(ind) { return this.#tds[ind]; }
+    // méthodes
+    setBackground(background) {
+        if (!typeof background === "string") throw new Error("Illegal Argument (setBackground HTMLMusic)");
+        this.#tr.style.backgroundColor = background;
+    }
+}
+
+class Music {
+    // champs
+    #anime; #type; #numero; #nom; #artist; #lien; #html;
+    // constructor
+    constructor(anime, type, numero, nom, artist, lien) {
+        if (anime instanceof Anime && typeof type === "string" && Number.isInteger(numero) && typeof nom === "string" && typeof artist === "string" && typeof lien === "string") {
+            this.#anime = anime;
+            this.#type = type;
+            this.#numero = numero;
+            this.#nom = nom;
+            this.#artist = artist;
+            this.#lien = lien;
+        }
+        else throw new Error("Illegal Argument (constructor Music)");
+    }
+    // getters
+    get getAnime() { return this.#anime; }
+    get getType() { return this.#type; }
+    get getNom() { return this.#nom; }
+    get getNumero() { return this.#numero; }
+    get getArtist() { return this.#artist; }
+    get getLien() { return this.#lien; }
+    get getHtml() { return this.#html; }
+    // setters
+    setHTML(html) {
+        if (!html instanceof HTMLMusic) throw new Error("Illegal Argument (setHTML HTMLAnime)")
+        this.#html = html;
+    }
+}
+
+class HTMLAnime {
+    // champs
+    #tr; #htmlMusics = [];
+    // constructor
+    constructor(anime) {
+        if (!anime instanceof Anime) throw new Error("Illegal Argument (constructor HTMLAnime)");
+        this.#tr = createSimpleNode("tr", { "className": "grey" });
+        let tdPrincipal = createSimpleNode("td", { "colSpan": "7" });
+        this.#tr.appendChild(tdPrincipal);
+        let divTete = createSimpleNode("div", { "className": "tete" });
+        tdPrincipal.appendChild(divTete);
+        let div1;
+        if (ModeAffichLien == "2") {
+            div1 = createSimpleNode("div", { "className": "_1 grey" }, "<abbr class='info' title='" + this.getHtmlGenres(anime) + "'>&#9432;</abbr>&ensp;" + anime.getNom + "&ensp;");
+            div1.appendChild(createSimpleNode("a", { "href": anime.getLien, "target": "_blank", "style": "color : darkblue;" }, "&#9032;"));
+        }
+        else {
+            div1 = createSimpleNode("div", { "className": "_1 grey" }, "<abbr class='info' title='" + this.getHtmlGenres(anime) + "'>&#9432;</abbr>&ensp;");
+            div1.appendChild(createSimpleNode("a", { "href": anime.getLien, "target": "_blank" }, anime.getNom));
+        }
+        divTete.appendChild(div1);
+        for (var j = 0; j < TabStringUsers.length; j++) {
+            let div = createSimpleNode("div", { "className": "_" + (j + 2) + (anime.getEtatUser(j) ? " watch" : " no-watch") }, TabStringUsers[j]);
+            divTete.appendChild(div);
+        }
+        for (let i = 0; i < anime.getNbMusic; ++i) {
+            let htmlMusic = new HTMLMusic(anime.getMusic(i), this);
+            this.#htmlMusics.push(htmlMusic);
+            anime.getMusic(i).setHTML(htmlMusic);
+        }
+    }
+    // getters
+    get getTr() { return this.#tr; }
+    get getTabTrMusic() {
+        let tab = [];
+        this.#htmlMusics.forEach(htmlMusic => {
+            tab.push(htmlMusic.getTr);
+        });
+        return tab;
+    }
+    getHtmlGenres(anime) {
+        let str = "";
+        for (let i = 0; i < TabGenres.length; ++i) {
+            if (anime.getEtatGenre(i)) str += (TabGenres[i] + "\n");
+        }
+        str = str.trim();
+        return str;
+    }
+    // méthodes
+    setBackground(background) {
+        if (!typeof background === "string") throw new Error("Illegal Argument (setBackground HTMLAnime)");
+        this.#htmlMusics.forEach(htmlMusic => {
+            htmlMusic.setBackground(background);
+        });
+    }
+    dechargerAll() {
+        decharger(this.#tr);
+        this.#htmlMusics.forEach(htmlMusic => {
+            decharger(htmlMusic.getTr);
+        });
+    }
+}
+
+class Anime {
+    // champs
+    #nom; #id; #mal_id; #tabMusic = []; #tabGenres = []; #tabUsers = []; #html;
+    // constructor
+    constructor(nom, id, mal_id, html = null) {
+        if (typeof nom === "string" && Number.isInteger(id) && Number.isInteger(mal_id)) {
+            this.#nom = nom;
+            this.#id = id;
+            this.#mal_id = mal_id;
+            if (html !== null) this.#html = html;
+        }
+        else throw new Error("Illegal Argument (constructor Anime)");
+    }
+    // getters
+    get getNom() { return this.#nom; }
+    get getId() { return this.#id; }
+    get getLien() { return "https://myanimelist.net/anime/" + this.#mal_id; }
+    get getMalId() { return this.#mal_id; }
+    getMusic(ind) {
+        if (!Number.isInteger(ind)) throw new Error("illegal Argument (getMusic Method in Class Anime)");
+        return this.#tabMusic[ind];
+    }
+    get getNbMusic() { return this.#tabMusic.length; }
+    getEtatUser(ind) {
+        if (!Number.isInteger(ind)) throw new Error("illegal Argument (getEtatUser Method in Class Anime)");
+        return this.#tabUsers[ind];
+    }
+    getEtatGenre(ind) {
+        if (!Number.isInteger(ind)) throw new Error("illegal Argument (getEtatGenre Method in Class Anime)");
+        return this.#tabGenres[ind];
+    }
+    get getHtml() { return this.#html; }
+    // méthodes
+    generateHTML() {
+        this.#html = new HTMLAnime(this);
+    }
+    ajouteMusic(music) {
+        if (!music instanceof Music) throw new Error("illegal Argument (ajouteMusic Method in Class Anime)");
+        this.#tabMusic.push(music);
+    }
+    ajoutePosMusic(music, pos) {
+        if (!music instanceof Music || !Number.isInteger(pos)) throw new Error("illegal Argument (ajouteMusic Method in Class Anime)");
+        this.#tabMusic.splice(pos, 0, music);
+    }
+    supprimePosMusic(pos) {
+        if (!Number.isInteger(pos)) throw new Error("illegal Argument (supprimePosMusic Method in Class Anime)");
+        this.#tabMusic.splice(pos, 1);
+    }
+    ajouteUser(bool) {
+        if (!typeof bool === "boolean") throw new Error("illegal Argument (ajouteUser Method in Class Anime)");
+        this.#tabUsers.push(bool);
+    }
+    resetUsers() {
+        this.#tabUsers = [];
+    }
+    ajouteGenre(bool) {
+        if (!typeof bool === "boolean") throw new Error("illegal Argument (ajouteGenre Method in Class Anime)");
+        this.#tabGenres.push(bool);
+    }
+    copieUsers(anime) {
+        if (!anime instanceof Anime) throw new Error("illegal Argument (copieUsers Method in Class Anime)");
+        for (var i = 0; i < TabStringUsers.length; ++i) this.ajouteUser(anime.getEtatUser(i));
+    }
+    copieGenres(anime) {
+        if (!anime instanceof Anime) throw new Error("illegal Argument (copieGenres Method in Class Anime)");
+        for (var i = 0; i < TabGenres.length; ++i) this.ajouteUser(anime.getEtatGenre(i));
+    }
+}
+
+class ListeAnime {
+    // champs
+    #tabAnime = []; #nbMusic = 0;
+    // getters
+    get getNbAnime() { return this.#tabAnime.length; }
+    get getNbMusic() { return this.#nbMusic; }
+    getAnime(i) { return this.#tabAnime[i] }
+    // méthodes
+    generateHTML() {
+        this.#tabAnime.forEach(anime => {
+            anime.generateHTML();
+        });
+    }
+    ajouteAnime(anime) {
+        if (!anime instanceof Anime) throw new Error("Illegal Argument (ajouteAnime Method in Class ListeAnime)");
+        this.#tabAnime.push(anime);
+        this.#nbMusic += anime.getNbMusic;
+    }
+    ajoutePosAnime(anime, pos) {
+        if (!anime instanceof Anime || !Number.isInteger(pos)) throw new Error("Illegal Argument (ajoutePosAnime Method in Class ListeAnime)");
+        this.#tabAnime.splice(pos, 0, anime);
+        this.#nbMusic += anime.getNbMusic;
+    }
+    ajoutePosMusic(i, music, pos) {
+        if (!music instanceof Music || !Number.isInteger(i) || !Number.isInteger(pos)) throw new Error("Illegal Argument (ajoutePosMusic Method in Class ListeAnime)");
+        this.#nbMusic ++;
+        this.#tabAnime[i].ajoutePosMusic(music, pos);
+    }
+    supprimePosAnime(pos) {
+        if (!Number.isInteger(pos)) throw new Error("Illegal Argument (supprimePosAnime Method in Class ListeAnime)");
+        this.#tabAnime.splice(pos, 1);
+    }
+    supprimePosMusic(i, pos) {
+        if (!Number.isInteger(i) || !Number.isInteger(pos)) throw new Error("Illegal Argument (supprimePosMusic Method in Class ListeAnime)");
+        this.#tabAnime[i].supprimePosMusic(pos);
+        this.#nbMusic --;
+    }
+    dechargerAllHtml() {
+        this.#tabAnime.forEach(anime => {
+            anime.getHtml.dechargerAll();
+        });
+    }
+}
+
+Object.seal(HTMLMusic);
+Object.seal(Music);
+Object.seal(HTMLAnime);
+Object.seal(Anime);
+Object.seal(ListeAnime);
+// ------------------------------Class Fin---------------------------------------------------------------------------------------------------------------------------//
+
+// event listeners pour (filtrage + affichage favori + save load favori)
+async function setupListenersFiltrage() {
+    document.querySelectorAll("input[type='checkbox'], select").forEach(el => {
+        if (el.id != "lecture_auto" && el.id != "inclusOnHoldDropped") {
+            el.addEventListener("change", async function () {
+                filtre();
+            });
+        }
+    });
+    document.querySelectorAll("input[type='text']").forEach(el => {
+        el.addEventListener("input", async function () {
+            filtre();
+        });
+    });
+    document.querySelector("#favori").addEventListener("click", async function () {
+        affichFav();
+    });
+    document.querySelector("#save").addEventListener("click", async function () {
+        saveFav();
+    });
+    document.querySelector("#load").addEventListener("click", async function () {
+        loadFav();
+    });
+    document.addEventListener("scroll", async function () {
+        if (nbAffich == HTMLTab.length) return;
+        if (window.scrollY >= nbPixelAvantUpdate) {
+            for (let i = nbAffich; i < (nbAffich + 100 < HTMLTab.length ? nbAffich + 100 : HTMLTab.length); ++i) charger(HTMLTab[i]);
+            nbAffich = (nbAffich + 100 < HTMLTab.length ? nbAffich + 100 : HTMLTab.length);
+            nbPixelAvantUpdate = Math.ceil(120 + (Math.ceil(nbAffich / 100) - 1) * 6000 + (100 * 60) * (3 / 4));
+        }
+    });
+    AudioActuel.addEventListener("ended", function () {
+        clickAudio.button.click();
+        if (lectureAutomatique) {
+            let button2 = chercheNextBouton(clickAudio.button);
+            if (button2 != null) button2.click();
+        }
+    });
+    inputLectureAuto.addEventListener("click", async function () {
+        lectureAutomatique = !lectureAutomatique;
+    });
+    document.querySelectorAll("input[type='radio']").forEach(radio => {
+        radio.addEventListener("change", async function () {
+            modifModeAffich();
+        })
+    });
+    document.getElementById("AudioChangeServeur").addEventListener("click", function (event) {
+        if (!AudioActuel.paused) clickAudio.button.click();
+        serveurCatboxChoice++;
+        if (serveurCatboxChoice >= serveurCatbox.length) serveurCatboxChoice = 0;
+        AudioActuel.src = "";
+        event.target.value = "ServeurCatbox : " + serveurCatbox[serveurCatboxChoice];
+    });
+    document.getElementById("inclusOnHoldDropped").addEventListener("click", function () {
+        modifUsersData(loadJsonUsers);
+    });
+}
+
+// ------------------------------Data Traitement---------------------------------------------------------------------------------------------------------------------//
+async function lancementData() {
+    doCorsRequest("get", "data.json", genereData);
+}
+
+async function doCorsRequest(method, url, funct) {
+    let x = new XMLHttpRequest();
+    x.open(method, url);
+    x.onload = x.onerror = function () {
+        let res = x.responseText;
+        res = JSON.parse(res);
+        funct(res);
+    }
+    x.send();
+}
+
+function genereData(data) {
+    data.anime.forEach(anime => {
+        let A = new Anime(correctString(anime.nom), anime.id, anime.mal_id);
+        anime.musique.forEach(music => {
+            let M = new Music(A, music.type, music.numero, correctString(music.nom), correctString(music.artiste), music.lien);
+            A.ajouteMusic(M);
+        });
+        let genres = anime.genres;
+        for (let i = 0; i < TabGenres.length; ++i) A.ajouteGenre(genres[i]);
+        globalList.ajouteAnime(A);
+    });
+    doCorsRequest("get", "loadJsonUsers.json", setUsersData);
+}
+
+function setUsersData(data) {
+    loadJsonUsers = data;
+    let limitUsers = document.getElementById("inclusOnHoldDropped").checked ? 4 : 2;
+    for (let i = 0; i < globalList.getNbAnime; ++i) {
+        let A = globalList.getAnime(i);
+        TabStringPseudo.forEach(user => {
+            let ok = false;
+            for (let j = 1; j <= limitUsers && !ok; ++j) {
+                if (data[user][j] != undefined && data[user][j].includes(A.getMalId)) {
+                    ok = true;
+                }
+            }
+            A.ajouteUser(ok);
+        });
+    }
+    globalList.generateHTML();
+    setupAffich();
+    setupFav(fav, favori);
+    loadAdditionalData();
+}
+
+function modifUsersData(data) {
+    let limitUsers = document.getElementById("inclusOnHoldDropped").checked ? 4 : 2;
+    for (let i = 0; i < globalList.getNbAnime; ++i) {
+        let A = globalList.getAnime(i);
+        A.resetUsers();
+        TabStringPseudo.forEach(user => {
+            let ok = false;
+            for (let j = 1; j <= limitUsers && !ok; ++j) {
+                if (data[user][j] != undefined && data[user][j].includes(A.getMalId)) {
+                    ok = true;
+                }
+            }
+            A.ajouteUser(ok);
+        });
+    }
+    filtre();
+}
+// ------------------------------Data Traitement Fin-----------------------------------------------------------------------------------------------------------------//
+
+// affichage
+function genereTabTr(liste, affichTrAnime = true) {
+    let tab = [];
+    let color = AlternateColor1;
+    for (let i = 0; i < liste.getNbAnime; ++i) {
+        liste.getAnime(i).getHtml.setBackground(color);
+        color = color == AlternateColor1 ? AlternateColor2 : AlternateColor1;
+        if (affichTrAnime) tab.push(liste.getAnime(i).getHtml.getTr);
+        for (let j = 0; j < liste.getAnime(i).getNbMusic; ++j) {
+            tab.push(liste.getAnime(i).getMusic(j).getHtml.getTr);
+        }
+    }
+    return tab;
+}
+
+function setupAffich() {
+    let info = document.createElement("div");
+    info.id = "info";
+    let table = document.createElement("table");
+    table.id = "AnimeMusicList";
+    HTMLTab = genereTabTr(globalList);
+    for (let i = 100; i < HTMLTab.length; ++i) decharger(HTMLTab[i]);
+    nbAffich = HTMLTab.length < 100 ? HTMLTab.length : 100;
+    nbPixelAvantUpdate = Math.ceil(120 + (Math.ceil(nbAffich / 100) - 1) * 6000 + (100 * 60) * (3 / 4));
+    for (let i = 0; i < HTMLTab.length; ++i) table.appendChild(HTMLTab[i]);
+    info.innerHTML = "&nbsp;Nb Anime: " + globalList.getNbAnime + " | Nb Musique: " + globalList.getNbMusic;
+    document.body.appendChild(info);
+    document.body.appendChild(table);
+    filtre();
+}
+
+function affichFiltr() {
+    clickAudioStop();
+    let info = document.getElementById("info");
+    info.innerHTML = "&nbsp;Nb Anime: " + listeFiltre.getNbAnime + " | Nb Musique: " + listeFiltre.getNbMusic;
+    HTMLTab = genereTabTr(listeFiltre, !AffichageFavori);
+    for (let i = 100; i < HTMLTab.length; ++i) decharger(HTMLTab[i]);
+    nbAffich = HTMLTab.length < 100 ? HTMLTab.length : 100;
+    nbPixelAvantUpdate = Math.ceil(120 + (Math.ceil(nbAffich / 100) - 1) * 6000 + (100 * 60) * (3 / 4));
+    for (let i = 0; i < nbAffich; ++i) charger(HTMLTab[i]);
+}
+
+// affichage fin
+
+// filtrage
+function filtreNomAnime(listeFiltreAnime, str) {
+    var listeA = new ListeAnime();
+    for (var i = 0; i < listeFiltreAnime.getNbAnime; ++i) {
+        if (listeFiltreAnime.getAnime(i).getNom.toLowerCase().includes(str.toLowerCase())) listeA.ajouteAnime(listeFiltreAnime.getAnime(i));
+        else listeFiltreAnime.getAnime(i).getHtml.dechargerAll();
+    }
+    return listeA;
+}
+
+function filtreTypeMusic(listeFiltreAnime, val) {
+    var listeA = new ListeAnime();
+    for (var i = 0; i < listeFiltreAnime.getNbAnime; ++i) {
+        var A = listeFiltreAnime.getAnime(i);
+        var Abis = new Anime(A.getNom, A.getId, A.getMalId, A.getHtml);
+        for (var j = 0; j < A.getNbMusic; ++j)
+            if (A.getMusic(j).getType == val) Abis.ajouteMusic(A.getMusic(j));
+            else decharger(listeFiltreAnime.getAnime(i).getMusic(j).getHtml.getTr);
+        Abis.copieUsers(A);
+        Abis.copieGenres(A);
+        if (Abis.getNbMusic > 0) listeA.ajouteAnime(Abis);
+        else decharger(listeFiltreAnime.getAnime(i).getHtml.getTr);
+    }
+    return listeA;
+}
+
+function filtreNomMusic(listeFiltreAnime, val) {
+    var listeA = new ListeAnime();
+    for (var i = 0; i < listeFiltreAnime.getNbAnime; ++i) {
+        var A = listeFiltreAnime.getAnime(i);
+        var Abis = new Anime(A.getNom, A.getId, A.getMalId, A.getHtml);
+        for (var j = 0; j < A.getNbMusic; ++j)
+            if (A.getMusic(j).getNom.toLowerCase().includes(val.toLowerCase())) Abis.ajouteMusic(A.getMusic(j));
+            else decharger(listeFiltreAnime.getAnime(i).getMusic(j).getHtml.getTr);
+        Abis.copieUsers(A);
+        Abis.copieGenres(A);
+        if (Abis.getNbMusic > 0) listeA.ajouteAnime(Abis);
+        else decharger(listeFiltreAnime.getAnime(i).getHtml.getTr);
+    }
+    return listeA;
+}
+
+function filtreNomArtistMusic(listeFiltreAnime, val) {
+    var listeA = new ListeAnime();
+    for (var i = 0; i < listeFiltreAnime.getNbAnime; ++i) {
+        var A = listeFiltreAnime.getAnime(i);
+        var Abis = new Anime(A.getNom, A.getId, A.getMalId, A.getHtml);
+        for (var j = 0; j < A.getNbMusic; ++j)
+            if (A.getMusic(j).getArtist.toLowerCase().includes(val.toLowerCase())) Abis.ajouteMusic(A.getMusic(j));
+            else decharger(listeFiltreAnime.getAnime(i).getMusic(j).getHtml.getTr);
+        Abis.copieUsers(A);
+        Abis.copieGenres(A);
+        if (Abis.getNbMusic > 0) listeA.ajouteAnime(Abis);
+        else decharger(listeFiltreAnime.getAnime(i).getHtml.getTr);
+    }
+    return listeA;
+}
+
+function filtreUsersUnion(listeFiltreAnime, tabUsersVal) {
+    var listeA = new ListeAnime();
+    for (var i = 0; i < listeFiltreAnime.getNbAnime; ++i) {
+        var stop = false;
+        var j = 0;
+        while (j < TabStringUsers.length && !stop) {
+            if (tabUsersVal[j].checked && listeFiltreAnime.getAnime(i).getEtatUser(j)) stop = true;
+            if (stop) listeA.ajouteAnime(listeFiltreAnime.getAnime(i));
+            else j++;
+        }
+        if (!stop) listeFiltreAnime.getAnime(i).getHtml.dechargerAll();
+    }
+    return listeA;
+}
+
+function filtreUsersIntersection(listeFiltreAnime, tabUsersVal) {
+    var listeA = new ListeAnime();
+    for (var i = 0; i < listeFiltreAnime.getNbAnime; ++i) {
+        var stop = false;
+        var j = 0;
+        while (j < TabStringUsers.length && !stop) {
+            if (tabUsersVal[j].checked && !listeFiltreAnime.getAnime(i).getEtatUser(j)) stop = true;
+            else j++;
+        }
+        if (!stop) listeA.ajouteAnime(listeFiltreAnime.getAnime(i));
+        else listeFiltreAnime.getAnime(i).getHtml.dechargerAll();
+    }
+    return listeA;
+}
+
+function filtreUsersExact(listeFiltreAnime, tabUsersVal) {
+    var listeA = new ListeAnime();
+    for (var i = 0; i < listeFiltreAnime.getNbAnime; ++i) {
+        var stop = false;
+        var j = 0;
+        while (j < TabStringUsers.length && !stop) {
+            if (tabUsersVal[j].checked != listeFiltreAnime.getAnime(i).getEtatUser(j)) stop = true;
+            j++;
+        }
+        if (!stop) listeA.ajouteAnime(listeFiltreAnime.getAnime(i));
+        else listeFiltreAnime.getAnime(i).getHtml.dechargerAll();
+    }
+    return listeA;
+}
+
+function filtreGenres(listeFiltreAnime, val) {
+    var listeA = new ListeAnime();
+    for (var i = 0; i < listeFiltreAnime.getNbAnime; ++i) {
+        if (listeFiltreAnime.getAnime(i).getEtatGenre(val)) listeA.ajouteAnime(listeFiltreAnime.getAnime(i));
+        else listeFiltreAnime.getAnime(i).getHtml.dechargerAll();
+    }
+    return listeA;
+}
+
+function checkboxListeModif(tabUsersVal) {
+    for (let i = 0; i < TabStringUsers.length; ++i) if (tabUsersVal[i]) return true;
+    return false;
+}
+
+function filtre() {
+    let listeFiltreAnime = globalList;
+    AffichageFavori = false;
+
+    let val = correctString(filtreNomAnimeInput.value);
+    if (val != "") { listeFiltreAnime = filtreNomAnime(listeFiltreAnime, val); }
+
+    val = filtreTypeMusicSelect.value;
+    if (val != "") { listeFiltreAnime = filtreTypeMusic(listeFiltreAnime, val); }
+
+    val = correctString(filtreNomMusicInput.value);
+    if (val != "") { listeFiltreAnime = filtreNomMusic(listeFiltreAnime, val); }
+
+    val = correctString(filtreNomArtistInput.value);
+    if (val != "") { listeFiltreAnime = filtreNomArtistMusic(listeFiltreAnime, val); }
+
+    val = correctString(filtreGenresSelect.value);
+    if (val != "") listeFiltreAnime = filtreGenres(listeFiltreAnime, parseInt(val));
+
+    let tabUsersVal = [A, C, L, V, T, Q];
+    val = filtreJointureSelect.value;
+    if (val == "Union" && checkboxListeModif(tabUsersVal)) { listeFiltreAnime = filtreUsersUnion(listeFiltreAnime, tabUsersVal); }
+    else if (val == "Intersection") { listeFiltreAnime = filtreUsersIntersection(listeFiltreAnime, tabUsersVal); }
+    else if (val == "Exact") { listeFiltreAnime = filtreUsersExact(listeFiltreAnime, tabUsersVal); }
+
+    listeFiltre = listeFiltreAnime;
+    affichFiltr();
+}
+// fin filtrage
+
+async function resetFiltre() {
+    if (ModeAffichLien == "2") AffichLien2.checked = true;
+    filtreNomAnimeInput.value = "";
+    filtreTypeMusicSelect.value = "";
+    filtreNomMusicInput.value = "";
+    filtreNomArtistInput.value = "";
+    filtreJointureSelect.value = "Union";
+    A.checked = true;
+    C.checked = true;
+    L.checked = true;
+    V.checked = true;
+    T.checked = true;
+    Q.checked = true;
+    filtreGenresSelect.value = "";
+}
+
+// audio
+
+function chercheNextBouton(button) {
+    let trActuel = button.parentElement.parentElement.nextElementSibling;
+    while (trActuel != null && (trActuel.classList.contains("grey") || trActuel.style.display == "none")) {
+        trActuel = trActuel.nextElementSibling;
+    }
+    if (trActuel != null) return trActuel.querySelector("button");
+    else if (HTMLTab.length > 0) {
+        if (HTMLTab[0].classList.contains("grey")) return HTMLTab[1].querySelector("button");
+        else return HTMLTab[0].querySelector("button");
+    }
+    else return null;
+}
+
+function clickAudio(lien, button) {
+    if (AudioActuel.src != lien) {
+        AudioActuel.pause();
+        if (clickAudio.button !== undefined) clickAudio.button.innerHTML = "&#9658;";
+        AudioActuel.src = lien;
+        AudioActuel.play();
+        button.innerHTML = "&#9208;";
+        stateAudio = 1;
+    }
+    else if (stateAudio == 1) {
+        AudioActuel.pause();
+        button.innerHTML = "&#9658;";
+        stateAudio = 0;
+    }
+    else {
+        AudioActuel.play();
+        button.innerHTML = "&#9208;";
+        stateAudio = 1;
+    }
+    clickAudio.button = button;
+}
+function clickAudioStop() {
+    if (clickAudio.button != undefined) {
+        clickAudio.button.innerHTML = "&#9658";
+        clickAudio.button = undefined;
+        AudioActuel.pause();
+        stateAudio = 0;
+    }
+}
+
+// affichageLien
+
+function modifModeAffich() {
+    ModeAffichLien = AffichLien1.checked ? AffichLien1.value : AffichLien2.value;
+    localStorage.setItem("modeAffichLien", ModeAffichLien);
+    location.reload();
+}
+
+// favori
+
+async function setupFavori() {
+    if (localStorage.getItem("favori")) {
+        var favori_string = localStorage.getItem("favori");
+        favori = favori_string.split("|");
+        var i = 0;
+        while (i < favori.length) {
+            favori[i] = favori[i].replace("catbox.moe", "catbox.video");
+            favori[i] = favori[i].replace("nl.catbox.video", "nawdist.animemusicquiz.com");
+            if (favori[i].startsWith("https://")) i++;
+            else favori.splice(i, 1);
+        }
+        let sav = favori.join("|");
+        localStorage.setItem("favori", sav);
+    }
+    else localStorage.setItem("favori", favori);
+}
+
+async function saveFav() {
+    const a = document.createElement('a');
+    var nomf = prompt("Nom du fichier : ", "SaveFav.txt");
+    if (nomf == null) nomf = "saveFav.txt";
+    a.download = nomf;
+    a.href = "data:text/plain," + localStorage.getItem("favori");
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+}
+
+async function loadFav() {
+    const button = document.createElement('input');
+    button.type = "file";
+    button.onchange = function () {
+        let file = button.files[0];
+        const reader = new FileReader();
+        reader.onload = (evt) => {
+            localStorage.setItem("favori", evt.target.result);
+            location.reload();
+        };
+        reader.readAsText(file);
+    };
+    document.body.appendChild(button);
+    button.click();
+    document.body.removeChild(button);
+}
+
+async function sauvegardeFav() {
+    var tab = [];
+    for (var i = 0; i < fav.getNbAnime; ++i) {
+        for (var j = 0; j < fav.getAnime(i).getNbMusic; ++j) {
+            tab.push(fav.getAnime(i).getMusic(j).getLien);
+        }
+    }
+    var str = tab.join("|");
+    localStorage.setItem("favori", str);
+}
+
+function posAnime(anime, listeA) {
+    if (listeA.getNbAnime == 0) return -1;
+    var i = 0;
+    var j = listeA.getNbAnime;
+    var m;
+    while (i < j) {
+        m = Math.trunc((i + j) / 2);
+        if (listeA.getAnime(m).getNom.toLowerCase() > anime.getNom.toLowerCase()) j = m;
+        else if (listeA.getAnime(m).getNom.toLowerCase() < anime.getNom.toLowerCase()) i = m + 1;
+        else {
+            if (listeA.getAnime(m).getId > anime.getId) j = m;
+            else if (listeA.getAnime(m).getId < anime.getId) i = m + 1;
+            else {
+                i = m;
+                j = m;
+            }
+        }
+    }
+    return i;
+}
+
+function posMusic(music, anime, animeref) {
+    var pos = 0;
+    for (var i = 0; i < animeref.getNbMusic; ++i) {
+        if (music.getLien == animeref.getMusic(i).getLien) return pos;
+        if (pos < anime.getNbMusic && anime.getMusic(pos).getLien == animeref.getMusic(i).getLien) pos++;
+    }
+    return -1;
+}
+
+function identiqueAnime(anime1, anime2) {
+    return anime1.getNom == anime2.getNom && anime1.getId == anime2.getId;
+}
+
+async function ajoutFav(anime, music) {
+    var pos = posAnime(anime, fav);
+    if (pos == -1 || pos == fav.getNbAnime || !identiqueAnime(fav.getAnime(pos), anime)) {
+        var A = new Anime(anime.getNom, anime.getId, anime.getMalId, anime.getHtml);
+        A.ajouteMusic(music);
+        fav.ajoutePosAnime(A, pos);
+    }
+    else {
+        var posMus = posMusic(music, fav.getAnime(pos), anime);
+        if (posMus > -1) fav.ajoutePosMusic(pos, music, posMus);
+    }
+}
+
+async function suppFav(anime, music) {
+    var posAfav = posAnime(anime, fav);
+    var posM = posMusic(music, fav.getAnime(posAfav), fav.getAnime(posAfav));
+    fav.supprimePosMusic(posAfav, posM);
+    if (fav.getAnime(posAfav).getNbMusic == 0) fav.supprimePosAnime(posAfav);
+}
+
+function modifFav(anime, music, estfavori) {
+    if (estfavori) ajoutFav(anime, music);
+    else suppFav(anime, music);
+    if (AffichageFavori) {
+        AffichageFavori = !AffichageFavori;
+        affichFav();
+    }
+    sauvegardeFav();
+}
+
+function setupFav(liste, tabLiens) {
+    if (tabLiens.length == 0) return;
+    let k = 0;
+    for (let i = 0; i < globalList.getNbAnime && k < tabLiens.length; ++i) {
+        let A = new Anime(globalList.getAnime(i).getNom, globalList.getAnime(i).getId, globalList.getAnime(i).getMalId, globalList.getAnime(i).getHtml);
+        for (let j = 0; j < globalList.getAnime(i).getNbMusic && k < tabLiens.length; ++j) {
+            if (globalList.getAnime(i).getMusic(j).getLien == tabLiens[k]) {
+                A.ajouteMusic(globalList.getAnime(i).getMusic(j));
+                globalList.getAnime(i).getMusic(j).getHtml.getTd(0).innerHTML = "&#9733;";
+                k++;
+            }
+        }
+        if (A.getNbMusic > 0) liste.ajouteAnime(A);
+    }
+    if (fav.getNbMusic != favori.length) repareFav();
+}
+
+async function affichFav() {
+    resetFiltre();
+    if (AffichageFavori) {
+        AffichageFavori = false;
+        listeFiltre = globalList;
+    }
+    else {
+        AffichageFavori = true;
+        listeFiltre = fav;
+    }
+    globalList.dechargerAllHtml();
+    affichFiltr();
+}
+
+// reparateur de favori
+
+function chercheMusique(lien) {
+    for (let i = 0; i < globalList.getNbAnime; ++i) {
+        for (let j = 0; j < globalList.getAnime(i).getNbMusic; ++j) {
+            if (globalList.getAnime(i).getMusic(j).getLien == lien) return globalList.getAnime(i).getMusic(j);
+        }
+    }
+    return null;
+}
+
+function repareFav() {
+    let nb_supp = 0;
+    for (let i = 0; i < favori.length; ++i) {
+        let music = chercheMusique(favori[i]);
+        if (music == null) nb_supp++;
+        else if (music.getHtml.getTd(0).innerHTML == falseTd.innerHTML) ajoutFav(music.getAnime, music);
+    }
+    if (fav.getNbMusic != favori.length - nb_supp) throw new Error("repareFav don't working");
+    else {
+        sauvegardeFav();
+        location.reload();
+    }
+}
+
+// additional-data
+
+async function setScoreUsers(data) {
+    if (data !== undefined) {
+        for (let i = 0; i < globalList.getNbAnime; ++i) {
+            let A = globalList.getAnime(i);
+            if (data[A.getMalId] !== undefined) {
+                let j = 2;
+                TabStringUsers.forEach(user => {
+                    if (data[A.getMalId].scores[user] !== undefined && data[A.getMalId].scores[user] != 0) {
+                        let div = A.getHtml.getTr.querySelector("._" + j);
+                        div.innerHTML += ("<br/>" + data[A.getMalId].scores[user]);
+                        div.style.padding = "5px";
+                    }
+                    j++;
+                });
+            }
+        }
+    }
+}
+
+async function loadJson(method, url) {
+    let x = new XMLHttpRequest();
+    x.open(method, url);
+    x.onload = x.onerror = function () {
+        let res = x.responseText;
+        res = JSON.parse(res);
+        setScoreUsers(res);
+    }
+    x.send();
+}
+
+async function loadAdditionalData() {
+    try { loadJson("get", "https://aclvt.tchm.dev/additional-data.json"); }
+    catch (e) { console.log(e); }
+}
+
+// constantes et variables globales
+const TabStringUsers = ["A", "C", "L", "V", "T", "Q"];
+const TabStringPseudo = ["Tiralex1", "Cycygonzales", "49Leo", "Gyrehio", "tchm", "QGWolfWarrior"]
+const TabGenres = ["Action", "Adventure", "Comedy", "Drama", "Ecchi", "Fantasy", "Horror", "Mahou Shoujo", "Mecha", "Music", "Mystery", "Psychological", "Romance", "Sci-Fi", "Slice of Life", "Sports", "Supernatural", "Thriller"];
+let globalList = new ListeAnime();
+let fav = new ListeAnime();
+let listeFiltre = globalList;
+let AlternateColor1 = "lightgreen";
+let AlternateColor2 = "lightcoral";
+let HTMLTab;
+let nbAffich = 0;
+let nbPixelAvantUpdate = 120;
+
+let filtreNomAnimeInput = document.getElementById("name_anime");
+let filtreTypeMusicSelect = document.getElementById("type_music");
+let filtreNomMusicInput = document.getElementById("name_music");
+let filtreNomArtistInput = document.getElementById("name_artist");
+let filtreJointureSelect = document.getElementById("jointure");
+let A = document.getElementById("A");
+let C = document.getElementById("C");
+let L = document.getElementById("L");
+let V = document.getElementById("V");
+let T = document.getElementById("T");
+let Q = document.getElementById("Q");
+let filtreGenresSelect = document.getElementById("genres");
+
+let AudioActuel = new Audio("");
+let stateAudio = 0;
+let inputLectureAuto = document.querySelector("#lecture_auto");
+let lectureAutomatique = inputLectureAuto.checked;
+
+let serveurCatbox = ["nl.catbox.video", "ladist1.catbox.video"];
+let serveurCatboxChoice = 0;
+
+document.getElementById("AudioChangeServeur").value = "ServeurCatbox : " + serveurCatbox[serveurCatboxChoice];
+
+let AffichLien1 = document.getElementById("affich_lien1");
+let AffichLien2 = document.getElementById("affich_lien2");
+let ModeAffichLien = "1";
+
+if (localStorage.getItem("modeAffichLien")) ModeAffichLien = localStorage.getItem("modeAffichLien");
+else localStorage.setItem("modeAffichLien", ModeAffichLien);
+
+let AffichageFavori = false;
+let favori = [];
+
+var loadJsonUsers;
+
+// programme principal
+(async function () {
+    resetFiltre().then(() => setupFavori()).then(() => lancementData()).then(() => setupListenersFiltrage());
+})();

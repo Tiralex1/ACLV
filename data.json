@@ -1,6 +1,6 @@
 {
   "nb_anime": 908,
-  "nb_musique": 4117,
+  "nb_musique": 4116,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -22987,7 +22987,7 @@
       "nom": "Monogatari Series: Off & Monster Season",
       "id": 0,
       "mal_id": 57864,
-      "nb_musique": 4,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -22995,13 +22995,6 @@
           "nom": "caramel ribbon cursetard",
           "artiste": "Kana Hanazawa・Saori Hayami",
           "lien": "https://eudist.animemusicquiz.com/ibszmc.webm"
-        },
-        {
-          "type": "Opening",
-          "numero": 2,
-          "nom": "Banshi no Theme",
-          "artiste": "mito (clammbon)",
-          "lien": "https://eudist.animemusicquiz.com/43d5io.webm"
         },
         {
           "type": "Opening",

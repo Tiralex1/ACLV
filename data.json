@@ -1,6 +1,6 @@
 {
   "nb_anime": 924,
-  "nb_musique": 4149,
+  "nb_musique": 4151,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -9028,7 +9028,7 @@
       "nom": "Fairy Tail: 100-nen Quest",
       "id": 0,
       "mal_id": 49785,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -9038,11 +9038,25 @@
           "lien": "https://eudist.animemusicquiz.com/ehylul.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Endless Happy-Ending",
+          "artiste": "THE RAMPAGE from EXILE TRIBE",
+          "lien": "https://eudist.animemusicquiz.com/g0mjuj.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Tomo yo Koko de Sayonara da",
           "artiste": "Boku ga Mitakatta Aozora",
           "lien": "https://eudist.animemusicquiz.com/y1gtbg.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "ties",
+          "artiste": "Emi Noda",
+          "lien": "https://eudist.animemusicquiz.com/d893tm.webm"
         },
         {
           "type": "Insert Song",

@@ -1,6 +1,6 @@
 {
   "nb_anime": 924,
-  "nb_musique": 4151,
+  "nb_musique": 4156,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -6622,7 +6622,7 @@
       "nom": "Dead Mount Death Play",
       "id": 1,
       "mal_id": 54743,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -6637,6 +6637,13 @@
           "nom": "Hope",
           "artiste": "Yuuma Uchida",
           "lien": "https://eudist.animemusicquiz.com/95989j.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mitaiken Rendezvous",
+          "artiste": "Shouta Aoi",
+          "lien": "https://eudist.animemusicquiz.com/8qtasr.webm"
         }
       ],
       "genres": [
@@ -29745,7 +29752,7 @@
       "nom": "Re:Zero kara Hajimeru Isekai Seikatsu",
       "id": 3,
       "mal_id": 54857,
-      "nb_musique": 3,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -29762,11 +29769,32 @@
           "lien": "https://eudist.animemusicquiz.com/03x9hk.webm"
         },
         {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "I Trust You",
+          "artiste": "Rie Takahashi",
+          "lien": "https://eudist.animemusicquiz.com/qe9izv.webm"
+        },
+        {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Duwawawa, Koi no Toshi no sa",
           "artiste": "Aya Yamane & Yuusuke Kobayashi",
           "lien": "https://eudist.animemusicquiz.com/gum4bi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ken Oni Renka Dai Ni Maku",
+          "artiste": "Aya Yamane",
+          "lien": "https://eudist.animemusicquiz.com/8h623t.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Minamo ni Yureru Priestella",
+          "artiste": "Aya Yamane",
+          "lien": "https://eudist.animemusicquiz.com/ookppk.webm"
         }
       ],
       "genres": [
@@ -35644,7 +35672,7 @@
       "nom": "Tensui no Sakuna-hime",
       "id": 0,
       "mal_id": 58357,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -35659,6 +35687,13 @@
           "nom": "ORIGAMI",
           "artiste": "Little Glee Monster",
           "lien": "https://eudist.animemusicquiz.com/54qsga.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Yanato Taue Uta",
+          "artiste": "Naomi Oozora, Rika Momokawa, Aoi Koga, Hikari Kubota, Ryota Yano, Souma Maeda",
+          "lien": "https://eudist.animemusicquiz.com/0ror86.webm"
         },
         {
           "type": "Insert Song",

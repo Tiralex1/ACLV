@@ -1,6 +1,6 @@
 {
-  "nb_anime": 924,
-  "nb_musique": 4156,
+  "nb_anime": 930,
+  "nb_musique": 4167,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1653,6 +1653,31 @@
       ],
       "genres": [
           0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0
+      ]
+    },
+    {
+      "nom": "Ao no Miburo",
+      "id": 0,
+      "mal_id": 56647,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Ao",
+          "artiste": "SPYAIR",
+          "lien": "https://eudist.animemusicquiz.com/6js5yk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "UNBREAKABLE",
+          "artiste": "THE JET BOY BANGERZ",
+          "lien": "https://eudist.animemusicquiz.com/qsbppr.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -6804,6 +6829,31 @@
       ]
     },
     {
+      "nom": "Deca-Dence",
+      "id": 0,
+      "mal_id": 40056,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Theater of Life",
+          "artiste": "Konomi Suzuki",
+          "lien": "https://eudist.animemusicquiz.com/xbsicd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kioku no Hakobune",
+          "artiste": "Kashitaro Ito",
+          "lien": "https://eudist.animemusicquiz.com/ohyaul.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Deep Insanity: The Lost Child",
       "id": 0,
       "mal_id": 49292,
@@ -10051,6 +10101,24 @@
       ],
       "genres": [
           0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Garden of Remembrance",
+      "id": 0,
+      "mal_id": 52085,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Garden of Remembrance",
+          "artiste": "Lovely Summer Chan",
+          "lien": "https://eudist.animemusicquiz.com/k05idz.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -18346,6 +18414,38 @@
       ]
     },
     {
+      "nom": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+      "id": 0,
+      "mal_id": 54714,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Daidaidaidaidaisuki na Kimi e ♡",
+          "artiste": "Miyu Tomita, Maria Naganawa, Asami Seto, Kaede Hondo, Ayaka Asai",
+          "lien": "https://eudist.animemusicquiz.com/enx1w7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sweet Sign",
+          "artiste": "Nako Misaki",
+          "lien": "https://eudist.animemusicquiz.com/87yn6j.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kyou no Ending wa Watashi ga Kaitotta kara Suki ni Shite Ii wa yo ne♡",
+          "artiste": "Sumire Uesaka",
+          "lien": "https://eudist.animemusicquiz.com/84x8pv.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Kimi no Na wa.",
       "id": 0,
       "mal_id": 32281,
@@ -20729,6 +20829,24 @@
       ],
       "genres": [
           1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Look Back",
+      "id": 0,
+      "mal_id": 58125,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Light song",
+          "artiste": "haruka nakamura feat. urara",
+          "lien": "https://eudist.animemusicquiz.com/90zqhc.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -23732,6 +23850,31 @@
       ],
       "genres": [
           1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+      ]
+    },
+    {
+      "nom": "Nageki no Bourei wa Intai Shitai",
+      "id": 0,
+      "mal_id": 58172,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kattou Tomorrow",
+          "artiste": "Lezel",
+          "lien": "https://eudist.animemusicquiz.com/zn6vdk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Scream!",
+          "artiste": "P-Maru-sama.",
+          "lien": "https://eudist.animemusicquiz.com/wjw0gh.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

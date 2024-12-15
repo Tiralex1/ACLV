@@ -1,6 +1,6 @@
 {
-  "nb_anime": 930,
-  "nb_musique": 4167,
+  "nb_anime": 934,
+  "nb_musique": 4185,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -18844,6 +18844,38 @@
       ]
     },
     {
+      "nom": "Kishuku Gakkou no Juliet",
+      "id": 0,
+      "mal_id": 37475,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Love with You",
+          "artiste": "fripSide",
+          "lien": "https://eudist.animemusicquiz.com/gudim1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Itsuka Sekai ga Kawaru made",
+          "artiste": "Riho Iida",
+          "lien": "https://eudist.animemusicquiz.com/pr0pto.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hush, Little Baby",
+          "artiste": "Ai Kayano",
+          "lien": "https://eudist.animemusicquiz.com/wl0wti.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Kizumonogatari II: Nekketsu-hen",
       "id": 0,
       "mal_id": 31757,
@@ -25536,7 +25568,7 @@
       "nom": "NieR:Automata Ver1.1a",
       "id": 1,
       "mal_id": 56063,
-      "nb_musique": 12,
+      "nb_musique": 13,
       "musique": [
         {
           "type": "Opening",
@@ -25551,6 +25583,13 @@
           "nom": "Hai to Inori",
           "artiste": "GEMS COMPANY",
           "lien": "https://eudist.animemusicquiz.com/sjwoqp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Weight of the World/Kowareta Sekai no Uta",
+          "artiste": "Marina Kawano",
+          "lien": "https://eudist.animemusicquiz.com/m3ptxr.webm"
         },
         {
           "type": "Insert Song",
@@ -25675,6 +25714,80 @@
       ],
       "genres": [
           1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Nisekoi",
+      "id": 0,
+      "mal_id": 18897,
+      "nb_musique": 9,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "CLICK",
+          "artiste": "ClariS",
+          "lien": "https://eudist.animemusicquiz.com/388uyj.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "STEP",
+          "artiste": "ClariS",
+          "lien": "https://eudist.animemusicquiz.com/7ns2te.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Heart Pattern",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/ppfwtd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Recover Decoration",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://eudist.animemusicquiz.com/5z71qu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "TRICK BOX",
+          "artiste": "Mikako Komatsu",
+          "lien": "https://eudist.animemusicquiz.com/i3jt19.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Order×Order",
+          "artiste": "Yumi Uchiyama",
+          "lien": "https://eudist.animemusicquiz.com/1m37qn.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Hanagonomi",
+          "artiste": "Kana Asumi",
+          "lien": "https://eudist.animemusicquiz.com/hjla1a.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Souzou Diary",
+          "artiste": "Nao Touyama, Kana Hanazawa, Mikako Komatsu, Kana Asumi",
+          "lien": "https://eudist.animemusicquiz.com/ow17vx.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Taisetsu no Tsukurikata",
+          "artiste": "Nao Touyama & Kana Hanazawa",
+          "lien": "https://eudist.animemusicquiz.com/0zp9h9.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -30721,6 +30834,31 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan o Shitagaeru",
+      "id": 0,
+      "mal_id": 58714,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Tactics",
+          "artiste": "KOHTA YAMAMOTO feat. SAIKI",
+          "lien": "https://eudist.animemusicquiz.com/jhgdda.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Liberation",
+          "artiste": "KOHTA YAMAMOTO feat. AAAMYYY",
+          "lien": "https://eudist.animemusicquiz.com/gb4zu5.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -39007,6 +39145,38 @@
           "nom": "Fuyu Biyori",
           "artiste": "Eri Sasaki",
           "lien": "https://eudist.animemusicquiz.com/0n1yhg.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Yuru Camp△ Season 2",
+      "id": 0,
+      "mal_id": 38474,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Seize The Day",
+          "artiste": "Asaka",
+          "lien": "https://eudist.animemusicquiz.com/0bl6rq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Haru no Tonari",
+          "artiste": "Eri Sasaki",
+          "lien": "https://eudist.animemusicquiz.com/vlbka1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kono Basho de.",
+          "artiste": "Okunai Katsudou Circle (Asaka)",
+          "lien": "https://eudist.animemusicquiz.com/yif5sw.webm"
         }
       ],
       "genres": [

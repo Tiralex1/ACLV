@@ -1,6 +1,6 @@
 {
-  "nb_anime": 934,
-  "nb_musique": 4185,
+  "nb_anime": 939,
+  "nb_musique": 4211,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -2553,6 +2553,38 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Beastars Final Season",
+      "id": 0,
+      "mal_id": 49469,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Into the world",
+          "artiste": "issei",
+          "lien": "https://eudist.animemusicquiz.com/7q23g6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Feel Like This",
+          "artiste": "YU-KA",
+          "lien": "https://eudist.animemusicquiz.com/hqbkr5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Rock 'n' Roll Dragon",
+          "artiste": "Lisa Kousaka",
+          "lien": "https://eudist.animemusicquiz.com/fztrwx.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -6616,6 +6648,38 @@
       ],
       "genres": [
           1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Dead Dead Demon's Dededede Destruction",
+      "id": 0,
+      "mal_id": 58883,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "SHINSEKAI yori",
+          "artiste": "ano × Lilas Ikuta",
+          "lien": "https://eudist.animemusicquiz.com/35pk9j.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "ZeZeZeZettai Seiiki",
+          "artiste": "ano feat. Lilas Ikuta",
+          "lien": "https://eudist.animemusicquiz.com/ysvi0z.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Seishun Ouka",
+          "artiste": "Lilas Ikuta feat. ano",
+          "lien": "https://eudist.animemusicquiz.com/jsxn29.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0
       ]
     },
     {
@@ -14537,6 +14601,59 @@
       ]
     },
     {
+      "nom": "Interstella 5555",
+      "id": 0,
+      "mal_id": 731,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Digital Love",
+          "artiste": "Daft Punk",
+          "lien": "https://eudist.animemusicquiz.com/lrogy1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Face To Face",
+          "artiste": "Daft Punk featuring Todd Edwards",
+          "lien": "https://eudist.animemusicquiz.com/n9li1i.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Harder, Better, Faster, Stronger",
+          "artiste": "Daft Punk",
+          "lien": "https://eudist.animemusicquiz.com/jhqtr0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "One More Time",
+          "artiste": "Daft Punk featuring Romanthony",
+          "lien": "https://eudist.animemusicquiz.com/fqqrxk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Something About Us",
+          "artiste": "Daft Punk",
+          "lien": "https://eudist.animemusicquiz.com/z4knm4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Too Long",
+          "artiste": "Daft Punk featuring Romanthony",
+          "lien": "https://eudist.animemusicquiz.com/cs9qqv.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Inuyashiki Last Hero",
       "id": 0,
       "mal_id": 34542,
@@ -21954,7 +22071,7 @@
       "nom": "Mahouka Koukou no Rettousei 3rd Season",
       "id": 0,
       "mal_id": 50713,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -21983,6 +22100,13 @@
           "nom": "Shion no Hanataba o",
           "artiste": "ASCA",
           "lien": "https://eudist.animemusicquiz.com/ttk3as.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Both Sides Of The Story",
+          "artiste": "Lotus Juice",
+          "lien": "https://eudist.animemusicquiz.com/5gt24e.webm"
         }
       ],
       "genres": [
@@ -22845,7 +22969,7 @@
       "nom": "Mecha-Ude",
       "id": 0,
       "mal_id": 53033,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -22860,6 +22984,13 @@
           "nom": "karma",
           "artiste": "Setsuko (Kuhaku Gokko)",
           "lien": "https://eudist.animemusicquiz.com/l6is88.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "arma",
+          "artiste": "XAI",
+          "lien": "https://eudist.animemusicquiz.com/z7wtyl.webm"
         }
       ],
       "genres": [
@@ -23408,7 +23539,7 @@
       "nom": "Monogatari Series: Off & Monster Season",
       "id": 0,
       "mal_id": 57864,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -23416,6 +23547,13 @@
           "nom": "caramel ribbon cursetard",
           "artiste": "Kana Hanazawa・Saori Hayami",
           "lien": "https://eudist.animemusicquiz.com/ibszmc.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "icecream°",
+          "artiste": "Yuka Iguchi・Saori Hayami",
+          "lien": "https://eudist.animemusicquiz.com/1vt3z6.webm"
         },
         {
           "type": "Opening",
@@ -25784,6 +25922,80 @@
           "nom": "Taisetsu no Tsukurikata",
           "artiste": "Nao Touyama & Kana Hanazawa",
           "lien": "https://eudist.animemusicquiz.com/0zp9h9.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Nisekoi:",
+      "id": 0,
+      "mal_id": 27787,
+      "nb_musique": 9,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Rally Go Round",
+          "artiste": "LiSA",
+          "lien": "https://eudist.animemusicquiz.com/x9m10f.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Magical☆Styling",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://eudist.animemusicquiz.com/32aze4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Aimai Hertz",
+          "artiste": "Nao Touyama, Kana Hanazawa, Mikako Komatsu, Kana Asumi",
+          "lien": "https://eudist.animemusicquiz.com/c86913.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "TrIGgER",
+          "artiste": "Mikako Komatsu",
+          "lien": "https://eudist.animemusicquiz.com/9w6bio.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Sleep zzz...",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/kdgf20.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "MatadoLove",
+          "artiste": "Kana Asumi",
+          "lien": "https://eudist.animemusicquiz.com/9rmfvi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "marchen ticktack",
+          "artiste": "Ayane Sakura",
+          "lien": "https://eudist.animemusicquiz.com/5w351g.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Tooriame drop",
+          "artiste": "Yumi Uchiyama",
+          "lien": "https://eudist.animemusicquiz.com/gf1be8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Crayon Cover",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://eudist.animemusicquiz.com/2h57o8.webm"
         }
       ],
       "genres": [
@@ -38069,6 +38281,24 @@
       ]
     },
     {
+      "nom": "Uzumaki: TV Animated Series",
+      "id": 0,
+      "mal_id": 40333,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Dojoji no Kotoriuta",
+          "artiste": "Uki Satake",
+          "lien": "https://eudist.animemusicquiz.com/bnyv14.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Vinland Saga",
       "id": 0,
       "mal_id": 37521,
@@ -38853,7 +39083,7 @@
       "nom": "Yoru no Kurage wa Oyogenai",
       "id": 0,
       "mal_id": 54839,
-      "nb_musique": 9,
+      "nb_musique": 10,
       "musique": [
         {
           "type": "Opening",
@@ -38889,6 +39119,13 @@
           "nom": "Shibuya Aquarium",
           "artiste": "JELEE",
           "lien": "https://eudist.animemusicquiz.com/dxezuq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "1-nichi wa 25-jikan.",
+          "artiste": "JELEE",
+          "lien": "https://eudist.animemusicquiz.com/fnhknz.webm"
         },
         {
           "type": "Insert Song",

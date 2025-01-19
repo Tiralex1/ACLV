@@ -1,6 +1,6 @@
 {
-  "nb_anime": 951,
-  "nb_musique": 4260,
+  "nb_anime": 955,
+  "nb_musique": 4287,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1259,7 +1259,7 @@
       "nom": "Amagami-san Chi no Enmusubi",
       "id": 0,
       "mal_id": 55071,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -1269,11 +1269,25 @@
           "lien": "https://eudist.animemusicquiz.com/sms1n4.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Pray Pray Pray",
+          "artiste": "Amagami San Shimai",
+          "lien": "https://eudist.animemusicquiz.com/yklclz.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Kimi ni Koi o Musunde",
           "artiste": "Amagami San Shimai",
           "lien": "https://eudist.animemusicquiz.com/2hxhnj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kamisama no Iu Toori!",
+          "artiste": "≠ME",
+          "lien": "https://eudist.animemusicquiz.com/p4etz1.webm"
         }
       ],
       "genres": [
@@ -2393,7 +2407,7 @@
       "nom": "BanG Dream! Ave Mujica",
       "id": 0,
       "mal_id": 56653,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -2401,6 +2415,13 @@
           "nom": "KiLLKiSS",
           "artiste": "Ave Mujica",
           "lien": "https://eudist.animemusicquiz.com/3237tn.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Georgette Me, Georgette You",
+          "artiste": "Ave Mujica",
+          "lien": "https://eudist.animemusicquiz.com/n920so.webm"
         }
       ],
       "genres": [
@@ -18751,6 +18772,31 @@
       ]
     },
     {
+      "nom": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+      "id": 1,
+      "mal_id": 57616,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Arigato, Daisuki ni Natte Kurete",
+          "artiste": "Rentarou Family",
+          "lien": "https://eudist.animemusicquiz.com/d4rtw5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Unmei?",
+          "artiste": "Amane Shindou, Rie Takahashi, Lynn, Kanon Takao",
+          "lien": "https://eudist.animemusicquiz.com/xoj51u.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Kimi no Na wa.",
       "id": 0,
       "mal_id": 32281,
@@ -21690,6 +21736,136 @@
       ]
     },
     {
+      "nom": "Love Live! School Idol Project Sunshine!!",
+      "id": 1,
+      "mal_id": 34973,
+      "nb_musique": 17,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Mirai no Bokura wa Shitteru yo",
+          "artiste": "Aqours",
+          "lien": "https://eudist.animemusicquiz.com/886pqi.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Aozora Jumping Heart",
+          "artiste": "Aqours",
+          "lien": "https://eudist.animemusicquiz.com/wzrfc0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yuuki wa Doko ni? Kimi no Mune ni!",
+          "artiste": "Anju Inami, Rikako Aida, Shuka Saitou",
+          "lien": "https://eudist.animemusicquiz.com/qf30po.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Yuuki wa Doko ni? Kimi no Mune ni!",
+          "artiste": "Aqours",
+          "lien": "https://eudist.animemusicquiz.com/g9xwzq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Yuuki wa Doko ni? Kimi no Mune ni!",
+          "artiste": "Arisa Komiya",
+          "lien": "https://eudist.animemusicquiz.com/9p7rki.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Yuuki wa Doko ni? Kimi no Mune ni!",
+          "artiste": "Rikako Aida & Aika Kobayashi",
+          "lien": "https://eudist.animemusicquiz.com/6dudr1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Yuuki wa Doko ni? Kimi no Mune ni!",
+          "artiste": "Aika Kobayashi, Kanako Takatsuki, Ai Furihata",
+          "lien": "https://eudist.animemusicquiz.com/lgudtb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Yuuki wa Doko ni? Kimi no Mune ni!",
+          "artiste": "Nanaka Suwa, Arisa Komiya, Aina Suzuki",
+          "lien": "https://eudist.animemusicquiz.com/h79hfa.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Yuuki wa Doko ni? Kimi no Mune ni!",
+          "artiste": "Aqours to Uranohoshi no Nakama-tachi",
+          "lien": "https://eudist.animemusicquiz.com/d1m3vh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Awaken the power",
+          "artiste": "Saint Aqours Snow",
+          "lien": "https://eudist.animemusicquiz.com/4y0yks.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "CRASH MIND",
+          "artiste": "Saint Snow",
+          "lien": "https://eudist.animemusicquiz.com/faxj5t.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kimi no Kokoro wa Kagayaiteru kai?",
+          "artiste": "Aqours",
+          "lien": "https://eudist.animemusicquiz.com/cks8km.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "MIRACLE WAVE",
+          "artiste": "Aqours",
+          "lien": "https://eudist.animemusicquiz.com/hhyvkn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "MY Mai☆TONIGHT",
+          "artiste": "Aqours",
+          "lien": "https://eudist.animemusicquiz.com/9te9ny.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sora mo Kokoro mo Hareru kara",
+          "artiste": "Aqours",
+          "lien": "https://eudist.animemusicquiz.com/etpfbr.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "WATER BLUE NEW WORLD",
+          "artiste": "Aqours",
+          "lien": "https://eudist.animemusicquiz.com/ya6nio.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "WONDERFUL STORIES",
+          "artiste": "Aqours",
+          "lien": "https://eudist.animemusicquiz.com/em49w2.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Love Live! The School Idol Movie",
       "id": 0,
       "mal_id": 24997,
@@ -23756,17 +23932,17 @@
       "musique": [
         {
           "type": "Opening",
-          "numero": 2,
-          "nom": "caramel ribbon cursetard",
-          "artiste": "Kana Hanazawa・Saori Hayami",
-          "lien": "https://eudist.animemusicquiz.com/h5vezl.webm"
-        },
-        {
-          "type": "Opening",
           "numero": 1,
           "nom": "icecream°",
           "artiste": "Yuka Iguchi・Saori Hayami",
           "lien": "https://eudist.animemusicquiz.com/1vt3z6.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "caramel ribbon cursetard",
+          "artiste": "Kana Hanazawa・Saori Hayami",
+          "lien": "https://eudist.animemusicquiz.com/h5vezl.webm"
         },
         {
           "type": "Opening",
@@ -26015,6 +26191,31 @@
       ],
       "genres": [
           1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Nihon e Youkoso Elf-san.",
+      "id": 0,
+      "mal_id": 57648,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Palette Days",
+          "artiste": "Rico Sasaki",
+          "lien": "https://eudist.animemusicquiz.com/kt25ys.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yummy Yummy",
+          "artiste": "Kaede Higuchi, Kanae",
+          "lien": "https://eudist.animemusicquiz.com/w4przz.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -39060,7 +39261,7 @@
       "nom": "Watashi no Shiawase na Kekkon",
       "id": 1,
       "mal_id": 56701,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -39068,6 +39269,13 @@
           "nom": "Shiawase na Yakusoku.",
           "artiste": "Riria.",
           "lien": "https://eudist.animemusicquiz.com/4ybn01.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tsukikage Okuri",
+          "artiste": "Kashitaro Ito",
+          "lien": "https://eudist.animemusicquiz.com/fti0kv.webm"
         }
       ],
       "genres": [
@@ -39996,6 +40204,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1
+      ]
+    },
+    {
+      "nom": "Zenshu",
+      "id": 0,
+      "mal_id": 58502,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Zen",
+          "artiste": "BAND-MAID",
+          "lien": "https://eudist.animemusicquiz.com/bhziq3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tada, Kimi no Mama de",
+          "artiste": "Sou",
+          "lien": "https://eudist.animemusicquiz.com/y3ysbp.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {

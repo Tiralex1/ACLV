@@ -1,6 +1,6 @@
 {
-  "nb_anime": 955,
-  "nb_musique": 4287,
+  "nb_anime": 959,
+  "nb_musique": 4311,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1811,7 +1811,7 @@
       "nom": "Arifureta Shokugyou de Sekai Saikyou Season 3",
       "id": 0,
       "mal_id": 52995,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -1847,6 +1847,13 @@
           "nom": "Maze of Feelings",
           "artiste": "Void_Chords feat. mimiko & chloe",
           "lien": "https://eudist.animemusicquiz.com/4dojlu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tear It Down",
+          "artiste": "Void_Chords feat. mimiko & chloe",
+          "lien": "https://eudist.animemusicquiz.com/48vi3z.webm"
         },
         {
           "type": "Insert Song",
@@ -14863,6 +14870,66 @@
       ]
     },
     {
+      "nom": "Inu X Boku Secret Service",
+      "id": 0,
+      "mal_id": 11013,
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Nirvana",
+          "artiste": "MUCC",
+          "lien": "https://eudist.animemusicquiz.com/1jnrs6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Rakuen no Photograph",
+          "artiste": "Yuuichi Nakamura",
+          "lien": "https://eudist.animemusicquiz.com/9vww8a.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kimi wa",
+          "artiste": "Rina Hidaka",
+          "lien": "https://eudist.animemusicquiz.com/pxtu6r.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "one way",
+          "artiste": "Takuya Eguchi & Mamoru Miyano",
+          "lien": "https://eudist.animemusicquiz.com/6215mb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "SM Hantei Forum",
+          "artiste": "Tomokazu Sugita",
+          "lien": "https://eudist.animemusicquiz.com/yga4mq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "sweets parade",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://eudist.animemusicquiz.com/6za0py.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Taiyou to Tsuki",
+          "artiste": "Yoshimasa Hosoya & Yoko Hikasa",
+          "lien": "https://eudist.animemusicquiz.com/y6wnp6.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Inuyashiki Last Hero",
       "id": 0,
       "mal_id": 34542,
@@ -21077,6 +21144,151 @@
       ],
       "genres": [
           0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Little Busters!",
+      "id": 0,
+      "mal_id": 13655,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Little Busters! ~TV animation ver.~",
+          "artiste": "Rita",
+          "lien": "https://eudist.animemusicquiz.com/7qpvgz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Alicemagic ~TV animation ver.~",
+          "artiste": "Rita",
+          "lien": "https://eudist.animemusicquiz.com/rg6xey.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Alicemagic",
+          "artiste": "Rita",
+          "lien": "https://eudist.animemusicquiz.com/d31230.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Ame Nochi Hare",
+          "artiste": "Rita",
+          "lien": "https://eudist.animemusicquiz.com/vw37kf.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Little Busters! EX",
+      "id": 0,
+      "mal_id": 20517,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Little Busters! EX",
+          "artiste": "Rita",
+          "lien": "https://eudist.animemusicquiz.com/19ijmn.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Mezameta Asa ni wa Kimi ga Tonari ni",
+          "artiste": "Suzuyu",
+          "lien": "https://eudist.animemusicquiz.com/j274vi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Saya's Song",
+          "artiste": "Lia",
+          "lien": "https://eudist.animemusicquiz.com/wpbxps.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Alicemagic -Rockstar Ver.-",
+          "artiste": "Rita",
+          "lien": "https://eudist.animemusicquiz.com/f8v5ho.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Alicemagic ~TV animation ver.~",
+          "artiste": "Rita",
+          "lien": "https://eudist.animemusicquiz.com/xms3mw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Little Busters! -Ecstasy Short Ver.-",
+          "artiste": "Rita",
+          "lien": "https://eudist.animemusicquiz.com/7vvmmd.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Little Busters! Refrain",
+      "id": 0,
+      "mal_id": 18195,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Boys be Smile",
+          "artiste": "Suzuyu",
+          "lien": "https://eudist.animemusicquiz.com/hahu4q.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimi to no Nakushi Mono",
+          "artiste": "Ayaka Kitazawa",
+          "lien": "https://eudist.animemusicquiz.com/miiro4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Song for friends",
+          "artiste": "Rita",
+          "lien": "https://eudist.animemusicquiz.com/j914vo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Hanabi",
+          "artiste": "Lia",
+          "lien": "https://eudist.animemusicquiz.com/vbbkom.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Little Busters! -Little Jumper Ver.-",
+          "artiste": "Rita",
+          "lien": "https://eudist.animemusicquiz.com/sewcpk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Haruka Kanata",
+          "artiste": "Rita",
+          "lien": "https://eudist.animemusicquiz.com/9643gn.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {

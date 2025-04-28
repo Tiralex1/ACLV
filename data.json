@@ -1,6 +1,6 @@
 {
   "nb_anime": 989,
-  "nb_musique": 4435,
+  "nb_musique": 4436,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -36507,7 +36507,7 @@
       "nom": "Summertime Render",
       "id": 0,
       "mal_id": 47194,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -36536,6 +36536,13 @@
           "nom": "Shitsuren Song Takusan Kiite Naite Bakari no Watashi wa Mou.",
           "artiste": "Riria.",
           "lien": "https://eudist.animemusicquiz.com/jlnj9f.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Shitsuren Song Takusan Kiite Naite Bakari no Watashi wa Mou. (acoustic ver.)",
+          "artiste": "Riria.",
+          "lien": "https://eudist.animemusicquiz.com/q0da06.webm"
         },
         {
           "type": "Insert Song",

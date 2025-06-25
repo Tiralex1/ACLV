@@ -41,6 +41,14 @@
             ]
         },
         {
+            "songName": "Yasashii Kibou",
+            "artist": "Saori Hayami",
+            "types": [
+                "opening 1",
+                "ending 2"
+            ]
+        },
+        {
             "songName": "staple stable",
             "artist": "Chiwa Saito",
             "types": [
@@ -340,7 +348,7 @@
             "songName": "REASON",
             "artist": "Yuzu",
             "types": [
-                "ending 3",
+                "ending 4",
                 "ending 1"
             ]
         },
@@ -348,7 +356,7 @@
             "songName": "Hyouri Ittai",
             "artist": "Yuzu",
             "types": [
-                "ending 5",
+                "ending 6",
                 "ending 1"
             ]
         },

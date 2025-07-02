@@ -1,6 +1,6 @@
 {
   "nb_anime": 1004,
-  "nb_musique": 4518,
+  "nb_musique": 4523,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1539,7 +1539,7 @@
       "nom": "Ansatsu Kyoushitsu",
       "id": 0,
       "mal_id": 24833,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -1554,6 +1554,13 @@
           "nom": "Seishun Satsubatsuron",
           "artiste": "3-nen E-gumi Utatan",
           "lien": "https://eudist.animemusicquiz.com/7kp7ex.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Last Look",
+          "artiste": "Keina Suda",
+          "lien": "https://eudist.animemusicquiz.com/ff9i64wk52viect8.webm"
         },
         {
           "type": "Opening",
@@ -19304,7 +19311,7 @@
       "nom": "Kidou Senshi Gundam GQuuuuuuX",
       "id": 0,
       "mal_id": 60449,
-      "nb_musique": 9,
+      "nb_musique": 12,
       "musique": [
         {
           "type": "Opening",
@@ -19326,6 +19333,27 @@
           "nom": "BEYOND THE TIME ~Möbius no Sora o Koete~",
           "artiste": "TM Network",
           "lien": "https://eudist.animemusicquiz.com/pa3hqyvdmhuufhvs.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Suisou no Machi kara",
+          "artiste": "MIKIMARIA (NOMELON NOLEMON)",
+          "lien": "https://eudist.animemusicquiz.com/4fj7up1iigi7vtoy.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Beginning",
+          "artiste": "Daisuke Inoue",
+          "lien": "https://eudist.animemusicquiz.com/cxevtc0dr42xh3kw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Far Beyond the Stars",
+          "artiste": "Shania Yan",
+          "lien": "https://eudist.animemusicquiz.com/r3jy36ofkc9z90wp.webm"
         },
         {
           "type": "Insert Song",
@@ -35412,21 +35440,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -35434,6 +35455,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [
@@ -37065,7 +37093,7 @@
       "nom": "Summer Pockets",
       "id": 0,
       "mal_id": 50694,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -37080,6 +37108,13 @@
           "nom": "Lasting Moment",
           "artiste": "Konomi Suzuki",
           "lien": "https://eudist.animemusicquiz.com/u655p7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hiyoku no Chou-tachi",
+          "artiste": "Natsumi Takamori",
+          "lien": "https://eudist.animemusicquiz.com/u4a58nr9n3ztsgwt.webm"
         },
         {
           "type": "Insert Song",

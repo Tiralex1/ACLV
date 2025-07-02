@@ -1,6 +1,6 @@
 {
-  "nb_anime": 997,
-  "nb_musique": 4501,
+  "nb_anime": 1004,
+  "nb_musique": 4518,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -12609,6 +12609,38 @@
       ]
     },
     {
+      "nom": "Gotoubun no Hanayome*",
+      "id": 0,
+      "mal_id": 58755,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Gotoubun no Egao",
+          "artiste": "Nakano-ke no Itsutsugo",
+          "lien": "https://eudist.animemusicquiz.com/rfvkpz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Memories",
+          "artiste": "Nakano-ke no Itsutsugo",
+          "lien": "https://eudist.animemusicquiz.com/t8syyf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kagayaki Dashita Watashi-tachi",
+          "artiste": "Nakano-ke no Itsutsugo",
+          "lien": "https://eudist.animemusicquiz.com/i8v8t5.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Gotoubun no Hanayome∽",
       "id": 0,
       "mal_id": 54915,
@@ -18867,6 +18899,31 @@
       ]
     },
     {
+      "nom": "Katainaka no Ossan, Kensei ni Naru",
+      "id": 0,
+      "mal_id": 59452,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "HEROES",
+          "artiste": "Takanori Nishikawa",
+          "lien": "https://eudist.animemusicquiz.com/q67zke.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Alright!!!",
+          "artiste": "FLOW",
+          "lien": "https://eudist.animemusicquiz.com/njyf9s.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Katsute Kami Datta Kemono-tachi e",
       "id": 0,
       "mal_id": 39199,
@@ -19315,6 +19372,52 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kidou Senshi Gundam Movie Trilogy",
+      "id": 0,
+      "mal_id": 1090,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Suna no Juujika",
+          "artiste": "Takajin Yashiki",
+          "lien": "https://eudist.animemusicquiz.com/kgh79k.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ai Senshi",
+          "artiste": "Daisuke Inoue",
+          "lien": "https://eudist.animemusicquiz.com/in0wrm.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Meguriai",
+          "artiste": "Daisuke Inoue",
+          "lien": "https://eudist.animemusicquiz.com/9d62b0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Beginning",
+          "artiste": "Daisuke Inoue",
+          "lien": "https://eudist.animemusicquiz.com/9v7wu2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kaze ni Hitori de",
+          "artiste": "Daisuke Inoue",
+          "lien": "https://eudist.animemusicquiz.com/aqt1kh.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -33834,6 +33937,24 @@
       ]
     },
     {
+      "nom": "Selector Loth WIXOSS",
+      "id": 0,
+      "mal_id": 58816,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "INNER CHILD",
+          "artiste": "Kanon Wakeshima",
+          "lien": "https://eudist.animemusicquiz.com/o1ihca.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+      ]
+    },
+    {
       "nom": "Selector Spread WIXOSS",
       "id": 0,
       "mal_id": 24037,
@@ -35291,21 +35412,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -35313,6 +35427,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [
@@ -37541,6 +37662,31 @@
       ]
     },
     {
+      "nom": "Takopii no Genzai",
+      "id": 0,
+      "mal_id": 60489,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Happy Lucky Chappy",
+          "artiste": "ano",
+          "lien": "https://eudist.animemusicquiz.com/sl69wi0cunx6gf2a.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Glass no Sen",
+          "artiste": "Tele",
+          "lien": "https://eudist.animemusicquiz.com/idysx44sjqtixyfk.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Takt Op.Destiny",
       "id": 0,
       "mal_id": 48556,
@@ -38553,6 +38699,31 @@
       ],
       "genres": [
           0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Teogonia",
+      "id": 0,
+      "mal_id": 58614,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Shoudou",
+          "artiste": "Emi Noda",
+          "lien": "https://eudist.animemusicquiz.com/47h0t3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tsuki to Boku to Atarashii Jibun",
+          "artiste": "STU48",
+          "lien": "https://eudist.animemusicquiz.com/e4cqcc.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -42000,6 +42171,31 @@
           "nom": "Kono Basho de.",
           "artiste": "Okunai Katsudou Circle (Asaka)",
           "lien": "https://eudist.animemusicquiz.com/yif5sw.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Yuru Camp△ Season 3",
+      "id": 0,
+      "mal_id": 53410,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Laid-Back Journey",
+          "artiste": "Kiminone",
+          "lien": "https://eudist.animemusicquiz.com/79s4wn.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "So Precious",
+          "artiste": "Asaka",
+          "lien": "https://eudist.animemusicquiz.com/ot6lvc.webm"
         }
       ],
       "genres": [

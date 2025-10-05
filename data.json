@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1004,
-  "nb_musique": 4523,
+  "nb_anime": 1008,
+  "nb_musique": 4539,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1482,7 +1482,7 @@
           "numero": 1,
           "nom": "Dear Love",
           "artiste": "REMEDIOS",
-          "lien": "https://eudist.animemusicquiz.com/zqturs.webm"
+          "lien": "https://eudist.animemusicquiz.com/zfyarq.webm"
         },
         {
           "type": "Ending",
@@ -2969,7 +2969,7 @@
       "nom": "Binbougami ga!",
       "id": 0,
       "mal_id": 13535,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -2984,6 +2984,13 @@
           "nom": "Koi Boudou",
           "artiste": "HAPPY BIRTHDAY",
           "lien": "https://eudist.animemusicquiz.com/qwsins.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Service-kai no Uta",
+          "artiste": "Hiro Shimono & Yoshihisa Kawahara",
+          "lien": "https://eudist.animemusicquiz.com/byb7dk.webm"
         }
       ],
       "genres": [
@@ -6327,6 +6334,45 @@
       ]
     },
     {
+      "nom": "Dandadan",
+      "id": 1,
+      "mal_id": 60543,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kakumei Douchuu",
+          "artiste": "AiNA THE END",
+          "lien": "https://eudist.animemusicquiz.com/qh8wmvitszbs1a03.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Doukashiteru",
+          "artiste": "WurtS",
+          "lien": "https://eudist.animemusicquiz.com/b91w4bthtgceiegk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Chiisana Koi",
+          "artiste": "Pink Pickles",
+          "lien": "https://eudist.animemusicquiz.com/wiyl3z.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hunting Soul",
+          "artiste": "Kishou Taniyama",
+          "lien": "https://eudist.animemusicquiz.com/d9ce9cykcx212wds.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
       "id": 0,
       "mal_id": 34103,
@@ -7632,7 +7678,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Hanareteite mo",
+          "nom": "Hanarete Itemo",
           "artiste": "AiM",
           "lien": "https://eudist.animemusicquiz.com/rkly2i.webm"
         },
@@ -7653,6 +7699,24 @@
       ],
       "genres": [
           1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Digimon Beatbreak",
+      "id": 0,
+      "mal_id": 61269,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "beat up",
+          "artiste": "Ai Tomioka",
+          "lien": "https://eudist.animemusicquiz.com/3jtt2s0q2z97jm8w.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -7759,7 +7823,7 @@
         {
           "type": "Ending",
           "numero": 2,
-          "nom": "Days-Aijou to Nichijou-",
+          "nom": "Days -Aijou to Nichijou-",
           "artiste": "AiM",
           "lien": "https://eudist.animemusicquiz.com/pmznxt.webm"
         },
@@ -11438,6 +11502,52 @@
       ]
     },
     {
+      "nom": "Gekijouban Selector Destructed WIXOSS",
+      "id": 0,
+      "mal_id": 31280,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Love your enemies",
+          "artiste": "Kanon Wakeshima",
+          "lien": "https://eudist.animemusicquiz.com/8zr9s2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ever After",
+          "artiste": "Cyua",
+          "lien": "https://eudist.animemusicquiz.com/qk5k1b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "I'm all alone",
+          "artiste": "Cyua",
+          "lien": "https://eudist.animemusicquiz.com/ehlcx9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "I'm all alone ~ replay",
+          "artiste": "Cyua & SUIMI",
+          "lien": "https://eudist.animemusicquiz.com/i03e2m.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "LASTSCENE ~ everything in it's right place",
+          "artiste": "Cyua & SUIMI",
+          "lien": "https://eudist.animemusicquiz.com/djvhkl.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Gekijouban Spy × Family: Code: White",
       "id": 0,
       "mal_id": 53888,
@@ -11773,7 +11883,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "La La Yuuki no Uta",
-          "artiste": "Arisa Komiya, Ai Furihata, Anju Inami, Kanako Takatsuki, Shuka Saitou, Nanaka Suwa, Aika Kobayashi, Rikako Aida, Aina Suzuki",
+          "artiste": "Aika Kobayashi, Kanako Takatsuki, Arisa Komiya, Ai Furihata, Anju Inami, Shuka Saitou, Nanaka Suwa, Rikako Aida, Aina Suzuki",
           "lien": "https://eudist.animemusicquiz.com/sa7bvm.webm"
         },
         {
@@ -12676,7 +12786,7 @@
       "nom": "Granblue Fantasy the Animation",
       "id": 0,
       "mal_id": 31629,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -12698,6 +12808,13 @@
           "nom": "Defend Order -Kousei Bougyo-",
           "artiste": "Yasuo Sasai",
           "lien": "https://eudist.animemusicquiz.com/ipzghh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shinnaru Kaze",
+          "artiste": "Yu Uchida, Lisa Ooki, Saeko Suzuki",
+          "lien": "https://eudist.animemusicquiz.com/vt9vop9m80cyvftp.webm"
         }
       ],
       "genres": [
@@ -14415,6 +14532,45 @@
           "nom": "Taishou a",
           "artiste": "anNina",
           "lien": "https://eudist.animemusicquiz.com/ryrkfk.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1
+      ]
+    },
+    {
+      "nom": "Hikaru ga Shinda Natsu",
+      "id": 0,
+      "mal_id": 58913,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Saikai",
+          "artiste": "Vaundy",
+          "lien": "https://eudist.animemusicquiz.com/vyn2ng5tspz1rgqu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Aitakatta",
+          "artiste": "AKB48",
+          "lien": "https://eudist.animemusicquiz.com/k86s3xaahqiuowe0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Anata wa Kaibutsu",
+          "artiste": "TOOBOE",
+          "lien": "https://eudist.animemusicquiz.com/cdb9ube3ajcjscdd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Hibi no Kage",
+          "artiste": "Chiaki Kobayashi・Shuichiro Umeda",
+          "lien": "https://eudist.animemusicquiz.com/hwxll6.webm"
         }
       ],
       "genres": [
@@ -19594,7 +19750,7 @@
           "numero": 2,
           "nom": "Shinsekai Koukyougaku",
           "artiste": "Sayonara Ponytail",
-          "lien": "https://eudist.animemusicquiz.com/g15b6g.webm"
+          "lien": "https://eudist.animemusicquiz.com/9ef076.webm"
         },
         {
           "type": "Insert Song",
@@ -20451,7 +20607,7 @@
         }
       ],
       "genres": [
-          0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+          0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -21000,7 +21156,7 @@
           "type": "Ending",
           "numero": 1,
           "nom": "Ouchi ni Kaeritai",
-          "artiste": "Ai Kayano, Rie Takahashi, Sora Amamiya",
+          "artiste": "Sora Amamiya, Rie Takahashi, Ai Kayano",
           "lien": "https://eudist.animemusicquiz.com/okzp64.webm"
         }
       ],
@@ -21030,7 +21186,7 @@
         }
       ],
       "genres": [
-          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -21112,7 +21268,7 @@
       ]
     },
     {
-      "nom": "Koro Sensei Quest!",
+      "nom": "Koro-sensei Quest!",
       "id": 0,
       "mal_id": 34389,
       "nb_musique": 2,
@@ -23513,7 +23669,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Transcendance and Hanezeve",
-          "artiste": "Takeshi Saito",
+          "artiste": "Elspeth Bawden & Takeshi Saito",
           "lien": "https://eudist.animemusicquiz.com/huaqk2.webm"
         }
       ],
@@ -29858,7 +30014,7 @@
           "numero": 1,
           "nom": "Univer Page",
           "artiste": "Suzuko Mimori",
-          "lien": "https://openings.moe/video/OutbreakCompany-OP01-NCBD.webm"
+          "lien": "https://eudist.animemusicquiz.com/mcy17w.webm"
         },
         {
           "type": "Ending",
@@ -31488,14 +31644,14 @@
         {
           "type": "Ending",
           "numero": 7,
-          "nom": "Nakayo Peas (Katsushika Shusshin MIX)",
+          "nom": "Nakayo Peas (KATSUSHIKA SHUSSHIN MIX)",
           "artiste": "Manaka Iwami & Ikumi Hasegawa",
           "lien": "https://eudist.animemusicquiz.com/8msktt.webm"
         },
         {
           "type": "Ending",
           "numero": 8,
-          "nom": "Nakayo Peas (Katsushika Shusshin MIX)",
+          "nom": "Nakayo Peas (KATSUSHIKA SHUSSHIN MIX)",
           "artiste": "Jun Oosuka & Hiroki Takahashi",
           "lien": "https://eudist.animemusicquiz.com/r6y15u.webm"
         },
@@ -35440,21 +35596,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -35462,6 +35611,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1010,
-  "nb_musique": 4543,
+  "nb_anime": 1013,
+  "nb_musique": 4552,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -12410,14 +12410,14 @@
           "numero": 1,
           "nom": "No Poi!",
           "artiste": "Petit Rabbit's",
-          "lien": "https://eudist.animemusicquiz.com/3yxdd5.webm"
+          "lien": "https://eudist.animemusicquiz.com/fr9xvq.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Tokimeki Poporon♪",
           "artiste": "Chimame-tai",
-          "lien": "https://eudist.animemusicquiz.com/qu1lpw.webm"
+          "lien": "https://eudist.animemusicquiz.com/whswue.webm"
         },
         {
           "type": "Ending",
@@ -12933,6 +12933,70 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Grand Blue",
+      "id": 0,
+      "mal_id": 37105,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Grand Blue",
+          "artiste": "Shonan no Kaze",
+          "lien": "https://eudist.animemusicquiz.com/3jmpf3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Konpeki no al Fine ~Ni Kenme ni Karaoke ni Haitta Ore-tachi no Tension Super MAXver.~",
+          "artiste": "Izu no Kaze",
+          "lien": "https://eudist.animemusicquiz.com/32hhsn.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Konpeki no al Fine ~Kaya Mizuki ver.~",
+          "artiste": "Nana Mizuki",
+          "lien": "https://eudist.animemusicquiz.com/anwzun.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0
+      ]
+    },
+    {
+      "nom": "Grand Blue Season 2",
+      "id": 0,
+      "mal_id": 59986,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Seishun Towa",
+          "artiste": "Shonan no Kaze feat. Atarashii Gakkou no Leaders",
+          "lien": "https://eudist.animemusicquiz.com/iyjxlpm35a8br16c.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hadaka de Dotsukiai",
+          "artiste": "SEAMO feat. May'n",
+          "lien": "https://eudist.animemusicquiz.com/cni9xnkfcxxn5mx4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Chikyuu Metsubou",
+          "artiste": "ASOBI Doumei",
+          "lien": "https://eudist.animemusicquiz.com/gs9z9figie4aivxa.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0
       ]
     },
     {
@@ -15216,7 +15280,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Hitori",
-          "artiste": "Gospellers",
+          "artiste": "Kouhei Tanaka",
           "lien": "https://eudist.animemusicquiz.com/ouqa1g.webm"
         },
         {
@@ -15807,7 +15871,7 @@
       ]
     },
     {
-      "nom": "Inu X Boku Secret Service",
+      "nom": "Inu × Boku SS",
       "id": 0,
       "mal_id": 11013,
       "nb_musique": 7,
@@ -17754,14 +17818,14 @@
           "numero": 1,
           "nom": "Yokan",
           "artiste": "heidi.",
-          "lien": "https://eudist.animemusicquiz.com/aoxmbd.webm"
+          "lien": "https://eudist.animemusicquiz.com/kje0cy.webm"
         },
         {
           "type": "Ending",
           "numero": 2,
           "nom": "∞ Loop",
           "artiste": "heidi.",
-          "lien": "https://eudist.animemusicquiz.com/rcyjdt.webm"
+          "lien": "https://eudist.animemusicquiz.com/2ney47.webm"
         },
         {
           "type": "Insert Song",
@@ -17786,7 +17850,7 @@
         }
       ],
       "genres": [
-          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -18813,6 +18877,38 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Kaoru Hana wa Rin to Saku",
+      "id": 0,
+      "mal_id": 59845,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Manazashi wa Hikari",
+          "artiste": "Tatsuya Kitani",
+          "lien": "https://eudist.animemusicquiz.com/1n91xr7aot9ptg39.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hare no Hi ni",
+          "artiste": "UshioReira",
+          "lien": "https://eudist.animemusicquiz.com/twaak6l68polyevy.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Hitohira",
+          "artiste": "Hitomi Miyahara",
+          "lien": "https://eudist.animemusicquiz.com/thng7x4ttp1ns4df.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -35646,21 +35742,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -35668,6 +35757,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [

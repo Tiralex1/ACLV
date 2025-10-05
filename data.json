@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1008,
-  "nb_musique": 4539,
+  "nb_anime": 1010,
+  "nb_musique": 4543,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1401,7 +1401,7 @@
           "numero": 1,
           "nom": "Brave Song",
           "artiste": "Aoi Tada",
-          "lien": "https://eudist.animemusicquiz.com/p3uhf5.webm"
+          "lien": "https://eudist.animemusicquiz.com/2kfutv.webm"
         },
         {
           "type": "Ending",
@@ -1684,7 +1684,7 @@
         }
       ],
       "genres": [
-          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -5764,7 +5764,7 @@
         }
       ],
       "genres": [
-          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -5945,6 +5945,24 @@
         }
       ],
       "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Clannad",
+      "id": 1,
+      "mal_id": 4059,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ana",
+          "artiste": "Lia",
+          "lien": "https://eudist.animemusicquiz.com/o3arq7.webm"
+        }
+      ],
+      "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
@@ -6019,46 +6037,32 @@
         }
       ],
       "genres": [
-          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0
       ]
     },
     {
-      "nom": "Clannad: The Motion Picture",
-      "id": 0,
-      "mal_id": 1723,
-      "nb_musique": 4,
+      "nom": "Clannad After Story",
+      "id": 1,
+      "mal_id": 6351,
+      "nb_musique": 2,
       "musique": [
         {
-          "type": "Opening",
+          "type": "Ending",
           "numero": 1,
-          "nom": "Mag Mell",
+          "nom": "Ana",
+          "artiste": "Lia",
+          "lien": "https://eudist.animemusicquiz.com/dliivh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sakura Jokyoku",
           "artiste": "riya",
-          "lien": "https://eudist.animemusicquiz.com/bkcbdj.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Chiisana Tenohira",
-          "artiste": "eufonius",
-          "lien": "https://eudist.animemusicquiz.com/e2ybv3.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Marumero ~fildychrom~",
-          "artiste": "eufonius",
-          "lien": "https://eudist.animemusicquiz.com/wenl1z.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 3,
-          "nom": "Dango Dango Dango",
-          "artiste": "Fuzoku Hikarizaka Koutougakkou Zaikousei",
-          "lien": "https://eudist.animemusicquiz.com/bbquzc.webm"
+          "lien": "https://eudist.animemusicquiz.com/amh16e.webm"
         }
       ],
       "genres": [
-          0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -6953,7 +6957,7 @@
           "numero": 0,
           "nom": "Seirei",
           "artiste": "Mao Hatakeyama",
-          "lien": "https://eudist.animemusicquiz.com/3bthq6.webm"
+          "lien": "https://eudist.animemusicquiz.com/otr89j.webm"
         },
         {
           "type": "Insert Song",
@@ -6964,7 +6968,7 @@
         }
       ],
       "genres": [
-          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
+          1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -7048,7 +7052,7 @@
           "numero": 0,
           "nom": "Seirei",
           "artiste": "Mao Hatakeyama",
-          "lien": "https://eudist.animemusicquiz.com/nfess3.webm"
+          "lien": "https://eudist.animemusicquiz.com/uqdubb.webm"
         }
       ],
       "genres": [
@@ -7158,7 +7162,7 @@
         }
       ],
       "genres": [
-          0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0
+          1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -7350,7 +7354,7 @@
       "nom": "Death Note",
       "id": 0,
       "mal_id": 1535,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -7383,9 +7387,16 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Death Note Theme",
+          "artiste": "Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/bhgzjtg0juy3kzxc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Misa no Uta",
           "artiste": "Aya Hirano",
-          "lien": "https://eudist.animemusicquiz.com/mrqddk.webm"
+          "lien": "https://eudist.animemusicquiz.com/88fzb0.webm"
         }
       ],
       "genres": [
@@ -10547,14 +10558,14 @@
           "type": "Opening",
           "numero": 1,
           "nom": "Gabriel DropKick",
-          "artiste": "Kana Hanazawa, Miyu Tomita, Naomi Oozora, Saori Oonishi",
+          "artiste": "Miyu Tomita, Saori Oonishi, Naomi Oozora, Kana Hanazawa",
           "lien": "https://eudist.animemusicquiz.com/34x4va.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Hallelujah☆Essaim",
-          "artiste": "Kana Hanazawa, Miyu Tomita, Naomi Oozora, Saori Oonishi",
+          "artiste": "Miyu Tomita, Saori Oonishi, Naomi Oozora, Kana Hanazawa",
           "lien": "https://eudist.animemusicquiz.com/rkvs55.webm"
         },
         {
@@ -11108,6 +11119,45 @@
       ]
     },
     {
+      "nom": "Gekijouban Clannad",
+      "id": 0,
+      "mal_id": 1723,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Mag Mell",
+          "artiste": "riya",
+          "lien": "https://eudist.animemusicquiz.com/bkcbdj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Chiisana Tenohira",
+          "artiste": "eufonius",
+          "lien": "https://eudist.animemusicquiz.com/e2ybv3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Marumero ~fildychrom~",
+          "artiste": "eufonius",
+          "lien": "https://eudist.animemusicquiz.com/wenl1z.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Dango Dango Dango",
+          "artiste": "Fuzoku Hikarizaka Koutougakkou Zaikousei",
+          "lien": "https://eudist.animemusicquiz.com/bbquzc.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Gekijouban Date A Live: Mayuri Judgement",
       "id": 0,
       "mal_id": 24655,
@@ -11136,7 +11186,7 @@
         }
       ],
       "genres": [
-          1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0
+          1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -35596,21 +35646,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -35618,6 +35661,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [

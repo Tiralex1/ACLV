@@ -29689,165 +29689,6 @@
       ]
     },
     {
-      "nom": "Oregairu",
-      "id": 0,
-      "mal_id": 14813,
-      "nb_musique": 5,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Yukitoki",
-          "artiste": "Nagi Yanagi",
-          "lien": "https://eudist.animemusicquiz.com/hwlhc4.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Hello Alone",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://eudist.animemusicquiz.com/iu1xoc.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Hello Alone -Yui Ballade-",
-          "artiste": "Nao Touyama",
-          "lien": "https://eudist.animemusicquiz.com/8p0ugu.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 3,
-          "nom": "Hello Alone -Band arrange-",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://eudist.animemusicquiz.com/6f13pd.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Bitter Bitter Sweet",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://eudist.animemusicquiz.com/oiu2hn.webm"
-        }
-      ],
-      "genres": [
-          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
-      ]
-    },
-    {
-      "nom": "Oregairu Kan",
-      "id": 0,
-      "mal_id": 39547,
-      "nb_musique": 6,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Megumi no Ame",
-          "artiste": "Nagi Yanagi",
-          "lien": "https://eudist.animemusicquiz.com/zzesvj.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Diamond no Jundo",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://eudist.animemusicquiz.com/2gxey4.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Diamond no Jundo ~Yui Ballade~",
-          "artiste": "Nao Touyama",
-          "lien": "https://eudist.animemusicquiz.com/fms1du.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 3,
-          "nom": "Diamond no Jundo ~Yukino Ballade~",
-          "artiste": "Saori Hayami",
-          "lien": "https://eudist.animemusicquiz.com/kq5s1y.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 4,
-          "nom": "Yukitoki",
-          "artiste": "Nagi Yanagi",
-          "lien": "https://eudist.animemusicquiz.com/r4f944.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Bitter Bitter Sweet",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://eudist.animemusicquiz.com/o30ddi.webm"
-        }
-      ],
-      "genres": [
-          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
-      ]
-    },
-    {
-      "nom": "Oregairu Zoku",
-      "id": 0,
-      "mal_id": 23847,
-      "nb_musique": 7,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Harumodoki",
-          "artiste": "Nagi Yanagi",
-          "lien": "https://eudist.animemusicquiz.com/c35rzu.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Everyday World",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://eudist.animemusicquiz.com/qrzm8i.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Everyday World -Ballade Arrange-Yukino Solo Ver.",
-          "artiste": "Saori Hayami",
-          "lien": "https://eudist.animemusicquiz.com/8yj5ml.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 3,
-          "nom": "Everyday World -Ballade Arrange-Yui Solo Ver.",
-          "artiste": "Nao Touyama",
-          "lien": "https://eudist.animemusicquiz.com/6lca9i.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Bitter Bitter Sweet",
-          "artiste": "Saori Hayami & Nao Touyama",
-          "lien": "https://eudist.animemusicquiz.com/8vyz5n.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Hello Alone -Yui Ballade-",
-          "artiste": "Nao Touyama",
-          "lien": "https://eudist.animemusicquiz.com/6vev7j.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Yukitoki",
-          "artiste": "Nagi Yanagi",
-          "lien": "https://eudist.animemusicquiz.com/ax756s.webm"
-        }
-      ],
-      "genres": [
-          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
-      ]
-    },
-    {
       "nom": "Orient",
       "id": 0,
       "mal_id": 45560,
@@ -35742,21 +35583,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -35764,6 +35598,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [
@@ -41814,14 +41655,14 @@
           "numero": 1,
           "nom": "Sudachi no Uta",
           "artiste": "Anemoneria",
-          "lien": "https://eudist.animemusicquiz.com/bdnr0h.webm?"
+          "lien": "https://eudist.animemusicquiz.com/bdnr0h.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Life is Cider",
           "artiste": "Anemoneria",
-          "lien": "https://eudist.animemusicquiz.com/vy9c3f.webm?"
+          "lien": "https://eudist.animemusicquiz.com/vy9c3f.webm"
         },
         {
           "type": "Insert Song",
@@ -41883,6 +41724,165 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+      "id": 0,
+      "mal_id": 14813,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Yukitoki",
+          "artiste": "Nagi Yanagi",
+          "lien": "https://eudist.animemusicquiz.com/hwlhc4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hello Alone",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/iu1xoc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Hello Alone -Yui Ballade-",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/8p0ugu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Hello Alone -Band arrange-",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/6f13pd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bitter Bitter Sweet",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/oiu2hn.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Yahari Ore no Seishun Love Come wa Machigatteiru. Kan",
+      "id": 0,
+      "mal_id": 39547,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Megumi no Ame",
+          "artiste": "Nagi Yanagi",
+          "lien": "https://eudist.animemusicquiz.com/zzesvj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Diamond no Jundo",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/2gxey4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Diamond no Jundo ~Yui Ballade~",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/fms1du.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Diamond no Jundo ~Yukino Ballade~",
+          "artiste": "Saori Hayami",
+          "lien": "https://eudist.animemusicquiz.com/kq5s1y.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Yukitoki",
+          "artiste": "Nagi Yanagi",
+          "lien": "https://eudist.animemusicquiz.com/r4f944.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bitter Bitter Sweet",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/o30ddi.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku",
+      "id": 0,
+      "mal_id": 23847,
+      "nb_musique": 7,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Harumodoki",
+          "artiste": "Nagi Yanagi",
+          "lien": "https://eudist.animemusicquiz.com/c35rzu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Everyday World",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/qrzm8i.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Everyday World -Ballade Arrange-Yukino Solo Ver.",
+          "artiste": "Saori Hayami",
+          "lien": "https://eudist.animemusicquiz.com/8yj5ml.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Everyday World -Ballade Arrange-Yui Solo Ver.",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/6lca9i.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bitter Bitter Sweet",
+          "artiste": "Saori Hayami & Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/8vyz5n.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hello Alone -Yui Ballade-",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/6vev7j.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Yukitoki",
+          "artiste": "Nagi Yanagi",
+          "lien": "https://eudist.animemusicquiz.com/ax756s.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {

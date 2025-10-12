@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1033,
-  "nb_musique": 4642,
+  "nb_anime": 1035,
+  "nb_musique": 4646,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -28702,31 +28702,6 @@
       ]
     },
     {
-      "nom": "Noukin",
-      "id": 0,
-      "mal_id": 37393,
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Smile Skill = Suki Skill",
-          "artiste": "Akaki Chikai",
-          "lien": "https://eudist.animemusicquiz.com/b71imq.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Genzai↑Banzai↑",
-          "artiste": "Azumi Waki",
-          "lien": "https://eudist.animemusicquiz.com/1ypaot.webm"
-        }
-      ],
-      "genres": [
-          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-      ]
-    },
-    {
       "nom": "Noumin Kanren no Skill Bakka Agetetara Nazeka Tsuyoku Natta.",
       "id": 0,
       "mal_id": 51128,
@@ -35787,7 +35762,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Sagashi Mono",
+          "nom": "Sagashimono",
           "artiste": "Chiai Fujikawa",
           "lien": "https://eudist.animemusicquiz.com/aazmsm.webm"
         }
@@ -36132,21 +36107,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -36154,6 +36122,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [
@@ -36674,7 +36649,7 @@
       ]
     },
     {
-      "nom": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranain desu ga.",
+      "nom": "Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranain desu ga.",
       "id": 0,
       "mal_id": 53730,
       "nb_musique": 2,
@@ -39108,7 +39083,7 @@
         }
       ],
       "genres": [
-          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+          1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -39162,6 +39137,31 @@
       ]
     },
     {
+      "nom": "Tensei Shitara Dainana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu 2nd Season",
+      "id": 0,
+      "mal_id": 59095,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "CALLING†",
+          "artiste": "Kaede Higuchi",
+          "lien": "https://eudist.animemusicquiz.com/1a85oa7372ynvlpn.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Meteor",
+          "artiste": "Nako Misaki",
+          "lien": "https://eudist.animemusicquiz.com/bfsk9berysjs0f9b.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Tensei shitara Dainana Ouji Datta node, Kimamani Majutsu o Kiwamemasu",
       "id": 0,
       "mal_id": 53516,
@@ -39183,7 +39183,7 @@
         }
       ],
       "genres": [
-          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -40117,7 +40117,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Wanderers",
-          "artiste": "LUSCHKA",
+          "artiste": "Luschka",
           "lien": "https://eudist.animemusicquiz.com/56jm5b.webm"
         }
       ],
@@ -40149,7 +40149,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Invincible",
-          "artiste": "yosh",
+          "artiste": "Yosh",
           "lien": "https://eudist.animemusicquiz.com/plwqnx.webm"
         },
         {
@@ -40893,7 +40893,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Ah Jinsei ni Namida Ari",
+          "nom": "Aa Jinsei ni Namida Ari",
           "artiste": "Natsuki Hanae",
           "lien": "https://eudist.animemusicquiz.com/uiajjs.webm"
         },
@@ -40907,7 +40907,7 @@
         {
           "type": "Ending",
           "numero": 3,
-          "nom": "Ah Jinsei ni Namida Ari",
+          "nom": "Aa Jinsei ni Namida Ari",
           "artiste": "Ayane Sakura & Akari Kitou",
           "lien": "https://eudist.animemusicquiz.com/ynljr2.webm"
         }
@@ -40939,7 +40939,7 @@
         {
           "type": "Ending",
           "numero": 1,
-          "nom": "Ah Jinsei ni Namida Ari",
+          "nom": "Aa Jinsei ni Namida Ari",
           "artiste": "Natsuki Hanae & Kenjiro Tsuda",
           "lien": "https://eudist.animemusicquiz.com/xn6mn3.webm"
         },
@@ -40960,7 +40960,7 @@
         {
           "type": "Ending",
           "numero": 4,
-          "nom": "Ah Jinsei ni Namida Ari",
+          "nom": "Aa Jinsei ni Namida Ari",
           "artiste": "Ayane Sakura & Akari Kitou",
           "lien": "https://eudist.animemusicquiz.com/7z91l0.webm"
         }
@@ -41049,6 +41049,31 @@
       ],
       "genres": [
           0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Tsuyokute New Saga",
+      "id": 0,
+      "mal_id": 53397,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Enja",
+          "artiste": "4s4ki",
+          "lien": "https://eudist.animemusicquiz.com/mlu1nf8c1l1tcdry.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "her",
+          "artiste": "Mahiru Coda",
+          "lien": "https://eudist.animemusicquiz.com/1j0bmwxtnsrdy3tw.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -42240,6 +42265,31 @@
       ]
     },
     {
+      "nom": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
+      "id": 0,
+      "mal_id": 37393,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Smile Skill = Suki Skill",
+          "artiste": "Akaki Chikai",
+          "lien": "https://eudist.animemusicquiz.com/b71imq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Genzai↑Banzai↑",
+          "artiste": "Azumi Waki",
+          "lien": "https://eudist.animemusicquiz.com/1ypaot.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Wind Breaker",
       "id": 0,
       "mal_id": 54900,
@@ -42810,7 +42860,7 @@
           "numero": 2,
           "nom": "Kuchizuke Diamond",
           "artiste": "WEAVER",
-          "lien": "https://eudist.animemusicquiz.com/cn4qdl.webm?"
+          "lien": "https://eudist.animemusicquiz.com/cn4qdl.webm"
         },
         {
           "type": "Ending",
@@ -42824,7 +42874,7 @@
           "numero": 2,
           "nom": "CANDY MAGIC",
           "artiste": "MimimemeMIMI",
-          "lien": "https://eudist.animemusicquiz.com/wwbobo.webm?"
+          "lien": "https://eudist.animemusicquiz.com/wwbobo.webm"
         },
         {
           "type": "Insert Song",

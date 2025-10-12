@@ -1,6 +1,6 @@
 {
   "nb_anime": 1031,
-  "nb_musique": 4637,
+  "nb_musique": 4638,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1035,7 +1035,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Jaegers",
-          "artiste": "TAKUMI iwasky",
+          "artiste": "Takumi Iwasaki",
           "lien": "https://eudist.animemusicquiz.com/p8i57r.webm"
         },
         {
@@ -1082,7 +1082,7 @@
           "numero": 2,
           "nom": "Akatsuki",
           "artiste": "Akiko Shikata",
-          "lien": "https://eudist.animemusicquiz.com/vqkgdffuxf0on25z.webm"
+          "lien": "https://eudist.animemusicquiz.com/rukz86ave6kvphlx.webm"
         }
       ],
       "genres": [
@@ -1249,7 +1249,7 @@
       ]
     },
     {
-      "nom": "Akuyaku Reijou Nanode Last Boss o Katte Mimashita",
+      "nom": "Akuyaku Reijou nanode Last Boss o Katte Mimashita",
       "id": 0,
       "mal_id": 49979,
       "nb_musique": 2,
@@ -1726,7 +1726,7 @@
           "numero": 2,
           "nom": "Trailblazer",
           "artiste": "Nobuhiko Okamoto",
-          "lien": "https://eudist.animemusicquiz.com/3ffrkh.webm"
+          "lien": "https://eudist.animemusicquiz.com/gchatz.webm"
         },
         {
           "type": "Ending",
@@ -3714,7 +3714,7 @@
         }
       ],
       "genres": [
-          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+          1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -6569,88 +6569,6 @@
       ]
     },
     {
-      "nom": "DanMachi",
-      "id": 0,
-      "mal_id": 28121,
-      "nb_musique": 3,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Hey World",
-          "artiste": "Yuka Iguchi",
-          "lien": "https://eudist.animemusicquiz.com/8tp020.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "RIGHT LIGHT RISE",
-          "artiste": "Kanon Wakeshima",
-          "lien": "https://eudist.animemusicquiz.com/az60a5.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "REALIZE ~Hajimari no Toki~",
-          "artiste": "Maaya Uchida",
-          "lien": "https://eudist.animemusicquiz.com/jpmrgk.webm"
-        }
-      ],
-      "genres": [
-          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
-      ]
-    },
-    {
-      "nom": "DanMachi",
-      "id": 1,
-      "mal_id": 32801,
-      "nb_musique": 1,
-      "musique": [
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Kimi to Boku no 1-nichi",
-          "artiste": "Inori Minase",
-          "lien": "https://eudist.animemusicquiz.com/qr4ueg.webm"
-        }
-      ],
-      "genres": [
-          0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
-      ]
-    },
-    {
-      "nom": "DanMachi II",
-      "id": 0,
-      "mal_id": 37347,
-      "nb_musique": 3,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "HELLO to DREAM",
-          "artiste": "Yuka Iguchi",
-          "lien": "https://eudist.animemusicquiz.com/8p9082.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Sasayaka na Shukusai",
-          "artiste": "sora tob sakana",
-          "lien": "https://eudist.animemusicquiz.com/i5inn8.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Tsuki no Shirabe",
-          "artiste": "Haruka Chisuga",
-          "lien": "https://eudist.animemusicquiz.com/m5632h.webm"
-        }
-      ],
-      "genres": [
-          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
-      ]
-    },
-    {
       "nom": "Dareka no Manazashi",
       "id": 0,
       "mal_id": 17121,
@@ -8391,24 +8309,6 @@
       ]
     },
     {
-      "nom": "Dr. Stone Special Episode: Ryusui",
-      "id": 0,
-      "mal_id": 50612,
-      "nb_musique": 1,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Good Morning [New] World!",
-          "artiste": "BURNOUT SYNDROMES",
-          "lien": "https://eudist.animemusicquiz.com/84pq68.webm"
-        }
-      ],
-      "genres": [
-          1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
-      ]
-    },
-    {
       "nom": "Dr. Stone: New World",
       "id": 0,
       "mal_id": 48549,
@@ -8452,6 +8352,24 @@
           "nom": "Suki ni Shina yo",
           "artiste": "Anly",
           "lien": "https://eudist.animemusicquiz.com/gdi1p1.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Dr. Stone: Ryuusui",
+      "id": 0,
+      "mal_id": 50612,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Good Morning [New] World!",
+          "artiste": "BURNOUT SYNDROMES",
+          "lien": "https://eudist.animemusicquiz.com/84pq68.webm"
         }
       ],
       "genres": [
@@ -8950,6 +8868,95 @@
       ],
       "genres": [
           0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka",
+      "id": 0,
+      "mal_id": 28121,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hey World",
+          "artiste": "Yuka Iguchi",
+          "lien": "https://eudist.animemusicquiz.com/8tp020.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "RIGHT LIGHT RISE",
+          "artiste": "Kanon Wakeshima",
+          "lien": "https://eudist.animemusicquiz.com/az60a5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "REALIZE ~Hajimari no Toki~",
+          "artiste": "Maaya Uchida",
+          "lien": "https://eudist.animemusicquiz.com/jpmrgk.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka",
+      "id": 1,
+      "mal_id": 32801,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hey World",
+          "artiste": "Yuka Iguchi",
+          "lien": "https://eudist.animemusicquiz.com/8tp020.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimi to Boku no 1-nichi",
+          "artiste": "Inori Minase",
+          "lien": "https://eudist.animemusicquiz.com/qr4ueg.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka II",
+      "id": 0,
+      "mal_id": 37347,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "HELLO to DREAM",
+          "artiste": "Yuka Iguchi",
+          "lien": "https://eudist.animemusicquiz.com/8p9082.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sasayaka na Shukusai",
+          "artiste": "sora tob sakana",
+          "lien": "https://eudist.animemusicquiz.com/i5inn8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tsuki no Shirabe",
+          "artiste": "Haruka Chisuga",
+          "lien": "https://eudist.animemusicquiz.com/m5632h.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -11616,6 +11623,24 @@
       ]
     },
     {
+      "nom": "Gekijouban Overlord: Fushisha no Ou",
+      "id": 0,
+      "mal_id": 34161,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Crazy Scary Holy Fantasy",
+          "artiste": "MYTH & ROID",
+          "lien": "https://eudist.animemusicquiz.com/b26irx.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Gekijouban Overlord: Sei Oukoku-hen",
       "id": 0,
       "mal_id": 48896,
@@ -11627,6 +11652,24 @@
           "nom": "WHEELER-DEALER",
           "artiste": "OxT",
           "lien": "https://eudist.animemusicquiz.com/ycaxgk.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Gekijouban Overlord: Shikkoku no Eiyuu",
+      "id": 0,
+      "mal_id": 34428,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Laughter Slaughter",
+          "artiste": "OxT",
+          "lien": "https://eudist.animemusicquiz.com/6w3aq2.webm"
         }
       ],
       "genres": [
@@ -30375,42 +30418,6 @@
       ]
     },
     {
-      "nom": "Overlord: Fushisha no Ou",
-      "id": 0,
-      "mal_id": 34161,
-      "nb_musique": 1,
-      "musique": [
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Crazy Scary Holy Fantasy",
-          "artiste": "MYTH & ROID",
-          "lien": "https://eudist.animemusicquiz.com/b26irx.webm"
-        }
-      ],
-      "genres": [
-          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-      ]
-    },
-    {
-      "nom": "Overlord: Shikkoku no Eiyuu",
-      "id": 0,
-      "mal_id": 34428,
-      "nb_musique": 1,
-      "musique": [
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Laughter Slaughter",
-          "artiste": "OxT",
-          "lien": "https://eudist.animemusicquiz.com/6w3aq2.webm"
-        }
-      ],
-      "genres": [
-          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-      ]
-    },
-    {
       "nom": "Overtake!",
       "id": 0,
       "mal_id": 54301,
@@ -36075,21 +36082,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -36097,6 +36097,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [

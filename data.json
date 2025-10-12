@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1035,
-  "nb_musique": 4646,
+  "nb_anime": 1036,
+  "nb_musique": 4648,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -36107,21 +36107,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -36129,6 +36122,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [
@@ -43462,6 +43462,31 @@
       ],
       "genres": [
           0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Yuusha Party o Tsuihou Sareta Shiro Madoushi, S-Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugai Sugiru",
+      "id": 0,
+      "mal_id": 59424,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Junjou de Are.",
+          "artiste": "Gakuto Kajiwara",
+          "lien": "https://eudist.animemusicquiz.com/ldxtqtpezlsk5ywq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hikari Sasu Tobira",
+          "artiste": "ChouCho",
+          "lien": "https://eudist.animemusicquiz.com/7a2oviteaa5sgswh.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1026,
-  "nb_musique": 4617,
+  "nb_anime": 1029,
+  "nb_musique": 4625,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -29724,7 +29724,7 @@
         }
       ],
       "genres": [
-          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -35856,7 +35856,7 @@
           "numero": 7,
           "nom": "FLY ME TO THE MOON <YOKO TAKAHASHI Version>",
           "artiste": "Yoko Takahashi",
-          "lien": "https://eudist.animemusicquiz.com/eayavk.webm"
+          "lien": "https://eudist.animemusicquiz.com/imj3qo.webm"
         },
         {
           "type": "Ending",
@@ -36075,21 +36075,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -36097,6 +36090,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [
@@ -36346,7 +36346,7 @@
         {
           "type": "Ending",
           "numero": 2,
-          "nom": "Tsukikage",
+          "nom": "Tsukikagari",
           "artiste": "Kotori Koiwai",
           "lien": "https://eudist.animemusicquiz.com/4tp09k.webm"
         },
@@ -36381,7 +36381,7 @@
         {
           "type": "Ending",
           "numero": 7,
-          "nom": "Tsukikage ~Mangetsu ver.~",
+          "nom": "Tsukikagari ~Mangetsu ver.~",
           "artiste": "Kotori Koiwai & Hitomi Ueda",
           "lien": "https://eudist.animemusicquiz.com/xchmj8.webm"
         },
@@ -36745,6 +36745,38 @@
           "nom": "Kimi ni Tsutaetai Koto ga Arunda",
           "artiste": "Spira Spica",
           "lien": "https://eudist.animemusicquiz.com/gnddyy.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Sono Bisque Doll wa Koi o Suru",
+      "id": 1,
+      "mal_id": 53065,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Ao to Kirameki",
+          "artiste": "Spira Spica",
+          "lien": "https://eudist.animemusicquiz.com/fs9vps9ebx7xuo3f.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kawaii Kaiwai",
+          "artiste": "PiKi",
+          "lien": "https://eudist.animemusicquiz.com/nocq5qwj90fk5fmv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Miracle Shopping ~Don Quijote no Theme~",
+          "artiste": "Maimi Tanaka",
+          "lien": "https://eudist.animemusicquiz.com/zwbrvn.webm"
         }
       ],
       "genres": [
@@ -40218,6 +40250,38 @@
       ]
     },
     {
+      "nom": "Tomo-chan wa Onnanoko!",
+      "id": 0,
+      "mal_id": 52305,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kurae! Telepathy",
+          "artiste": "Maharajan",
+          "lien": "https://eudist.animemusicquiz.com/12ag1b.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "yurukuru∗love",
+          "artiste": "Rie Takahashi, Rina Hidaka, Sally Amaki",
+          "lien": "https://eudist.animemusicquiz.com/qh431n.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Jiribaki_love",
+          "artiste": "Kaito Ishikawa, Kouhei Amasaki, Yoshitsugu Matsuoka",
+          "lien": "https://eudist.animemusicquiz.com/j6lk7v.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Tomodachi Game",
       "id": 0,
       "mal_id": 50273,
@@ -40482,6 +40546,31 @@
       ],
       "genres": [
           0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Towa no Yugure",
+      "id": 0,
+      "mal_id": 61917,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Platform",
+          "artiste": "Uru",
+          "lien": "https://eudist.animemusicquiz.com/dmffuj6fnbjcajkd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Two Of Us",
+          "artiste": "Hana Hope",
+          "lien": "https://eudist.animemusicquiz.com/dca219quuwryawea.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
       ]
     },
     {

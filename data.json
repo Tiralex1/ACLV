@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1013,
-  "nb_musique": 4559,
+  "nb_anime": 1016,
+  "nb_musique": 4576,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -20508,87 +20508,6 @@
       ]
     },
     {
-      "nom": "KimiUso",
-      "id": 0,
-      "mal_id": 23273,
-      "nb_musique": 10,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Hikaru Nara",
-          "artiste": "Goose house",
-          "lien": "https://eudist.animemusicquiz.com/mw0lqu.webm"
-        },
-        {
-          "type": "Opening",
-          "numero": 2,
-          "nom": "Nana-iro Symphony",
-          "artiste": "Coalamode.",
-          "lien": "https://eudist.animemusicquiz.com/aus53n.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Kirameki",
-          "artiste": "wacci",
-          "lien": "https://eudist.animemusicquiz.com/1kgl4o.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Orange",
-          "artiste": "7!!",
-          "lien": "https://eudist.animemusicquiz.com/492mz8.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 3,
-          "nom": "Orange (Acoustic Ver.)",
-          "artiste": "7!!",
-          "lien": "https://eudist.animemusicquiz.com/5s1uop.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "For you ~Tsuki no Hikari ga Furisosogu Terasu",
-          "artiste": "ENA",
-          "lien": "https://eudist.animemusicquiz.com/rjdif2.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Kirakiraboshi",
-          "artiste": "Mamiko Noto",
-          "lien": "https://eudist.animemusicquiz.com/75ihgb.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Kirakiraboshi",
-          "artiste": "Risa Taneda",
-          "lien": "https://eudist.animemusicquiz.com/w6o6ci.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Kirameki ~Kousei to Kaori no Ensou Ver.",
-          "artiste": "wacci",
-          "lien": "https://eudist.animemusicquiz.com/a0c9p0.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "My Truth ~Rondo Capriccioso",
-          "artiste": "ENA",
-          "lien": "https://eudist.animemusicquiz.com/l4weu6.webm"
-        }
-      ],
-      "genres": [
-          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0
-      ]
-    },
-    {
       "nom": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai o Tsukisusumu",
       "id": 0,
       "mal_id": 51213,
@@ -29419,7 +29338,7 @@
         {
           "type": "Ending",
           "numero": 3,
-          "nom": "Yuki no Machi to Kuusou no Time Machine",
+          "nom": "Yuki no Machi to Kuusou Time Machine",
           "artiste": "Rie Takahashi",
           "lien": "https://eudist.animemusicquiz.com/ngel3x.webm"
         },
@@ -29905,7 +29824,7 @@
       ]
     },
     {
-      "nom": "Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken",
+      "nom": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
       "id": 0,
       "mal_id": 50739,
       "nb_musique": 4,
@@ -30597,7 +30516,7 @@
         }
       ],
       "genres": [
-          1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+          1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0
       ]
     },
     {
@@ -30650,7 +30569,7 @@
         }
       ],
       "genres": [
-          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+          1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0
       ]
     },
     {
@@ -30663,14 +30582,14 @@
           "type": "Opening",
           "numero": 1,
           "nom": "One Determination",
-          "artiste": "Yumi Kawamura & Lotus Juice",
+          "artiste": "Lotus Juice & Yumi Kawamura",
           "lien": "https://eudist.animemusicquiz.com/hbklyy.webm"
         },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Light in Starless Sky",
-          "artiste": "Yumi Kawamura & Lotus Juice",
+          "artiste": "Lotus Juice & Yumi Kawamura",
           "lien": "https://eudist.animemusicquiz.com/ry0ltj.webm"
         },
         {
@@ -30696,7 +30615,7 @@
         }
       ],
       "genres": [
-          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+          1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0
       ]
     },
     {
@@ -30749,7 +30668,7 @@
         }
       ],
       "genres": [
-          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+          1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0
       ]
     },
     {
@@ -30881,7 +30800,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "P3 fes",
-          "artiste": "Yumi Kawamura & Lotus Juice",
+          "artiste": "Lotus Juice & Yumi Kawamura",
           "lien": "https://eudist.animemusicquiz.com/tuth0w.webm"
         },
         {
@@ -30923,7 +30842,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Time for True Revelation",
-          "artiste": "Yumi Kawamura & Lotus Juice",
+          "artiste": "Lotus Juice & Yumi Kawamura",
           "lien": "https://eudist.animemusicquiz.com/876mb2.webm"
         },
         {
@@ -31065,7 +30984,7 @@
         }
       ],
       "genres": [
-          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1
+          1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0
       ]
     },
     {
@@ -31288,7 +31207,7 @@
         }
       ],
       "genres": [
-          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0
       ]
     },
     {
@@ -32225,7 +32144,7 @@
           "numero": 1,
           "nom": "Identity",
           "artiste": "Mikio Sakai",
-          "lien": "https://eudist.animemusicquiz.com/veb0h2.webm"
+          "lien": "https://eudist.animemusicquiz.com/hmu4d0.webm"
         },
         {
           "type": "Ending",
@@ -32622,7 +32541,7 @@
           "numero": 3,
           "nom": "Timing",
           "artiste": "BLACK BISCUITS",
-          "lien": "https://eudist.animemusicquiz.com/d1j0jl.webm"
+          "lien": "https://eudist.animemusicquiz.com/sw8sbn.webm"
         },
         {
           "type": "Ending",
@@ -34054,6 +33973,158 @@
       ]
     },
     {
+      "nom": "Seishun Buta Yarou wa Odekake Sister no Yume o Minai",
+      "id": 0,
+      "mal_id": 53129,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Fukashigi no Karte",
+          "artiste": "Yurika Kubo",
+          "lien": "https://eudist.animemusicquiz.com/od7129.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Muse ni Nacchau",
+          "artiste": "Sweet Bullet",
+          "lien": "https://eudist.animemusicquiz.com/d23yhp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Otome Note",
+          "artiste": "Sweet Bullet",
+          "lien": "https://eudist.animemusicquiz.com/hg9ow3.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Seishun Buta Yarou wa Ransel Girl no Yume o Minai",
+      "id": 0,
+      "mal_id": 54870,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Fukashigi no Karte",
+          "artiste": "Asami Seto, Nao Touyama, Atsumi Tanezaki, Maaya Uchida, Yurika Kubo, Inori Minase",
+          "lien": "https://eudist.animemusicquiz.com/qwz1oc.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Seishun Buta Yarou wa Santa Claus no Yume o Minai",
+      "id": 0,
+      "mal_id": 57433,
+      "nb_musique": 13,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Snowdrop",
+          "artiste": "Conton Candy",
+          "lien": "https://eudist.animemusicquiz.com/mr0yyaq3q5ol13sl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Suiheisen wa Boku no Furukizu",
+          "artiste": "Sora Amamiya",
+          "lien": "https://eudist.animemusicquiz.com/t8c0bv5zs6mgajc6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Suiheisen wa Boku no Furukizu",
+          "artiste": "Aya Yamane",
+          "lien": "https://eudist.animemusicquiz.com/8g87z2isj4tlxno2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Suiheisen wa Boku no Furukizu",
+          "artiste": "Konomi Kohara",
+          "lien": "https://eudist.animemusicquiz.com/b6j09nqz3p38vwqh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Suiheisen wa Boku no Furukizu",
+          "artiste": "Touko Kirishima",
+          "lien": "https://eudist.animemusicquiz.com/8z3973gqgfm5o2rs.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Suiheisen wa Boku no Furukizu",
+          "artiste": "Reina Ueda",
+          "lien": "https://eudist.animemusicquiz.com/bp8hkmwvkfn00fe5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Suiheisen wa Boku no Furukizu",
+          "artiste": "Sora Amamiya, Aya Yamane, Konomi Kohara, Reina Ueda",
+          "lien": "https://eudist.animemusicquiz.com/k4t86i1csv8pzf3p.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hilbert Space",
+          "artiste": "Touko Kirishima",
+          "lien": "https://eudist.animemusicquiz.com/vgtjkn3l51yj7q4l.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Muse ni Nacchau",
+          "artiste": "Sweet Bullet",
+          "lien": "https://eudist.animemusicquiz.com/ji363w3pxxpxewjz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Otome Note",
+          "artiste": "Sweet Bullet",
+          "lien": "https://eudist.animemusicquiz.com/wamtoc3yq98w4k41.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Social World",
+          "artiste": "Sora Amamiya",
+          "lien": "https://eudist.animemusicquiz.com/wm3kvgbn84gehphi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Social World",
+          "artiste": "Touko Kirishima",
+          "lien": "https://eudist.animemusicquiz.com/97ltlwq56v3rhpxw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Social World band arrange",
+          "artiste": "Asami Seto",
+          "lien": "https://eudist.animemusicquiz.com/qx5dbshigvo1rupt.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai",
       "id": 0,
       "mal_id": 38329,
@@ -34488,6 +34559,87 @@
       ]
     },
     {
+      "nom": "Shigatsu wa Kimi no Uso",
+      "id": 0,
+      "mal_id": 23273,
+      "nb_musique": 10,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hikaru Nara",
+          "artiste": "Goose house",
+          "lien": "https://eudist.animemusicquiz.com/mw0lqu.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Nana-iro Symphony",
+          "artiste": "Coalamode.",
+          "lien": "https://eudist.animemusicquiz.com/aus53n.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kirameki",
+          "artiste": "wacci",
+          "lien": "https://eudist.animemusicquiz.com/1kgl4o.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Orange",
+          "artiste": "7!!",
+          "lien": "https://eudist.animemusicquiz.com/492mz8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Orange (Acoustic Ver.)",
+          "artiste": "7!!",
+          "lien": "https://eudist.animemusicquiz.com/5s1uop.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "For you ~Tsuki no Hikari ga Furisosogu Terasu",
+          "artiste": "ENA",
+          "lien": "https://eudist.animemusicquiz.com/rjdif2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kirakiraboshi",
+          "artiste": "Mamiko Noto",
+          "lien": "https://eudist.animemusicquiz.com/75ihgb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kirakiraboshi",
+          "artiste": "Risa Taneda",
+          "lien": "https://eudist.animemusicquiz.com/w6o6ci.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kirameki ~Kousei to Kaori no Ensou Ver.",
+          "artiste": "wacci",
+          "lien": "https://eudist.animemusicquiz.com/a0c9p0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "My Truth ~Rondo Capriccioso",
+          "artiste": "ENA",
+          "lien": "https://eudist.animemusicquiz.com/l4weu6.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru",
       "id": 0,
       "mal_id": 48415,
@@ -34857,7 +35009,7 @@
           "numero": 1,
           "nom": "Yuugure no Tori",
           "artiste": "Shinsei Kamattechan",
-          "lien": "https://eudist.animemusicquiz.com/cixfvx.webm"
+          "lien": "https://eudist.animemusicquiz.com/ygjsz1.webm"
         },
         {
           "type": "Insert Song",

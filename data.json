@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1031,
-  "nb_musique": 4638,
+  "nb_anime": 1033,
+  "nb_musique": 4642,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -16256,6 +16256,31 @@
       ]
     },
     {
+      "nom": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+      "id": 0,
+      "mal_id": 59130,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Majestic Catastrophe",
+          "artiste": "Rico Sasaki",
+          "lien": "https://eudist.animemusicquiz.com/3zthvhkuzzkhbv0a.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "more than W",
+          "artiste": "Takuma Terashima",
+          "lien": "https://eudist.animemusicquiz.com/b0y6ry2d9va6gham.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Isekai Nonbiri Nouka",
       "id": 0,
       "mal_id": 51462,
@@ -16736,7 +16761,7 @@
       ]
     },
     {
-      "nom": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+      "nom": "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
       "id": 0,
       "mal_id": 38790,
       "nb_musique": 3,
@@ -17425,14 +17450,14 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Life",
-          "artiste": "Paranom, Kasper, Aztech",
+          "artiste": "Paranom, Kasper and Aztech",
           "lien": "https://eudist.animemusicquiz.com/7ui7u0.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Okaken",
-          "artiste": "Paranom, Aztech",
+          "artiste": "Paranom and Aztech",
           "lien": "https://eudist.animemusicquiz.com/0ooxsq.webm"
         },
         {
@@ -20678,7 +20703,7 @@
         }
       ],
       "genres": [
-          1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -25605,6 +25630,31 @@
       ]
     },
     {
+      "nom": "Mizu Zokusei no Mahoutsukai",
+      "id": 0,
+      "mal_id": 60732,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Blue Motion",
+          "artiste": "Meiyo Densetsu",
+          "lien": "https://eudist.animemusicquiz.com/ktov1d3n6km4wkaw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tayutau Mama ni",
+          "artiste": "Misaki",
+          "lien": "https://eudist.animemusicquiz.com/qa6u8x9nsizi93mk.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Mob Psycho 100",
       "id": 0,
       "mal_id": 32182,
@@ -25764,7 +25814,7 @@
         }
       ],
       "genres": [
-          0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+          1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -36082,21 +36132,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -36104,6 +36147,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [

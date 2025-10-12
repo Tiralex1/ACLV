@@ -1,6 +1,6 @@
 {
   "nb_anime": 1016,
-  "nb_musique": 4582,
+  "nb_musique": 4585,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -7716,8 +7716,15 @@
       "nom": "Digimon Beatbreak",
       "id": 0,
       "mal_id": 61269,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Mad Pulse",
+          "artiste": "MADKID",
+          "lien": "https://eudist.animemusicquiz.com/x4ajmkgtpwrmvokq.webm"
+        },
         {
           "type": "Ending",
           "numero": 1,
@@ -7727,7 +7734,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -11213,7 +11220,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Haru no Sora e to",
-          "artiste": "Akari Kitou & Ayane Sakura",
+          "artiste": "Ayane Sakura & Akari Kitou",
           "lien": "https://eudist.animemusicquiz.com/nl8twj.webm"
         },
         {
@@ -23714,14 +23721,28 @@
       "nom": "Made in Abyss: Fukaki Tamashii no Reimei",
       "id": 0,
       "mal_id": 36862,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "The Return of Made in Abyss",
+          "artiste": "Kevin Penkin ft. Úyanga Bold",
+          "lien": "https://eudist.animemusicquiz.com/ppq8u5yantvjazx1.webm"
+        },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "FOREVER LOST",
           "artiste": "MYTH & ROID",
           "lien": "https://eudist.animemusicquiz.com/vpr7qa.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "The Rumble of Scientific Triumph",
+          "artiste": "Gumpoldskirchner Spatzen",
+          "lien": "https://eudist.animemusicquiz.com/3tswimshtai5mre1.webm"
         },
         {
           "type": "Insert Song",
@@ -35784,21 +35805,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -35806,6 +35820,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [

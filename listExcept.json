@@ -418,6 +418,22 @@
             ]
         },
         {
+            "songName": "Sirius",
+            "artist": "Eir Aoi",
+            "types": [
+                "opening 1",
+                "ending 1"
+            ]
+        },
+        {
+            "songName": "ambiguous",
+            "artist": "GARNiDELiA",
+            "types": [
+                "opening 2",
+                "opening 1"
+            ]
+        },
+        {
             "songName": "Aozora no Rhapsody",
             "artist": "fhána",
             "types": [

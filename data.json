@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1021,
-  "nb_musique": 4599,
+  "nb_anime": 1026,
+  "nb_musique": 4617,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -2219,7 +2219,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -2640,7 +2640,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -5301,6 +5301,24 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Bâan: Otona no Kyoukai",
+      "id": 0,
+      "mal_id": 61984,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Bâan",
+          "artiste": "Kevin Penkin (ft. Elspeth Bawden)",
+          "lien": "https://eudist.animemusicquiz.com/fykp5ohjxv0cq88d.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -9218,7 +9236,7 @@
           "numero": 0,
           "nom": "LILIUM ~saint version~",
           "artiste": "GRIFFIN Chorus",
-          "lien": "https://eudist.animemusicquiz.com/2zhru4.webm"
+          "lien": "https://eudist.animemusicquiz.com/uwmf4o.webm"
         }
       ],
       "genres": [
@@ -18109,7 +18127,39 @@
         }
       ],
       "genres": [
-          1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kaijuu 8-gou",
+      "id": 1,
+      "mal_id": 59177,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "You Can't Run From Yourself",
+          "artiste": "Aurora",
+          "lien": "https://eudist.animemusicquiz.com/uqy9qw8pndk3dsad.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Beautiful Colors",
+          "artiste": "ONEREPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/c55kjh3e5yqvqyh3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Never Break Down",
+          "artiste": "Yuta Bandoh feat. LEO Imai",
+          "lien": "https://eudist.animemusicquiz.com/cs1of8inbepuwncn.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -19783,7 +19833,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+          1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -19894,6 +19944,98 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kidou Senshi Gundam: Tekketsu no Orphans",
+      "id": 0,
+      "mal_id": 31251,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Raise your flag",
+          "artiste": "MAN WITH A MISSION",
+          "lien": "https://eudist.animemusicquiz.com/0v5iae.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Survivor",
+          "artiste": "BLUE ENCOUNT",
+          "lien": "https://eudist.animemusicquiz.com/6ez172.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Orphans no Namida",
+          "artiste": "MISIA",
+          "lien": "https://eudist.animemusicquiz.com/2bheao.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "STEEL -Tekketsu no Kizuna-",
+          "artiste": "TRUE",
+          "lien": "https://eudist.animemusicquiz.com/fl9j4v.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Senka no Tomoshibi",
+          "artiste": "Yuko Suzuhana",
+          "lien": "https://eudist.animemusicquiz.com/ak1yuv.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kidou Senshi Gundam: Tekketsu no Orphans",
+      "id": 1,
+      "mal_id": 33051,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "RAGE OF DUST",
+          "artiste": "SPYAIR",
+          "lien": "https://eudist.animemusicquiz.com/t3hyjj.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Fighter",
+          "artiste": "KANA-BOON",
+          "lien": "https://eudist.animemusicquiz.com/2pnt6v.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shounen no Hate",
+          "artiste": "GRANRODEO",
+          "lien": "https://eudist.animemusicquiz.com/9c2q9c.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Freesia",
+          "artiste": "Uru",
+          "lien": "https://eudist.animemusicquiz.com/psny0v.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tenkuu no Saki e",
+          "artiste": "Yuko Suzuhana",
+          "lien": "https://eudist.animemusicquiz.com/6rug37.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -20042,6 +20184,38 @@
           "nom": "Suck your blood:[nZk] ver.",
           "artiste": "Benjamin Anderson & mpi",
           "lien": "https://eudist.animemusicquiz.com/a515t9.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kill la Kill",
+      "id": 1,
+      "mal_id": 21659,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "ambiguous",
+          "artiste": "GARNiDELiA",
+          "lien": "https://eudist.animemusicquiz.com/ccs8dz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sirius",
+          "artiste": "Eir Aoi",
+          "lien": "https://eudist.animemusicquiz.com/80gqug.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Till I Die:[nZk] ver.",
+          "artiste": "CASG",
+          "lien": "https://eudist.animemusicquiz.com/dy6bka.webm"
         }
       ],
       "genres": [
@@ -21048,7 +21222,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -21188,7 +21362,7 @@
         {
           "type": "Opening",
           "numero": 1,
-          "nom": "Ano ne",
+          "nom": "Ano ne,",
           "artiste": "Polkadot Stingray",
           "lien": "https://eudist.animemusicquiz.com/sudr29.webm"
         },
@@ -22144,7 +22318,7 @@
       "nom": "Kusuriya no Hitorigoto",
       "id": 1,
       "mal_id": 58514,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -22173,6 +22347,13 @@
           "nom": "Hitorigoto",
           "artiste": "Omoinotake",
           "lien": "https://eudist.animemusicquiz.com/wzaaec.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Inochi no Tomoshibi",
+          "artiste": "Rimu Miyake",
+          "lien": "https://eudist.animemusicquiz.com/m7xq9ey9gl9gmt99.webm"
         }
       ],
       "genres": [
@@ -35894,21 +36075,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -35916,6 +36090,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [

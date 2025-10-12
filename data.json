@@ -1,6 +1,6 @@
 {
   "nb_anime": 1016,
-  "nb_musique": 4576,
+  "nb_musique": 4582,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -35784,21 +35784,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -35806,6 +35799,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [
@@ -37047,7 +37047,7 @@
         }
       ],
       "genres": [
-          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1
       ]
     },
     {
@@ -37412,7 +37412,7 @@
           "numero": 1,
           "nom": "Friendship ~for Suki tte Ii na yo.",
           "artiste": "Ritsuko Okazaki",
-          "lien": "https://eudist.animemusicquiz.com/ts0igd.webm"
+          "lien": "https://eudist.animemusicquiz.com/ogoms9.webm"
         },
         {
           "type": "Ending",
@@ -37501,7 +37501,7 @@
       "nom": "Summertime Render",
       "id": 0,
       "mal_id": 47194,
-      "nb_musique": 6,
+      "nb_musique": 12,
       "musique": [
         {
           "type": "Opening",
@@ -37544,6 +37544,48 @@
           "nom": "Egao de Konnichiwa ~Renewal-ban~",
           "artiste": "Osaka Ongaku Daigaku Seigakuka Daigakuinsei 4-mei",
           "lien": "https://eudist.animemusicquiz.com/vt78fz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hatan",
+          "artiste": "Saki Nakae & Shotaro Seo",
+          "lien": "https://eudist.animemusicquiz.com/ysmhhvo59asgt41m.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hitogashima Temariuta",
+          "artiste": "Misaki Kuno",
+          "lien": "https://eudist.animemusicquiz.com/3kpi78jq07b5kzlm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Honmei",
+          "artiste": "Saki Nakae & Shotaro Seo",
+          "lien": "https://eudist.animemusicquiz.com/37zuj18091snig6m.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mayoiji",
+          "artiste": "Saki Nakae",
+          "lien": "https://eudist.animemusicquiz.com/bt267la298r5s6g2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shide",
+          "artiste": "Shotaro Seo",
+          "lien": "https://eudist.animemusicquiz.com/n72umw3e67kiz15h.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shippatou",
+          "artiste": "Saki Nakae & Shotaro Seo",
+          "lien": "https://eudist.animemusicquiz.com/xzt8wjztz76qtr6g.webm"
         }
       ],
       "genres": [

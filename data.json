@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1019,
-  "nb_musique": 4594,
+  "nb_anime": 1021,
+  "nb_musique": 4599,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1334,7 +1334,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -1553,7 +1553,7 @@
           "numero": 1,
           "nom": "Seishun Satsubatsuron",
           "artiste": "3-nen E-gumi Utatan",
-          "lien": "https://eudist.animemusicquiz.com/7kp7ex.webm"
+          "lien": "https://eudist.animemusicquiz.com/abrdv4.webm"
         },
         {
           "type": "Opening",
@@ -1599,8 +1599,15 @@
       "nom": "Ansatsu Kyoushitsu Final Season",
       "id": 0,
       "mal_id": 30654,
-      "nb_musique": 7,
+      "nb_musique": 9,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "ENDER",
+          "artiste": "GENIC",
+          "lien": "https://eudist.animemusicquiz.com/shds1hcjn2ykiy6a.webm"
+        },
         {
           "type": "Opening",
           "numero": 1,
@@ -1614,6 +1621,13 @@
           "nom": "Bye Bye YESTERDAY",
           "artiste": "3-nen E-gumi Utatan",
           "lien": "https://eudist.animemusicquiz.com/cpiuvq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Infinity karat",
+          "artiste": "Nanami Urara",
+          "lien": "https://eudist.animemusicquiz.com/9w4d5rfx78enuv8j.webm"
         },
         {
           "type": "Ending",
@@ -4313,6 +4327,31 @@
           "nom": "Rokutousei",
           "artiste": "ZARAME",
           "lien": "https://eudist.animemusicquiz.com/ewglme.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Boku no Hero Academia",
+      "id": 7,
+      "mal_id": 60098,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "THE REVO",
+          "artiste": "Porno Graffitti",
+          "lien": "https://eudist.animemusicquiz.com/pln6fj0nd61r2pnu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "I",
+          "artiste": "BUMP OF CHICKEN",
+          "lien": "https://eudist.animemusicquiz.com/4jvh3o8jm8c66pj6.webm"
         }
       ],
       "genres": [
@@ -9034,7 +9073,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1
       ]
     },
     {
@@ -10071,7 +10110,7 @@
           "numero": 1,
           "nom": "oath sign",
           "artiste": "LiSA",
-          "lien": "https://eudist.animemusicquiz.com/qgy2zu.webm"
+          "lien": "https://eudist.animemusicquiz.com/2356k9.webm"
         },
         {
           "type": "Ending",
@@ -10456,7 +10495,7 @@
           "numero": 2,
           "nom": "Noise",
           "artiste": "in NO hurry to shout;",
-          "lien": "https://eudist.animemusicquiz.com/etmrxr.webm?"
+          "lien": "https://eudist.animemusicquiz.com/etmrxr.webm"
         },
         {
           "type": "Insert Song",
@@ -10514,6 +10553,24 @@
       ],
       "genres": [
           0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Fureru.",
+      "id": 0,
+      "mal_id": 57448,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Monotone",
+          "artiste": "YOASOBI",
+          "lien": "https://eudist.animemusicquiz.com/snaxbpovp419aaew.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -11715,6 +11772,24 @@
           "nom": "to the fierce battlefield",
           "artiste": "Remi",
           "lien": "https://eudist.animemusicquiz.com/vq63lm.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Gekijouban Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo",
+      "id": 0,
+      "mal_id": 50275,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shinzou",
+          "artiste": "Eir Aoi",
+          "lien": "https://eudist.animemusicquiz.com/6zgu95.webm"
         }
       ],
       "genres": [
@@ -35819,21 +35894,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -35841,6 +35909,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [
@@ -37834,24 +37909,6 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
-      ]
-    },
-    {
-      "nom": "Sword Art Online the Movie: Progressive - Kuraki Yuuyami no Scherzo",
-      "id": 0,
-      "mal_id": 50275,
-      "nb_musique": 1,
-      "musique": [
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Shinzou",
-          "artiste": "Eir Aoi",
-          "lien": "https://eudist.animemusicquiz.com/6zgu95.webm"
-        }
-      ],
-      "genres": [
-          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {

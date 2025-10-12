@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1016,
-  "nb_musique": 4585,
+  "nb_anime": 1019,
+  "nb_musique": 4594,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -32400,7 +32400,7 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "Ken Oni Renka Dai Ni Maku",
+          "nom": "Kenki Renka Dai Ni Maku",
           "artiste": "Aya Yamane",
           "lien": "https://eudist.animemusicquiz.com/8h623t.webm"
         },
@@ -34377,7 +34377,7 @@
       "nom": "Sentai Daishikkaku",
       "id": 1,
       "mal_id": 59189,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -34392,6 +34392,20 @@
           "nom": "Seigi",
           "artiste": "Fukurow note",
           "lien": "https://eudist.animemusicquiz.com/kco183.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Seikai wa Iranai",
+          "artiste": "Akari Nanawo",
+          "lien": "https://eudist.animemusicquiz.com/x2ubd6c06a7f1iq9.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Jikai Yokoku",
+          "artiste": "Tatsuya Kitani",
+          "lien": "https://eudist.animemusicquiz.com/vu064gvel4i0ohrj.webm"
         }
       ],
       "genres": [
@@ -36128,6 +36142,45 @@
       ]
     },
     {
+      "nom": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "id": 0,
+      "mal_id": 59459,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Feel",
+          "artiste": "Hitsujibungaku",
+          "lien": "https://eudist.animemusicquiz.com/8fxf7q85xgqibwn1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "mild days",
+          "artiste": "Hitsujibungaku",
+          "lien": "https://eudist.animemusicquiz.com/nl558rs9hrprmi0t.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Chinmoku no Majo",
+          "artiste": "Kaon Kokudo",
+          "lien": "https://eudist.animemusicquiz.com/g48iu02kwbu6gpn2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sam Ojisan no Buta",
+          "artiste": "Suginami Jidou Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/wu34kqs9jnwpf1kh.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Sin: Nanatsu no Taizai",
       "id": 0,
       "mal_id": 33834,
@@ -37199,7 +37252,7 @@
         },
         {
           "type": "Ending",
-          "numero": 2,
+          "numero": 1,
           "nom": "Le Chemin",
           "artiste": "KYO",
           "lien": "https://eudist.animemusicquiz.com/cxtc6g.webm"
@@ -40037,7 +40090,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
       ]
     },
     {
@@ -40059,6 +40112,24 @@
           "nom": "Happy-go-Journey",
           "artiste": "Yuuma Uchida",
           "lien": "https://eudist.animemusicquiz.com/bcl7au.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Tondemo Skill de Isekai Hourou Meshi 2",
+      "id": 0,
+      "mal_id": 57025,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "yummy goodday",
+          "artiste": "CENT (CENTCHiHiRO CHiTTiii)",
+          "lien": "https://eudist.animemusicquiz.com/c6lzgm8s9snmd3l7.webm"
         }
       ],
       "genres": [
@@ -42672,6 +42743,31 @@
       ]
     },
     {
+      "nom": "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei Season 2",
+      "id": 0,
+      "mal_id": 58779,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Brave one",
+          "artiste": "Fukurow note",
+          "lien": "https://eudist.animemusicquiz.com/sjctfzvd95e429hv.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ame-iro Suisai",
+          "artiste": "MiMi",
+          "lien": "https://eudist.animemusicquiz.com/gpe4hq6qtpj72acs.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Yubisaki to Renren",
       "id": 0,
       "mal_id": 55866,
@@ -42985,7 +43081,7 @@
         }
       ],
       "genres": [
-          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1029,
-  "nb_musique": 4625,
+  "nb_anime": 1031,
+  "nb_musique": 4637,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -36075,21 +36075,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -36097,6 +36090,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [
@@ -42158,6 +42158,31 @@
       ]
     },
     {
+      "nom": "Watashi o Tabetai, Hitodenashi",
+      "id": 0,
+      "mal_id": 60168,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "nie",
+          "artiste": "Yoshino",
+          "lien": "https://eudist.animemusicquiz.com/va6fyttn25wgdjzn.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Lily",
+          "artiste": "Reina Ueda",
+          "lien": "https://eudist.animemusicquiz.com/gs08mit959zpoxim.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Wind Breaker",
       "id": 0,
       "mal_id": 54900,
@@ -42253,7 +42278,7 @@
       "nom": "Witch Watch",
       "id": 0,
       "mal_id": 59597,
-      "nb_musique": 2,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -42263,15 +42288,50 @@
           "lien": "https://eudist.animemusicquiz.com/04hc1e.webm"
         },
         {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Tokihanate!",
+          "artiste": "Hashimero",
+          "lien": "https://eudist.animemusicquiz.com/xz21ai4dt4soxcfj.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "Bitter end",
+          "artiste": "Who-ya Extended",
+          "lien": "https://eudist.animemusicquiz.com/nsk9pqgjq0h1ljbi.webm"
+        },
+        {
           "type": "Ending",
           "numero": 1,
           "nom": "Mahou wa Spice",
           "artiste": "Aooo",
           "lien": "https://eudist.animemusicquiz.com/s119rm.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Tsuki to Watashi no Kakurenbo",
+          "artiste": "yutori",
+          "lien": "https://eudist.animemusicquiz.com/z7kvsi6ow72k0tk7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "FLASHBACK SYNDROME",
+          "artiste": "ALI",
+          "lien": "https://eudist.animemusicquiz.com/ff97c7c93pg1cwsk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Watashi, Parachute",
+          "artiste": "Tomori Kusunoki",
+          "lien": "https://eudist.animemusicquiz.com/mmdmwi.webm"
         }
       ],
       "genres": [
-          0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+          0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0
       ]
     },
     {
@@ -42836,6 +42896,52 @@
       ]
     },
     {
+      "nom": "Yofukashi no Uta Season 2",
+      "id": 0,
+      "mal_id": 58390,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Mirage",
+          "artiste": "Creepy Nuts",
+          "lien": "https://eudist.animemusicquiz.com/h2k2jhypffqxok6z.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Nemure",
+          "artiste": "Creepy Nuts",
+          "lien": "https://eudist.animemusicquiz.com/h51wt6e4w51h6p2j.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Yofukashi no Uta",
+          "artiste": "Creepy Nuts",
+          "lien": "https://eudist.animemusicquiz.com/8fzuow.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Daten",
+          "artiste": "Creepy Nuts",
+          "lien": "https://eudist.animemusicquiz.com/lggf77.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Loss Time",
+          "artiste": "Creepy Nuts",
+          "lien": "https://eudist.animemusicquiz.com/l7ypi2.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Yoru no Kurage wa Oyogenai",
       "id": 0,
       "mal_id": 54839,
@@ -42913,7 +43019,7 @@
         }
       ],
       "genres": [
-          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {

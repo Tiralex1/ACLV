@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1036,
-  "nb_musique": 4648,
+  "nb_anime": 1038,
+  "nb_musique": 4654,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -5307,11 +5307,18 @@
       "nom": "Bâan: Otona no Kyoukai",
       "id": 0,
       "mal_id": 61984,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Ending",
           "numero": 1,
+          "nom": "Homebird",
+          "artiste": "Kevin Penkin (ft. Sarah Àlainn)",
+          "lien": "https://eudist.animemusicquiz.com/ogfz57fsdg2w697w.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
           "nom": "Bâan",
           "artiste": "Kevin Penkin (ft. Elspeth Bawden)",
           "lien": "https://eudist.animemusicquiz.com/fykp5ohjxv0cq88d.webm"
@@ -16530,6 +16537,31 @@
       ]
     },
     {
+      "nom": "Isekai Shoukan wa Nidome desu",
+      "id": 0,
+      "mal_id": 50220,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Continue Distortion",
+          "artiste": "S.S.NiRVERGE∀",
+          "lien": "https://eudist.animemusicquiz.com/ohh22j.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Be ambitious!!!",
+          "artiste": "Maybe ME",
+          "lien": "https://eudist.animemusicquiz.com/zxjx2h.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Isekai Suicide Squad",
       "id": 0,
       "mal_id": 55848,
@@ -20704,6 +20736,31 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kimi to Koete Koi ni Naru",
+      "id": 0,
+      "mal_id": 60765,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kusuguttai.",
+          "artiste": "CHiCO with HoneyWorks",
+          "lien": "https://eudist.animemusicquiz.com/otozo4aulo0ec31h.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimi ni Naretara",
+          "artiste": "Yoh Kamiyama",
+          "lien": "https://eudist.animemusicquiz.com/ep77gs1kbcjgkqp3.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -36107,21 +36164,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -36129,6 +36179,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [
@@ -40481,7 +40538,7 @@
       "nom": "Tondemo Skill de Isekai Hourou Meshi 2",
       "id": 0,
       "mal_id": 57025,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -40489,6 +40546,13 @@
           "nom": "yummy goodday",
           "artiste": "CENT (CENTCHiHiRO CHiTTiii)",
           "lien": "https://eudist.animemusicquiz.com/c6lzgm8s9snmd3l7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "SALT AND PEPPER",
+          "artiste": "chelmico",
+          "lien": "https://eudist.animemusicquiz.com/3t5r30bzwpglkl2t.webm"
         }
       ],
       "genres": [

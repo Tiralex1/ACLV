@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1038,
-  "nb_musique": 4654,
+  "nb_anime": 1039,
+  "nb_musique": 4655,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -3315,6 +3315,24 @@
       ],
       "genres": [
           1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Black Clover",
+      "id": 1,
+      "mal_id": 33950,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Dream on",
+          "artiste": "angela",
+          "lien": "https://eudist.animemusicquiz.com/9jfheu.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -36164,21 +36182,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -36186,6 +36197,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [

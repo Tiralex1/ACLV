@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1039,
-  "nb_musique": 4655,
+  "nb_anime": 1043,
+  "nb_musique": 4662,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -26262,6 +26262,31 @@
       ]
     },
     {
+      "nom": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakattan da ga",
+      "id": 0,
+      "mal_id": 56854,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Reincarnation",
+          "artiste": "KAYA",
+          "lien": "https://eudist.animemusicquiz.com/wejviremky6blzde.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kiseki Nanka Iranai",
+          "artiste": "Utahime Dream Allstars",
+          "lien": "https://eudist.animemusicquiz.com/qcjr6gn8jngycbwq.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
       "id": 0,
       "mal_id": 55818,
@@ -26486,6 +26511,24 @@
           "nom": "Scream!",
           "artiste": "P-Maru-sama.",
           "lien": "https://eudist.animemusicquiz.com/ayxsumcvz44w40wi.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Nageki no Bourei wa Intai Shitai",
+      "id": 1,
+      "mal_id": 60619,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Algorithm",
+          "artiste": "Kiyono Yasuno",
+          "lien": "https://eudist.animemusicquiz.com/ddq7njlsjwqzcli9.webm"
         }
       ],
       "genres": [
@@ -29658,6 +29701,31 @@
           "nom": "Chizu ga Nakute mo Modoru kara",
           "artiste": "Makoto Furukawa",
           "lien": "https://eudist.animemusicquiz.com/bxwai6.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "One Punch Man",
+      "id": 2,
+      "mal_id": 52807,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Get No Satisfied !",
+          "artiste": "JAM Project feat.BABYMETAL",
+          "lien": "https://eudist.animemusicquiz.com/rnwrl5aaoxgwdot2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Soko ni Aru Akari",
+          "artiste": "Makoto Furukawa",
+          "lien": "https://eudist.animemusicquiz.com/7jsuteet24a0jf0c.webm"
         }
       ],
       "genres": [
@@ -36182,21 +36250,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -36204,6 +36265,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [
@@ -42993,6 +43061,31 @@
       ],
       "genres": [
           0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Yasei no Last Boss ga Arawareta!",
+      "id": 0,
+      "mal_id": 59644,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Level o Agete Butsuri de Naguru",
+          "artiste": "Kishida Kyoudan &THE Akeboshi Rockets",
+          "lien": "https://eudist.animemusicquiz.com/pjre098nx1dmyxcf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Migi Hidari",
+          "artiste": "Yuka Nagase",
+          "lien": "https://eudist.animemusicquiz.com/bkepjo9ka7jbddnp.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

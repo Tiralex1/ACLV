@@ -161,20 +161,20 @@
             ]
         },
         {
+            "songName": "Ana",
+            "artist": "Lia",
+            "types": [
+                "ending 1",
+                "ending 2",
+                "insert song"
+            ]
+        },
+        {
             "songName": "Dango Daikazoku",
             "artist": "Chata",
             "types": [
                 "ending 1",
                 "insert song"
-            ]
-        },
-        {
-            "songName": "Ana",
-            "artist": "Lia",
-            "types": [
-                "ending 2",
-                "insert song",
-                "ending 1"
             ]
         },
         {
@@ -291,7 +291,7 @@
         },
         {
             "songName": "Human After All",
-            "artist": "GHOST ORACLE DRIVE feat. Cento Chihiro Chittiii (BiSH)",
+            "artist": "GHOST ORACLE DRIVE feat. CENTCHiHiRO CHiTTiii (BiSH)",
             "types": [
                 "ending 2",
                 "insert song"
@@ -491,6 +491,14 @@
             ]
         },
         {
+            "songName": "Dark Will Fall",
+            "artist": "Bonobo feat. Jacob Lusk",
+            "types": [
+                "opening 1",
+                "ending 2"
+            ]
+        },
+        {
             "songName": "Alicemagic ~TV animation ver.~",
             "artist": "Rita",
             "types": [
@@ -520,6 +528,14 @@
             "types": [
                 "opening 2",
                 "opening 1"
+            ]
+        },
+        {
+            "songName": "Kattou Tomorrow",
+            "artist": "Lezel",
+            "types": [
+                "opening 1",
+                "insert song"
             ]
         },
         {
@@ -747,11 +763,20 @@
             ]
         },
         {
+            "songName": "Muteki",
+            "artist": "Young Kee",
+            "types": [
+                "ending 1",
+                "insert song"
+            ]
+        },
+        {
             "songName": "Dream Trigger",
             "artist": "Pile",
             "types": [
-                "ending 1",
-                "opening 1"
+                "opening 1",
+                "opening 3",
+                "ending 1"
             ]
         },
         {

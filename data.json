@@ -6103,24 +6103,6 @@
     },
     {
       "nom": "Clannad",
-      "id": 0,
-      "mal_id": 4059,
-      "nb_musique": 1,
-      "musique": [
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Ana",
-          "artiste": "Lia",
-          "lien": "https://eudist.animemusicquiz.com/o3arq7.webm"
-        }
-      ],
-      "genres": [
-          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
-      ]
-    },
-    {
-      "nom": "Clannad",
       "id": 7809,
       "mal_id": 2167,
       "nb_musique": 7,
@@ -6180,24 +6162,17 @@
       ]
     },
     {
-      "nom": "Clannad After Story",
-      "id": 0,
-      "mal_id": 6351,
-      "nb_musique": 2,
+      "nom": "Clannad",
+      "id": 1000013,
+      "mal_id": 4059,
+      "nb_musique": 1,
       "musique": [
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Ana",
           "artiste": "Lia",
-          "lien": "https://eudist.animemusicquiz.com/dliivh.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Sakura Jokyoku",
-          "artiste": "riya",
-          "lien": "https://eudist.animemusicquiz.com/amh16e.webm"
+          "lien": "https://eudist.animemusicquiz.com/o3arq7.webm"
         }
       ],
       "genres": [
@@ -6276,6 +6251,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Clannad After Story",
+      "id": 1000014,
+      "mal_id": 6351,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ana",
+          "artiste": "Lia",
+          "lien": "https://eudist.animemusicquiz.com/dliivh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sakura Jokyoku",
+          "artiste": "riya",
+          "lien": "https://eudist.animemusicquiz.com/amh16e.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -23402,7 +23402,7 @@
     },
     {
       "nom": "Link Click",
-      "id": 0,
+      "id": 1000126,
       "mal_id": 44074,
       "nb_musique": 8,
       "musique": [
@@ -23469,7 +23469,7 @@
     },
     {
       "nom": "Link Click II",
-      "id": 0,
+      "id": 1000127,
       "mal_id": 49413,
       "nb_musique": 2,
       "musique": [
@@ -36961,21 +36961,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -36983,6 +36976,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [
@@ -44605,7 +44605,7 @@
     },
     {
       "nom": "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei Season 2",
-      "id": 0,
+      "id": 1000041,
       "mal_id": 58779,
       "nb_musique": 2,
       "musique": [

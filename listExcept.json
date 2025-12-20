@@ -161,20 +161,20 @@
             ]
         },
         {
-            "songName": "Ana",
-            "artist": "Lia",
-            "types": [
-                "ending 1",
-                "ending 2",
-                "insert song"
-            ]
-        },
-        {
             "songName": "Dango Daikazoku",
             "artist": "Chata",
             "types": [
                 "ending 1",
                 "insert song"
+            ]
+        },
+        {
+            "songName": "Ana",
+            "artist": "Lia",
+            "types": [
+                "ending 2",
+                "insert song",
+                "ending 1"
             ]
         },
         {

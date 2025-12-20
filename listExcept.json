@@ -771,15 +771,6 @@
             ]
         },
         {
-            "songName": "Dream Trigger",
-            "artist": "Pile",
-            "types": [
-                "opening 1",
-                "opening 3",
-                "ending 1"
-            ]
-        },
-        {
             "songName": "Yukitoki",
             "artist": "Nagi Yanagi",
             "types": [
@@ -808,16 +799,16 @@
             "songName": "Kuchizuke Diamond",
             "artist": "WEAVER",
             "types": [
-                "opening 1",
-                "opening 2"
+                "opening 2",
+                "opening 1"
             ]
         },
         {
             "songName": "CANDY MAGIC",
             "artist": "MimimemeMIMI",
             "types": [
-                "ending 1",
-                "ending 2"
+                "ending 2",
+                "ending 1"
             ]
         },
         {

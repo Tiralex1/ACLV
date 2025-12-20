@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1062,
-  "nb_musique": 4806,
+  "nb_anime": 1060,
+  "nb_musique": 4801,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -6103,7 +6103,7 @@
     },
     {
       "nom": "Clannad",
-      "id": 1,
+      "id": 0,
       "mal_id": 4059,
       "nb_musique": 1,
       "musique": [
@@ -6181,7 +6181,7 @@
     },
     {
       "nom": "Clannad After Story",
-      "id": 1,
+      "id": 0,
       "mal_id": 6351,
       "nb_musique": 2,
       "musique": [
@@ -9468,38 +9468,6 @@
       ],
       "genres": [
           0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
-      ]
-    },
-    {
-      "nom": "Elfen Lied",
-      "id": 1,
-      "mal_id": 376,
-      "nb_musique": 3,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "LILIUM",
-          "artiste": "Kumiko Noma",
-          "lien": "https://eudist.animemusicquiz.com/t0vii7.webm?"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "be your girl",
-          "artiste": "Chieko Kawabe",
-          "lien": "https://eudist.animemusicquiz.com/em4xv0.webm?"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "LILIUM ~saint version~",
-          "artiste": "GRIFFIN Chorus",
-          "lien": "https://eudist.animemusicquiz.com/uwmf4o.webm"
-        }
-      ],
-      "genres": [
-          1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -36993,21 +36961,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -37015,6 +36976,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [
@@ -43800,27 +43768,9 @@
     },
     {
       "nom": "World Trigger",
-      "id": 1,
-      "mal_id": 24405,
-      "nb_musique": 1,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Dream Trigger",
-          "artiste": "Pile",
-          "lien": "https://eudist.animemusicquiz.com/f8orfz.webm"
-        }
-      ],
-      "genres": [
-          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
-      ]
-    },
-    {
-      "nom": "World Trigger",
       "id": 16125,
       "mal_id": 24405,
-      "nb_musique": 4,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -43842,13 +43792,6 @@
           "nom": "Dream Trigger",
           "artiste": "Pile",
           "lien": "https://eudist.animemusicquiz.com/f8orfz.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Dream Trigger",
-          "artiste": "Pile",
-          "lien": "https://eudist.animemusicquiz.com/084l0f.webm"
         }
       ],
       "genres": [
@@ -44172,31 +44115,6 @@
     },
     {
       "nom": "Yamada-kun to 7-nin no Majo",
-      "id": 0,
-      "mal_id": 28677,
-      "nb_musique": 2,
-      "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Kuchizuke Diamond",
-          "artiste": "WEAVER",
-          "lien": "https://eudist.animemusicquiz.com/cn4qdl.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "CANDY MAGIC",
-          "artiste": "MimimemeMIMI",
-          "lien": "https://eudist.animemusicquiz.com/wwbobo.webm"
-        }
-      ],
-      "genres": [
-          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
-      ]
-    },
-    {
-      "nom": "Yamada-kun to 7-nin no Majo",
       "id": 16279,
       "mal_id": 24627,
       "nb_musique": 5,
@@ -44235,6 +44153,31 @@
           "nom": "ding!ging!dong!",
           "artiste": "Choujougenshou-bu",
           "lien": "https://eudist.animemusicquiz.com/k7dpn6.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Yamada-kun to 7-nin no Majo",
+      "id": 16583,
+      "mal_id": 28677,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kuchizuke Diamond",
+          "artiste": "WEAVER",
+          "lien": "https://eudist.animemusicquiz.com/cn4qdl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "CANDY MAGIC",
+          "artiste": "MimimemeMIMI",
+          "lien": "https://eudist.animemusicquiz.com/wwbobo.webm"
         }
       ],
       "genres": [
@@ -45186,7 +45129,7 @@
     },
     {
       "nom": "Zoku Owarimonogatari",
-      "id": 0,
+      "id": 21553,
       "mal_id": 36999,
       "nb_musique": 2,
       "musique": [
@@ -45211,7 +45154,7 @@
     },
     {
       "nom": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
-      "id": 0,
+      "id": 26825,
       "mal_id": 54112,
       "nb_musique": 2,
       "musique": [
@@ -45236,7 +45179,7 @@
     },
     {
       "nom": "Zutto Mae kara Suki Deshita. Kokuhaku Jikkou Iinkai",
-      "id": 0,
+      "id": 17342,
       "mal_id": 31245,
       "nb_musique": 6,
       "musique": [

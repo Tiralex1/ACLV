@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1045,
-  "nb_musique": 4752,
+  "nb_anime": 1062,
+  "nb_musique": 4806,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -1299,6 +1299,31 @@
       ]
     },
     {
+      "nom": "Alma-chan wa Kazoku ni Naritai",
+      "id": 34354,
+      "mal_id": 60781,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Dramatic Overlay",
+          "artiste": "ZAQ",
+          "lien": "https://eudist.animemusicquiz.com/bvex1nqzlpd8eqyz.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Arifuretetai",
+          "artiste": "KAF",
+          "lien": "https://eudist.animemusicquiz.com/rlts21nhl4jfkj02.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Amaama to Inazuma",
       "id": 18122,
       "mal_id": 32828,
@@ -1670,6 +1695,31 @@
       ]
     },
     {
+      "nom": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+      "id": 34723,
+      "mal_id": 61026,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Issen",
+          "artiste": "VESPERBELL",
+          "lien": "https://eudist.animemusicquiz.com/h0djahyzalr9amr7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Like Gravity",
+          "artiste": "BONNIE PINK",
+          "lien": "https://eudist.animemusicquiz.com/xin315ldtkuohbt4.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Ao Haru Ride",
       "id": 15817,
       "mal_id": 21995,
@@ -2017,6 +2067,38 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Arknights: Enshin Shomei/Rise from Ember",
+      "id": 32697,
+      "mal_id": 58749,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "End of Days",
+          "artiste": "ReoNa",
+          "lien": "https://eudist.animemusicquiz.com/u68hzoidt3hla6al.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Truth",
+          "artiste": "Hana Itoki",
+          "lien": "https://eudist.animemusicquiz.com/6oursm94y2yhshuc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Seimei Kansou",
+          "artiste": "ReoNa",
+          "lien": "https://eudist.animemusicquiz.com/u1h6o351nev40ug1.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -5792,6 +5874,31 @@
       ]
     },
     {
+      "nom": "Chitose-kun wa Ramune Bin no Naka",
+      "id": 33207,
+      "mal_id": 59517,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Liar",
+          "artiste": "Kucci",
+          "lien": "https://eudist.animemusicquiz.com/vhdq5mupfsxbwzeb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kagerou",
+          "artiste": "Cidergirl",
+          "lien": "https://eudist.animemusicquiz.com/r5tknr0mtbcinfl4.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Chiyu Mahou no Machigatta Tsukaikata",
       "id": 24635,
       "mal_id": 49613,
@@ -6615,6 +6722,63 @@
       ],
       "genres": [
           0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1
+      ]
+    },
+    {
+      "nom": "Danna ga Nani o Itteiru ka Wakaranai Ken",
+      "id": 16247,
+      "mal_id": 26349,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ii Kagen ni Shite, Anata",
+          "artiste": "Kaoru to Hajime",
+          "lien": "https://eudist.animemusicquiz.com/09aqnj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Okusama no Blues",
+          "artiste": "Yukari Tamura, Rie Kugimiya, Ryoko Shintani",
+          "lien": "https://eudist.animemusicquiz.com/w19yxc.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Danna ga Nani o Itteiru ka Wakaranai Ken 2-sure-me",
+      "id": 16654,
+      "mal_id": 29067,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yuruganu Futari ~Ai no Sanka~",
+          "artiste": "Kaoru to Hajime",
+          "lien": "https://eudist.animemusicquiz.com/jpzosf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Okusama no Blues",
+          "artiste": "Yukari Tamura, Rie Kugimiya, Ryoko Shintani",
+          "lien": "https://eudist.animemusicquiz.com/htnu3g.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Ii Kagen ni Shite, Anata (Acoustic ver.)",
+          "artiste": "Kaoru to Hajime",
+          "lien": "https://eudist.animemusicquiz.com/n1xgp6.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -10563,6 +10727,38 @@
       ]
     },
     {
+      "nom": "Fujimoto Tatsuki 17-26",
+      "id": 37753,
+      "mal_id": 62405,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "H.O.B.A",
+          "artiste": "Yuqi from UQiYO",
+          "lien": "https://eudist.animemusicquiz.com/vxu1n4w4to1gjiwp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Renai Revolution 21",
+          "artiste": "Morning Musume.",
+          "lien": "https://eudist.animemusicquiz.com/u6fxs9j7kf9rh9t4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Nayuta",
+          "artiste": "Ari Mason",
+          "lien": "https://eudist.animemusicquiz.com/9y8u6e8l4z2uanz9.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Fukumenkei Noise",
       "id": 18232,
       "mal_id": 33203,
@@ -11293,6 +11489,38 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Gekijouban Chainsaw Man: Reze-hen",
+      "id": 31068,
+      "mal_id": 57555,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "IRIS OUT",
+          "artiste": "Kenshi Yonezu",
+          "lien": "https://eudist.animemusicquiz.com/tjtqrk.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "JANE DOE",
+          "artiste": "Kenshi Yonezu, Hikaru Utada",
+          "lien": "https://eudist.animemusicquiz.com/mi34bo.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Jane wa Kyoukai de Nemutta",
+          "artiste": "Reina Ueda",
+          "lien": "https://eudist.animemusicquiz.com/11dnrd.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -12351,6 +12579,56 @@
       ]
     },
     {
+      "nom": "Gimai Seikatsu",
+      "id": 26123,
+      "mal_id": 52481,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Tenshi-tachi no Uta",
+          "artiste": "fhána",
+          "lien": "https://eudist.animemusicquiz.com/fvmhb2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Suisou no Buranko",
+          "artiste": "Kitri",
+          "lien": "https://eudist.animemusicquiz.com/mx9stw.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Ginga Tokkyuu Milky☆Subway",
+      "id": 35231,
+      "mal_id": 61274,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Ginga-kei made Tonde Ike!",
+          "artiste": "Candies",
+          "lien": "https://eudist.animemusicquiz.com/f3jvanlwkcmswh8k.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tokimeki★Meteostrike",
+          "artiste": "Yukari Tamura",
+          "lien": "https://eudist.animemusicquiz.com/a5dmm9mz9ojphdll.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Girls Band Cry",
       "id": 28002,
       "mal_id": 55102,
@@ -12950,6 +13228,52 @@
       ]
     },
     {
+      "nom": "Gosick",
+      "id": 11759,
+      "mal_id": 8425,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Destin Histoire",
+          "artiste": "yoshiki*lisa",
+          "lien": "https://eudist.animemusicquiz.com/kh6yis.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Resuscitated Hope",
+          "artiste": "Lisa Komine",
+          "lien": "https://eudist.animemusicquiz.com/sgdhku.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "unity",
+          "artiste": "Lisa Komine",
+          "lien": "https://eudist.animemusicquiz.com/1i9fwi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Koushousareshi \"Africa-jin no Uta\"",
+          "artiste": "Takuya Eguchi",
+          "lien": "https://eudist.animemusicquiz.com/co804b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "La Vie en Rose",
+          "artiste": "Miyuki Sawashiro",
+          "lien": "https://eudist.animemusicquiz.com/36ryo1.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Gotoubun no Hanayome",
       "id": 21514,
       "mal_id": 38101,
@@ -13380,6 +13704,80 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Grisaia no Kajitsu",
+      "id": 16140,
+      "mal_id": 17729,
+      "nb_musique": 9,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Rakuen no Tsubasa",
+          "artiste": "Maon Kurosaki",
+          "lien": "https://eudist.animemusicquiz.com/qapt9w.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Eden's Song",
+          "artiste": "Hana",
+          "lien": "https://eudist.animemusicquiz.com/jcgzhb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Anata no Aishita Sekai",
+          "artiste": "Yoshino Nanjo",
+          "lien": "https://eudist.animemusicquiz.com/y0t7u0.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "SKIP",
+          "artiste": "Chata",
+          "lien": "https://eudist.animemusicquiz.com/q8dy0y.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Rainy veil",
+          "artiste": "Nagi Yanagi",
+          "lien": "https://eudist.animemusicquiz.com/qedjx2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Sousei no Thanatos",
+          "artiste": "Faylan",
+          "lien": "https://eudist.animemusicquiz.com/jo2eoa.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Holograph",
+          "artiste": "eufonius",
+          "lien": "https://eudist.animemusicquiz.com/qvrwxj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "HOME",
+          "artiste": "Miyuki Hashimoto",
+          "lien": "https://eudist.animemusicquiz.com/0uuwmi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mayoi no Mori",
+          "artiste": "Hiromi Satou",
+          "lien": "https://eudist.animemusicquiz.com/g651pi.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -25795,6 +26193,45 @@
       ]
     },
     {
+      "nom": "Mikadono San Shimai wa Angai, Choroi",
+      "id": 32864,
+      "mal_id": 59207,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kimi ni Fusawashii Kiseki",
+          "artiste": "Nichiyoubi no MAISONdes",
+          "lien": "https://eudist.animemusicquiz.com/iqkrgvdfwfjvfocn.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Aimai Graffiti",
+          "artiste": "Yurina Amami",
+          "lien": "https://eudist.animemusicquiz.com/frjvtfweldrk68xs.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "One Road",
+          "artiste": "Aoi Koga",
+          "lien": "https://eudist.animemusicquiz.com/s4wa1igwfbe9tqia.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Sunrise Prism",
+          "artiste": "Yoshino Aoyama",
+          "lien": "https://eudist.animemusicquiz.com/o35r5tgdilx1vv80.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Military!",
       "id": 16471,
       "mal_id": 26085,
@@ -34277,6 +34714,31 @@
       ]
     },
     {
+      "nom": "Sanda",
+      "id": 32918,
+      "mal_id": 59267,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Adultic Children",
+          "artiste": "yama",
+          "lien": "https://eudist.animemusicquiz.com/kdbt80npxhy5n9ec.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Diary",
+          "artiste": "Soushi Sakiyama",
+          "lien": "https://eudist.animemusicquiz.com/q2f6emzh20owu3wu.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Sankarea",
       "id": 13507,
       "mal_id": 11499,
@@ -36043,6 +36505,31 @@
       ]
     },
     {
+      "nom": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi o Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "id": 34029,
+      "mal_id": 60303,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hira yori Rai ya, Sarari ya Takaki",
+          "artiste": "Tei",
+          "lien": "https://eudist.animemusicquiz.com/g15hktqzhpsqf2e8.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shirogarasu",
+          "artiste": "Nowlu",
+          "lien": "https://eudist.animemusicquiz.com/7e9cu1e8b4q7okw3.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
       "id": 23975,
       "mal_id": 46985,
@@ -36506,21 +36993,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -36528,6 +37008,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [
@@ -38939,6 +39426,31 @@
       ],
       "genres": [
           1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Taiyou yori mo Mabushii Hoshi",
+      "id": 34655,
+      "mal_id": 60969,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Stellar Days",
+          "artiste": "Motohiro Hata",
+          "lien": "https://eudist.animemusicquiz.com/o7istbp97kti1xs5.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Saishinbanashi",
+          "artiste": "WANUKA",
+          "lien": "https://eudist.animemusicquiz.com/y7bb6tx1z5gdcqhy.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -43341,6 +43853,59 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Yagate Kimi ni Naru",
+      "id": 21239,
+      "mal_id": 37786,
+      "nb_musique": 6,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kimi ni Furete",
+          "artiste": "Riko Azuna",
+          "lien": "https://eudist.animemusicquiz.com/f58u88.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "hectopascal",
+          "artiste": "Yuuki Takada & Minako Kotobuki",
+          "lien": "https://eudist.animemusicquiz.com/1rd3jd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Suki, Igai no Kotoba de",
+          "artiste": "Yuuki Takada & Minako Kotobuki",
+          "lien": "https://eudist.animemusicquiz.com/ay8nfk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Big White Ship",
+          "artiste": "James Forest & the East Road",
+          "lien": "https://eudist.animemusicquiz.com/yi5ykh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "rise",
+          "artiste": "Riko Azuna",
+          "lien": "https://eudist.animemusicquiz.com/zf0ans.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Together Forever",
+          "artiste": "Katrina Stone feat. Benj Heard",
+          "lien": "https://eudist.animemusicquiz.com/67zbm1.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {

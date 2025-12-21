@@ -1,6 +1,6 @@
 {
   "nb_anime": 1060,
-  "nb_musique": 4801,
+  "nb_musique": 4802,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -33838,7 +33838,7 @@
       "nom": "Rokudenashi Majutsu Koushi to Akashic Records",
       "id": 18795,
       "mal_id": 32951,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -33853,6 +33853,13 @@
           "nom": "Precious You☆",
           "artiste": "Akane Fujita, Yume Miyamoto, Ari Ozawa",
           "lien": "https://eudist.animemusicquiz.com/cxilvp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Empress",
+          "artiste": "Marie Kocho",
+          "lien": "https://eudist.animemusicquiz.com/1uif47hfmqkzzuox.webm"
         }
       ],
       "genres": [
@@ -36961,21 +36968,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -36983,6 +36983,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [

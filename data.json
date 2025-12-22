@@ -1,6 +1,6 @@
 {
   "nb_anime": 1060,
-  "nb_musique": 4802,
+  "nb_musique": 4803,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -36968,21 +36968,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -36990,6 +36983,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [
@@ -42658,7 +42658,7 @@
       "nom": "Undead Unluck",
       "id": 26250,
       "mal_id": 52741,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -42687,6 +42687,13 @@
           "nom": "Kono Ai ni Kanau Mon wa Nai",
           "artiste": "OKAMOTO'S",
           "lien": "https://eudist.animemusicquiz.com/5bi5gb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Cold farewell (normal)",
+          "artiste": "Luna Goami",
+          "lien": "https://eudist.animemusicquiz.com/68etzn7tknsxmhw9.webm"
         }
       ],
       "genres": [

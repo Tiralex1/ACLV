@@ -1,6 +1,6 @@
 {
   "nb_anime": 1060,
-  "nb_musique": 4803,
+  "nb_musique": 4807,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -34330,7 +34330,7 @@
       "nom": "Saihate no Paladin",
       "id": 24312,
       "mal_id": 48761,
-      "nb_musique": 5,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -34356,9 +34356,23 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Fushijin Stagnate",
+          "artiste": "Saki Nakae & Shotaro Seo",
+          "lien": "https://eudist.animemusicquiz.com/sffk5x4fkyalrj6c.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Haru Yobi no Uta",
           "artiste": "Eri Suzuki",
           "lien": "https://eudist.animemusicquiz.com/9i6lvl.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Megami",
+          "artiste": "maimie",
+          "lien": "https://eudist.animemusicquiz.com/u67k0mgrcnekuhc9.webm"
         },
         {
           "type": "Insert Song",
@@ -34376,7 +34390,7 @@
       "nom": "Saihate no Paladin: Tetsusabi no Yama no Ou",
       "id": 25093,
       "mal_id": 50664,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -34398,6 +34412,20 @@
           "nom": "Ryuu-goroshi no Eiyuu no Uta",
           "artiste": "Eri Suzuki",
           "lien": "https://eudist.animemusicquiz.com/dpywf7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Fushijin Stagnate",
+          "artiste": "Saki Nakae & Shotaro Seo",
+          "lien": "https://eudist.animemusicquiz.com/z8l9hsuxxb7jt3xp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Megami",
+          "artiste": "maimie",
+          "lien": "https://eudist.animemusicquiz.com/fpmmnt36qh0qbyq5.webm"
         }
       ],
       "genres": [
@@ -36968,21 +36996,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -36990,6 +37011,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [

@@ -1,5 +1,5 @@
 {
-  "nb_anime": 1060,
+  "nb_anime": 1061,
   "nb_musique": 4807,
   "anime": [
     {
@@ -26455,7 +26455,7 @@
       "nom": "Mondaiji-tachi ga Isekai kara Kuru-sou desu yo?",
       "id": 14835,
       "mal_id": 15315,
-      "nb_musique": 5,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -26484,7 +26484,18 @@
           "nom": "Scarlet",
           "artiste": "Sarah Emi Bridcutt",
           "lien": "https://eudist.animemusicquiz.com/ycxb0c.webm"
-        },
+        }
+      ],
+      "genres": [
+          1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Mondaiji-tachi ga Isekai kara Kuru-sou desu yo?",
+      "id": 1000188,
+      "mal_id": 16444,
+      "nb_musique": 1,
+      "musique": [
         {
           "type": "Insert Song",
           "numero": 0,
@@ -26494,7 +26505,7 @@
         }
       ],
       "genres": [
-          1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+          0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -36996,21 +37007,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -37018,6 +37022,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [

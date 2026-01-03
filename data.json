@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1067,
-  "nb_musique": 4851,
+  "nb_anime": 1070,
+  "nb_musique": 4875,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -6304,6 +6304,38 @@
       ]
     },
     {
+      "nom": "Code Geass: Fukkatsu no Lelouch",
+      "id": 21251,
+      "mal_id": 34437,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kono Sekai de",
+          "artiste": "Leo Ieiri",
+          "lien": "https://eudist.animemusicquiz.com/dr2d8b.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Revive",
+          "artiste": "UNIONE",
+          "lien": "https://eudist.animemusicquiz.com/cjlh6g.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Utsukushiki Kemono-tachi no Tame no",
+          "artiste": "ALI PROJECT",
+          "lien": "https://eudist.animemusicquiz.com/gpy446.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Code Geass: Hangyaku no Lelouch",
       "id": 6704,
       "mal_id": 1575,
@@ -6543,6 +6575,150 @@
           "nom": "Strange Girl",
           "artiste": "Hitomi",
           "lien": "https://eudist.animemusicquiz.com/yvviab.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1
+      ]
+    },
+    {
+      "nom": "Code Geass: Hangyaku no Lelouch Remake Movies",
+      "id": 20158,
+      "mal_id": 34438,
+      "nb_musique": 19,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "COLORS",
+          "artiste": "FLOW",
+          "lien": "https://eudist.animemusicquiz.com/jtpum8.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Yuukyou Seishunka",
+          "artiste": "ALI PROJECT",
+          "lien": "https://eudist.animemusicquiz.com/xl4ncw.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 3,
+          "nom": "WORLD END",
+          "artiste": "FLOW",
+          "lien": "https://eudist.animemusicquiz.com/6uzql6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Nunnally",
+          "artiste": "Hitomi",
+          "lien": "https://eudist.animemusicquiz.com/l0fund.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "The Moon",
+          "artiste": "Sakura Fujiwara",
+          "lien": "https://eudist.animemusicquiz.com/deyfo6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "NE:ONE",
+          "artiste": "Survive Said The Prophet",
+          "lien": "https://eudist.animemusicquiz.com/lkjzs8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Aka dake ga Tarinai",
+          "artiste": "Iris",
+          "lien": "https://eudist.animemusicquiz.com/ya9ugm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Alone",
+          "artiste": "Hitomi",
+          "lien": "https://eudist.animemusicquiz.com/artbhf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Boku wa, Tori ni Naru.",
+          "artiste": "Hitomi",
+          "lien": "https://eudist.animemusicquiz.com/oyqqca.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Continued Story",
+          "artiste": "Hitomi",
+          "lien": "https://eudist.animemusicquiz.com/jda7vm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ima wa Koko ni",
+          "artiste": "Yuuka Aisaka",
+          "lien": "https://eudist.animemusicquiz.com/j2wxhx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Innocent Days",
+          "artiste": "Hitomi",
+          "lien": "https://eudist.animemusicquiz.com/sp74p4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Lullaby of M",
+          "artiste": "Hitomi",
+          "lien": "https://eudist.animemusicquiz.com/jibpow.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Masquerade",
+          "artiste": "Hitomi",
+          "lien": "https://eudist.animemusicquiz.com/ohu1y4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mosaic Kakera",
+          "artiste": "SunSet Swish",
+          "lien": "https://eudist.animemusicquiz.com/wd09hs.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Rasen no Peace",
+          "artiste": "Rayflower",
+          "lien": "https://eudist.animemusicquiz.com/6btv1h.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sensibility",
+          "artiste": "Hitomi",
+          "lien": "https://eudist.animemusicquiz.com/hpwbl4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Stories",
+          "artiste": "Hitomi",
+          "lien": "https://eudist.animemusicquiz.com/nj5c83.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Zero koso Warera ga Kibou",
+          "artiste": "Kuro no Kishi-dan",
+          "lien": "https://eudist.animemusicquiz.com/2r9cos.webm"
         }
       ],
       "genres": [
@@ -18655,6 +18831,31 @@
           "nom": "Romantic Manifesto",
           "artiste": "halca",
           "lien": "https://eudist.animemusicquiz.com/uila2l.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+      "id": 36700,
+      "mal_id": 61903,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Abunai Kioku",
+          "artiste": "Masayuki Suzuki feat. Aoi Koga",
+          "lien": "https://eudist.animemusicquiz.com/3u3a5k2dpi8d4a86.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Aka to Ao",
+          "artiste": "Aoi Koga",
+          "lien": "https://eudist.animemusicquiz.com/fv4b91b0r7omcdph.webm"
         }
       ],
       "genres": [
@@ -37335,21 +37536,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -37357,6 +37551,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [

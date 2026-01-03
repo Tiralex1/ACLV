@@ -178,6 +178,38 @@
             ]
         },
         {
+            "songName": "Yuukyou Seishunka",
+            "artist": "ALI PROJECT",
+            "types": [
+                "ending 1",
+                "opening 2"
+            ]
+        },
+        {
+            "songName": "Mosaic Kakera",
+            "artist": "SunSet Swish",
+            "types": [
+                "ending 2",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "WORLD END",
+            "artist": "FLOW",
+            "types": [
+                "opening 2",
+                "opening 3"
+            ]
+        },
+        {
+            "songName": "Nunnally",
+            "artist": "Hitomi",
+            "types": [
+                "insert song",
+                "ending 1"
+            ]
+        },
+        {
             "songName": "Date A Live",
             "artist": "sweet ARMS",
             "types": [

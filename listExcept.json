@@ -394,6 +394,14 @@
             ]
         },
         {
+            "songName": "Isekai Quartet",
+            "artist": "Satoshi Hino, Jun Fukushima, Yuusuke Kobayashi, Aoi Yuuki",
+            "types": [
+                "opening 1",
+                "ending 3"
+            ]
+        },
+        {
             "songName": "Ayafuwa Asterisk (for Fuuka Kikuchi)",
             "artist": "Ai Kayano",
             "types": [
@@ -407,6 +415,14 @@
             "types": [
                 "opening 1",
                 "ending 7"
+            ]
+        },
+        {
+            "songName": "heart notes",
+            "artist": "Airi Suzuki",
+            "types": [
+                "ending 1",
+                "insert song"
             ]
         },
         {

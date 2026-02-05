@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1085,
-  "nb_musique": 4935,
+  "nb_anime": 1091,
+  "nb_musique": 4994,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -112,7 +112,7 @@
       "nom": "\"Oshi no Ko\"",
       "id": 33662,
       "mal_id": 60058,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -120,6 +120,20 @@
           "nom": "B no Revenge",
           "artiste": "B-Komachi",
           "lien": "https://eudist.animemusicquiz.com/378cgqspvoh8nfwz.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "TEST ME",
+          "artiste": "CHANMINA",
+          "lien": "https://eudist.animemusicquiz.com/945isw7e0cmjtpg7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Serenade",
+          "artiste": "natori",
+          "lien": "https://eudist.animemusicquiz.com/o04u0zvlfkbqu4ib.webm"
         },
         {
           "type": "Insert Song",
@@ -1688,7 +1702,7 @@
       "nom": "Ansatsu Kyoushitsu Final Season",
       "id": 17686,
       "mal_id": 30654,
-      "nb_musique": 10,
+      "nb_musique": 11,
       "musique": [
         {
           "type": "Opening",
@@ -1738,6 +1752,13 @@
           "nom": "Mata Kimi ni Aeru Hi",
           "artiste": "Shion Miyawaki",
           "lien": "https://eudist.animemusicquiz.com/iiyf2f.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Spica",
+          "artiste": "Kaerinokai",
+          "lien": "https://eudist.animemusicquiz.com/rol5tzbxe53r08ao.webm"
         },
         {
           "type": "Insert Song",
@@ -3096,7 +3117,7 @@
       "nom": "Beastars Final Season",
       "id": 26301,
       "mal_id": 49469,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -3118,6 +3139,13 @@
           "nom": "Rock 'n' Roll Dragon",
           "artiste": "Lisa Kousaka",
           "lien": "https://eudist.animemusicquiz.com/fztrwx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Many Stories",
+          "artiste": "Chica",
+          "lien": "https://eudist.animemusicquiz.com/r8avwk.webm"
         }
       ],
       "genres": [
@@ -3284,14 +3312,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -6386,6 +6414,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Code Geass: Dakkan no Rozé",
+      "id": 32766,
+      "mal_id": 56835,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Running In My Head",
+          "artiste": "MIYAVI",
+          "lien": "https://eudist.animemusicquiz.com/osxxxu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Rozé (Prod.TeddyLoid)",
+          "artiste": "Hikari Mitsushima",
+          "lien": "https://eudist.animemusicquiz.com/1lpaik.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1
       ]
     },
     {
@@ -12038,6 +12091,108 @@
       ]
     },
     {
+      "nom": "Gekijouban BanG Dream! It's MyGO!!!!!",
+      "id": 31352,
+      "mal_id": 57754,
+      "nb_musique": 13,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Adayume",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://eudist.animemusicquiz.com/8rksd7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Speed",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://eudist.animemusicquiz.com/yllme13fb9wj5fq9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Haruhikage",
+          "artiste": "CRYCHIC",
+          "lien": "https://eudist.animemusicquiz.com/z67glb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Haruhikage (MyGO!!!!! ver.)",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://eudist.animemusicquiz.com/u3g9vc8sjs7aaphx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Here, the world!",
+          "artiste": "sumimi",
+          "lien": "https://eudist.animemusicquiz.com/q9z280.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hitoshizuku",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://eudist.animemusicquiz.com/pwa5hmd5v0bi5qzr.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kokyuu",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://eudist.animemusicquiz.com/0cddxpakmgl86w5l.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mayoi Uta",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://eudist.animemusicquiz.com/k6udrv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Melody",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://eudist.animemusicquiz.com/h1v83pugjdturr0v.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ningen ni Naritai Uta Piano ver.",
+          "artiste": "Kanon Takao",
+          "lien": "https://eudist.animemusicquiz.com/ydb9qh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Otoichie",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://eudist.animemusicquiz.com/h0xa1z.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sasanqua",
+          "artiste": "Afterglow",
+          "lien": "https://eudist.animemusicquiz.com/fsl8bk.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Utakotoba",
+          "artiste": "MyGO!!!!!",
+          "lien": "https://eudist.animemusicquiz.com/07paf5.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Gekijouban Chainsaw Man: Reze-hen",
       "id": 31068,
       "mal_id": 57555,
@@ -12631,7 +12786,7 @@
       "nom": "Gekijouban Sword Art Online: Ordinal Scale",
       "id": 18141,
       "mal_id": 31765,
-      "nb_musique": 7,
+      "nb_musique": 8,
       "musique": [
         {
           "type": "Ending",
@@ -12671,6 +12826,13 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "the place we should have reached",
+          "artiste": "Remi, Yuriko Kaida, Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/epp2o5.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Ubiquitous dB",
           "artiste": "Sayaka Kanda",
           "lien": "https://eudist.animemusicquiz.com/adzowt.webm"
@@ -12691,7 +12853,7 @@
       "nom": "Gekijouban Sword Art Online: Progressive - Hoshi Naki Yoru no Aria",
       "id": 23784,
       "mal_id": 42916,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Ending",
@@ -12704,14 +12866,21 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "driven to the wall",
-          "artiste": "Remi",
+          "artiste": "Remi & Tokyo Konsei Gasshou-dan",
           "lien": "https://eudist.animemusicquiz.com/lempu9.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "live through our swordland",
+          "artiste": "Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/gd299f.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "to the fierce battlefield",
-          "artiste": "Remi",
+          "artiste": "Remi & Tokyo Konsei Gasshou-dan",
           "lien": "https://eudist.animemusicquiz.com/vq63lm.webm"
         }
       ],
@@ -12723,7 +12892,7 @@
       "nom": "Gekijouban Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo",
       "id": 24922,
       "mal_id": 50275,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Ending",
@@ -12731,6 +12900,13 @@
           "nom": "Shinzou",
           "artiste": "Eir Aoi",
           "lien": "https://eudist.animemusicquiz.com/6zgu95.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "to the next stage",
+          "artiste": "Joelle",
+          "lien": "https://eudist.animemusicquiz.com/j3ohkn.webm"
         }
       ],
       "genres": [
@@ -18771,6 +18947,45 @@
       ]
     },
     {
+      "nom": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+      "id": 31174,
+      "mal_id": 57658,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "AIZO",
+          "artiste": "King Gnu",
+          "lien": "https://eudist.animemusicquiz.com/p8ybi9sl3xs0ojj6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Yoake no Uta",
+          "artiste": "jo0ji",
+          "lien": "https://eudist.animemusicquiz.com/y2t237jqjpc16r3o.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Gray Eyes",
+          "artiste": "Che Lingo",
+          "lien": "https://eudist.animemusicquiz.com/g6kfx2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "LA LA LA LOVE SONG",
+          "artiste": "Toshinobu Kubota with Naomi Campbell",
+          "lien": "https://eudist.animemusicquiz.com/iuci0a.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Juuni Taisen",
       "id": 19335,
       "mal_id": 35076,
@@ -19472,7 +19687,7 @@
       "nom": "Kaijuu 8-gou",
       "id": 32854,
       "mal_id": 59177,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -19487,6 +19702,13 @@
           "nom": "Beautiful Colors",
           "artiste": "ONEREPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/c55kjh3e5yqvqyh3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kikoru no Theme (Extended ver.)",
+          "artiste": "Yuta Bandoh feat. Patrick Paige II, Suni MF & MON/KU",
+          "lien": "https://eudist.animemusicquiz.com/age5gsnm7y7m3517.webm"
         },
         {
           "type": "Insert Song",
@@ -26871,6 +27093,31 @@
       ]
     },
     {
+      "nom": "Medalist",
+      "id": 35420,
+      "mal_id": 61335,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Cold Night",
+          "artiste": "HANA",
+          "lien": "https://eudist.animemusicquiz.com/jfrdbmchbjkzus0c.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Rookies",
+          "artiste": "Conton Candy",
+          "lien": "https://eudist.animemusicquiz.com/m29nfskisio5tq3q.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0
+      ]
+    },
+    {
       "nom": "Megalobox",
       "id": 20565,
       "mal_id": 36563,
@@ -27388,8 +27635,22 @@
       "nom": "Mondaiji-tachi ga Isekai kara Kuru-sou desu yo?",
       "id": 1000188,
       "mal_id": 16444,
-      "nb_musique": 1,
+      "nb_musique": 3,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Black†White",
+          "artiste": "Iori Nomizu",
+          "lien": "https://eudist.animemusicquiz.com/h3lk8es992btvrji.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "To Be Continued?",
+          "artiste": "Kaori Sadohara",
+          "lien": "https://eudist.animemusicquiz.com/1d0xcs2t5nq3knld.webm"
+        },
         {
           "type": "Insert Song",
           "numero": 0,
@@ -36676,6 +36937,45 @@
       ]
     },
     {
+      "nom": "Shibou Yuugi de Meshi o Kuu.",
+      "id": 33452,
+      "mal_id": 59711,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "¬Ersterbend",
+          "artiste": "LIN (MADKID)",
+          "lien": "https://eudist.animemusicquiz.com/7jnvrfbayzo0kj8k.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Whatever Will Be, Will Be (Que Sera, Sera)",
+          "artiste": "Doris Day with Jimmy Joyce and his Children's Chorus",
+          "lien": "https://eudist.animemusicquiz.com/jndum1v85cd5un0x.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Inori",
+          "artiste": "Chiai Fujikawa",
+          "lien": "https://eudist.animemusicquiz.com/oz5o0h9dna2evzlu.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Breathe",
+          "artiste": "Machico, LIN (MADKID)",
+          "lien": "https://eudist.animemusicquiz.com/uv08qk.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+      ]
+    },
+    {
       "nom": "Shigatsu wa Kimi no Uso",
       "id": 16108,
       "mal_id": 23273,
@@ -37986,21 +38286,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -38008,6 +38301,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [
@@ -40088,7 +40388,7 @@
       "nom": "Sword Art Online",
       "id": 13858,
       "mal_id": 11757,
-      "nb_musique": 4,
+      "nb_musique": 8,
       "musique": [
         {
           "type": "Opening",
@@ -40117,6 +40417,34 @@
           "nom": "Overfly",
           "artiste": "Luna Haruna",
           "lien": "https://eudist.animemusicquiz.com/79tw9e.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "false king",
+          "artiste": "Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/uztk9z.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "luminous sword",
+          "artiste": "Remi",
+          "lien": "https://eudist.animemusicquiz.com/sh9jrv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "swordland",
+          "artiste": "Remi & Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/a7pqin.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "we have to defeat it",
+          "artiste": "Remi & Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/acjrfa.webm"
         }
       ],
       "genres": [
@@ -40127,7 +40455,7 @@
       "nom": "Sword Art Online II",
       "id": 15804,
       "mal_id": 21881,
-      "nb_musique": 6,
+      "nb_musique": 11,
       "musique": [
         {
           "type": "Opening",
@@ -40170,6 +40498,41 @@
           "nom": "Shirushi",
           "artiste": "LiSA",
           "lien": "https://eudist.animemusicquiz.com/0v17fr.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "luminous sword",
+          "artiste": "Remi",
+          "lien": "https://eudist.animemusicquiz.com/vn2gby.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "moon and shadow",
+          "artiste": "Remi",
+          "lien": "https://eudist.animemusicquiz.com/us2cag.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "she has to overcome her fear",
+          "artiste": "Remi",
+          "lien": "https://eudist.animemusicquiz.com/hy47te.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "swordland",
+          "artiste": "Remi & Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/wrc5ni.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "we have to defeat it",
+          "artiste": "Remi & Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/wo3wn6.webm"
         }
       ],
       "genres": [
@@ -40180,7 +40543,7 @@
       "nom": "Sword Art Online: Alicization",
       "id": 20665,
       "mal_id": 36474,
-      "nb_musique": 7,
+      "nb_musique": 10,
       "musique": [
         {
           "type": "Opening",
@@ -40220,6 +40583,20 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Administrator",
+          "artiste": "Remi",
+          "lien": "https://eudist.animemusicquiz.com/jig55s.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "find your sword in this land",
+          "artiste": "Remi",
+          "lien": "https://eudist.animemusicquiz.com/ijwa4v.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "longing",
           "artiste": "Sayaka Kanda",
           "lien": "https://eudist.animemusicquiz.com/r4uhvw.webm"
@@ -40230,6 +40607,13 @@
           "nom": "Niji no Kanata ni",
           "artiste": "ReoNa",
           "lien": "https://eudist.animemusicquiz.com/d39udt.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "she was sitting under the osmanthus tree",
+          "artiste": "Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/mlxf7s.webm"
         }
       ],
       "genres": [
@@ -40240,7 +40624,7 @@
       "nom": "Sword Art Online: Alicization - War of Underworld",
       "id": 22044,
       "mal_id": 39597,
-      "nb_musique": 2,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -40255,6 +40639,27 @@
           "nom": "unlasting",
           "artiste": "LiSA",
           "lien": "https://eudist.animemusicquiz.com/cywd9d.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "she was sitting under the osmanthus tree",
+          "artiste": "Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/7y72fr.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "the Human Empire Army",
+          "artiste": "Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/x63sal.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "this is the price of the war",
+          "artiste": "Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/x37of6.webm"
         }
       ],
       "genres": [
@@ -40263,9 +40668,27 @@
     },
     {
       "nom": "Sword Art Online: Alicization - War of Underworld",
+      "id": 22981,
+      "mal_id": 40489,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Blazing the future",
+          "artiste": "Yoshitsugu Matsuoka, Nobunaga Shimazaki, Ai Kayano",
+          "lien": "https://eudist.animemusicquiz.com/4rmoa8.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Sword Art Online: Alicization - War of Underworld",
       "id": 23030,
       "mal_id": 40540,
-      "nb_musique": 3,
+      "nb_musique": 10,
       "musique": [
         {
           "type": "Opening",
@@ -40284,9 +40707,58 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Bercouli",
+          "artiste": "Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/udf4w9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "death angel",
+          "artiste": "Remi",
+          "lien": "https://eudist.animemusicquiz.com/f6ckmv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "find your sword in this land",
+          "artiste": "Remi",
+          "lien": "https://eudist.animemusicquiz.com/pgn4cw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "longing",
           "artiste": "Sayaka Kanda",
           "lien": "https://eudist.animemusicquiz.com/1eqz2k.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "she has to overcome her fear",
+          "artiste": "Remi",
+          "lien": "https://eudist.animemusicquiz.com/n36r7x.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "the final war",
+          "artiste": "Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/00jc9w.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "the Human Empire Army",
+          "artiste": "Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/r0jm0y.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "this is the price of the war",
+          "artiste": "Tokyo Konsei Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/1n24vb.webm"
         }
       ],
       "genres": [
@@ -40305,24 +40777,6 @@
           "nom": "Meaning the start",
           "artiste": "Ai Kayano",
           "lien": "https://eudist.animemusicquiz.com/lfs4pb.webm"
-        }
-      ],
-      "genres": [
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-      ]
-    },
-    {
-      "nom": "Sword Art Online: Alicization - War of Underworld Reflection",
-      "id": 22981,
-      "mal_id": 40489,
-      "nb_musique": 1,
-      "musique": [
-        {
-          "type": "Ending",
-          "numero": 1,
-          "nom": "Blazing the future",
-          "artiste": "Yoshitsugu Matsuoka, Nobunaga Shimazaki, Ai Kayano",
-          "lien": "https://eudist.animemusicquiz.com/4rmoa8.webm"
         }
       ],
       "genres": [
@@ -46053,6 +46507,31 @@
       ],
       "genres": [
           1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+      "id": 29058,
+      "mal_id": 56009,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kill the Noise",
+          "artiste": "SPYAIR",
+          "lien": "https://eudist.animemusicquiz.com/t2jc4iipu1494n7g.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kill the Noise",
+          "artiste": "SPYAIR",
+          "lien": "https://eudist.animemusicquiz.com/15j1mq3tmd0e36g0.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

@@ -89,6 +89,14 @@
             ]
         },
         {
+            "songName": "Hitoshizuku",
+            "artist": "MyGO!!!!!",
+            "types": [
+                "opening 1",
+                "insert song"
+            ]
+        },
+        {
             "songName": "Many Stories-epilogue-",
             "artist": "Chica",
             "types": [
@@ -407,6 +415,14 @@
             "types": [
                 "ending 4",
                 "ending 1"
+            ]
+        },
+        {
+            "songName": "LA LA LA LOVE SONG",
+            "artist": "Toshinobu Kubota with Naomi Campbell",
+            "types": [
+                "insert song",
+                "ending 3"
             ]
         },
         {
@@ -889,6 +905,14 @@
             "types": [
                 "opening 1",
                 "ending 3"
+            ]
+        },
+        {
+            "songName": "Kill the Noise",
+            "artist": "SPYAIR",
+            "types": [
+                "opening 1",
+                "ending 1"
             ]
         }
     ]

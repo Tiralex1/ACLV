@@ -1,6 +1,6 @@
 {
   "nb_anime": 1091,
-  "nb_musique": 4994,
+  "nb_musique": 5008,
   "anime": [
     {
       "nom": "\"Oshi no Ko\"",
@@ -14379,7 +14379,7 @@
       "nom": "Gridman Universe",
       "id": 25050,
       "mal_id": 50587,
-      "nb_musique": 5,
+      "nb_musique": 9,
       "musique": [
         {
           "type": "Ending",
@@ -14391,9 +14391,23 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "2201 suffocation",
+          "artiste": "Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Michael George",
+          "lien": "https://eudist.animemusicquiz.com/nzop592c5ya4f4eb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "all this metal 2023",
           "artiste": "Shiro SAGISU featuring Hazel Fernandes",
           "lien": "https://eudist.animemusicquiz.com/cb9jeh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "dyna march 108bpm 2023",
+          "artiste": "Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Michael George",
+          "lien": "https://eudist.animemusicquiz.com/r91xfupxot4o2f1z.webm"
         },
         {
           "type": "Insert Song",
@@ -14405,9 +14419,23 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Human Love CHHF 2023",
+          "artiste": "Paul Lee",
+          "lien": "https://eudist.animemusicquiz.com/twjkxeiqsqbt5bgg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Imperfect",
           "artiste": "Masayoshi Ooishi",
           "lien": "https://eudist.animemusicquiz.com/wp8kpa.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "M10 galaxy gridman edit",
+          "artiste": "Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Michael George",
+          "lien": "https://eudist.animemusicquiz.com/81mjurprgm8putof.webm"
         },
         {
           "type": "Insert Song",
@@ -16902,7 +16930,7 @@
       "nom": "Ikoku Nikki",
       "id": 32711,
       "mal_id": 58788,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -16917,6 +16945,13 @@
           "nom": "Kotozute",
           "artiste": "Bialystocks",
           "lien": "https://eudist.animemusicquiz.com/oln80yl4cnl93ehe.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Upon You",
+          "artiste": "Bialystocks",
+          "lien": "https://eudist.animemusicquiz.com/xjxj4f4giayhy2pk.webm"
         }
       ],
       "genres": [
@@ -18660,7 +18695,7 @@
       "nom": "Jingai Kyoushitsu no Ningengirai Kyoushi",
       "id": 37828,
       "mal_id": 62432,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -18675,6 +18710,13 @@
           "nom": "Ningen Come True!",
           "artiste": "Sora Amamiya, Saori Oonishi, Maria Naganawa, Rui Tanabe",
           "lien": "https://eudist.animemusicquiz.com/nxebe3s8u2qzx3vp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Sora no Iro",
+          "artiste": "Rui Tanabe",
+          "lien": "https://eudist.animemusicquiz.com/0vrk41lm5e8vpdil.webm"
         }
       ],
       "genres": [
@@ -37944,7 +37986,7 @@
       "nom": "Shinseiki Evangelion",
       "id": 49,
       "mal_id": 30,
-      "nb_musique": 23,
+      "nb_musique": 25,
       "musique": [
         {
           "type": "Opening",
@@ -38075,6 +38117,13 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "CHORUS: Hallelujah",
+          "artiste": "Margaret Price, Yvonne Minton, Alexander Young, Justino Diaz, Amor Artis Chorale",
+          "lien": "https://eudist.animemusicquiz.com/ktsavp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "FACE",
           "artiste": "Masami Okui",
           "lien": "https://eudist.animemusicquiz.com/pcfmzk.webm"
@@ -38099,6 +38148,13 @@
           "nom": "Ryoute Ippai no Yume",
           "artiste": "Masami Okui",
           "lien": "https://eudist.animemusicquiz.com/lt1xmu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "SYMPHONY No.9 IN D MINOR, Op.125 \"CHORAL\" 4th Mov.: Presto",
+          "artiste": "Miriam Gauci, Lucienne van Deyck, Donald George, Marcel Rosca, Cantores Oratorio Choir, Bruges",
+          "lien": "https://eudist.animemusicquiz.com/30t33h.webm"
         },
         {
           "type": "Insert Song",
@@ -39511,7 +39567,7 @@
       "nom": "SSSS.DYNAZENON",
       "id": 23822,
       "mal_id": 40870,
-      "nb_musique": 12,
+      "nb_musique": 14,
       "musique": [
         {
           "type": "Opening",
@@ -39547,6 +39603,20 @@
           "nom": "ALL THIS TIME",
           "artiste": "Shiro SAGISU featuring Hazel Fernandes",
           "lien": "https://eudist.animemusicquiz.com/a1zl8t.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "dyna attack 120bpm",
+          "artiste": "Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Michael George",
+          "lien": "https://eudist.animemusicquiz.com/cnhzf27u85lwqs9h.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "dyna march 108bpm",
+          "artiste": "Catherine Bott, Deborah Miles-Johnson, Andrew Busher, Michael George",
+          "lien": "https://eudist.animemusicquiz.com/zoboxexywh9ocw0x.webm"
         },
         {
           "type": "Insert Song",
@@ -39606,7 +39676,7 @@
       "nom": "SSSS.GRIDMAN",
       "id": 20369,
       "mal_id": 35847,
-      "nb_musique": 5,
+      "nb_musique": 9,
       "musique": [
         {
           "type": "Opening",
@@ -39625,9 +39695,37 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "1144_united_full",
+          "artiste": "Our Special Choir",
+          "lien": "https://eudist.animemusicquiz.com/rafrpr2v0c38ek56.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Gruss Elise von mir",
+          "artiste": "Juriano Hagiwara feat. Tsukasa Matsubara",
+          "lien": "https://eudist.animemusicquiz.com/hzh316ckb4k3kff0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "HL_29_mysterious_vox",
+          "artiste": "Paul Lee",
+          "lien": "https://eudist.animemusicquiz.com/mytzb8u9owcemvql.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "HumanLove",
           "artiste": "Paul Lee",
           "lien": "https://eudist.animemusicquiz.com/ib7vdq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "HumanLove_CH_metal_all",
+          "artiste": "Paul Lee",
+          "lien": "https://eudist.animemusicquiz.com/lo4vajeh1ru36ldh.webm"
         },
         {
           "type": "Insert Song",

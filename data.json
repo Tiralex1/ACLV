@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1097,
-  "nb_musique": 5029,
+  "nb_anime": 1101,
+  "nb_musique": 5054,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3337,14 +3337,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -6091,6 +6091,94 @@
       ],
       "genres": [
           0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Chou Kaguya-hime!",
+      "id": 37969,
+      "mal_id": 62896,
+      "nb_musique": 11,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Remember",
+          "artiste": "Saori Hayami",
+          "lien": "https://eudist.animemusicquiz.com/dl42c92dj7xax3b4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "ray Chou Kaguya-hime! Version",
+          "artiste": "Yuuko Natsuyoshi & Saori Hayami",
+          "lien": "https://eudist.animemusicquiz.com/ke7zw59edfzlvyar.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Melt CPK! Remix",
+          "artiste": "ryo (supercell) feat. Yuuko Natsuyoshi",
+          "lien": "https://eudist.animemusicquiz.com/9a49e4fwczs86qjz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ex-Otogibanashi",
+          "artiste": "Yuuko Natsuyoshi & Saori Hayami",
+          "lien": "https://eudist.animemusicquiz.com/hg5z70jybj0o0vxf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Happy Synthesizer (COVER)",
+          "artiste": "Yuuko Natsuyoshi",
+          "lien": "https://eudist.animemusicquiz.com/ijsnd9gwpu54mcqt.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hoshi Furu Umi",
+          "artiste": "Saori Hayami",
+          "lien": "https://eudist.animemusicquiz.com/affwibpxukkz967p.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "OnyXXX",
+          "artiste": "Black onyX",
+          "lien": "https://eudist.animemusicquiz.com/fwtn9k65bu1ggnbt.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Reply",
+          "artiste": "Yuuko Natsuyoshi",
+          "lien": "https://eudist.animemusicquiz.com/34uqf6cuc4v16a20.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shunkan, Symphony.",
+          "artiste": "Yuuko Natsuyoshi",
+          "lien": "https://eudist.animemusicquiz.com/tk0be8wif7c1nhcy.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Watashi wa, Watashi no Koto ga Suki.",
+          "artiste": "Yuuko Natsuyoshi",
+          "lien": "https://eudist.animemusicquiz.com/ke7xno59vzgffo97.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "World is Mine CPK! Remix",
+          "artiste": "ryo (supercell) feat. Yuuko Natsuyoshi & Saori Hayami",
+          "lien": "https://eudist.animemusicquiz.com/bk6so464rykpyl8k.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -10137,7 +10225,7 @@
       "nom": "Enen no Shouboutai",
       "id": 21852,
       "mal_id": 38671,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -10166,6 +10254,13 @@
           "nom": "Nounai",
           "artiste": "Lenny code fiction",
           "lien": "https://eudist.animemusicquiz.com/hkt7ei.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shounetsu Requiem",
+          "artiste": "Hikaru Ishihara, Mizuka Kobayashi, Arisa Sato, Yuki Hino, Suzuka Sato, Ayumi Terashima, Marino Yokose, Rina Wako, Shinichi Takai, Taichiro Hirano, Fuminori Hoshino, Shinya Numata, Yosuke Kawano, Yosuke Kanekon, Yuki Sato, Keiichi Takada",
+          "lien": "https://eudist.animemusicquiz.com/xpru5eeb2fd3evms.webm"
         }
       ],
       "genres": [
@@ -10176,7 +10271,7 @@
       "nom": "Enen no Shouboutai: Ni no Shou",
       "id": 22952,
       "mal_id": 40956,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -10212,6 +10307,13 @@
           "nom": "Inferno",
           "artiste": "Mrs. GREEN APPLE",
           "lien": "https://eudist.animemusicquiz.com/xsyalf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shounetsu Requiem",
+          "artiste": "Hikaru Ishihara, Mizuka Kobayashi, Arisa Sato, Yuki Hino, Suzuka Sato, Ayumi Terashima, Marino Yokose, Rina Wako, Shinichi Takai, Taichiro Hirano, Fuminori Hoshino, Shinya Numata, Yosuke Kawano, Yosuke Kanekon, Yuki Sato, Keiichi Takada",
+          "lien": "https://eudist.animemusicquiz.com/o1qtph7wf4w9dcos.webm"
         }
       ],
       "genres": [
@@ -10222,7 +10324,7 @@
       "nom": "Enen no Shouboutai: San no Shou",
       "id": 25700,
       "mal_id": 51818,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -10237,6 +10339,13 @@
           "nom": "Urusiren",
           "artiste": "Umeda Cypher",
           "lien": "https://eudist.animemusicquiz.com/ahw1eu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shounetsu Requiem",
+          "artiste": "Hikaru Ishihara, Mizuka Kobayashi, Arisa Sato, Yuki Hino, Suzuka Sato, Ayumi Terashima, Marino Yokose, Rina Wako, Shinichi Takai, Taichiro Hirano, Fuminori Hoshino, Shinya Numata, Yosuke Kawano, Yosuke Kanekon, Yuki Sato, Keiichi Takada",
+          "lien": "https://eudist.animemusicquiz.com/87moke0nzhpdupbf.webm"
         }
       ],
       "genres": [
@@ -18706,6 +18815,31 @@
           "nom": "Kamihitoe",
           "artiste": "Uru",
           "lien": "https://eudist.animemusicquiz.com/316238.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Jigokuraku",
+      "id": 28842,
+      "mal_id": 55825,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kasukana Hana",
+          "artiste": "Tatsuya Kitani feat. BABYMETAL",
+          "lien": "https://eudist.animemusicquiz.com/opna02ofo5s75j51.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "PERSONAL",
+          "artiste": "Ziyoou-vachi",
+          "lien": "https://eudist.animemusicquiz.com/0qfv0s7rggc0xec3.webm"
         }
       ],
       "genres": [
@@ -31925,7 +32059,7 @@
       "nom": "Orange",
       "id": 18075,
       "mal_id": 32729,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -31940,6 +32074,20 @@
           "nom": "Mirai",
           "artiste": "Kobukuro",
           "lien": "https://eudist.animemusicquiz.com/0p8uhf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Matsumoto Bonbon",
+          "artiste": "Yoko Maekawa, Tetsuya Ono, Toei Young Fresh",
+          "lien": "https://eudist.animemusicquiz.com/zrpya85asysc6nak.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "poison smile",
+          "artiste": "ENA & KOCHO",
+          "lien": "https://eudist.animemusicquiz.com/j5e41ph41i39xnm1.webm"
         }
       ],
       "genres": [
@@ -36280,6 +36428,31 @@
       ]
     },
     {
+      "nom": "Seihantai na Kimi to Boku",
+      "id": 34083,
+      "mal_id": 60371,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Megane o Hazushite",
+          "artiste": "noa",
+          "lien": "https://eudist.animemusicquiz.com/25vs7llvtwbf2526.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Pure",
+          "artiste": "PAS TASTA feat. Eriko Hashimoto",
+          "lien": "https://eudist.animemusicquiz.com/ftztucrs4m3zsxg9.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Seija Musou: Salaryman, Isekai de Ikiru Tame ni Ayumu Michi",
       "id": 26414,
       "mal_id": 53263,
@@ -38477,21 +38650,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -38499,6 +38665,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [
@@ -41254,7 +41427,7 @@
       "nom": "Takt Op.Destiny",
       "id": 24192,
       "mal_id": 48556,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -41269,6 +41442,20 @@
           "nom": "SYMPHONIA",
           "artiste": "Mika Nakashima",
           "lien": "https://eudist.animemusicquiz.com/e1ninm.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Destiny",
+          "artiste": "Chika Higashinaka, Eri Sawae, Kanaoko Tominaga, Miku Kinoshita, Eri Hoshino, Miho Sannomiya, Yuka Kobayashi, Yasuko Kinoshita, Takashi Otsuki, Junya Katayose, Eijiro Takanashi, Chikashi Handa, Haruki Oshimi, Tetsuya Oi, Hikaru Onodera, Toshiya Yabuuchi",
+          "lien": "https://eudist.animemusicquiz.com/qwxpb4o5z5ekul0h.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Requiem ni Tanchou K.626 kara Ikari no Hi",
+          "artiste": "Vienna Kokuritsu Kagekijou Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/gkqw58y6mu858mpm.webm"
         },
         {
           "type": "Insert Song",
@@ -43531,7 +43718,7 @@
       "nom": "Towa no Yuugure",
       "id": 36758,
       "mal_id": 61917,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -43560,10 +43747,42 @@
           "nom": "Hoshi Tsumugi",
           "artiste": "Hana Hope",
           "lien": "https://eudist.animemusicquiz.com/zvpapt7wftbbgax3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Tokubetsu na Chi",
+          "artiste": "Marie Kocho",
+          "lien": "https://eudist.animemusicquiz.com/xu8zt5.webm"
         }
       ],
       "genres": [
           1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Towa no Yuugure",
+      "id": 1000255,
+      "mal_id": 62359,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hoshi Tsumugi",
+          "artiste": "Hana Hope",
+          "lien": "https://eudist.animemusicquiz.com/sqoqqq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Towa no Yuugure ~Kokuhaku~",
+          "artiste": "Marie Kocho",
+          "lien": "https://eudist.animemusicquiz.com/zrufj0.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
       ]
     },
     {

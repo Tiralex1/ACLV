@@ -386,6 +386,14 @@
             ]
         },
         {
+            "songName": "Massakasa Magic!",
+            "artist": "shallm",
+            "types": [
+                "opening 1",
+                "insert song"
+            ]
+        },
+        {
             "songName": "REASON",
             "artist": "Yuzu",
             "types": [
@@ -768,6 +776,14 @@
             "types": [
                 "ending 2",
                 "insert song"
+            ]
+        },
+        {
+            "songName": "INERTIA",
+            "artist": "SawanoHiroyuki[nZk]:Rei & SennaRin",
+            "types": [
+                "opening 2",
+                "ending 4"
             ]
         },
         {

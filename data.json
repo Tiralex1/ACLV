@@ -1,6 +1,6 @@
 {
   "nb_anime": 1122,
-  "nb_musique": 5161,
+  "nb_musique": 5170,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3436,14 +3436,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -11216,7 +11216,7 @@
       "nom": "Fate/stay night",
       "id": 5394,
       "mal_id": 356,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -11252,6 +11252,13 @@
           "nom": "Kimi to no Ashita",
           "artiste": "Sachi Tainaka",
           "lien": "https://eudist.animemusicquiz.com/0p4b9i.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Eirei Chinkon",
+          "artiste": "Hisako Sasaki",
+          "lien": "https://eudist.animemusicquiz.com/s9i113edc8kusv7a.webm"
         },
         {
           "type": "Insert Song",
@@ -17403,7 +17410,7 @@
       "nom": "Ikoku Nikki",
       "id": 32711,
       "mal_id": 58788,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -17418,6 +17425,13 @@
           "nom": "Kotozute",
           "artiste": "Bialystocks",
           "lien": "https://eudist.animemusicquiz.com/oln80yl4cnl93ehe.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sonare",
+          "artiste": "Fuko Mori",
+          "lien": "https://eudist.animemusicquiz.com/svf2e7.webm"
         },
         {
           "type": "Insert Song",
@@ -21193,7 +21207,7 @@
       "nom": "Kaoru Hana wa Rin to Saku",
       "id": 33549,
       "mal_id": 59845,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -21215,6 +21229,13 @@
           "nom": "Hitohira",
           "artiste": "Hitomi Miyahara",
           "lien": "https://eudist.animemusicquiz.com/thng7x4ttp1ns4df.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Haru ni (Kikyou Gakuen Joshi Koutougakkou ver.)",
+          "artiste": "Kikyou Gakuen Joshi Koutougakkou",
+          "lien": "https://eudist.animemusicquiz.com/v5eia3.webm"
         }
       ],
       "genres": [
@@ -23112,7 +23133,7 @@
       "nom": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara o Eru",
       "id": 34257,
       "mal_id": 60692,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -23127,6 +23148,13 @@
           "nom": "You'll Be In My Heart ~Soba ni~",
           "artiste": "Azusa Tachibana",
           "lien": "https://eudist.animemusicquiz.com/snj48czbz1489a2a.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Hokorobibana yo Mata Sakihokore",
+          "artiste": "Azusa Tachibana",
+          "lien": "https://eudist.animemusicquiz.com/j9jtcth0a20kckh8.webm"
         },
         {
           "type": "Insert Song",
@@ -35807,7 +35835,7 @@
       "nom": "Reincarnation no Kaben",
       "id": 33056,
       "mal_id": 59443,
-      "nb_musique": 1,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -35815,6 +35843,13 @@
           "nom": "Glitch*",
           "artiste": "eill",
           "lien": "https://eudist.animemusicquiz.com/q918ci.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Zero",
+          "artiste": "Sizuk feat. AYAME",
+          "lien": "https://eudist.animemusicquiz.com/l31rnv.webm"
         }
       ],
       "genres": [
@@ -37519,7 +37554,7 @@
       "nom": "Seishun Buta Yarou wa Santa Claus no Yume o Minai",
       "id": 33077,
       "mal_id": 57433,
-      "nb_musique": 13,
+      "nb_musique": 16,
       "musique": [
         {
           "type": "Opening",
@@ -37580,6 +37615,20 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "I need you",
+          "artiste": "Touko Kirishima",
+          "lien": "https://eudist.animemusicquiz.com/c9raqy8k3kaffee8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Muse ni Nacchau",
+          "artiste": "Sweet Bullet",
+          "lien": "https://eudist.animemusicquiz.com/bh58aispwbmq3ubw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Muse ni Nacchau",
           "artiste": "Sweet Bullet",
           "lien": "https://eudist.animemusicquiz.com/ji363w3pxxpxewjz.webm"
@@ -37611,6 +37660,13 @@
           "nom": "Social World band arrange",
           "artiste": "Asami Seto",
           "lien": "https://eudist.animemusicquiz.com/qx5dbshigvo1rupt.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Social World piano arrange",
+          "artiste": "Reina Ueda",
+          "lien": "https://eudist.animemusicquiz.com/10ejbjolu9jfsnxu.webm"
         }
       ],
       "genres": [
@@ -39436,21 +39492,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
@@ -39458,6 +39507,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
         }
       ],
       "genres": [
@@ -48436,7 +48492,7 @@
       "nom": "Übel Blatt",
       "id": 32211,
       "mal_id": 58216,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -48465,6 +48521,13 @@
           "nom": "Hymn of Awakening",
           "artiste": "alico",
           "lien": "https://eudist.animemusicquiz.com/9j4njw.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Revenge of the Forest of Death",
+          "artiste": "alico & Shun Narita",
+          "lien": "https://eudist.animemusicquiz.com/itg1sp.webm"
         }
       ],
       "genres": [

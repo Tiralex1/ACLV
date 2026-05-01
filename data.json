@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1122,
-  "nb_musique": 5170,
+  "nb_anime": 1124,
+  "nb_musique": 5184,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -1691,7 +1691,7 @@
           "numero": 0,
           "nom": "I Left You",
           "artiste": "REMEDIOS",
-          "lien": "https://eudist.animemusicquiz.com/p1dzt3.webm"
+          "lien": "https://eudist.animemusicquiz.com/xg11mwvsp7yy305t.webm"
         }
       ],
       "genres": [
@@ -3436,14 +3436,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -4057,7 +4057,7 @@
           "numero": 2,
           "nom": "Bon Appétit♡S -All Staff ver.-",
           "artiste": "Anzu Haruno, Akari Kitou, Tomoaki Maeno, Tatsuhisa Suzuki, Atsumi Tanezaki, Sora Tokui, Azumi Waki",
-          "lien": "https://eudist.animemusicquiz.com/hd68im.webm"
+          "lien": "https://eudist.animemusicquiz.com/vxxmtiplcept5pdz.webm"
         },
         {
           "type": "Insert Song",
@@ -23987,6 +23987,80 @@
       ]
     },
     {
+      "nom": "Koutetsujou no Kabaneri",
+      "id": 16595,
+      "mal_id": 28623,
+      "nb_musique": 9,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "KABANERI OF THE IRON FORTRESS",
+          "artiste": "EGOIST",
+          "lien": "https://eudist.animemusicquiz.com/vn0gx7.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "ninelie",
+          "artiste": "Aimer with chelly (EGOIST)",
+          "lien": "https://eudist.animemusicquiz.com/kwl5qq.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Through My Blood <AM>",
+          "artiste": "Aimer",
+          "lien": "https://eudist.animemusicquiz.com/6w78z6.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Grenzlinie",
+          "artiste": "Cyua",
+          "lien": "https://eudist.animemusicquiz.com/4xt70t.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "1coma",
+          "artiste": "Mika Kobayashi",
+          "lien": "https://eudist.animemusicquiz.com/ljya6z.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Icon",
+          "artiste": "Eliana",
+          "lien": "https://eudist.animemusicquiz.com/p0tzzn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Next of Kin",
+          "artiste": "Benjamin Anderson",
+          "lien": "https://eudist.animemusicquiz.com/k54z3w.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Through My Blood",
+          "artiste": "Mika Kobayashi",
+          "lien": "https://eudist.animemusicquiz.com/0mkggf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Warcry",
+          "artiste": "mpi",
+          "lien": "https://eudist.animemusicquiz.com/qyts1s.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Koyomimonogatari",
       "id": 17938,
       "mal_id": 32268,
@@ -27010,7 +27084,7 @@
           "numero": 0,
           "nom": "Kimi no Koakuma Mokushiroku",
           "artiste": "Nao Touyama & Ayumu Murase",
-          "lien": "https://eudist.animemusicquiz.com/4quwzt.webm"
+          "lien": "https://eudist.animemusicquiz.com/1nq7q4iou4i3sdfp.webm"
         }
       ],
       "genres": [
@@ -27056,7 +27130,7 @@
           "numero": 0,
           "nom": "Gaya Gaya Mori wa Supermarket",
           "artiste": "Valac Ikka",
-          "lien": "https://eudist.animemusicquiz.com/3d2meb.webm"
+          "lien": "https://eudist.animemusicquiz.com/sbw2nuffec7vhw7o.webm"
         },
         {
           "type": "Insert Song",
@@ -27070,7 +27144,7 @@
           "numero": 0,
           "nom": "Mai Mai Teacher",
           "artiste": "Valac Ikka",
-          "lien": "https://eudist.animemusicquiz.com/5ijt9n.webm"
+          "lien": "https://eudist.animemusicquiz.com/7pp3efjuhl2yvvvu.webm"
         },
         {
           "type": "Insert Song",
@@ -31387,7 +31461,7 @@
           "numero": 2,
           "nom": "Onegai☆Snyaiper",
           "artiste": "Miyuki Sawashiro",
-          "lien": "https://eudist.animemusicquiz.com/pm2xg1.webm"
+          "lien": "https://eudist.animemusicquiz.com/mvoyfxkep9y39onu.webm"
         },
         {
           "type": "Ending",
@@ -37624,14 +37698,14 @@
           "numero": 0,
           "nom": "Muse ni Nacchau",
           "artiste": "Sweet Bullet",
-          "lien": "https://eudist.animemusicquiz.com/bh58aispwbmq3ubw.webm"
+          "lien": "https://eudist.animemusicquiz.com/ji363w3pxxpxewjz.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Muse ni Nacchau",
           "artiste": "Sweet Bullet",
-          "lien": "https://eudist.animemusicquiz.com/ji363w3pxxpxewjz.webm"
+          "lien": "https://eudist.animemusicquiz.com/bh58aispwbmq3ubw.webm"
         },
         {
           "type": "Insert Song",
@@ -39206,7 +39280,7 @@
           "numero": 8,
           "nom": "FLY ME TO THE MOON -4 BEAT OFF VOCAL VERSION-",
           "artiste": "Toshiyuki Omori",
-          "lien": "https://eudist.animemusicquiz.com/jqpnkd.webm"
+          "lien": "https://eudist.animemusicquiz.com/gk0ju3fxypratqhn.webm"
         },
         {
           "type": "Ending",
@@ -39492,21 +39566,14 @@
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
+          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Nakinagara, Tanmen",
           "artiste": "Tomoko Tsutsumida",
-          "lien": "https://eudist.animemusicquiz.com/xf5efachuom0whon.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Shoushimin Series Main Theme",
-          "artiste": "EUREKA REPUBLIC",
-          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
+          "lien": "https://eudist.animemusicquiz.com/709qmez5g9gwdqwy.webm"
         },
         {
           "type": "Insert Song",
@@ -39514,6 +39581,13 @@
           "nom": "Shoushimin Series Main Theme",
           "artiste": "EUREKA REPUBLIC",
           "lien": "https://eudist.animemusicquiz.com/s743nf9cyyitlnhz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shoushimin Series Main Theme",
+          "artiste": "EUREKA REPUBLIC",
+          "lien": "https://eudist.animemusicquiz.com/ymx35lvqmeaxswyn.webm"
         }
       ],
       "genres": [
@@ -40416,7 +40490,7 @@
       "nom": "Sousou no Frieren",
       "id": 26334,
       "mal_id": 52991,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -40452,6 +40526,13 @@
           "nom": "bliss",
           "artiste": "milet",
           "lien": "https://eudist.animemusicquiz.com/wq97sv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Frieren the Slayer",
+          "artiste": "Budapest Scoring Choir",
+          "lien": "https://eudist.animemusicquiz.com/7fotqhd5xx0ioktn.webm"
         }
       ],
       "genres": [
@@ -40462,7 +40543,7 @@
       "nom": "Sousou no Frieren",
       "id": 33628,
       "mal_id": 59978,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -40484,6 +40565,13 @@
           "nom": "Trace",
           "artiste": "milet",
           "lien": "https://eudist.animemusicquiz.com/6c776wgmd0ns7o2c.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "The Golden Land",
+          "artiste": "Budapest Scoring Choir",
+          "lien": "https://eudist.animemusicquiz.com/7ktsecajyfh3wu8o.webm"
         }
       ],
       "genres": [
@@ -42761,7 +42849,7 @@
           "numero": 2,
           "nom": "Ai ni Dekiru Koto wa Mada Aru Kai",
           "artiste": "RADWIMPS",
-          "lien": "https://eudist.animemusicquiz.com/6yeoio.webm"
+          "lien": "https://eudist.animemusicquiz.com/h49hxzi9r77hlfb9.webm"
         },
         {
           "type": "Insert Song",
@@ -45326,6 +45414,38 @@
           "nom": "Shin Kasamatsu Ondo",
           "artiste": "Michiya Mihashi",
           "lien": "https://eudist.animemusicquiz.com/noi659s3d7s7h098.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+      ]
+    },
+    {
+      "nom": "Uma Musume: Cinderella Gray",
+      "id": 36789,
+      "mal_id": 61930,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Spurt Syndromer",
+          "artiste": "10-FEET",
+          "lien": "https://eudist.animemusicquiz.com/ys9b4os2zl78y9fo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Futari",
+          "artiste": "Tomoyo Takayanagi & Naomi Oozora",
+          "lien": "https://eudist.animemusicquiz.com/msm2drinalvpnfb2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "NEXT FRONTIER",
+          "artiste": "Tomoyo Takayanagi, Naomi Oozora, Yumiri Hanamori",
+          "lien": "https://eudist.animemusicquiz.com/otfbn4pcihbv0ews.webm"
         }
       ],
       "genres": [

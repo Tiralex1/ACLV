@@ -1,6 +1,6 @@
 {
   "nb_anime": 1125,
-  "nb_musique": 5176,
+  "nb_musique": 5175,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -31730,7 +31730,7 @@
       "nom": "One Piece",
       "id": 836,
       "mal_id": 21,
-      "nb_musique": 75,
+      "nb_musique": 74,
       "musique": [
         {
           "type": "Opening",
@@ -32249,13 +32249,6 @@
           "nom": "We Are! for the new world",
           "artiste": "Hiroshi Kitadani",
           "lien": "https://eudist.animemusicquiz.com/doljbt.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Zombie Night",
-          "artiste": "Thriller Bark Zombie",
-          "lien": "https://eudist.animemusicquiz.com/w6c0kx.webm"
         }
       ],
       "genres": [

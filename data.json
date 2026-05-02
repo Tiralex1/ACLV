@@ -1,6 +1,6 @@
 {
   "nb_anime": 1125,
-  "nb_musique": 5175,
+  "nb_musique": 5174,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -43590,7 +43590,7 @@
       "nom": "To Be Hero X",
       "id": 27609,
       "mal_id": 53447,
-      "nb_musique": 21,
+      "nb_musique": 20,
       "musique": [
         {
           "type": "Opening",
@@ -43626,13 +43626,6 @@
           "nom": "NEON RAIN",
           "artiste": "Eliana",
           "lien": "https://eudist.animemusicquiz.com/0i6u28.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 4,
-          "nom": "INERTIA",
-          "artiste": "SawanoHiroyuki[nZk]:Rei & SennaRin",
-          "lien": "https://eudist.animemusicquiz.com/j6aja7z5fqktd47l.webm"
         },
         {
           "type": "Insert Song",

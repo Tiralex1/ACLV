@@ -33,14 +33,6 @@
             ]
         },
         {
-            "songName": "Voices of the Chord",
-            "artist": "Gemie",
-            "types": [
-                "ending 3",
-                "insert song"
-            ]
-        },
-        {
             "songName": "Yasashii Kibou",
             "artist": "Saori Hayami",
             "types": [
@@ -93,6 +85,14 @@
             "artist": "MyGO!!!!!",
             "types": [
                 "opening 1",
+                "insert song"
+            ]
+        },
+        {
+            "songName": "Le zoo",
+            "artist": "YURiKA",
+            "types": [
+                "ending 1",
                 "insert song"
             ]
         },
@@ -295,14 +295,6 @@
             "types": [
                 "opening 1",
                 "ending 2"
-            ]
-        },
-        {
-            "songName": "Jigoku no Orphée",
-            "artist": "Freshman Wind Ensemble",
-            "types": [
-                "opening 1",
-                "insert song"
             ]
         },
         {

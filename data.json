@@ -1,6 +1,6 @@
 {
   "nb_anime": 1125,
-  "nb_musique": 5174,
+  "nb_musique": 5176,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -6707,7 +6707,7 @@
       "nom": "Code Geass: Hangyaku no Lelouch",
       "id": 6704,
       "mal_id": 1575,
-      "nb_musique": 17,
+      "nb_musique": 18,
       "musique": [
         {
           "type": "Opening",
@@ -6785,6 +6785,13 @@
           "nom": "Alone",
           "artiste": "Hitomi",
           "lien": "https://eudist.animemusicquiz.com/fa8qrc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Black Knights",
+          "artiste": "Hiroki Shimizu, Masashi Kohata, Hideo Negi",
+          "lien": "https://eudist.animemusicquiz.com/z2b5j4ir7g5e75k2.webm"
         },
         {
           "type": "Insert Song",
@@ -6953,7 +6960,7 @@
       "nom": "Code Geass: Hangyaku no Lelouch Remake Movies",
       "id": 20158,
       "mal_id": 34438,
-      "nb_musique": 19,
+      "nb_musique": 20,
       "musique": [
         {
           "type": "Opening",
@@ -7010,6 +7017,13 @@
           "nom": "Alone",
           "artiste": "Hitomi",
           "lien": "https://eudist.animemusicquiz.com/artbhf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Black Knights",
+          "artiste": "Hiroki Shimizu, Masashi Kohata, Hideo Negi",
+          "lien": "https://eudist.animemusicquiz.com/s2r7lukb83662xhf.webm"
         },
         {
           "type": "Insert Song",

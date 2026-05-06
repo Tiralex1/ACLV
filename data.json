@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1125,
-  "nb_musique": 5176,
+  "nb_anime": 1128,
+  "nb_musique": 5197,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -26944,6 +26944,108 @@
       ]
     },
     {
+      "nom": "Mahoutsukai no Yome",
+      "id": 19762,
+      "mal_id": 35062,
+      "nb_musique": 13,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Here",
+          "artiste": "JUNNA",
+          "lien": "https://eudist.animemusicquiz.com/tpp75d.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "You",
+          "artiste": "May'n",
+          "lien": "https://eudist.animemusicquiz.com/mjwpsp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Wa -cycle-",
+          "artiste": "Hana Itoki",
+          "lien": "https://eudist.animemusicquiz.com/01y70k.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Tsuki no Mou Hanbun",
+          "artiste": "AIKI & AKINO from bless4",
+          "lien": "https://eudist.animemusicquiz.com/wv9q2o.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "The Legend of 'The Ancient Magus Bride'",
+          "artiste": "Jessica",
+          "lien": "https://eudist.animemusicquiz.com/sihxuc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Anno Domini",
+          "artiste": "Hibiki Houjou",
+          "lien": "https://eudist.animemusicquiz.com/sjysfh.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hana Kazoe",
+          "artiste": "Akino Arai",
+          "lien": "https://eudist.animemusicquiz.com/davtbq.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Iruna Etelro",
+          "artiste": "Daichi Takenaka",
+          "lien": "https://eudist.animemusicquiz.com/26ln3q.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kimi no Yukue",
+          "artiste": "KOCHO",
+          "lien": "https://eudist.animemusicquiz.com/ty1d1u.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Liberalo",
+          "artiste": "Miu Sakamoto",
+          "lien": "https://eudist.animemusicquiz.com/fow7pc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Rose",
+          "artiste": "Kaco",
+          "lien": "https://eudist.animemusicquiz.com/l8cdxb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Seirei no Mai ~Dance of the Spirit",
+          "artiste": "KOKIA",
+          "lien": "https://eudist.animemusicquiz.com/o6pl8q.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Story",
+          "artiste": "kotringo",
+          "lien": "https://eudist.animemusicquiz.com/qnxysy.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Mahoutsukai Reimeiki",
       "id": 24345,
       "mal_id": 48842,
@@ -44553,7 +44655,7 @@
       "nom": "Tongari Boushi no Atelier",
       "id": 25496,
       "mal_id": 51553,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -44568,6 +44670,13 @@
           "nom": "Tada Utsukushii Noroi",
           "artiste": "Hak Nakamura",
           "lien": "https://eudist.animemusicquiz.com/zinrg4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Yoru ni Ukabu",
+          "artiste": "Hak Nakamura",
+          "lien": "https://eudist.animemusicquiz.com/ho1ozj.webm"
         }
       ],
       "genres": [
@@ -44682,6 +44791,52 @@
       ],
       "genres": [
           0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Tougen Anki",
+      "id": 32714,
+      "mal_id": 58811,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "OVERNIGHT",
+          "artiste": "THE ORAL CIGARETTES",
+          "lien": "https://eudist.animemusicquiz.com/9su0s7g0ahutvl3e.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Amidakuji",
+          "artiste": "Chogakusei",
+          "lien": "https://eudist.animemusicquiz.com/faoz3kcr4owzmln1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "What is justice?",
+          "artiste": "BAND-MAID",
+          "lien": "https://eudist.animemusicquiz.com/601wo0ux0r57d5yc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "ACTION",
+          "artiste": "eill",
+          "lien": "https://eudist.animemusicquiz.com/kgkigfadisrrwgj8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sanguine in the Waterfall",
+          "artiste": "OneTwenty",
+          "lien": "https://eudist.animemusicquiz.com/hwqzbs.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -45816,6 +45971,31 @@
       ],
       "genres": [
           0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Uruwashi no Yoi no Tsuki",
+      "id": 36048,
+      "mal_id": 61663,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Uruwashi",
+          "artiste": "UNISON SQUARE GARDEN",
+          "lien": "https://eudist.animemusicquiz.com/zsqtdpwuon6s5f8u.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Azalea no Kaze",
+          "artiste": "UNISON SQUARE GARDEN",
+          "lien": "https://eudist.animemusicquiz.com/ffba4b3yak3w2ghl.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {

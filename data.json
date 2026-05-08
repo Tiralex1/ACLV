@@ -1,6 +1,6 @@
 {
   "nb_anime": 1128,
-  "nb_musique": 5197,
+  "nb_musique": 5199,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -30555,13 +30555,13 @@
       "nom": "Needy Girl Overdose",
       "id": 37986,
       "mal_id": 62913,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
           "numero": 1,
           "nom": "INTERNET ANGEL",
-          "artiste": "Aiobahn +81 feat. Chou Ten-chan",
+          "artiste": "Aiobahn +81 feat. Sally Amaki",
           "lien": "https://eudist.animemusicquiz.com/d92fq0.webm"
         },
         {
@@ -30575,8 +30575,22 @@
           "type": "Ending",
           "numero": 2,
           "nom": "INTERNET OVERDOSE (Anime version)",
-          "artiste": "Aiobahn +81 feat. Chou Ten-chan",
+          "artiste": "Aiobahn +81 feat. Sally Amaki",
           "lien": "https://eudist.animemusicquiz.com/puzfhkvjm5uc66mc.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Tsumi to Batsu",
+          "artiste": "Rina Kawaguchi",
+          "lien": "https://eudist.animemusicquiz.com/cu4zq83fvdq594dz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Gekkouchou (Anime version)",
+          "artiste": "Aiobahn +81 feat. Sally Amaki",
+          "lien": "https://eudist.animemusicquiz.com/p8hoclnlums8kybp.webm"
         }
       ],
       "genres": [

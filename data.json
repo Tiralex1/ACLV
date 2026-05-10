@@ -1,6 +1,6 @@
 {
   "nb_anime": 1129,
-  "nb_musique": 5214,
+  "nb_musique": 5215,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -15451,7 +15451,7 @@
       "nom": "Hagane no Renkinjutsushi: Brotherhood",
       "id": 10216,
       "mal_id": 5114,
-      "nb_musique": 11,
+      "nb_musique": 12,
       "musique": [
         {
           "type": "Opening",
@@ -15522,6 +15522,13 @@
           "nom": "RAY OF LIGHT",
           "artiste": "Shoko Nakagawa",
           "lien": "https://eudist.animemusicquiz.com/7y1300.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Lapis Philosophorum ~Chant~",
+          "artiste": "Warsaw Philharmonic Orchestra & Choir",
+          "lien": "https://eudist.animemusicquiz.com/mype74.webm"
         },
         {
           "type": "Insert Song",

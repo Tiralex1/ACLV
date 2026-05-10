@@ -1,6 +1,6 @@
 {
   "nb_anime": 1129,
-  "nb_musique": 5222,
+  "nb_musique": 5234,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -8122,7 +8122,7 @@
       "nom": "Date A Live III",
       "id": 21509,
       "mal_id": 36633,
-      "nb_musique": 7,
+      "nb_musique": 10,
       "musique": [
         {
           "type": "Opening",
@@ -8148,9 +8148,23 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Ground Zero",
+          "artiste": "Mao Hatakeyama",
+          "lien": "https://eudist.animemusicquiz.com/7p4lpomwjdtqa2wi.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "HANTEN Tohka",
           "artiste": "Shinichi Ishihara & Shirahamazaka Koukou Gasshou-bu Doukoukai",
           "lien": "https://eudist.animemusicquiz.com/qxfsqb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hurricane",
+          "artiste": "Shirahamazaka Koukou Gasshou-bu Doukoukai",
+          "lien": "https://eudist.animemusicquiz.com/m1n6btxvg37uyzeo.webm"
         },
         {
           "type": "Insert Song",
@@ -8169,6 +8183,13 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Lament",
+          "artiste": "Remi & Shirahamazaka Koukou Gasshou-bu Doukoukai",
+          "lien": "https://eudist.animemusicquiz.com/z972vwwzxdd2muag.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Nagisa no Perfume",
           "artiste": "Minori Chihara",
           "lien": "https://eudist.animemusicquiz.com/h1ryez.webm"
@@ -8182,7 +8203,7 @@
       "nom": "Date A Live IV",
       "id": 24112,
       "mal_id": 41461,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -8197,6 +8218,13 @@
           "nom": "S.O.S.",
           "artiste": "sweet ARMS",
           "lien": "https://eudist.animemusicquiz.com/gp55ef.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Evil Spirit",
+          "artiste": "Shirahamazaka Koukou Gasshou-bu Doukoukai",
+          "lien": "https://eudist.animemusicquiz.com/pkqqjnixbz1u75ia.webm"
         },
         {
           "type": "Insert Song",
@@ -8228,7 +8256,7 @@
       "nom": "Date A Live V",
       "id": 25912,
       "mal_id": 52196,
-      "nb_musique": 3,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -8247,9 +8275,30 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "HANTEN Tohka",
+          "artiste": "Shinichi Ishihara & Shirahamazaka Koukou Gasshou-bu Doukoukai",
+          "lien": "https://eudist.animemusicquiz.com/9iisyviuwxap62lj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hurricane",
+          "artiste": "Shirahamazaka Koukou Gasshou-bu Doukoukai",
+          "lien": "https://eudist.animemusicquiz.com/7g1a04s5xejgbct8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Identical Winds",
           "artiste": "Remi",
           "lien": "https://eudist.animemusicquiz.com/tmhvg1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Nia",
+          "artiste": "Remi & Miki Masuda",
+          "lien": "https://eudist.animemusicquiz.com/mlkwvgg2cxak0tpq.webm"
         }
       ],
       "genres": [
@@ -20035,7 +20084,7 @@
       "nom": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
       "id": 24889,
       "mal_id": 43608,
-      "nb_musique": 7,
+      "nb_musique": 8,
       "musique": [
         {
           "type": "Opening",
@@ -20085,6 +20134,13 @@
           "nom": "Sentimental Crisis",
           "artiste": "halca",
           "lien": "https://eudist.animemusicquiz.com/wqvcfg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Souran Bushi (Shuuchiin Gakuen Taiikusai ver.)",
+          "artiste": "Hiroaki Takeuchi",
+          "lien": "https://eudist.animemusicquiz.com/a9r7cn.webm"
         }
       ],
       "genres": [
@@ -20095,7 +20151,7 @@
       "nom": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
       "id": 22587,
       "mal_id": 40591,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -20110,6 +20166,13 @@
           "nom": "Kaze ni Fukarete",
           "artiste": "Haruka Fukuhara",
           "lien": "https://eudist.animemusicquiz.com/ws04wj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Souran Bushi (Shuuchiin Gakuen Taiikusai ver.)",
+          "artiste": "Hiroaki Takeuchi",
+          "lien": "https://eudist.animemusicquiz.com/y0syf0.webm"
         },
         {
           "type": "Insert Song",
@@ -20851,7 +20914,7 @@
       "nom": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
       "id": 35118,
       "mal_id": 61186,
-      "nb_musique": 3,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -20873,6 +20936,27 @@
           "nom": "Kanjou Glass",
           "artiste": "Miyu Tomita",
           "lien": "https://eudist.animemusicquiz.com/e43j60.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Kanjou Glass",
+          "artiste": "Minako Kotobuki",
+          "lien": "https://eudist.animemusicquiz.com/rs5yap.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Kanjou Glass",
+          "artiste": "Yurina Amami",
+          "lien": "https://eudist.animemusicquiz.com/04a68f.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Kanjou Glass",
+          "artiste": "Yoshino Aoyama",
+          "lien": "https://eudist.animemusicquiz.com/7zzlpf.webm"
         }
       ],
       "genres": [

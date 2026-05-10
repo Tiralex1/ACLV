@@ -1,6 +1,6 @@
 {
   "nb_anime": 1129,
-  "nb_musique": 5217,
+  "nb_musique": 5220,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -7932,7 +7932,7 @@
       "nom": "Date A Live",
       "id": 14953,
       "mal_id": 15583,
-      "nb_musique": 9,
+      "nb_musique": 11,
       "musique": [
         {
           "type": "Opening",
@@ -7975,6 +7975,20 @@
           "nom": "16bit Girl",
           "artiste": "Asami Sanada",
           "lien": "https://eudist.animemusicquiz.com/zajqwg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Duel",
+          "artiste": "Mao Hatakeyama",
+          "lien": "https://eudist.animemusicquiz.com/x716i20a8kyhpad8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ground Zero",
+          "artiste": "Mao Hatakeyama",
+          "lien": "https://eudist.animemusicquiz.com/k1c39zytxzkumhvc.webm"
         },
         {
           "type": "Insert Song",
@@ -8188,7 +8202,7 @@
           "type": "Insert Song",
           "numero": 0,
           "nom": "Initiating",
-          "artiste": "Remi",
+          "artiste": "Remi & Miki Masuda",
           "lien": "https://eudist.animemusicquiz.com/z0vkfa.webm"
         }
       ],
@@ -12687,7 +12701,7 @@
       "nom": "Gekijouban Date A Live: Mayuri Judgement",
       "id": 16866,
       "mal_id": 24655,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Ending",
@@ -12709,6 +12723,13 @@
           "nom": "Go☆Summer Girl",
           "artiste": "Minori Chihara",
           "lien": "https://eudist.animemusicquiz.com/ff2s9t.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hurricane",
+          "artiste": "Shirahamazaka Koukou Gasshou-bu Doukoukai",
+          "lien": "https://eudist.animemusicquiz.com/tvc73su3yf7fpwrz.webm"
         }
       ],
       "genres": [

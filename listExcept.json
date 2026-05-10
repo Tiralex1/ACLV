@@ -177,14 +177,6 @@
             ]
         },
         {
-            "songName": "Dango Daikazoku",
-            "artist": "Chata",
-            "types": [
-                "ending 1",
-                "insert song"
-            ]
-        },
-        {
             "songName": "Ana",
             "artist": "Lia",
             "types": [
@@ -355,7 +347,7 @@
         },
         {
             "songName": "Imperfect",
-            "artist": "Masayoshi Ooishi",
+            "artist": "Masayoshi Oishi",
             "types": [
                 "insert song",
                 "opening 1"

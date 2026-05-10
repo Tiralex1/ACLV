@@ -1,6 +1,6 @@
 {
   "nb_anime": 1129,
-  "nb_musique": 5238,
+  "nb_musique": 5226,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -6430,7 +6430,7 @@
       "nom": "Clannad",
       "id": 7809,
       "mal_id": 2167,
-      "nb_musique": 7,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -6445,13 +6445,6 @@
           "nom": "Dango Daikazoku",
           "artiste": "Chata",
           "lien": "https://eudist.animemusicquiz.com/f7xfyd.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Ana",
-          "artiste": "Lia",
-          "lien": "https://eudist.animemusicquiz.com/o3arq7.webm"
         },
         {
           "type": "Insert Song",
@@ -6508,7 +6501,7 @@
       "nom": "Clannad: After Story",
       "id": 9701,
       "mal_id": 4181,
-      "nb_musique": 9,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -6523,13 +6516,6 @@
           "nom": "TORCH",
           "artiste": "Lia",
           "lien": "https://eudist.animemusicquiz.com/st04yj.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Ana",
-          "artiste": "Lia",
-          "lien": "https://eudist.animemusicquiz.com/dliivh.webm"
         },
         {
           "type": "Insert Song",
@@ -6558,13 +6544,6 @@
           "nom": "Komorebi",
           "artiste": "riya",
           "lien": "https://eudist.animemusicquiz.com/spqhnu.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Sakura Jokyoku",
-          "artiste": "riya",
-          "lien": "https://eudist.animemusicquiz.com/amh16e.webm"
         },
         {
           "type": "Insert Song",
@@ -7118,7 +7097,7 @@
       "nom": "Cop Craft",
       "id": 22012,
       "mal_id": 38940,
-      "nb_musique": 5,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -7133,13 +7112,6 @@
           "nom": "Connected",
           "artiste": "Mayu Yoshioka",
           "lien": "https://eudist.animemusicquiz.com/aaq4hq.webm"
-        },
-        {
-          "type": "Ending",
-          "numero": 2,
-          "nom": "Nonfiction",
-          "artiste": "Mayu Yoshioka",
-          "lien": "https://eudist.animemusicquiz.com/u9zj6m.webm"
         },
         {
           "type": "Insert Song",
@@ -12874,7 +12846,7 @@
       "nom": "Gekijouban Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
       "id": 18172,
       "mal_id": 31989,
-      "nb_musique": 9,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Opening",
@@ -12889,55 +12861,6 @@
           "nom": "DREAM SOLISTER (Movie Ver.)",
           "artiste": "TRUE",
           "lien": "https://eudist.animemusicquiz.com/p51iqf.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Abarenbou Shougun no Theme",
-          "artiste": "Freshman Wind Ensemble",
-          "lien": "https://eudist.animemusicquiz.com/jingin.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Ai o Mitsuketa Basho",
-          "artiste": "Freshman Wind Ensemble",
-          "lien": "https://eudist.animemusicquiz.com/fpif8k.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "FUNICULI FUNICULA",
-          "artiste": "Freshman Wind Ensemble",
-          "lien": "https://eudist.animemusicquiz.com/7d5swo.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Kaiheitai",
-          "artiste": "Freshman Wind Ensemble",
-          "lien": "https://eudist.animemusicquiz.com/0ssu52.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Koukyoukyoku Dai 9-ban Hotanchou Sakuhin 95",
-          "artiste": "Freshman Wind Ensemble",
-          "lien": "https://eudist.animemusicquiz.com/hok2lj.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Provence no Kaze",
-          "artiste": "Freshman Wind Ensemble",
-          "lien": "https://eudist.animemusicquiz.com/vdbuqd.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "RYDEEN",
-          "artiste": "Freshman Wind Ensemble",
-          "lien": "https://eudist.animemusicquiz.com/u5avzf.webm"
         }
       ],
       "genres": [
@@ -25649,7 +25572,7 @@
       "nom": "Liz to Aoi Tori",
       "id": 20444,
       "mal_id": 35677,
-      "nb_musique": 3,
+      "nb_musique": 2,
       "musique": [
         {
           "type": "Ending",
@@ -25664,13 +25587,6 @@
           "nom": "Songbirds",
           "artiste": "Homecomings",
           "lien": "https://eudist.animemusicquiz.com/53ge7c.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
-          "nom": "Liz to Aoi Tori",
-          "artiste": "Freshman Wind Ensemble",
-          "lien": "https://eudist.animemusicquiz.com/0etykm.webm"
         }
       ],
       "genres": [

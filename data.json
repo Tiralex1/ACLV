@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1128,
-  "nb_musique": 5199,
+  "nb_anime": 1129,
+  "nb_musique": 5214,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -13168,6 +13168,122 @@
       ],
       "genres": [
           0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Gekijouban Soushuuhen Girls Band Cry",
+      "id": 33520,
+      "mal_id": 59817,
+      "nb_musique": 15,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Mou Nani mo Iranai Mirai",
+          "artiste": "TOGENASHI TOGEARI",
+          "lien": "https://eudist.animemusicquiz.com/1tr6g7q34nzld4y9.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "arrow",
+          "artiste": "TOGENASHI TOGEARI",
+          "lien": "https://eudist.animemusicquiz.com/0wxt0mqsst8ccm49.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Inochi o Kure yo",
+          "artiste": "TOGENASHI TOGEARI",
+          "lien": "https://eudist.animemusicquiz.com/406xiktd5qtrpvo1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ibara no Bara",
+          "artiste": "TOGENASHI TOGEARI",
+          "lien": "https://eudist.animemusicquiz.com/jky5wv3nr2qf4gjj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Cycle Of Sorrow",
+          "artiste": "Diamond Dust",
+          "lien": "https://eudist.animemusicquiz.com/l0xxpjo0y98ejg7f.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "ETERNAL FLAME ~Kara no Hako~",
+          "artiste": "Diamond Dust",
+          "lien": "https://eudist.animemusicquiz.com/pdfvg7n49sxdcyxb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kara no Hako",
+          "artiste": "Diamond Dust",
+          "lien": "https://eudist.animemusicquiz.com/y0q34cwz1aiit7dc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kara no Hako",
+          "artiste": "Rina, Yuri",
+          "lien": "https://eudist.animemusicquiz.com/c6gd1bb41x39p0x6.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Koe Naki Sakana",
+          "artiste": "Shin Kawasaki (Kari)",
+          "lien": "https://eudist.animemusicquiz.com/7sg2grtgla1xxksx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kuuhaku to Catharsis",
+          "artiste": "TOGENASHI TOGEARI",
+          "lien": "https://eudist.animemusicquiz.com/sxgtexaijuz03t5h.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Na mo Naki Nani mo Kamo",
+          "artiste": "TOGENASHI TOGEARI",
+          "lien": "https://eudist.animemusicquiz.com/13rnt9bzyor9j0xj.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Sayonara Ano Hi no Melody",
+          "artiste": "Dou",
+          "lien": "https://eudist.animemusicquiz.com/6bofl8be2gmpdl7t.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shikai no Sumi Kuchiru Oto",
+          "artiste": "Shin Kawasaki (Kari)",
+          "lien": "https://eudist.animemusicquiz.com/lrpa4kl7lugm4oc9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shikai no Sumi Kuchiru Oto",
+          "artiste": "Shin Kawasaki (Kari)×beni-shouga",
+          "lien": "https://eudist.animemusicquiz.com/aoueylqnb5aaj9if.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Unmei no Hana",
+          "artiste": "TOGENASHI TOGEARI",
+          "lien": "https://eudist.animemusicquiz.com/mro34l09mre6c1vu.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {

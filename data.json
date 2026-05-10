@@ -1,6 +1,6 @@
 {
   "nb_anime": 1129,
-  "nb_musique": 5215,
+  "nb_musique": 5216,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -4823,7 +4823,7 @@
       "nom": "Boku no Hero Academia The Movie: You're Next",
       "id": 31891,
       "mal_id": 56196,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -4838,6 +4838,13 @@
           "nom": "Gift",
           "artiste": "Vaundy",
           "lien": "https://eudist.animemusicquiz.com/idhkgf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "GOLLINI -Admire-",
+          "artiste": "Paolo Andrea Di Pietro",
+          "lien": "https://eudist.animemusicquiz.com/mlrbqj0i8g5bh4m3.webm"
         }
       ],
       "genres": [

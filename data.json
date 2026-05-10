@@ -1,6 +1,6 @@
 {
   "nb_anime": 1129,
-  "nb_musique": 5216,
+  "nb_musique": 5217,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -41787,7 +41787,7 @@
       "nom": "Summertime Render",
       "id": 24550,
       "mal_id": 47194,
-      "nb_musique": 12,
+      "nb_musique": 13,
       "musique": [
         {
           "type": "Opening",
@@ -41851,6 +41851,13 @@
           "nom": "Honmei",
           "artiste": "Saki Nakae & Shotaro Seo",
           "lien": "https://eudist.animemusicquiz.com/37zuj18091snig6m.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ikiutai",
+          "artiste": "Saki Nakae & Shotaro Seo",
+          "lien": "https://eudist.animemusicquiz.com/dcedt7ynw1wfy43z.webm"
         },
         {
           "type": "Insert Song",

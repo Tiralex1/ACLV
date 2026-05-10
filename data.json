@@ -1,6 +1,6 @@
 {
   "nb_anime": 1129,
-  "nb_musique": 5220,
+  "nb_musique": 5222,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -8020,7 +8020,7 @@
       "nom": "Date A Live II",
       "id": 15790,
       "mal_id": 19163,
-      "nb_musique": 11,
+      "nb_musique": 13,
       "musique": [
         {
           "type": "Opening",
@@ -8053,9 +8053,23 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Duel",
+          "artiste": "Mao Hatakeyama",
+          "lien": "https://eudist.animemusicquiz.com/zmjy59zhw7wwh8ob.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "HANTEN Tohka",
           "artiste": "Shinichi Ishihara & Shirahamazaka Koukou Gasshou-bu Doukoukai",
           "lien": "https://eudist.animemusicquiz.com/wdkuq4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hurricane",
+          "artiste": "Shirahamazaka Koukou Gasshou-bu Doukoukai",
+          "lien": "https://eudist.animemusicquiz.com/jmsuxuisdfe46ryi.webm"
         },
         {
           "type": "Insert Song",

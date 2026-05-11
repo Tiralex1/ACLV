@@ -1,6 +1,6 @@
 {
   "nb_anime": 1129,
-  "nb_musique": 5226,
+  "nb_musique": 5225,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -12846,15 +12846,8 @@
       "nom": "Gekijouban Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
       "id": 18172,
       "mal_id": 31989,
-      "nb_musique": 2,
+      "nb_musique": 1,
       "musique": [
-        {
-          "type": "Opening",
-          "numero": 1,
-          "nom": "Jigoku no Orphée",
-          "artiste": "Freshman Wind Ensemble",
-          "lien": "https://eudist.animemusicquiz.com/6nh1os.webm"
-        },
         {
           "type": "Ending",
           "numero": 1,

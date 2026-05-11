@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1129,
-  "nb_musique": 5225,
+  "nb_anime": 1130,
+  "nb_musique": 5228,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -47258,6 +47258,38 @@
       ],
       "genres": [
           1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1
+      ]
+    },
+    {
+      "nom": "Working!!",
+      "id": 11017,
+      "mal_id": 6956,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "SOMEONE ELSE",
+          "artiste": "Kana Asumi, Saki Fujita, Eri Kitamura",
+          "lien": "https://eudist.animemusicquiz.com/wgwi8d.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Heart no Edge ni Idomou Go to Heart Edge",
+          "artiste": "Jun Fukuyama, Daisuke Ono, Hiroshi Kamiya",
+          "lien": "https://eudist.animemusicquiz.com/gifmdl.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Golden Day",
+          "artiste": "Saki Fujita",
+          "lien": "https://eudist.animemusicquiz.com/6d9zp6.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {

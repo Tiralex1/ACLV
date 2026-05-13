@@ -1,6 +1,6 @@
 {
   "nb_anime": 1130,
-  "nb_musique": 5228,
+  "nb_musique": 5230,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -8796,7 +8796,7 @@
       "nom": "Digimon Beatbreak",
       "id": 35250,
       "mal_id": 61269,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -8825,6 +8825,13 @@
           "nom": "Miramira",
           "artiste": "YENA",
           "lien": "https://eudist.animemusicquiz.com/2lqz9s.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Answer",
+          "artiste": "Yagitaro.",
+          "lien": "https://eudist.animemusicquiz.com/pl2hb7.webm"
         },
         {
           "type": "Insert Song",
@@ -17431,7 +17438,7 @@
       "nom": "Ikebukuro West Gate Park",
       "id": 22494,
       "mal_id": 40359,
-      "nb_musique": 4,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -17460,6 +17467,13 @@
           "nom": "Boukyaku no Sora (25th Anniversary Ver.)",
           "artiste": "Kiyoharu",
           "lien": "https://eudist.animemusicquiz.com/9urk0y.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mein Sehnen, mein Wähnen",
+          "artiste": "Thomas Sunnegårdh, Katarina Dalayman, Per-Arne Wahlgren, Hilde Leidland, Anna Tomson, Lars-Erik Jonsson, Ulrik Qvale, Tomtberga School Children's Choir, Royal Swedish Opera Chorus and Orchestra",
+          "lien": "https://eudist.animemusicquiz.com/39kifnpyyyuvt5xf.webm"
         }
       ],
       "genres": [

@@ -1,6 +1,6 @@
 {
   "nb_anime": 1130,
-  "nb_musique": 5230,
+  "nb_musique": 5231,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3429,14 +3429,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -9785,7 +9785,7 @@
       "nom": "Dragon Ball Super",
       "id": 17006,
       "mal_id": 30694,
-      "nb_musique": 15,
+      "nb_musique": 16,
       "musique": [
         {
           "type": "Opening",
@@ -9877,6 +9877,13 @@
           "nom": "LAGRIMA",
           "artiste": "ONEPIXCEL",
           "lien": "https://eudist.animemusicquiz.com/n42vne.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Golden Freeza no Theme",
+          "artiste": "musique luxueuse",
+          "lien": "https://eudist.animemusicquiz.com/7iyooifmri4g4sn0.webm"
         },
         {
           "type": "Insert Song",

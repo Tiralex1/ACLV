@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1130,
-  "nb_musique": 5231,
+  "nb_anime": 1132,
+  "nb_musique": 5238,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -1925,7 +1925,7 @@
       "nom": "Ao no Exorcist",
       "id": 12210,
       "mal_id": 9919,
-      "nb_musique": 8,
+      "nb_musique": 11,
       "musique": [
         {
           "type": "Opening",
@@ -1979,9 +1979,30 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "E Senjou-Aria",
+          "artiste": "Yumiko Inoue",
+          "lien": "https://eudist.animemusicquiz.com/xowd6r4b2vb33kqt.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Me & Creed",
           "artiste": "Mika Kobayashi",
           "lien": "https://eudist.animemusicquiz.com/fgq6kt.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "My☆",
+          "artiste": "Hiroyuki Sawano",
+          "lien": "https://eudist.animemusicquiz.com/bw5bq650ltbrdp3n.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "éXORCiST",
+          "artiste": "Yuko Kawai, Yu Uchida, Yumiko Inoue, Hikaru, Hajime, Sen, Melo-J, KEI",
+          "lien": "https://eudist.animemusicquiz.com/nzmz9xmgqpi19j8d.webm"
         }
       ],
       "genres": [
@@ -3429,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -38236,6 +38257,31 @@
       ]
     },
     {
+      "nom": "Senpai wa Otokonoko",
+      "id": 27618,
+      "mal_id": 54855,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Wagamama",
+          "artiste": "Kujira",
+          "lien": "https://eudist.animemusicquiz.com/qfi48d.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Are ga Koi Datta no kana",
+          "artiste": "Kujira feat. nishina",
+          "lien": "https://eudist.animemusicquiz.com/d7f9kc.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Sentai Daishikkaku",
       "id": 26693,
       "mal_id": 53770,
@@ -47307,6 +47353,31 @@
           "nom": "Golden Day",
           "artiste": "Saki Fujita",
           "lien": "https://eudist.animemusicquiz.com/6d9zp6.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Working'!!",
+      "id": 12841,
+      "mal_id": 10521,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "COOLISH WALK",
+          "artiste": "Kana Asumi, Saki Fujita, Eri Kitamura",
+          "lien": "https://eudist.animemusicquiz.com/doyuoi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Itsumo no You ni LOVE & PEACE!!",
+          "artiste": "Jun Fukuyama, Daisuke Ono, Hiroshi Kamiya",
+          "lien": "https://eudist.animemusicquiz.com/d1olj6.webm"
         }
       ],
       "genres": [

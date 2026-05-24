@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1135,
-  "nb_musique": 5262,
+  "nb_anime": 1138,
+  "nb_musique": 5270,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -6607,7 +6607,7 @@
       "nom": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "id": 30079,
       "mal_id": 56734,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -6622,6 +6622,13 @@
           "nom": "Zutto 1-ban ni Shite ne",
           "artiste": "Koresawa",
           "lien": "https://eudist.animemusicquiz.com/jjv5vp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Uwaki shitara Akan de",
+          "artiste": "Manaka Iwami",
+          "lien": "https://eudist.animemusicquiz.com/a4zicu2s6khu3nc1.webm"
         }
       ],
       "genres": [
@@ -16827,6 +16834,31 @@
       ]
     },
     {
+      "nom": "Himekishi wa Barbaroi no Yome",
+      "id": 33646,
+      "mal_id": 60028,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "BEAUTIFUL",
+          "artiste": "Mayu Maeshima",
+          "lien": "https://eudist.animemusicquiz.com/42alvh.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Shirubeki Koto",
+          "artiste": "sajou no hana",
+          "lien": "https://eudist.animemusicquiz.com/kjsjpm.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Hirune Hime: Shiranai Watashi no Monogatari",
       "id": 18871,
       "mal_id": 33204,
@@ -19353,6 +19385,38 @@
       ],
       "genres": [
           0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+      "id": 36124,
+      "mal_id": 61687,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "La Fleur",
+          "artiste": "Airi Miyakawa",
+          "lien": "https://eudist.animemusicquiz.com/ii7dqp.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Magic",
+          "artiste": "RLOEVO",
+          "lien": "https://eudist.animemusicquiz.com/791su7.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Chiru made wa",
+          "artiste": "Miyu Tomita",
+          "lien": "https://eudist.animemusicquiz.com/b4tuks.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -31517,6 +31581,31 @@
       ],
       "genres": [
           1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "id": 37959,
+      "mal_id": 62893,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Chikai wa Kyunto.",
+          "artiste": "HoneyWorks feat. Airi Suzuki",
+          "lien": "https://eudist.animemusicquiz.com/t7z5za.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "DEAD OR LOVE",
+          "artiste": "Yoshino",
+          "lien": "https://eudist.animemusicquiz.com/23qcro.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {

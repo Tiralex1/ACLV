@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1138,
-  "nb_musique": 5270,
+  "nb_anime": 1139,
+  "nb_musique": 5278,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -20999,6 +20999,73 @@
           "nom": "Oh! My☆GOD!!",
           "artiste": "Kanae Itou",
           "lien": "https://eudist.animemusicquiz.com/i0ir8h.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Kami nomi zo Shiru Sekai II",
+      "id": 12375,
+      "mal_id": 10080,
+      "nb_musique": 8,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "A Whole New World God Only Knows",
+          "artiste": "Oratorio The World God Only Knows",
+          "lien": "https://eudist.animemusicquiz.com/g9n53id17l2dus19.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ai no Yokan",
+          "artiste": "Kami nomi zo Shiri-tai",
+          "lien": "https://eudist.animemusicquiz.com/mjg5te.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ai no Yokan",
+          "artiste": "Kaketama-tai",
+          "lien": "https://eudist.animemusicquiz.com/z1mtmi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "God only knows Daisanmaku",
+          "artiste": "Oratorio The World God Only Knows",
+          "lien": "https://eudist.animemusicquiz.com/rc4q28.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hajimete Koi o Shita Kioku",
+          "artiste": "Kana Asumi",
+          "lien": "https://eudist.animemusicquiz.com/q2wdhg.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "HAPPYEND",
+          "artiste": "Hiro Shimono & Sakura Tange",
+          "lien": "https://eudist.animemusicquiz.com/63iypa.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Uraha Love",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/qpbl61.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "YES-TODAY",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/rt1mdm.webm"
         }
       ],
       "genres": [

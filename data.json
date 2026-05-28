@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1139,
-  "nb_musique": 5278,
+  "nb_anime": 1140,
+  "nb_musique": 5285,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -4277,7 +4277,7 @@
       "nom": "Bocchi the Rock!",
       "id": 24062,
       "mal_id": 47917,
-      "nb_musique": 12,
+      "nb_musique": 14,
       "musique": [
         {
           "type": "Opening",
@@ -4338,9 +4338,23 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Double Kuro Rekishi Bocchi Hikigatari version",
+          "artiste": "Yoshino Aoyama",
+          "lien": "https://eudist.animemusicquiz.com/ntr3979uzir075g8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Guitar to Kodoku to Aoi Hoshi",
           "artiste": "Kessoku Band",
           "lien": "https://eudist.animemusicquiz.com/fosmi3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Oshiire yori Ai o Komete",
+          "artiste": "Yoshino Aoyama",
+          "lien": "https://eudist.animemusicquiz.com/bymjto6ctbj1uswn.webm"
         },
         {
           "type": "Insert Song",
@@ -12507,7 +12521,7 @@
       "nom": "Gekijou Soushuuhen Bocchi the Rock!",
       "id": 28305,
       "mal_id": 55357,
-      "nb_musique": 15,
+      "nb_musique": 16,
       "musique": [
         {
           "type": "Opening",
@@ -12592,6 +12606,13 @@
           "nom": "Love Song ga Utaenai",
           "artiste": "Kessoku Band",
           "lien": "https://eudist.animemusicquiz.com/fbq5wv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Oshiire yori Ai o Komete",
+          "artiste": "Yoshino Aoyama",
+          "lien": "https://eudist.animemusicquiz.com/bymjto6ctbj1uswn.webm"
         },
         {
           "type": "Insert Song",
@@ -15222,7 +15243,7 @@
       "nom": "Guilty Crown",
       "id": 13001,
       "mal_id": 10793,
-      "nb_musique": 18,
+      "nb_musique": 20,
       "musique": [
         {
           "type": "Opening",
@@ -15262,13 +15283,6 @@
         {
           "type": "Insert Song",
           "numero": 0,
-          "nom": "βίος",
-          "artiste": "Mika Kobayashi",
-          "lien": "https://eudist.animemusicquiz.com/i556if.webm"
-        },
-        {
-          "type": "Insert Song",
-          "numero": 0,
           "nom": "close your eyes",
           "artiste": "Michiyo Honda",
           "lien": "https://eudist.animemusicquiz.com/1j1xp4.webm"
@@ -15300,6 +15314,13 @@
           "nom": "friends",
           "artiste": "mpi",
           "lien": "https://eudist.animemusicquiz.com/vds69a.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Genesi§",
+          "artiste": "nZk Philharmonic Orchestra",
+          "lien": "https://eudist.animemusicquiz.com/1uds6kap92tszw37.webm"
         },
         {
           "type": "Insert Song",
@@ -15339,6 +15360,13 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "βίος",
+          "artiste": "Mika Kobayashi",
+          "lien": "https://eudist.animemusicquiz.com/i556if.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "βίος <MK+nZk Version>",
           "artiste": "Mika Kobayashi",
           "lien": "https://eudist.animemusicquiz.com/am623h7ur945tmmr.webm"
@@ -15349,6 +15377,13 @@
           "nom": "βίος-δ",
           "artiste": "Mika Kobayashi",
           "lien": "https://eudist.animemusicquiz.com/la23ww.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "θεοι",
+          "artiste": "nZk Philharmonic Orchestra",
+          "lien": "https://eudist.animemusicquiz.com/aoouc5y3y1fxd2jc.webm"
         }
       ],
       "genres": [
@@ -21066,6 +21101,31 @@
           "nom": "YES-TODAY",
           "artiste": "Nao Touyama",
           "lien": "https://eudist.animemusicquiz.com/rt1mdm.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Kami nomi zo Shiru Sekai: 4-nin to Idol",
+      "id": 13200,
+      "mal_id": 10805,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Natsu-iro Surprise",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/vgrzmg.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hajimete Koi o Shita Kioku",
+          "artiste": "Kana Asumi",
+          "lien": "https://eudist.animemusicquiz.com/eq61mn.webm"
         }
       ],
       "genres": [

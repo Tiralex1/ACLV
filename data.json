@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1140,
-  "nb_musique": 5285,
+  "nb_anime": 1141,
+  "nb_musique": 5287,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -21126,6 +21126,31 @@
           "nom": "Hajimete Koi o Shita Kioku",
           "artiste": "Kana Asumi",
           "lien": "https://eudist.animemusicquiz.com/eq61mn.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Kami nomi zo Shiru Sekai: Tenri-hen",
+      "id": 14907,
+      "mal_id": 15117,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hikari no Kiseki",
+          "artiste": "eyelis",
+          "lien": "https://eudist.animemusicquiz.com/8ttzlb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Mirai e no Tobira",
+          "artiste": "eyelis",
+          "lien": "https://eudist.animemusicquiz.com/f5vdv8.webm"
         }
       ],
       "genres": [

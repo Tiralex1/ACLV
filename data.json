@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1141,
-  "nb_musique": 5287,
+  "nb_anime": 1143,
+  "nb_musique": 5306,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -21133,6 +21133,122 @@
       ]
     },
     {
+      "nom": "Kami nomi zo Shiru Sekai: Megami-hen",
+      "id": 15334,
+      "mal_id": 16706,
+      "nb_musique": 15,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "God only knows -Secrets of the Goddess- (Extract)",
+          "artiste": "Oratorio The World God Only Knows",
+          "lien": "https://eudist.animemusicquiz.com/sb4mov.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kizuna no Yukue feat. Kanon Nakagawa",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/r66gmy.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Kizuna no Yukue feat. Tenri Ayukawa",
+          "artiste": "Kaori Nazuka",
+          "lien": "https://eudist.animemusicquiz.com/akxax4.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Kizuna no Yukue feat. Tsukiyo Kujou",
+          "artiste": "Yuka Iguchi",
+          "lien": "https://eudist.animemusicquiz.com/7gwg57.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Kizuna no Yukue feat. Yui Goidou",
+          "artiste": "Ayahi Takagaki",
+          "lien": "https://eudist.animemusicquiz.com/47oyaa.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 5,
+          "nom": "Kizuna no Yukue feat. Shiori Shiomiya",
+          "artiste": "Kana Hanazawa",
+          "lien": "https://eudist.animemusicquiz.com/bcljjd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 6,
+          "nom": "Hitomi kara Snow",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/a8d4cb.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Kizuna no Yukue feat. Ayumi Takahara",
+          "artiste": "Ayana Taketatsu",
+          "lien": "https://eudist.animemusicquiz.com/euyk91.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 8,
+          "nom": "With...you...",
+          "artiste": "Saori Hayami",
+          "lien": "https://eudist.animemusicquiz.com/slmlzs.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 9,
+          "nom": "Kizuna no Yukue",
+          "artiste": "Jupiter no Shimai",
+          "lien": "https://eudist.animemusicquiz.com/w47v5x.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 10,
+          "nom": "Hajimete Koi o Shita Kioku",
+          "artiste": "2B PENCILS & Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/l2uljl.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "God only knows Daisanmaku",
+          "artiste": "Oratorio The World God Only Knows",
+          "lien": "https://eudist.animemusicquiz.com/8i5ymy.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "NAKED GENIUS",
+          "artiste": "Saori Hayami",
+          "lien": "https://eudist.animemusicquiz.com/mcvzvu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Omoi wa Rain Rain",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/fjio43.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "YES-TODAY",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/kwnyr7.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ]
+    },
+    {
       "nom": "Kami nomi zo Shiru Sekai: Tenri-hen",
       "id": 14907,
       "mal_id": 15117,
@@ -27109,6 +27225,38 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Magical☆Star Kanon 100%",
+      "id": 15378,
+      "mal_id": 17725,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kanon 100%",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/vutcl1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Kimi-iro Love Song",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/4bhrzp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Happy Crescent",
+          "artiste": "Nao Touyama",
+          "lien": "https://eudist.animemusicquiz.com/ac5n26.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -45311,7 +45459,7 @@
       "nom": "Tongari Boushi no Atelier",
       "id": 25496,
       "mal_id": 51553,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -45333,6 +45481,13 @@
           "nom": "Yoru ni Ukabu",
           "artiste": "Hak Nakamura",
           "lien": "https://eudist.animemusicquiz.com/ho1ozj.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Hikari",
+          "artiste": "Hak Nakamura",
+          "lien": "https://eudist.animemusicquiz.com/3jhgu6.webm"
         }
       ],
       "genres": [

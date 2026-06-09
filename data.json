@@ -1,6 +1,6 @@
 {
   "nb_anime": 1143,
-  "nb_musique": 5315,
+  "nb_musique": 5318,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -13403,7 +13403,7 @@
       "nom": "Gekijouban Sword Art Online: Ordinal Scale",
       "id": 18141,
       "mal_id": 31765,
-      "nb_musique": 8,
+      "nb_musique": 9,
       "musique": [
         {
           "type": "Ending",
@@ -13446,6 +13446,13 @@
           "nom": "the place we should have reached",
           "artiste": "Remi, Yuriko Kaida, Tokyo Konsei Gasshou-dan",
           "lien": "https://eudist.animemusicquiz.com/epp2o5.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ubiquitous dB",
+          "artiste": "Rina Hidaka & Sayaka Kanda",
+          "lien": "https://eudist.animemusicquiz.com/tlh6rt7auy5djlet.webm"
         },
         {
           "type": "Insert Song",
@@ -18414,7 +18421,7 @@
       "nom": "Isekai Quartet",
       "id": 21992,
       "mal_id": 38472,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -18436,6 +18443,13 @@
           "nom": "Hollow Veil",
           "artiste": "nonoc",
           "lien": "https://eudist.animemusicquiz.com/8qg1pp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Youjo Senki -Saga of Tanya the Evil-",
+          "artiste": "Remi, Miki Masuda, Makai Kinoshita, Sho Amano, Tetsuya Murabayashi, Hiroaki Otsuka",
+          "lien": "https://eudist.animemusicquiz.com/zlizkx3nv4vyhmpc.webm"
         }
       ],
       "genres": [
@@ -27195,7 +27209,7 @@
       "nom": "Made in Abyss: Retsujitsu no Ougonkyou",
       "id": 24357,
       "mal_id": 41084,
-      "nb_musique": 6,
+      "nb_musique": 7,
       "musique": [
         {
           "type": "Opening",
@@ -27231,6 +27245,13 @@
           "nom": "Hanezeve Caradhina",
           "artiste": "Kevin Penkin ft. Takeshi Saito",
           "lien": "https://eudist.animemusicquiz.com/p6g4yl.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Old Stories",
+          "artiste": "Lanux",
+          "lien": "https://eudist.animemusicquiz.com/knk4m3ix3z1y6tli.webm"
         },
         {
           "type": "Insert Song",

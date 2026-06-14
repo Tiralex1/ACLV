@@ -1,6 +1,6 @@
 {
   "nb_anime": 1143,
-  "nb_musique": 5318,
+  "nb_musique": 5326,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -21366,7 +21366,7 @@
       "nom": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
       "id": 35118,
       "mal_id": 61186,
-      "nb_musique": 10,
+      "nb_musique": 12,
       "musique": [
         {
           "type": "Opening",
@@ -21418,6 +21418,20 @@
           "lien": "https://eudist.animemusicquiz.com/0pmx2z.webm"
         },
         {
+          "type": "Ending",
+          "numero": 7,
+          "nom": "Akane-iro no Yuuhi",
+          "artiste": "Fujifabric",
+          "lien": "https://eudist.animemusicquiz.com/c0ecls.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Akane-iro no Yuuhi",
+          "artiste": "Yurina Amami & Miyu Tomita",
+          "lien": "https://eudist.animemusicquiz.com/dfkm42.webm"
+        },
+        {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Don't",
@@ -21440,7 +21454,7 @@
         }
       ],
       "genres": [
-          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -30720,7 +30734,7 @@
       "nom": "Naruto Shippuuden",
       "id": 7293,
       "mal_id": 1735,
-      "nb_musique": 62,
+      "nb_musique": 63,
       "musique": [
         {
           "type": "Opening",
@@ -31148,6 +31162,13 @@
           "nom": "Bijuu Kazoe Uta",
           "artiste": "Junko Takeuchi",
           "lien": "https://eudist.animemusicquiz.com/js5re4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Girei",
+          "artiste": "Remi, Yoshinori Koba, Tetsuya Okayama, Yoshinori Maki",
+          "lien": "https://eudist.animemusicquiz.com/nxwwos6hdtpli77h.webm"
         },
         {
           "type": "Insert Song",
@@ -33579,7 +33600,7 @@
       "nom": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
       "id": 28812,
       "mal_id": 51122,
-      "nb_musique": 5,
+      "nb_musique": 10,
       "musique": [
         {
           "type": "Opening",
@@ -33612,9 +33633,44 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Chronicle",
+          "artiste": "Anúna",
+          "lien": "https://eudist.animemusicquiz.com/wzdni88dbj8xi3mb.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Father Franz",
+          "artiste": "Anúna",
+          "lien": "https://eudist.animemusicquiz.com/6jejmdgmn5umqtgc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Merchant Meets The Wise Wolf",
           "artiste": "Elspeth Bawden",
           "lien": "https://eudist.animemusicquiz.com/b1t0h1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Myrkur",
+          "artiste": "Anúna",
+          "lien": "https://eudist.animemusicquiz.com/i714o5fxtp8bnm4l.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Mysterious Power",
+          "artiste": "Anúna",
+          "lien": "https://eudist.animemusicquiz.com/ji4o91gi3uw5z5xf.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Winter Solstice",
+          "artiste": "Anúna",
+          "lien": "https://eudist.animemusicquiz.com/ye6ak0eax077ecqh.webm"
         }
       ],
       "genres": [

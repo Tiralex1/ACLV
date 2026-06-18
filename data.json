@@ -1,6 +1,6 @@
 {
   "nb_anime": 1145,
-  "nb_musique": 5329,
+  "nb_musique": 5338,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -13162,7 +13162,7 @@
       "nom": "Gekijouban Overlord: Fushisha no Ou",
       "id": 18967,
       "mal_id": 34161,
-      "nb_musique": 1,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Ending",
@@ -13170,6 +13170,20 @@
           "nom": "Crazy Scary Holy Fantasy",
           "artiste": "MYTH & ROID",
           "lien": "https://eudist.animemusicquiz.com/b26irx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Fushisha no Ou, Kourin",
+          "artiste": "Ainz Ooal Gown Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/5yguaav7c8t7ri00.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Overlord -Shi no Shihaisha-",
+          "artiste": "Ainz Ooal Gown Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/gt48bwi438kf1p43.webm"
         }
       ],
       "genres": [
@@ -13198,7 +13212,7 @@
       "nom": "Gekijouban Overlord: Shikkoku no Eiyuu",
       "id": 20398,
       "mal_id": 34428,
-      "nb_musique": 1,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Ending",
@@ -13206,6 +13220,20 @@
           "nom": "Laughter Slaughter",
           "artiste": "OxT",
           "lien": "https://eudist.animemusicquiz.com/6w3aq2.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Overlord -Shi no Shihaisha-",
+          "artiste": "Ainz Ooal Gown Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/hgztxthqntzbm1bs.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ware koso ga Ainz Ooal Gown",
+          "artiste": "Ainz Ooal Gown Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/tzkzxzqghha5uy9j.webm"
         }
       ],
       "genres": [
@@ -34296,7 +34324,7 @@
       "nom": "Overlord",
       "id": 16729,
       "mal_id": 29803,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -34311,6 +34339,20 @@
           "nom": "L.L.L.",
           "artiste": "MYTH & ROID",
           "lien": "https://eudist.animemusicquiz.com/qkzic0.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Overlord -Shi no Shihaisha-",
+          "artiste": "Ainz Ooal Gown Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/ae8779gx26q3x01b.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Ware koso ga Ainz Ooal Gown",
+          "artiste": "Ainz Ooal Gown Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/ftj5lqq5tuupa744.webm"
         }
       ],
       "genres": [
@@ -34346,7 +34388,7 @@
       "nom": "Overlord III",
       "id": 21105,
       "mal_id": 37675,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -34361,6 +34403,20 @@
           "nom": "Silent Solitude",
           "artiste": "OxT",
           "lien": "https://eudist.animemusicquiz.com/5w6ygu.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Madou Ou Ainz Ooal Gown",
+          "artiste": "Ainz Ooal Gown Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/3ae7jzhodnr7bnlx.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Overlord -Shi no Shihaisha-",
+          "artiste": "Ainz Ooal Gown Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/9zs5kwhd6oxssu48.webm"
         }
       ],
       "genres": [
@@ -34371,7 +34427,7 @@
       "nom": "Overlord IV",
       "id": 24364,
       "mal_id": 48895,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -34393,6 +34449,13 @@
           "nom": "fallen",
           "artiste": "Kiyono Yasuno",
           "lien": "https://eudist.animemusicquiz.com/1m8ssy.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Madou Ou Ainz Ooal Gown",
+          "artiste": "Ainz Ooal Gown Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/poyubvy81f3591vd.webm"
         }
       ],
       "genres": [

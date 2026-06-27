@@ -1,6 +1,6 @@
 {
   "nb_anime": 1147,
-  "nb_musique": 5346,
+  "nb_musique": 5349,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -9647,7 +9647,7 @@
       "nom": "Dr. Stone: Science Future",
       "id": 37873,
       "mal_id": 62568,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -9662,6 +9662,13 @@
           "nom": "ROCKET",
           "artiste": "BURNOUT SYNDROMES",
           "lien": "https://eudist.animemusicquiz.com/5lwbos.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Good Morning World!",
+          "artiste": "BURNOUT SYNDROMES",
+          "lien": "https://eudist.animemusicquiz.com/h44ldz.webm"
         }
       ],
       "genres": [
@@ -34384,7 +34391,7 @@
       "nom": "Overlord II",
       "id": 20397,
       "mal_id": 35073,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -34399,6 +34406,13 @@
           "nom": "HYDRA",
           "artiste": "MYTH & ROID",
           "lien": "https://eudist.animemusicquiz.com/ri49y6.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shikkoku no Eiyuu vs Dai Akuma",
+          "artiste": "Ainz Ooal Gown Gasshou-dan",
+          "lien": "https://eudist.animemusicquiz.com/qolpu1ghfvwwainr.webm"
         }
       ],
       "genres": [
@@ -44546,7 +44560,7 @@
       "nom": "Tensei shitara Slime Datta Ken Dai 4 Ki",
       "id": 33626,
       "mal_id": 59970,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -44561,6 +44575,13 @@
           "nom": "Katsubou",
           "artiste": "CiON",
           "lien": "https://eudist.animemusicquiz.com/0haj3l.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Walk on your way",
+          "artiste": "Eir Aoi",
+          "lien": "https://eudist.animemusicquiz.com/uvboxm.webm"
         }
       ],
       "genres": [

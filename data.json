@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1147,
-  "nb_musique": 5349,
+  "nb_anime": 1148,
+  "nb_musique": 5354,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -34207,6 +34207,52 @@
           "nom": "Kimi ni Todoke",
           "artiste": "Manaka Iwami",
           "lien": "https://eudist.animemusicquiz.com/6rgwdj.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
+      "id": 30219,
+      "mal_id": 56876,
+      "nb_musique": 5,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kimi wa Koibito",
+          "artiste": "Masayoshi Oishi",
+          "lien": "https://eudist.animemusicquiz.com/jzsi5h.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Ureshii! Tanoshii! Daisuki!",
+          "artiste": "Manaka Iwami",
+          "lien": "https://eudist.animemusicquiz.com/5gem1s.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Natsumatsuri",
+          "artiste": "Manaka Iwami",
+          "lien": "https://eudist.animemusicquiz.com/9neh9q.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Heavy Rotation",
+          "artiste": "Manaka Iwami & Haruka Shiraishi feat. Taito Ban, Taku Yashiro, Kensho Ono",
+          "lien": "https://eudist.animemusicquiz.com/zas4ed.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Asu e no Tobira",
+          "artiste": "Manaka Iwami",
+          "lien": "https://eudist.animemusicquiz.com/91udql.webm"
         }
       ],
       "genres": [

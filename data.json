@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1148,
-  "nb_musique": 5354,
+  "nb_anime": 1149,
+  "nb_musique": 5362,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -13630,6 +13630,45 @@
           "nom": "SPARKLES",
           "artiste": "STEREO DIVE FOUNDATION",
           "lien": "https://eudist.animemusicquiz.com/woozz9.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Gekijouban Tensei shitara Slime Datta Ken: Soukai no Namida-hen",
+      "id": 34556,
+      "mal_id": 59971,
+      "nb_musique": 4,
+      "musique": [
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Utopia",
+          "artiste": "TRUE",
+          "lien": "https://eudist.animemusicquiz.com/ipz38l.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Harmonics",
+          "artiste": "STEREO DIVE FOUNDATION, ASH",
+          "lien": "https://eudist.animemusicquiz.com/uoo4sv.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Renai No",
+          "artiste": "ARCANA PROJECT",
+          "lien": "https://eudist.animemusicquiz.com/odnlgz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Soukoku",
+          "artiste": "Saori Onishi",
+          "lien": "https://eudist.animemusicquiz.com/w8fpsj.webm"
         }
       ],
       "genres": [
@@ -25342,7 +25381,7 @@
       "nom": "Kurokami The Animation",
       "id": 10262,
       "mal_id": 5079,
-      "nb_musique": 8,
+      "nb_musique": 12,
       "musique": [
         {
           "type": "Opening",
@@ -25375,6 +25414,13 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Brand New World",
+          "artiste": "Maki Itou",
+          "lien": "https://eudist.animemusicquiz.com/z1mxi25j4hrfaadt.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "Destrudo",
           "artiste": "Yousei Teikoku",
           "lien": "https://eudist.animemusicquiz.com/r8chhd.webm"
@@ -25389,6 +25435,13 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "Isshin Furan",
+          "artiste": "Rey",
+          "lien": "https://eudist.animemusicquiz.com/fs1oqvixgzxde6t8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "It Is Time Now!",
           "artiste": "Maki Itou",
           "lien": "https://eudist.animemusicquiz.com/ubv9xv.webm"
@@ -25396,9 +25449,23 @@
         {
           "type": "Insert Song",
           "numero": 0,
+          "nom": "LETS SYNCHRONIZE AND DO SOME DAMAGE",
+          "artiste": "Maki Itou & Stuart-O",
+          "lien": "https://eudist.animemusicquiz.com/dr01ytui164k1bkz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
           "nom": "LOVE IS -Seasons of fights-",
           "artiste": "Maki Itou",
           "lien": "https://eudist.animemusicquiz.com/3n86b1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Synchronize",
+          "artiste": "Maki Itou & Stuart-O",
+          "lien": "https://eudist.animemusicquiz.com/vu0yawbqa9psayvt.webm"
         }
       ],
       "genres": [

@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1149,
-  "nb_musique": 5362,
+  "nb_anime": 1154,
+  "nb_musique": 5373,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -3715,6 +3715,31 @@
       ],
       "genres": [
           1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Black Torch",
+      "id": 35029,
+      "mal_id": 61169,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "FREEZE ME UP",
+          "artiste": "SiM",
+          "lien": "https://eudist.animemusicquiz.com/w7zlfg.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Groooovy",
+          "artiste": "I Don't Like Mondays.",
+          "lien": "https://eudist.animemusicquiz.com/tfq1de.webm"
+        }
+      ],
+      "genres": [
+          1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0
       ]
     },
     {
@@ -24726,6 +24751,31 @@
       ]
     },
     {
+      "nom": "Koori no Jouheki",
+      "id": 34506,
+      "mal_id": 60852,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Toumei",
+          "artiste": "Novelbright",
+          "lien": "https://eudist.animemusicquiz.com/n43zsi.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sakasama",
+          "artiste": "Polkadot Stingray",
+          "lien": "https://eudist.animemusicquiz.com/ln6hj2.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Koro-sensei Quest!",
       "id": 18899,
       "mal_id": 34389,
@@ -31613,6 +31663,31 @@
       ]
     },
     {
+      "nom": "Neko to Ryuu",
+      "id": 34782,
+      "mal_id": 61048,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Nekojitsu",
+          "artiste": "suis from Yorushika",
+          "lien": "https://eudist.animemusicquiz.com/6r4dgo.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Tadaima no Basho",
+          "artiste": "shallm",
+          "lien": "https://eudist.animemusicquiz.com/awzyju.webm"
+        }
+      ],
+      "genres": [
+          0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Nekomonogatari (Kuro)",
       "id": 14954,
       "mal_id": 15689,
@@ -34239,6 +34314,24 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Otome Kaijuu Caraméliser",
+      "id": 38166,
+      "mal_id": 63150,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Spree in the Blood",
+          "artiste": "SPREE KILLER",
+          "lien": "https://eudist.animemusicquiz.com/uuzetd.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -37175,6 +37268,31 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Reiwa no Dara-san",
+      "id": 38122,
+      "mal_id": 63082,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Daradara♡Dancing",
+          "artiste": "Mutsumi Tamura, Minami Tsuda, Momoka Terasawa feat. Masaki Terasoma",
+          "lien": "https://eudist.animemusicquiz.com/ob500g.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hinata Bokko",
+          "artiste": "REIRIE",
+          "lien": "https://eudist.animemusicquiz.com/58x32l.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
       ]
     },
     {
@@ -44673,7 +44791,7 @@
       "nom": "Tensei shitara Slime Datta Ken Dai 4 Ki",
       "id": 33626,
       "mal_id": 59970,
-      "nb_musique": 3,
+      "nb_musique": 5,
       "musique": [
         {
           "type": "Opening",
@@ -44681,6 +44799,13 @@
           "nom": "Esoragoto",
           "artiste": "Eir Aoi",
           "lien": "https://eudist.animemusicquiz.com/9uhjlg.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "TACTIC",
+          "artiste": "Daoko",
+          "lien": "https://eudist.animemusicquiz.com/g23smf.webm"
         },
         {
           "type": "Ending",
@@ -44695,6 +44820,13 @@
           "nom": "Walk on your way",
           "artiste": "Eir Aoi",
           "lien": "https://eudist.animemusicquiz.com/uvboxm.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 3,
+          "nom": "Hymnal",
+          "artiste": "Azusa Tadokoro",
+          "lien": "https://eudist.animemusicquiz.com/q0m23m.webm"
         }
       ],
       "genres": [

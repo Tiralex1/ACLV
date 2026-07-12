@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1155,
-  "nb_musique": 5375,
+  "nb_anime": 1159,
+  "nb_musique": 5383,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -18471,6 +18471,31 @@
       ]
     },
     {
+      "nom": "Isekai Nonbiri Nouka 2",
+      "id": 37606,
+      "mal_id": 62146,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "It's a beautiful story",
+          "artiste": "Shino Shimoji & Aya Suzaki",
+          "lien": "https://eudist.animemusicquiz.com/0scwc2.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Sunny Steps",
+          "artiste": "Hizuki Yui",
+          "lien": "https://eudist.animemusicquiz.com/nu2o4u.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Isekai Ojisan",
       "id": 24466,
       "mal_id": 49220,
@@ -22389,6 +22414,31 @@
       ]
     },
     {
+      "nom": "Katainaka no Ossan, Kensei ni Naru II",
+      "id": 36693,
+      "mal_id": 61897,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Kurenai no Ha",
+          "artiste": "UNICORN",
+          "lien": "https://eudist.animemusicquiz.com/xwpdey.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Mikansei",
+          "artiste": "BLUE ENCOUNT",
+          "lien": "https://eudist.animemusicquiz.com/htzrmt.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Katsute Kami Datta Kemono-tachi e",
       "id": 21778,
       "mal_id": 39199,
@@ -24855,6 +24905,31 @@
       ],
       "genres": [
           0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Koukaku Kidoutai: The Ghost in the Shell",
+      "id": 32762,
+      "mal_id": 58929,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "GO GHOST",
+          "artiste": "King Gnu",
+          "lien": "https://eudist.animemusicquiz.com/lmkrrd.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Blue",
+          "artiste": "MILLENNIUM PARADE",
+          "lien": "https://eudist.animemusicquiz.com/r70e3r.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0
       ]
     },
     {
@@ -46238,6 +46313,31 @@
       ],
       "genres": [
           1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi o Shita.",
+      "id": 38002,
+      "mal_id": 62936,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Hitohira",
+          "artiste": "Motohiro Hata",
+          "lien": "https://eudist.animemusicquiz.com/n5bwrf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Hikari",
+          "artiste": "Yui Sakurai",
+          "lien": "https://eudist.animemusicquiz.com/a32sx1.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {

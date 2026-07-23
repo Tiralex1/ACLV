@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1162,
-  "nb_musique": 5399,
+  "nb_anime": 1165,
+  "nb_musique": 5411,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
@@ -9686,7 +9686,7 @@
       "nom": "Dr. Stone: Science Future",
       "id": 37873,
       "mal_id": 62568,
-      "nb_musique": 3,
+      "nb_musique": 8,
       "musique": [
         {
           "type": "Opening",
@@ -9708,6 +9708,41 @@
           "nom": "Good Morning World!",
           "artiste": "BURNOUT SYNDROMES",
           "lien": "https://eudist.animemusicquiz.com/h44ldz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "A New Destination",
+          "artiste": "Aztech from Hybrid Thoughts",
+          "lien": "https://eudist.animemusicquiz.com/dppeq9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "It's all yours",
+          "artiste": "Debo Ray & Paranom",
+          "lien": "https://eudist.animemusicquiz.com/wn6rw1.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "One Small Step EP24 Mix",
+          "artiste": "Laura Pitt-Pulford",
+          "lien": "https://eudist.animemusicquiz.com/haf7jc.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "The Joy of Science",
+          "artiste": "Aztech from Hybrid Thoughts",
+          "lien": "https://eudist.animemusicquiz.com/6bxca4.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "The Source of All Mysteries",
+          "artiste": "Aztech from Hybrid Thoughts",
+          "lien": "https://eudist.animemusicquiz.com/cmvje8.webm"
         }
       ],
       "genres": [
@@ -23538,6 +23573,31 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ]
+    },
+    {
+      "nom": "Kimi ga Shinu made Koi o Shitai",
+      "id": 34913,
+      "mal_id": 61126,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Amore",
+          "artiste": "ReoNa",
+          "lien": "https://eudist.animemusicquiz.com/0frtb3.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Éternel",
+          "artiste": "sajou no hana",
+          "lien": "https://eudist.animemusicquiz.com/8n0vny.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
       ]
     },
     {
@@ -43918,6 +43978,38 @@
       ]
     },
     {
+      "nom": "Tai-Ari Deshita.: Ojou-sama wa Kakutou Game Nante Shinai",
+      "id": 34922,
+      "mal_id": 46488,
+      "nb_musique": 3,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Inochi Mijikashi Tai Suru Otome yo",
+          "artiste": "HANABIE.",
+          "lien": "https://eudist.animemusicquiz.com/la0dn1.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "NEW GAME",
+          "artiste": "halca",
+          "lien": "https://eudist.animemusicquiz.com/5lzexd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Reinvent the Game - Variation C",
+          "artiste": "Randy Marx",
+          "lien": "https://eudist.animemusicquiz.com/tux59p.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
       "nom": "Taifuu no Noruda",
       "id": 16989,
       "mal_id": 30585,
@@ -49572,6 +49664,31 @@
           "nom": "Youjo Senki -Saga of Tanya the Evil-",
           "artiste": "Remi, Miki Masuda, Makai Kinoshita, Sho Amano, Tetsuya Murabayashi, Hiroaki Otsuka",
           "lien": "https://eudist.animemusicquiz.com/w1g43an0s8bu7i35.webm"
+        }
+      ],
+      "genres": [
+          1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Youjo Senki II",
+      "id": 24470,
+      "mal_id": 49233,
+      "nb_musique": 2,
+      "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Why? RED induction",
+          "artiste": "MYTH & ROID",
+          "lien": "https://eudist.animemusicquiz.com/49wemf.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 1,
+          "nom": "Weiter! Weiter!",
+          "artiste": "Aoi Yuki",
+          "lien": "https://eudist.animemusicquiz.com/h1t8k3.webm"
         }
       ],
       "genres": [

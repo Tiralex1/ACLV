@@ -1,6 +1,6 @@
 {
   "nb_anime": 1165,
-  "nb_musique": 5411,
+  "nb_musique": 5418,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -31790,7 +31790,7 @@
       "nom": "Needy Girl Overdose",
       "id": 37986,
       "mal_id": 62913,
-      "nb_musique": 5,
+      "nb_musique": 12,
       "musique": [
         {
           "type": "Opening",
@@ -31821,11 +31821,60 @@
           "lien": "https://eudist.animemusicquiz.com/cu4zq83fvdq594dz.webm"
         },
         {
+          "type": "Ending",
+          "numero": 4,
+          "nom": "Galge",
+          "artiste": "Aiobahn +81 feat. KOTOKO",
+          "lien": "https://eudist.animemusicquiz.com/rir73q.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Bara no Saku Tekubi",
+          "artiste": "Satsuki Shiina",
+          "lien": "https://eudist.animemusicquiz.com/qsiuw3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "EZ DO DANCE",
+          "artiste": "TRF",
+          "lien": "https://eudist.animemusicquiz.com/0qe038.webm"
+        },
+        {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Gekkouchou (Anime version)",
           "artiste": "Aiobahn +81 feat. Sally Amaki",
           "lien": "https://eudist.animemusicquiz.com/p8hoclnlums8kybp.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hoshi Meguri no Uta",
+          "artiste": "Sally Amaki & Rina Kawaguchi",
+          "lien": "https://eudist.animemusicquiz.com/xt4tkn.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "INTERNET YAMERO (Anime version)",
+          "artiste": "Aiobahn +81 feat. Sally Amaki",
+          "lien": "https://eudist.animemusicquiz.com/1krid3.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kyouizon Morphine",
+          "artiste": "Seena Hoshiki",
+          "lien": "https://eudist.animemusicquiz.com/w5lot9.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Silver 30",
+          "artiste": "Karamazov",
+          "lien": "https://eudist.animemusicquiz.com/gyejbp.webm"
         }
       ],
       "genres": [

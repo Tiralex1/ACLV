@@ -1,6 +1,6 @@
 {
-  "nb_anime": 1166,
-  "nb_musique": 5421,
+  "nb_anime": 1167,
+  "nb_musique": 5433,
   "anime": [
     {
       "nom": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -3450,14 +3450,14 @@
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
+          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
         },
         {
           "type": "Insert Song",
           "numero": 0,
           "nom": "Crisis Point",
           "artiste": "Our Special Choir",
-          "lien": "https://eudist.animemusicquiz.com/bsjdub.webm"
+          "lien": "https://eudist.animemusicquiz.com/4th8rksfztff1om8.webm"
         },
         {
           "type": "Insert Song",
@@ -4795,6 +4795,24 @@
       ],
       "genres": [
           1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "nom": "Boku no Hero Academia",
+      "id": 39364,
+      "mal_id": 64107,
+      "nb_musique": 1,
+      "musique": [
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hero too -10th Anniversary ver.-",
+          "artiste": "Myka Morton",
+          "lien": "https://eudist.animemusicquiz.com/ubscam.webm"
+        }
+      ],
+      "genres": [
+          0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
       ]
     },
     {
@@ -23611,7 +23629,7 @@
       "nom": "Kimi ga Shinu made Koi o Shitai",
       "id": 34913,
       "mal_id": 61126,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -23626,6 +23644,13 @@
           "nom": "Éternel",
           "artiste": "sajou no hana",
           "lien": "https://eudist.animemusicquiz.com/8n0vny.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Statice",
+          "artiste": "Asami Seto & Yui Ishikawa",
+          "lien": "https://eudist.animemusicquiz.com/x6etgd.webm"
         }
       ],
       "genres": [
@@ -23750,7 +23775,7 @@
       "nom": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
       "id": 37923,
       "mal_id": 62811,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -23765,6 +23790,20 @@
           "nom": "Kitare Koi Itare Ai",
           "artiste": "Rentarou Family",
           "lien": "https://eudist.animemusicquiz.com/74c0gz.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "HAKOBUNE ~100-nin Notte mo Daijoubu~",
+          "artiste": "Rentarou Family",
+          "lien": "https://eudist.animemusicquiz.com/p0fbvy.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Kyunchi♡!",
+          "artiste": "Rentarou Family",
+          "lien": "https://eudist.animemusicquiz.com/wvmcjd.webm"
         }
       ],
       "genres": [
@@ -30303,14 +30342,35 @@
       "nom": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "id": 32859,
       "mal_id": 59193,
-      "nb_musique": 1,
+      "nb_musique": 4,
       "musique": [
+        {
+          "type": "Opening",
+          "numero": 1,
+          "nom": "Ketsui no Uta",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://eudist.animemusicquiz.com/9u1kac3dtkyah4c3.webm"
+        },
+        {
+          "type": "Opening",
+          "numero": 2,
+          "nom": "Mebuki no Uta",
+          "artiste": "Yuiko Ohara",
+          "lien": "https://eudist.animemusicquiz.com/f7nsc14yp6dkbb91.webm"
+        },
         {
           "type": "Ending",
           "numero": 1,
           "nom": "Inori, Owareba",
           "artiste": "Mika Nakashima",
           "lien": "https://eudist.animemusicquiz.com/9hol5w.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hikari",
+          "artiste": "Kokona Anbo",
+          "lien": "https://eudist.animemusicquiz.com/7usxs98y4ay0q5ly.webm"
         }
       ],
       "genres": [
@@ -32545,7 +32605,7 @@
       "nom": "Nijusseiki Denki Mokuroku: Eureka Evrika",
       "id": 37941,
       "mal_id": 62856,
-      "nb_musique": 2,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -32560,6 +32620,20 @@
           "nom": "Soarin'",
           "artiste": "Ginger Root",
           "lien": "https://eudist.animemusicquiz.com/pgrqyw.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Ukiyobanare",
+          "artiste": "Meiji Ishin Denki Shoujo Gakudan",
+          "lien": "https://eudist.animemusicquiz.com/rnn9s8.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Shintendouchi Dai Music",
+          "artiste": "Meiji Ishin Denki Shoujo Gakudan",
+          "lien": "https://eudist.animemusicquiz.com/px1nzf.webm"
         }
       ],
       "genres": [
@@ -37614,7 +37688,7 @@
       "nom": "Reiwa no Dara-san",
       "id": 38122,
       "mal_id": 63082,
-      "nb_musique": 2,
+      "nb_musique": 3,
       "musique": [
         {
           "type": "Opening",
@@ -37629,6 +37703,13 @@
           "nom": "Hinata Bokko",
           "artiste": "REIRIE",
           "lien": "https://eudist.animemusicquiz.com/58x32l.webm"
+        },
+        {
+          "type": "Ending",
+          "numero": 2,
+          "nom": "Gan・Baruzee no Theme",
+          "artiste": "Masaaki Endoh",
+          "lien": "https://eudist.animemusicquiz.com/k1gsho.webm"
         }
       ],
       "genres": [
@@ -44062,7 +44143,7 @@
       "nom": "Tai-Ari Deshita.: Ojou-sama wa Kakutou Game Nante Shinai",
       "id": 34922,
       "mal_id": 46488,
-      "nb_musique": 3,
+      "nb_musique": 4,
       "musique": [
         {
           "type": "Opening",
@@ -44077,6 +44158,13 @@
           "nom": "NEW GAME",
           "artiste": "halca",
           "lien": "https://eudist.animemusicquiz.com/5lzexd.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Reinvent the Game - Variation A",
+          "artiste": "Randy Marx",
+          "lien": "https://eudist.animemusicquiz.com/hpx8o2.webm"
         },
         {
           "type": "Insert Song",
@@ -45209,7 +45297,7 @@
       "nom": "Tensei shitara Slime Datta Ken Dai 4 Ki",
       "id": 33626,
       "mal_id": 59970,
-      "nb_musique": 5,
+      "nb_musique": 6,
       "musique": [
         {
           "type": "Opening",
@@ -45245,6 +45333,13 @@
           "nom": "Hymnal",
           "artiste": "Azusa Tadokoro",
           "lien": "https://eudist.animemusicquiz.com/q0m23m.webm"
+        },
+        {
+          "type": "Insert Song",
+          "numero": 0,
+          "nom": "Hiai",
+          "artiste": "Sachiko Watabe",
+          "lien": "https://eudist.animemusicquiz.com/hbl67h.webm"
         }
       ],
       "genres": [
